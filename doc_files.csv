@@ -1,0 +1,22 @@
+doc_id,doc_title,file_title,pdf_title
+MK.OA.01,"Proses Perolehan, Pemantauan dan Penyampaian Perkhidmatan Projek Integrasi Sistem",Manual_Kualiti.Rmd,Manual_Kualiti_title.pdf
+PK(W).OA.01,Prosedur Kawalan Dokumen Kualiti,PKW_01_Kawalan_Dokumen.Rmd,PKW_01_Kawalan_Dokumen_title.pdf
+PK(W).OA.02,Prosedur Pengurusan Rekod Kualiti,PKW_02_Rekod_Kualiti.Rmd,PKW_02_Rekod_Kualiti_title.pdf
+PK(W).OA.03,Prosedur Audit Dalaman,PKW_03_Audit_Dalam.Rmd,PKW_03_Audit_Dalam_title.pdf
+PK(W).OA.04,Prosedur Tindakan Pembetulan,PKW_04_Tindakan_Pembetulan.Rmd,PKW_04_Tindakan_Pembetulan_title.pdf
+PK(W).OA.05,Prosedur Tindakan Pencegahan,PKW_05_Tindakan_Pencegahan.Rmd,PKW_05_Tindakan_Pencegahan_title.pdf
+PK(W).OA.06,Prosedur Kawalan Penghasilan Output Tak Akur,PKW_06_Kawalan_Output_Tak_Akur.Rmd,PKW_06_Kawalan_Output_Tak_Akur_title.pdf
+PK(S).OA.01,"Prosedur Pengendalian Aduan, Maklumbalas Pelanggan dan Penghargaan Serta Peti Aduan/Cadangan",PKS_01_Pengendalian_Aduan_Pelanggan.Rmd,PKS_01_Pengendalian_Aduan_Pelanggan_title.pdf
+PK(S).OA.02,Prosedur Mesyuarat Kajian Semula Pengurusan,PKS_02_Kajian_Semula_Pengurusan.Rmd,PKS_02_Kajian_Semula_Pengurusan_title.pdf
+PK(S).OA.03,Prosedur Perolehan dan Pembayaran kepada Pembekal,PKS_03_Perolehan.Rmd,PKS_03_Perolehan_title.pdf
+PK(S).OA.04,Prosedur Pengendalian Latihan,PKS_04_Pengendalian_Latihan.Rmd,PKS_04_Pengendalian_Latihan_title.pdf
+PK(S).OA.05,Prosedur Penyediaan Bajet,PKS_05_Bajet.Rmd,PKS_05_Bajet_title.pdf
+PK(S).OA.06,Prosedur Penyenggaraan Teknologi Maklumat dan Komunikasi (ICT),PKS_06_Teknologi_Maklumat.Rmd,PKS_06_Teknologi_Maklumat_title.pdf
+PK(S).OA.07,Prosedur Pengurusan Aset dan Utiliti,PKS_07_Utiliti.Rmd,PKS_07_Utiliti_title.pdf
+PK(S).OA.08,"Prosedur Pelaksanaan Integriti, Akauntabiliti dan Anti-Rasuah",PKS_08_Pelaksanaan_Integriti_Akauntabiliti_AntiRasuah.Rmd,PKS_08_Pelaksanaan_Integriti_Akauntabiliti_AntiRasuah_title.pdf
+PK(O).OA.01,"Prosedur Penyediaan Sebut Harga, Pengurusan Tender dan Rundingan Kontrak Projek Integrasi Sistem",PKO_01_Sebut_harga_tender_kontrak.Rmd,PKO_01_Sebut_harga_tender_kontrak_title.pdf
+PK(O).OA.02,"Prosedur Pengurusan, Pemantauan dan Penyerahan Perkhidmatan Projek Integrasi Sistem",PKO_02_Pemantauan_Penyerahan_Perkhidmatan_Integrasi_Sistem.Rmd,PKO_02_Pemantauan_Penyerahan_Perkhidmatan_Integrasi_Sistem_title.pdf
+BSC.OA.01,Balanced scorecard,Balanced_Scorecard.Rmd,Balanced_Scorecard_title.pdf
+RAM.OA.01,Pengurusan Penaksiran Risiko (RAM),Pengurusan_Penaksiran_Risiko.Rmd,Pengurusan_Penaksiran_Risiko_title.pdf
+PP.OA.01,Piagam Pelanggan,Piagam_Pelanggan.Rmd,Piagam_Pelanggan_title.pdf
+

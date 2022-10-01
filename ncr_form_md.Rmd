@@ -1,0 +1,35 @@
+| OpenApps Sdn Bhd (548151-W)  [PK(W).OA.03.B01]                  | Laporan Ketakakuran        |
+|-----------------------------------------------------------------|----------------------------|
+|                                                                 | Bil:                       |
+| Bahagian/ Unit Yang Diaudit: `r ncr$dept[i]`                    | No. Rujukan:               |
+| Tajuk Prosedur/ Dokumen: `r ncr$doc_proc[i]`                    | Tindakan Prosedur/Dokumen: |
+| Auditee : `r ncr$auditee[i]`                                    | Tarikh Audit:              |
+| Auditor : `r ncr$auditor[i]`                                    |                            |
+| 1.  Ketakakuran.                                                |                            |
+| `r ncr$ncr[i]`                                                  |                            |
+| Pemerhatian Huraian:                                            |                            |
+| `r ncr$ncr_desc[i]`                                             |                            |
+|                                                                 |                            |
+| 2.  Punca Ketakakuran. `r ncr$ncr_src[i]`                       |                            |
+| 3.  Penemuan:                                                   |                            |
+| `r ncr$ncr_src_desc[i]`                                         |                            |
+|                                                                 |                            |
+| T/Tangan Auditor:                                               |                            |
+|                                                                 |                            |
+| T/Tangan Auditee:                                               |                            |
+| 4.  Nota penambahbaikan:                                        |                            |
+| `r ncr$corr_note[i]`                                            |                            |
+| T/Tangan Auditor:                                               |                            |
+|                                                                 |                            |
+| T/Tangan Auditee:                                               |                            |
+| 5.  Tindakan Pembetulan dan                                     |                            |
+| `r ncr$corr_note[i]`                                            |                            |
+|                                                                 |                            |
+| Tarikh untuk menyelesaikan ketakakuran:                         |                            |
+| T/Tangan Auditor:                                               |                            |
+|                                                                 |                            |
+| T/Tangan Auditee:                                               |                            |
+| 6.  Verifikasi (Untuk diisi oleh Auditor  semasa audit susulan: |                            |
+| `r ncr$corr_note[i]`                                            |                            |
+| Tindakan Pembetulan:      Selesai/Tidak?                        |                            |
+| T/Tangan Auditor:                                               |                            |

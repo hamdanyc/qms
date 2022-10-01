@@ -1,0 +1,59 @@
+---
+title: |
+  ![](chart/openapps-logo.png){width=30%}  
+  Bridging the gap between \textcolor{blue}{PEOPLE}, \textcolor{blue}{BUSINESS} and \textcolor{blue}{TECHNOLOGY}
+  
+  MS ISO 9001:2015 Sistem Pengurusan Kualiti  
+  OpenApps Sdn Bhd (548151-W)
+author: 
+output: 
+    pdf_document:
+      includes:
+        in_header: preamb.tex
+        before_body: title.sty
+        after_body: tail.sty
+      keep_tex: yes
+      number_sections: yes
+      # toc: yes
+      toc_depth: 2
+toc-title: Jadual Kandungan
+params:
+  doc_id: PK(W).OA.01
+  doc_title: title
+  doc_date: ""
+---
+
+
+\newpage
+\fancyhead[L]{\textbf{MS ISO 9001:2015\\OpenApps Sdn Bhd (548151-W)\\`r params$doc_id`}}
+
+|Prosedur Kualiti &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|`r params$doc_id`|
+|:------------------|-------:|
+
+|                                   |
+|:---------------------------------:|
+|**`r toupper(params$doc_title)`**|
+
+# I    Penyedia dan Kelulusan
+
+|Nama &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |Tarikh |
+|-------------------------------|--------------|
+|                               |              |
+| **Disediakan Oleh**:          |`r params$doc_date`|
+|                               |              |
+|                               |              |
+|_____________________          |              |
+| **`r substr(a_list$pemilik_dok[14],1,40)`**| |
+|**`r substr(a_list$pemilik_dok[14],41,60)`**| |
+| **Wakil Pengurusan**          |              |
+|                               |              |
+| **Diluluskan Oleh**:          |`r params$doc_date`|
+|                               |              |
+|                               |              |
+|_____________________          |              |
+| **`r a_list$pemilik_dok[15]`**|              |
+| **CEO**                       |              |
+|                               |              |
+| **No Salinan Terkawal**:      |              |
+|                               |              |
+| `r params$doc_id`( )          |              |

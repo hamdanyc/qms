@@ -1,0 +1,45 @@
+\begin{table}[th]
+\begin{tabular}{p{15cm}}
+\hline
+\centerline{\includegraphics[width=0.15\textwidth, height=60mm]{openapps-logo.png}}
+\hfill{\textbf{[PK(W).OA.03.B01]}}                                        \\[3ex] \hline
+\centerline{\textbf{LAPORAN KETAKAKURAN}}                                 \\ \hline
+Bil / Tahun: `r ncr$Bil.Tahun[i]` \hspace{1cm}  Tarikh: `r ncr$Tarikh[i]` \\
+Bahagian/ Unit Yang Diaudit: `r ncr$Jabatan[i]`                           \\
+Tajuk Prosedur/ Dokumen:  `r ncr$Prosedur.Dokumen[i]`                     \\
+Auditee : `r ncr$Auditee[i]`                                              \\
+Auditor : `r ncr$Auditor[i]`                                              \\ \hline
+1.  Ketakakuran. `r ncr$Ketakakuran[i]` Klausa: `r ncr$Klausa[i]`         \\ \hline
+Pemerhatian Huraian:                                                      \\
+`r ncr$Pemerhatian[i]`                                                    \\[3ex]
+                                                                          \\ \hline
+2.  Punca Ketakakuran. `r ncr$Punca[i]`                                   \\ \hline
+3.  Penemuan:                                                             \\ 
+`r ncr$Penemuan[i]`                                                       \\[3ex]
+                                                                          \\
+T/Tangan Auditor:                                                         \\
+                                                                          \\
+T/Tangan Auditee:                                                         \\ \hline
+4.  Nota Penambahbaikan:                                                  \\
+`r ncr$Nota[i]`                                                           \\[3ex]
+T/Tangan Auditor:                                                         \\
+                                                                          \\
+T/Tangan Auditee:                                                         \\ \hline
+5.  Tindakan Pembetulan:                                                  \\
+`r ncr$Tindakan.Pembetulan[i]`                                            \\[3ex]
+                                                                          \\
+Tarikh untuk menyelesaikan ketakakuran:                                   \\
+`r ncr$Tarikh.Pembetulan[i]`                                              \\
+T/Tangan Auditor:                                                         \\
+                                                                          \\
+                                                                          \\
+T/Tangan Auditee:                                                         \\ \hline
+6.  Verifikasi (Untuk diisi oleh Auditor semasa audit susulan):           \\
+`r ncr$Verifikasi[i]`                                                     \\[3ex]
+                                                                          \\
+                                                                          \\
+`r ncr$Tarikh.Verifikasi[i]`                                   \\                                                                
+Tindakan Pembetulan:      Selesai/Tidak?                                  \\
+T/Tangan Auditor:                                                         \\ \hline
+\end{tabular}
+\end{table}

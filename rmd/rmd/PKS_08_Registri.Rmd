@@ -1,0 +1,1163 @@
+---
+title: "MS ISO 9001:2015 Sistem Pengurusan Kualiti"
+author: "OpenApps Sdn Bhd (548151-W)"
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: '4'
+  html_document:
+    toc: yes
+    toc_depth: 4
+params:
+  doc_id: PK(W).OA.01
+  doc_title: "title"
+  
+---
+
+```{r init, include=FALSE}
+library(readr)
+a_list <- read_csv("~/R/qms/a_list.csv")
+```
+
+\newpage
+
+|Prosedur Kualiti &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|`r params$doc_id`|
+|:------------------|-------:|
+
+![](~/R/qms/media/openapps-logo.png){width=30%}
+
+| **Bridging the gap** between **PEOPLE**, **BUSINESS** and **TECHNOLOGY**
+
+|                                   |
+|:---------------------------------:|
+|**`r toupper(params$doc_title)`**|
+
+# I    Penyedia dan Kelulusan
+
+|Nama &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |Tarikh |
+|-------------------------------|--------------|
+|                               |              |
+| **Disediakan Oleh**:          | **Feb 2021** |
+|                               |              |
+|                               |              |
+|_____________________          |              |
+| **`r substr(a_list$pemilik_dok[14],1,40)`**| |
+| `r substr(a_list$pemilik_dok[14],41,60)`   | |
+| **Wakil Pengurusan**          |              |
+|                               |              |
+| **Diluluskan Oleh**:          | **Feb 2021** |
+|                               |              |
+|                               |              |
+|_____________________          |              |
+| **`r a_list$pemilik_dok[15]`**|              |
+| **CEO**                       |              |
+|                               |              |
+| **No Salinan Terkawal**:      |              |
+|                               |              |
+| `r params$doc_id`( )          |              |
+
+\newpage
+
+# II    Rekod Pindaan
+
+|Tarikh Pindaan|No Pindaan/No Keluaran|Rujukan Pindaan Mukasurat |Butir-butir Pindaan|Diluluskan Oleh|
+|-------------|-------------|-------------|-------------|-------------|
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+
+# III   Senarai Pemegang Dokumen
+
+| No. Salinan Terkawal   | Pemegang Dokumen              |
+|------------------------|-------------------------------|
+| `r params$doc_id`(01)  | `r a_list$pemilik_dok[1]`     |
+|                        |                               |
+| `r params$doc_id`(02)  | `r a_list$pemilik_dok[2]`     |
+|                        |                               |
+| `r params$doc_id`(03)  | `r a_list$pemilik_dok[3]`     |
+|                        |                               |
+| `r params$doc_id`(04)  | `r a_list$pemilik_dok[4]`     |
+|                        |                               |
+| `r params$doc_id`(05)  | `r a_list$pemilik_dok[5]`     |
+|                        |                               |
+| `r params$doc_id`(06)  | `r a_list$pemilik_dok[6]`     |
+|                        |                               |
+| `r params$doc_id`(07)  | `r a_list$pemilik_dok[7]`     |
+|                        |                               |
+| `r params$doc_id`(08)  | `r a_list$pemilik_dok[8]`     |
+|                        |                               |
+| `r params$doc_id`(09)  | `r a_list$pemilik_dok[9]`     |
+|                        |                               |
+| `r params$doc_id`(10)  | `r a_list$pemilik_dok[10]`    |
+|                        |                               |
+| `r params$doc_id`(11)  | `r a_list$pemilik_dok[11]`    |
+|                        |                               |
+| `r params$doc_id`(12)  | `r a_list$pemilik_dok[12]`    |
+|                        |                               |
+| `r params$doc_id`(13)  | `r a_list$pemilik_dok[13]`    |
+
+\newpage
+
+| PK (S).JRP.06.(02) | Wakil Pengurusan          |
++--------------------+---------------------------+
+| PK (S).JRP.06.(03) | PS 1 Pengurusan           |
++--------------------+---------------------------+
+| PK (S).JRP.06.(04) | PS 2 Tadbir/Kor           |
++--------------------+---------------------------+
+| PK (S).JRP.06.(05) | PS 2 ICT                  |
++--------------------+---------------------------+
+| PK (S).JRP.06.(06) | PS 2 Koord Operasi        |
++--------------------+---------------------------+
+| PK (S).JRP.06.(07) | PS 2 Operasi              |
++--------------------+---------------------------+
+| PK (S).JRP.06.(08) | PS 2 Inspektorat          |
++--------------------+---------------------------+
+| PK (S).JRP.06.(09) | PS 3 Tadbir               |
++--------------------+---------------------------+
+| PK (S).JRP.06.(10) | Ketua Kerani Awam         |
++--------------------+---------------------------+
+| PK (S).JRP.06.(11) | Pengurus Dokumen          |
++--------------------+---------------------------+
+| PK (S).JRP.06.(12) | Urusetia                  |
++--------------------+---------------------------+
+
+> **1.0 OBJEKTIF**
+>
+> Prosedur ini menggariskan mengenai registri dan langkah-langkah
+> pengurusan rekod untuk memastikan proses pendaftaran fail, pembukaan
+> fail, penutupan fail, penggunaan dan kawalan fail, tindakan fail
+> hilang atau tidak dapat dikesan, pembaikan kecil fail yang rosak,
+> pengendalian fail tidak aktif, pelupusan dan pendaftaran surat supaya
+> prosedur registri dan pengurusan rekod dapat dilaksanakan dengan betul
+> dan sistematik.
+>
+> **2.0 SKOP**
+>
+> Prosedur ini digunapakai oleh Pusat Registri, Cawangan dan Bahagian
+> dalam JRP dalam melaksanakan tugas registri dan pengurusan rekod di
+> JRP.
+>
+> **3.0 RUJUKAN**
+>
+> 3.1 MK.JRP.01.
+>
+> 3.2 Akta Arkib Negara 2003 (Akta 629).
+>
+> 3.3 FAFSI 1961.
+>
+> 3.4 Arahan Keselamatan-Keselamatan Dokumen yang dikeluarkan oleh JPM
+> atau BSPP.
+>
+> 3.5 Jadual Klasifikasi Urusan Am dan Fungsian
+>
+> 3.6 Jadual Pelupusan Rekod Urusan Am Terbitan Arkib
+>
+> 3.7 Jadual Pelupusan Rekod Kewangan dan Perakaunan Terbitan Arkib.
+>
+> **4.0 DEFINISI**
+>
+> 4.1 **Fail Rasmi**. Dokumen rasmi kerajaan yang dikandung, disusun
+> dengan teratur dan didaftarkan. Fail ini diberi tajuk spesifik
+> sepertimana yang telah ditetapkan dalam Klasifikasi Fail.
+>
+> 4.2 **Kertas Minit**. Kertas atau format yang dilampirkan di sebelah
+> kiri fail yang mencatatkan butiran dan maklumat lampiran. Ia boleh
+> digunakan sebagai indeks.
+>
+> 4.3 **Kepada Lampiran**. Yang terkandung di dalam fail. Kertas minit
+> juga digunakan untuk memberi arahan atau maklumbalas ringkas ke atas
+> lampiran yang berkenaan.
+>
+> 4.4 **Sampul Kecil**. Kulit fail yang menepati format Am
+> 435A-Pin.1/82. Kulit fail yang digunakan sebagai fail sementara
+> apabila fail asal tidak dapat dikesan atau apabila lebih daripada
+> seorang pegawai perlu mengambil tindakan segera ke atas fail yang
+> sama.
+>
+> 4.5 **Klasifikasi Fail**. Proses mengenalpasti dan mengumpulkan
+> maklumat secara logikal ke dalam kategori/kumpulan yang sama atau
+> seakan-akan sama, dimana setiap satu kategori/kumpulan rekod itu
+> dikenali dengan identitinya sendiri.
+>
+> 4.6 **Daftar Fail**. Format yang disediakan bagi mendaftar fail rasmi.
+>
+> 4.7 **Kad Keluar Fail/Kad Pergerakan Fail**. Kad kawalan yang
+> merekodkan pergerakan fail di registri.
+>
+> 4.8 **Indeks**. Alat atau kaedah silang rujuk bagi membolehkan sesuatu
+> dokumen dikenalpasti atau dicapai dengan pantas.
+>
+> 4.9 **SDP/BF**. Simpan Dalam Perhatian *"Keep in view'' (KIV),* arahan
+> yang dikeluarkan oleh mana-mana pegawai kepada kakitangan registri
+> untuk menyimpan sementera sesebuah fail dan memajukan kembali fail
+> kepadanya pada tarikh yang ditetapkan, disebut juga sebagai *''bring
+> forward''*(BF).
+>
+> 4.10 **Registri**. Unit atau bahagian khusus disesebuah pejabat yang
+> bertanggungjawab terhadap urusan surat-menyurat dokumen dan fail-fail.
+>
+> 4.11 **Bilik Fail**. Bilik penyimpanan, penyelenggaraan dan dan
+> pengawalan fail-fail (rekod) aktif sahaja.
+>
+> 4.12 **Bilik Rekod**. Bilik atau ruang khusus sebagai tempat simpanan
+> bagi menempatkan rekod-rekod separa aktif dan tidak aktif sementara
+> menunggu rekod-rekod tersebut dikaji dan ditentukan tindakan pelupusan
+> yang perlu diambil ke atasnya.
+>
+> 4.13 **Bilik Fail Keselamatan**. Sebuah bilik yang diperkuatkan untuk
+> menempatkan fail-fail dan dokumen terperingkat jabatan.
+>
+> 4.14 **Bilik Kebal**. Bilik khas yang kukuh binaanya di mana ia tidak
+> mudah untuk dipecahkan atau dirobohkan. Sesebuah Bilik Kebal dibina
+> bertujuan untuk menyimpan rekod atau fail terperingkat yang mempunyai
+> kepentingan kepada negara dan organisasi.
+>
+> 4.15 **Pelupusan**. Cara menguruskan pengasingan rekod dengan tujuan
+> pemusnahan, pemindahan atau selain.
+>
+> 4.16 **Rekod Awam**. Bahan dalam bentuk bertulis atau bentuk lain yang
+> menyatakan fakta atau peristiwa atau selainya merakamkan maklumat dan
+> termasuklah kertas, dokumen, daftar, bahan bercetak, buku, peta,
+> pelan, lukisan, gambar foto, mikrofilem, filem sinematograf, rakaman
+> bunyi, rekod yang dihasilkan secara elektronik tanpa mengira bentuk
+> atau ciri-ciri fizikal dan apa-apa salinannya.
+>
+> 4.17 **Pejabat Awam**.
+>
+> 4.18 **Pegawai Rekod Jabatan (PRJ)**.
+>
+> 4.19 **Pegawai Pengelasan**.
+
+5.  **SINGKATAN**
+
+> JRP - Jabatan Arah Rekod dan Pencen
+>
+> Registri - Pendaftaran
+>
+> KS - Ketua Sel
+>
+> JPR - Jadual Pelupusan Rekod
+>
+> PRJ - Pegawai Rekod Jabatan
+>
+> PTRJ - Pembantu Tadbir Rekod Jabatan
+>
+> ANM - Arkib Negara Malaysia
+
+6.  **TINDAKAN DAN TANGGUNGJAWAB**
+
+    1.  **Penerimaan dan Pendaftaran Surat**
+
++-------------------+-----------------------+-----------------------+
+| **TANGGUNGJAWAB** | ##### **PROSES KE     | **SENARAI SEMAK**     |
+|                   | RJA** {#proses-kerja} |                       |
++===================+=======================+=======================+
+| PRJ/PTRJ          | ##### Te              | Buku Rekod Daftar     |
+|                   | rima surat/dokumen da | Surat Masuk Am 10     |
+|                   | ri Penyelia Kanan Tad |                       |
+|                   | bir. Daftar ke dalam  |                       |
+|                   | Buku Rekod Daftar Sur |                       |
+|                   | at Masuk {#terima-sur |                       |
+|                   | atdokumen-dari-penyel |                       |
+|                   | ia-kanan-tadbir.-daft |                       |
+|                   | ar-ke-dalam-buku-reko |                       |
+|                   | d-daftar-surat-masuk} |                       |
++-------------------+-----------------------+-----------------------+
+| PTRJ              | ##### Buat imb        | Sistem E-Firstsight   |
+|                   | asan digital dan simp |                       |
+|                   | an ke dalam Sistem E- |                       |
+|                   | Firstsight untuk diag |                       |
+|                   | ihkan kepada semua Ke |                       |
+|                   | tua, Peg dan Staf Caw |                       |
+|                   | angan/Bahagian dan Se |                       |
+|                   | l yang berkenaan {#bu |                       |
+|                   | at-imbasan-digital-da |                       |
+|                   | n-simpan-ke-dalam-sis |                       |
+|                   | tem-e-firstsight-untu |                       |
+|                   | k-diagihkan-kepada-se |                       |
+|                   | mua-ketua-peg-dan-sta |                       |
+|                   | f-cawanganbahagian-da |                       |
+|                   | n-sel-yang-berkenaan} |                       |
++-------------------+-----------------------+-----------------------+
+| PTRJ              | ##### Surat/doku      | Jenis Fail dan Kod    |
+|                   | men yang asal berbent | Klasifikasi Fail      |
+|                   | uk fizikal dikandung  | Urusan Am atau        |
+|                   | mengikut kod klasifik | Fungsian              |
+|                   | asi fail dan jenis pe |                       |
+|                   | rjenisan keselamatan  |                       |
+|                   | fail {#suratdokumen-y |                       |
+|                   | ang-asal-berbentuk-fi |                       |
+|                   | zikal-dikandung-mengi |                       |
+|                   | kut-kod-klasifikasi-f |                       |
+|                   | ail-dan-jenis-perjeni |                       |
+|                   | san-keselamatan-fail} |                       |
++-------------------+-----------------------+-----------------------+
+| PTRJ              | ##### Sebelu          | Kertas Minit (Am 6)   |
+|                   | m surat/dokumen dikan |                       |
+|                   | dung ianya perlu dica |                       |
+|                   | tatkan kedalam Kertas |                       |
+|                   |  Minit {#sebelum-sura |                       |
+|                   | tdokumen-dikandung-ia |                       |
+|                   | nya-perlu-dicatatkan- |                       |
+|                   | kedalam-kertas-minit} |                       |
++-------------------+-----------------------+-----------------------+
+| PTRJ              | ##                    | Rak Kabinet Fail      |
+|                   | ### Simpan fail mengi |                       |
+|                   | kut perjenisan kesela |                       |
+|                   | matan. Fail terpering |                       |
+|                   | kat disimpan ditempat |                       |
+|                   |  berkunci dan dikawal |                       |
+|                   |  {#simpan-fail-mengik |                       |
+|                   | ut-perjenisan-keselam |                       |
+|                   | atan.-fail-terperingk |                       |
+|                   | at-disimpan-ditempat- |                       |
+|                   | berkunci-dan-dikawal} |                       |
++-------------------+-----------------------+-----------------------+
+
+> **6.2 Carta Aliran Kerja -- Penerimaan dan Pendaftaran Surat**
+>
+> **61. Pembukaan Fail dan Pendaftaran Fail**
+
++-------------------+-----------------------+-----------------------+
+| **TANGGUNGJAWAB** | ##### **PROSES KERJ   | **SENARAI SEMAK**     |
+|                   | A** {#proses-kerja-1} |                       |
++===================+=======================+=======================+
+| PRJ               | ##### Teliti          | Fail dibuka apabila:  |
+|                   |  kandungan surat/doku |                       |
+|                   | men yang hendak difai | a\. Fail yang         |
+|                   | lkan. Semak klasifika | diperlukan belum ada  |
+|                   | si fail dan kod klasi | lagi.                 |
+|                   | fikasi {#teliti-kandu |                       |
+|                   | ngan-suratdokumen-yan | b\. Fail asal ditutup |
+|                   | g-hendak-difailkan.-s | dan bersambung pada   |
+|                   | emak-klasifikasi-fail | kulit fail Jilid      |
+|                   | -dan-kod-klasifikasi} | Baharu                |
+|                   |                       |                       |
+|                   |                       | c\. Fail asal tidak   |
+|                   |                       | dapat dikesan         |
+|                   |                       |                       |
+|                   |                       | d\. Fail asal         |
+|                   |                       | didapati rosak dan    |
+|                   |                       | perlu digantikan      |
+|                   |                       | dengan kulit fail     |
+|                   |                       | baharu                |
+|                   |                       |                       |
+|                   |                       | e\. Perubahan         |
+|                   |                       | pentadbiran sesuatu   |
+|                   |                       | Pejabat Awam dan      |
+|                   |                       |                       |
+|                   |                       | f\. Skima Klasifikasi |
+|                   |                       | Fail dirombak atau    |
+|                   |                       | bertukar kepada       |
+|                   |                       | Sistem Klasifikasi    |
+|                   |                       | Fail yang baharu      |
++-------------------+-----------------------+-----------------------+
+| PRJ/PTRJ          | ##### Membuat anal    | Buka Kulit Fail       |
+|                   | isa perkara/kandungan | Baharu menggunakan    |
+|                   |  surat/dokumen mengik | jenis kulit fail yang |
+|                   | ut pengkelasan kesela | sesuai (bagi fail     |
+|                   | matan terperingkat. R | terperingkat).        |
+|                   | ujuk dengan Pegawai P | Catatkan tajuk fail   |
+|                   | engelasan/PRJ jika pe | dan nombor rujukan    |
+|                   | rlu. {#membuat-analis | fail                  |
+|                   | a-perkarakandungan-su |                       |
+|                   | ratdokumen-mengikut-p |                       |
+|                   | engkelasan-keselamata |                       |
+|                   | n-terperingkat.-rujuk |                       |
+|                   | -dengan-pegawai-penge |                       |
+|                   | lasanprj-jika-perlu.} |                       |
++-------------------+-----------------------+-----------------------+
+
++-------------------+-----------------------+-----------------------+
+| **TANGGUNGJAWAB** | ##### **PROSES KERJ   | **SENARAI SEMAK**     |
+|                   | A** {#proses-kerja-2} |                       |
++===================+=======================+=======================+
+| PRJ/PTRJ          | ####                  | Tajuk fail dan nombor |
+|                   | # Tentukan nama dan t | rujukan fail          |
+|                   | ajuk fail untuk fail  | hendaklah dicatatkan  |
+|                   | baharu. Buka kulit fa | pada kulit fail       |
+|                   | il baharu: {#tentukan | dengan jelas          |
+|                   | -nama-dan-tajuk-fail- | menggunakan dakwat    |
+|                   | untuk-fail-baharu.-bu | kekal warna hitam     |
+|                   | ka-kulit-fail-baharu} | atau biru boleh juga  |
+|                   |                       | menggunakan stencil.  |
+|                   | a\. Tebuk lubang pada |                       |
+|                   | kulit fail dan kertas |                       |
+|                   | minit                 |                       |
+|                   |                       |                       |
+|                   | b\. Tulis tajuk fail  |                       |
+|                   | dan nombor rujukan    |                       |
+|                   | fail                  |                       |
+|                   |                       |                       |
+|                   | c\. Masukkan tali     |                       |
+|                   | hijau dan kertas      |                       |
+|                   | minit                 |                       |
++-------------------+-----------------------+-----------------------+
+| PTRJ              | ##### Masukkan        | a\. Kertas minit      |
+|                   |  kandungan, catat nom | dikandungkan          |
+|                   | bor kandungan pada ba | disebelah kiri fail   |
+|                   | hagian atas sebelah k |                       |
+|                   | anan surat/dokumen da | b\. Surat atau        |
+|                   | n minitkan lampiran p | dokumen dikandungkan  |
+|                   | ada kertas minit {#ma | di sebelah kanan fail |
+|                   | sukkan-kandungan-cata |                       |
+|                   | t-nombor-kandungan-pa |                       |
+|                   | da-bahagian-atas-sebe |                       |
+|                   | lah-kanan-suratdokume |                       |
+|                   | n-dan-minitkan-lampir |                       |
+|                   | an-pada-kertas-minit} |                       |
++-------------------+-----------------------+-----------------------+
+| PTRJ              | ##### Daftar          | Buku Rekod Daftar     |
+|                   | kan fail baharu dalam | Fail                  |
+|                   |  Buku Daftar Fail dan |                       |
+|                   |  sediakan indeks {#da |                       |
+|                   | ftarkan-fail-baharu-d |                       |
+|                   | alam-buku-daftar-fail |                       |
+|                   | -dan-sediakan-indeks} |                       |
++-------------------+-----------------------+-----------------------+
+
+> **6.2 Carta Aliran Kerja -- Pembukaan Fail/Pendaftaran Fail**
+>
+> **6.3 Penutupan Fail**
+
++-------------------+-----------------------+-----------------------+
+| **TANGGUNGJAWAB** | ##### **PROSES KERJ   | **SENARAI SEMAK**     |
+|                   | A** {#proses-kerja-3} |                       |
++===================+=======================+=======================+
+| PRJ               | ##### Pastikan fai    | Kriteria Penutupan    |
+|                   | l memenuhi kreteria p | Fail:                 |
+|                   | enutupan fail {#pasti |                       |
+|                   | kan-fail-memenuhi-kre | a\. Mencapai          |
+|                   | teria-penutupan-fail} | ketebalan 4sm atau    |
+|                   |                       |                       |
+|                   |                       | b\. Kandungannya      |
+|                   |                       | sudah mencapai 100    |
+|                   |                       | lampiran              |
+|                   |                       |                       |
+|                   |                       | c\. Fail yang tidak   |
+|                   |                       | dirujuk dalam masa 5  |
+|                   |                       | tahun dan tidak lagi  |
+|                   |                       | dikehendaki untuk     |
+|                   |                       | pentadbiran harian    |
+|                   |                       |                       |
+|                   |                       | d\. Fail telah tamat  |
+|                   |                       | tindakan dan tiada    |
+|                   |                       | tindakan lanjut yang  |
+|                   |                       | perlu diambil ke atas |
+|                   |                       | fail tersebut         |
+|                   |                       |                       |
+|                   |                       | e\. Perubahan         |
+|                   |                       | pentadbiran sesuatu   |
+|                   |                       | pejabat awam          |
+|                   |                       |                       |
+|                   |                       | f\. Skima klasifikasi |
+|                   |                       | fail dirombak semula  |
+|                   |                       | dan bertukar kepada   |
+|                   |                       | sistem baharu         |
+|                   |                       |                       |
+|                   |                       | g\. Sesuatu pejabat   |
+|                   |                       | awam ditamatkan       |
+|                   |                       | fungsi dan tidak lagi |
+|                   |                       | beroperasi            |
++-------------------+-----------------------+-----------------------+
+| PTRJ              | #####                 | Dicatatkan pada kulit |
+|                   |  Cap atau tuliskan DI | fail dengan jelas     |
+|                   | TUTUP PADA\..... dan  | menggunakan dakwat    |
+|                   | LIHAT JILID\....(seki | kekal warna hitam     |
+|                   | ranya jilid baru dibu | atau biru dan         |
+|                   | ka pada muka hadapan  | dipalang merah        |
+|                   | kulit fail) {#cap-ata |                       |
+|                   | u-tuliskan-ditutup-pa |                       |
+|                   | da.....-dan-lihat-jil |                       |
+|                   | id....sekiranya-jilid |                       |
+|                   | -baru-dibuka-pada-muk |                       |
+|                   | a-hadapan-kulit-fail} |                       |
++-------------------+-----------------------+-----------------------+
+
++-------------------+-----------------------+-----------------------+
+| **TANGGUNGJAWAB** | ##### **PROSES KERJ   | **SENARAI SEMAK**     |
+|                   | A** {#proses-kerja-4} |                       |
++===================+=======================+=======================+
+| PTRJ              | ##### Kulit fail yang | Template Klasifikasi  |
+|                   |  baru hendaklah dibuk | Fail                  |
+|                   | a dengan nombor klasi |                       |
+|                   | fikasi fail yang sama |                       |
+|                   |  dan ditanda sebagai  |                       |
+|                   | jilid 2 dan seterusny |                       |
+|                   | a {#kulit-fail-yang-b |                       |
+|                   | aru-hendaklah-dibuka- |                       |
+|                   | dengan-nombor-klasifi |                       |
+|                   | kasi-fail-yang-sama-d |                       |
+|                   | an-ditanda-sebagai-ji |                       |
+|                   | lid-2-dan-seterusnya} |                       |
++-------------------+-----------------------+-----------------------+
+| PTRJ              | ##### Fail yan        |                       |
+|                   | g ditutup diikat bers |                       |
+|                   | ama fail baharu selam |                       |
+|                   | a 3 bulan atau untuk  |                       |
+|                   | tempoh tertentu {#fai |                       |
+|                   | l-yang-ditutup-diikat |                       |
+|                   | -bersama-fail-baharu- |                       |
+|                   | selama-3-bulan-atau-u |                       |
+|                   | ntuk-tempoh-tertentu} |                       |
++-------------------+-----------------------+-----------------------+
+| PTRJ              | ##                    | Pindahkan fail dari   |
+|                   | ### Fail yang ditutup | bilik fail ke Bilik   |
+|                   |  dan tidak digunakan  | Rekod untuk disimpan  |
+|                   | lagi diasingkan darip | sebelum menunggu      |
+|                   | ada fail jilid baharu | proses pelupusan      |
+|                   |  {#fail-yang-ditutup- |                       |
+|                   | dan-tidak-digunakan-l |                       |
+|                   | agi-diasingkan-daripa |                       |
+|                   | da-fail-jilid-baharu} |                       |
++-------------------+-----------------------+-----------------------+
+
+> **6.4 Carta Aliran -- Kaedah Penutupan Fail**
+>
+> **6.5 Penggunaan dan Kawalan Fail**
+
++-------------------+-----------------------+-----------------------+
+| **TANGGUNGJAWAB** | ##### **PROSES KERJ   | **SENARAI SEMAK**     |
+|                   | A** {#proses-kerja-5} |                       |
++===================+=======================+=======================+
+| PTRJ              | ##### Fail dikel      | Borang pinjaman fail  |
+|                   | uarkan berdasarkan ke | diisi                 |
+|                   | pada permohonan sama  |                       |
+|                   | ada secara lisan atau |                       |
+|                   |  menggunakan borang p |                       |
+|                   | ermohonan fail {#fail |                       |
+|                   | -dikeluarkan-berdasar |                       |
+|                   | kan-kepada-permohonan |                       |
+|                   | -sama-ada-secara-lisa |                       |
+|                   | n-atau-menggunakan-bo |                       |
+|                   | rang-permohonan-fail} |                       |
++-------------------+-----------------------+-----------------------+
+| PTRJ              | ##### Setiap fail     | Rekod pinjaman dan    |
+|                   | yang dikeluarkan untu | pemulangan fail(sama  |
+|                   | k tindakan pegawai he | ada secara manual     |
+|                   | ndaklah terlebih dahu | atau elektronik)      |
+|                   | lu direkodkan ke dala |                       |
+|                   | m Rekod Pinjaman dan  |                       |
+|                   | Pemulangan Fail (sama |                       |
+|                   |  ada secara manual at |                       |
+|                   | au elektronik) {#seti |                       |
+|                   | ap-fail-yang-dikeluar |                       |
+|                   | kan-untuk-tindakan-pe |                       |
+|                   | gawai-hendaklah-terle |                       |
+|                   | bih-dahulu-direkodkan |                       |
+|                   | -ke-dalam-rekod-pinja |                       |
+|                   | man-dan-pemulangan-fa |                       |
+|                   | il-sama-ada-secara-ma |                       |
+|                   | nual-atau-elektronik} |                       |
++-------------------+-----------------------+-----------------------+
+| PTRJ              | ##### Catatkan deng   | Doket Kad Pergerakan  |
+|                   | an jelas singkatan na | Fail                  |
+|                   | ma jawatan pegawai ya |                       |
+|                   | ng menggunakan fail d |                       |
+|                   | an tarikh fail itu ha |                       |
+|                   | ntar kepada pegawai p |                       |
+|                   | ada Kad Pergerakan Fa |                       |
+|                   | il {#catatkan-dengan- |                       |
+|                   | jelas-singkatan-nama- |                       |
+|                   | jawatan-pegawai-yang- |                       |
+|                   | menggunakan-fail-dan- |                       |
+|                   | tarikh-fail-itu-hanta |                       |
+|                   | r-kepada-pegawai-pada |                       |
+|                   | -kad-pergerakan-fail} |                       |
++-------------------+-----------------------+-----------------------+
+| PTRJ              | ##                    | Fail yang diambil     |
+|                   | ### Kad Pergerakan Fa | tindakan tidak boleh  |
+|                   | il dikeluarkan dari f | disimpan oleh Pegawai |
+|                   | ail dan disimpan di R | Melebihi 14 hari atau |
+|                   | egistri untuk rujukan | 2 minggu              |
+|                   |  {#kad-pergerakan-fai |                       |
+|                   | l-dikeluarkan-dari-fa |                       |
+|                   | il-dan-disimpan-di-re |                       |
+|                   | gistri-untuk-rujukan} |                       |
++-------------------+-----------------------+-----------------------+
+| PRJ/PTRJ          | ##                    |                       |
+|                   | ### Sekiranya fail di |                       |
+|                   | pinjam melebihi tempo |                       |
+|                   | h yang ditetapkan, pe |                       |
+|                   | gawai atau kerani ber |                       |
+|                   | tanggungjawab perlu m |                       |
+|                   | enelefon pegawai berk |                       |
+|                   | enaan untuk mendapatk |                       |
+|                   | an semula fail atau m |                       |
+|                   | engemaskini tarikh pi |                       |
+|                   | njaman sekiranya fail |                       |
+|                   |  masih diperlukan unt |                       |
+|                   | uk tindakan {#sekiran |                       |
+|                   | ya-fail-dipinjam-mele |                       |
+|                   | bihi-tempoh-yang-dite |                       |
+|                   | tapkan-pegawai-atau-k |                       |
+|                   | erani-bertanggungjawa |                       |
+|                   | b-perlu-menelefon-peg |                       |
+|                   | awai-berkenaan-untuk- |                       |
+|                   | mendapatkan-semula-fa |                       |
+|                   | il-atau-mengemaskini- |                       |
+|                   | tarikh-pinjaman-sekir |                       |
+|                   | anya-fail-masih-diper |                       |
+|                   | lukan-untuk-tindakan} |                       |
++-------------------+-----------------------+-----------------------+
+
++-------------------+-----------------------+-----------------------+
+| **TANGGUNGJAWAB** | ##### **PROSES KERJ   | **SENARAI SEMAK**     |
+|                   | A** {#proses-kerja-6} |                       |
++===================+=======================+=======================+
+| PTRJ              | ##### Bagi fail-      | Rekod Pinjaman dan    |
+|                   | fail yang telah seles | Pemulangan Fail (sama |
+|                   | ai diambil tindakan,  | ada secara manual     |
+|                   | hendaklah dikemaskini | atau elektronik)      |
+|                   |  tarikh pemulangan fa |                       |
+|                   | il di dalam Rekod Pin |                       |
+|                   | jaman dan Pemulangan  |                       |
+|                   | Fail {#bagi-fail-fail |                       |
+|                   | -yang-telah-selesai-d |                       |
+|                   | iambil-tindakan-henda |                       |
+|                   | klah-dikemaskini-tari |                       |
+|                   | kh-pemulangan-fail-di |                       |
+|                   | -dalam-rekod-pinjaman |                       |
+|                   | -dan-pemulangan-fail} |                       |
++-------------------+-----------------------+-----------------------+
+| PTRJ              | ##### Kad             |                       |
+|                   | Pergerakan Fail henda |                       |
+|                   | klah dikandungkan sem |                       |
+|                   | ula ke dalam fail {#k |                       |
+|                   | ad-pergerakan-fail-he |                       |
+|                   | ndaklah-dikandungkan- |                       |
+|                   | semula-ke-dalam-fail} |                       |
++-------------------+-----------------------+-----------------------+
+
+> **6.6 Carta Aliran -- Penggunaan dan Kawalan Pergerakan Fail**
+>
+> **6.7 Fail Hilang atau Tidak Dapat Dikesan**
+
++-------------------+-----------------------+-----------------------+
+| **TANGGUNGJAWAB** | ##### **PROSES KERJ   | **SENARAI SEMAK**     |
+|                   | A** {#proses-kerja-7} |                       |
++===================+=======================+=======================+
+| PRJ               | ##### Laporkan ke     |                       |
+|                   | hilangan fail kepada  |                       |
+|                   | PRJ dan Pegawai Regis |                       |
+|                   | tri {#laporkan-kehila |                       |
+|                   | ngan-fail-kepada-prj- |                       |
+|                   | dan-pegawai-registri} |                       |
++-------------------+-----------------------+-----------------------+
+| PTRJ              | ##                    | a\. Sampul Kecil      |
+|                   | ### Buka Sampul Kecil | **(Am 435 Pin.        |
+|                   |  (Am 435 Pin. 1/80A)  | 1/80A)**              |
+|                   | sebagai fail sementar |                       |
+|                   | a dengan mencatatkan  | b\. Kertas Minit      |
+|                   | tajuk dan nombor fail | dikandungkan pada     |
+|                   |  yang hilang {#buka-s | Sampul Kecil          |
+|                   | ampul-kecil-am-435-pi | disebelah kiri        |
+|                   | n.-180a-sebagai-fail- |                       |
+|                   | sementara-dengan-menc | c\. Surat atau        |
+|                   | atatkan-tajuk-dan-nom | dokumen dikandungkan  |
+|                   | bor-fail-yang-hilang} | disebelah kanan       |
+|                   |                       | Sampul Kecil          |
++-------------------+-----------------------+-----------------------+
+| PTRJ              | ##### S               | Catat nombor          |
+|                   | ekiranya fail asal di | kandungan di penjuru  |
+|                   | temui, Sampul Kecil t | atas sebelah kanan    |
+|                   | ersebut hendaklah dik | Sampul Kecil sebagai  |
+|                   | andungkan ke dalam fa | nombor kandungan      |
+|                   | il tersebut sebagai k | fail. Nombor          |
+|                   | andungan seterusnya { | kandungan Sampul      |
+|                   | #sekiranya-fail-asal- | Kecil diminit ke      |
+|                   | ditemui-sampul-kecil- | dalam Kertas Minit    |
+|                   | tersebut-hendaklah-di |                       |
+|                   | kandungkan-ke-dalam-f |                       |
+|                   | ail-tersebut-sebagai- |                       |
+|                   | kandungan-seterusnya} |                       |
++-------------------+-----------------------+-----------------------+
+| PTRJ              | #####                 |                       |
+|                   |  Jika fail tidak diju |                       |
+|                   | mpai dalam tempoh 3 b |                       |
+|                   | ulan dari tarikh kehi |                       |
+|                   | langan fail atau tari |                       |
+|                   | kh pewujudan Sampul K |                       |
+|                   | ecil, fail baru henda |                       |
+|                   | klah dibuka dengan me |                       |
+|                   | mberi tajuk dan nombo |                       |
+|                   | r fail yang sama dan  |                       |
+|                   | dijadikan jilid baru  |                       |
+|                   | {#jika-fail-tidak-dij |                       |
+|                   | umpai-dalam-tempoh-3- |                       |
+|                   | bulan-dari-tarikh-keh |                       |
+|                   | ilangan-fail-atau-tar |                       |
+|                   | ikh-pewujudan-sampul- |                       |
+|                   | kecil-fail-baru-henda |                       |
+|                   | klah-dibuka-dengan-me |                       |
+|                   | mberi-tajuk-dan-nombo |                       |
+|                   | r-fail-yang-sama-dan- |                       |
+|                   | dijadikan-jilid-baru} |                       |
++-------------------+-----------------------+-----------------------+
+| PTRJ              | ##### Sampul Kecil    |                       |
+|                   |  serta kandungannya h |                       |
+|                   | endaklah dipindahkan  |                       |
+|                   | ke dalam fail baru da |                       |
+|                   | n dijadikan kandungan |                       |
+|                   |  yang pertama {#sampu |                       |
+|                   | l-kecil-serta-kandung |                       |
+|                   | annya-hendaklah-dipin |                       |
+|                   | dahkan-ke-dalam-fail- |                       |
+|                   | baru-dan-dijadikan-ka |                       |
+|                   | ndungan-yang-pertama} |                       |
++-------------------+-----------------------+-----------------------+
+
+> **6.8 Carta Aliran -- Fail Hilang atau Tidak Dapat Dikesan**
+
+**6.9 Pembaikan Kecil Fail**
+
++-------------------+-----------------------+-----------------------+
+| **TANGGUNGJAWAB** | ##### **PROSES KERJ   | **SENARAI SEMAK**     |
+|                   | A** {#proses-kerja-8} |                       |
++===================+=======================+=======================+
+| PRJ/PTRJ          | ##### Kenal pas       | Kulit Fail            |
+|                   | ti serta asingkan fai |                       |
+|                   | l yang rosak dan perl |                       |
+|                   | u diganti kulit fail  |                       |
+|                   | baru {#kenal-pasti-se |                       |
+|                   | rta-asingkan-fail-yan |                       |
+|                   | g-rosak-dan-perlu-dig |                       |
+|                   | anti-kulit-fail-baru} |                       |
++-------------------+-----------------------+-----------------------+
+| PTRJ              | ##### Catatkan        | Template Klasifikasi  |
+|                   | tajuk dan nombor ruju | Fail                  |
+|                   | kan klasifikasi fail  |                       |
+|                   | di atas kulit fail ba |                       |
+|                   | haru {#catatkan-tajuk |                       |
+|                   | -dan-nombor-rujukan-k |                       |
+|                   | lasifikasi-fail-di-at |                       |
+|                   | as-kulit-fail-baharu} |                       |
++-------------------+-----------------------+-----------------------+
+| PTRJ              | ##### Gunting dan m   |                       |
+|                   | asukkan kulit fail la |                       |
+|                   | ma (muka hadapan saha |                       |
+|                   | ja) ke dalam kulit fa |                       |
+|                   | il baharu dan sekiran |                       |
+|                   | ya kulit fail lama ti |                       |
+|                   | dak mencatatkan sebar |                       |
+|                   | ang maklumat yang pen |                       |
+|                   | ting kulit fail terse |                       |
+|                   | but bolehlah dimusnah |                       |
+|                   | kan {#gunting-dan-mas |                       |
+|                   | ukkan-kulit-fail-lama |                       |
+|                   | -muka-hadapan-sahaja- |                       |
+|                   | ke-dalam-kulit-fail-b |                       |
+|                   | aharu-dan-sekiranya-k |                       |
+|                   | ulit-fail-lama-tidak- |                       |
+|                   | mencatatkan-sebarang- |                       |
+|                   | maklumat-yang-penting |                       |
+|                   | -kulit-fail-tersebut- |                       |
+|                   | bolehlah-dimusnahkan} |                       |
++-------------------+-----------------------+-----------------------+
+| PTRJ              | ##### Pinda           |                       |
+|                   | h kandungan fail dan  |                       |
+|                   | kertas minit dari fai |                       |
+|                   | l lama ke dalam fail  |                       |
+|                   | baharu {#pindah-kandu |                       |
+|                   | ngan-fail-dan-kertas- |                       |
+|                   | minit-dari-fail-lama- |                       |
+|                   | ke-dalam-fail-baharu} |                       |
++-------------------+-----------------------+-----------------------+
+| PTRJ              | #####                 |                       |
+|                   | Kandungan fail dan ke |                       |
+|                   | rtas minit yang terko |                       |
+|                   | yak boleh dibuat pemb |                       |
+|                   | aikan kecil dengan me |                       |
+|                   | nggunakan gam kanji { |                       |
+|                   | #kandungan-fail-dan-k |                       |
+|                   | ertas-minit-yang-terk |                       |
+|                   | oyak-boleh-dibuat-pem |                       |
+|                   | baikan-kecil-dengan-m |                       |
+|                   | enggunakan-gam-kanji} |                       |
++-------------------+-----------------------+-----------------------+
+
+**6.10 Carta Aliran -- Pembaikan Kecil Fail**
+
+**6.11 Pengendalian Fail Tidak Aktif**
+
++-------------------+-----------------------+-----------------------+
+| **TANGGUNGJAWAB** | ##### **PROSES KERJ   | **SENARAI SEMAK**     |
+|                   | A** {#proses-kerja-9} |                       |
++===================+=======================+=======================+
+| PRJ/PTRJ          | #####                 | Fail Tidak Aktif      |
+|                   | Memisahkan fail aktif |                       |
+|                   |  dan fail tidak aktif | a\. Segala tindakan   |
+|                   |  di Bhg/Sel/Registri  | ke atas fail telah    |
+|                   | {#memisahkan-fail-akt | selesai atau tamat    |
+|                   | if-dan-fail-tidak-akt |                       |
+|                   | if-di-bhgselregistri} | b\. Fail tidak        |
+|                   |                       | digunakan atau        |
+|                   |                       | dirujuk semula oleh   |
+|                   |                       | Cwg/Bhg dan Sel       |
++-------------------+-----------------------+-----------------------+
+| PRJ               | ##### Fail tida       | Dicatatkan pada kulit |
+|                   | k aktif hendaklah dit | fail dengan jelas     |
+|                   | utup dan dicap atau d | menggunakan dakwat    |
+|                   | ituliskan DITUTUP PAD | kekal warna hitam     |
+|                   | A\..... pada muka had | atau biru dan         |
+|                   | apan kulit fail {#fai | dipalang merah        |
+|                   | l-tidak-aktif-hendakl |                       |
+|                   | ah-ditutup-dan-dicap- |                       |
+|                   | atau-dituliskan-ditut |                       |
+|                   | up-pada.....-pada-muk |                       |
+|                   | a-hadapan-kulit-fail} |                       |
++-------------------+-----------------------+-----------------------+
+| PRJ/PTRJ          | ##### Kenalp          |                       |
+|                   | asti dan asingkan rek |                       |
+|                   | od mengikut kumpulan  |                       |
+|                   | kategori serta susun  |                       |
+|                   | fail mengikut siri da |                       |
+|                   | n nombor rujukan {#ke |                       |
+|                   | nalpasti-dan-asingkan |                       |
+|                   | -rekod-mengikut-kumpu |                       |
+|                   | lan-kategori-serta-su |                       |
+|                   | sun-fail-mengikut-sir |                       |
+|                   | i-dan-nombor-rujukan} |                       |
++-------------------+-----------------------+-----------------------+
+| PTRJ              | ##### Fail y          |                       |
+|                   | ang tidak aktif dan t |                       |
+|                   | elah ditutup dimasukk |                       |
+|                   | an ke dalam kotak dan |                       |
+|                   |  dipindahkan ke pusat |                       |
+|                   |  rekod bagi tujuan be |                       |
+|                   | rikut: {#fail-yang-ti |                       |
+|                   | dak-aktif-dan-telah-d |                       |
+|                   | itutup-dimasukkan-ke- |                       |
+|                   | dalam-kotak-dan-dipin |                       |
+|                   | dahkan-ke-pusat-rekod |                       |
+|                   | -bagi-tujuan-berikut} |                       |
+|                   |                       |                       |
+|                   | a\. Simpanan          |                       |
+|                   | sementara bagi tujuan |                       |
+|                   | penyediaan Borang     |                       |
+|                   | Permohonan Pelupusan  |                       |
+|                   |                       |                       |
+|                   | b\. Mematuhi tempoh   |                       |
+|                   | simpanan yang         |                       |
+|                   | ditetapkan dalam      |                       |
+|                   | Jadual Pelupusan      |                       |
+|                   | Rekod                 |                       |
++-------------------+-----------------------+-----------------------+
+
++-------------------+-----------------------+-----------------------+
+| **TANGGUNGJAWAB** | ##### **PROSES KERJA  | **SENARAI SEMAK**     |
+|                   | ** {#proses-kerja-10} |                       |
++===================+=======================+=======================+
+| PRJ               | ####                  | Jadual Pelupusan      |
+|                   | # Rujuk Jadual Pelupu | Rekod                 |
+|                   | san Rekod (JPR) untuk |                       |
+|                   |  memastikan fail tela | a\. Urusan Am         |
+|                   | h cukup tempoh simpan |                       |
+|                   | an yang telah ditetap | b\. Urusan Fungsian   |
+|                   | kan oleh Arkib Negara |                       |
+|                   |  {#rujuk-jadual-pelup | c\. Kewangan dan      |
+|                   | usan-rekod-jpr-untuk- | Perakaunan            |
+|                   | memastikan-fail-telah |                       |
+|                   | -cukup-tempoh-simpana |                       |
+|                   | n-yang-telah-ditetapk |                       |
+|                   | an-oleh-arkib-negara} |                       |
++-------------------+-----------------------+-----------------------+
+| PRJ/PTRJ          | ##### Buat senarai p  | Borang-borang:        |
+|                   | elupusan sekiranya fa |                       |
+|                   | il telah cukup tempoh | a\. Arkib 2/08        |
+|                   |  simpanan yang telah  |                       |
+|                   | ditetapkan oleh Arkib | b\. Arkib 3/08        |
+|                   |  Negara Malaysia deng |                       |
+|                   | an mengisi borang pel | c\. Arkib 4/08        |
+|                   | upusan rekod mengikut |                       |
+|                   |  jenis rekod {#buat-s | d\. Arkib 5/08        |
+|                   | enarai-pelupusan-seki |                       |
+|                   | ranya-fail-telah-cuku | e\. Arkib 6/08        |
+|                   | p-tempoh-simpanan-yan |                       |
+|                   | g-telah-ditetapkan-ol | f\. Arkib 7/08        |
+|                   | eh-arkib-negara-malay |                       |
+|                   | sia-dengan-mengisi-bo | g\. Arkib 8/08        |
+|                   | rang-pelupusan-rekod- |                       |
+|                   | mengikut-jenis-rekod} | h\. Arkib 9/08        |
++-------------------+-----------------------+-----------------------+
+
+**6.12 Carta Aliran -- Pengendalian Fail Tidak Aktif**
+
+**6.13 Tindakan dan Tanggungjawab Pelupusan Fail**
+
++-------------------+-----------------------+-----------------------+
+| **TANGGUNGJAWAB** | ##### **PROSES KERJA  | **SENARAI SEMAK**     |
+|                   | ** {#proses-kerja-11} |                       |
++===================+=======================+=======================+
+| **PRJ**           | ##### Mengenalp       | Jadual Pelupusan      |
+|                   | asti siri rekod sama  | Rekod                 |
+|                   | ada telah tamat tinda |                       |
+|                   | kan dan telah mematuh | a\. Urusan Am         |
+|                   | i tempoh simpanan yan |                       |
+|                   | g dinyatakan dalam Ja | b\. Urusan Fungsian   |
+|                   | dual Pelupusan Rekod  |                       |
+|                   | (JPR) {#mengenalpasti | c\. Kewangan dan      |
+|                   | -siri-rekod-sama-ada- | Perakaunan            |
+|                   | telah-tamat-tindakan- |                       |
+|                   | dan-telah-mematuhi-te |                       |
+|                   | mpoh-simpanan-yang-di |                       |
+|                   | nyatakan-dalam-jadual |                       |
+|                   | -pelupusan-rekod-jpr} |                       |
++-------------------+-----------------------+-----------------------+
+| **PRJ/PTRJ**      | ##### Rekod-rek       | Tali Pengikat         |
+|                   | od disusun mengikut n |                       |
+|                   | ombor turutan atau si | Tali tape atau        |
+|                   | ri secara fizikal dan | pembaris untuk        |
+|                   |  diikat secara '*bund | sukatan               |
+|                   | le'* sebelum disenara |                       |
+|                   | ikan dalam borang pel |                       |
+|                   | upusan {#rekod-rekod- |                       |
+|                   | disusun-mengikut-nomb |                       |
+|                   | or-turutan-atau-siri- |                       |
+|                   | secara-fizikal-dan-di |                       |
+|                   | ikat-secara-bundle-se |                       |
+|                   | belum-disenaraikan-da |                       |
+|                   | lam-borang-pelupusan} |                       |
++-------------------+-----------------------+-----------------------+
+| **PRJ**           | ##### Pe              | Lembaga Pelupusan     |
+|                   | gawai Rekod Jabatan ( |                       |
+|                   | PRJ) hendaklah membua |                       |
+|                   | t penilaian ke atas s |                       |
+|                   | etiap unit rekod bagi |                       |
+|                   |  menentukan sama ada  |                       |
+|                   | rekod mempunyai nilai |                       |
+|                   |  primer atau sekunder |                       |
+|                   |  untuk kepentingan or |                       |
+|                   | ganisasi/negara atau  |                       |
+|                   | tidak bernilai. Penil |                       |
+|                   | aian ini hendaklah di |                       |
+|                   | catatkan dalam borang |                       |
+|                   |  permohonan pelupusan |                       |
+|                   |  sama ada rekod terse |                       |
+|                   | but dicadangkan simpa |                       |
+|                   | n/pindah atau musnah  |                       |
+|                   | {#pegawai-rekod-jabat |                       |
+|                   | an-prj-hendaklah-memb |                       |
+|                   | uat-penilaian-ke-atas |                       |
+|                   | -setiap-unit-rekod-ba |                       |
+|                   | gi-menentukan-sama-ad |                       |
+|                   | a-rekod-mempunyai-nil |                       |
+|                   | ai-primer-atau-sekund |                       |
+|                   | er-untuk-kepentingan- |                       |
+|                   | organisasinegara-atau |                       |
+|                   | -tidak-bernilai.-peni |                       |
+|                   | laian-ini-hendaklah-d |                       |
+|                   | icatatkan-dalam-boran |                       |
+|                   | g-permohonan-pelupusa |                       |
+|                   | n-sama-ada-rekod-ters |                       |
+|                   | ebut-dicadangkan-simp |                       |
+|                   | anpindah-atau-musnah} |                       |
++-------------------+-----------------------+-----------------------+
+| **PRJ/PTRJ**      | ##### Pengi           | Borang-borang:        |
+|                   | sian borang pelupusan |                       |
+|                   |  rekod mengikut jenis | a\. Arkib 2/08        |
+|                   |  rekod {#pengisian-bo |                       |
+|                   | rang-pelupusan-rekod- | b\. Arkib 3/08        |
+|                   | mengikut-jenis-rekod} |                       |
+|                   |                       | c\. Arkib 4/08        |
+|                   |                       |                       |
+|                   |                       | d\. Arkib 5/08        |
+|                   |                       |                       |
+|                   |                       | e\. Arkib 6/08        |
+|                   |                       |                       |
+|                   |                       | f\. Arkib 7/08        |
+|                   |                       |                       |
+|                   |                       | g\. Arkib 8/08        |
+|                   |                       |                       |
+|                   |                       | h\. Arkib 9/08        |
++-------------------+-----------------------+-----------------------+
+
++-------------------+-----------------------+-----------------------+
+| **TANGGUNGJAWAB** | ##### **PROSES KERJA  | **SENARAI SEMAK**     |
+|                   | ** {#proses-kerja-12} |                       |
++===================+=======================+=======================+
+| PRJ               | ##### Kemuka          | Salinan Borang        |
+|                   | kan dua (2) salinan b | Permohonan bagi       |
+|                   | orang permohonan pemu | Pemusnahan Rekod Awam |
+|                   | snahan Rekod Awam ke  |                       |
+|                   | Jabatan Arkib Negara  |                       |
+|                   | Malaysia dan satu (1) |                       |
+|                   |  salinan dimasukan ke |                       |
+|                   |  dalam fail. Bagi Rek |                       |
+|                   | od Kewangan dan Perak |                       |
+|                   | aunan satu (1) salina |                       |
+|                   | n borang hendaklah di |                       |
+|                   | kemukakan ke Jabatan  |                       |
+|                   | Akauntan Negara dan J |                       |
+|                   | abatan Audit Negara { |                       |
+|                   | #kemukakan-dua-2-sali |                       |
+|                   | nan-borang-permohonan |                       |
+|                   | -pemusnahan-rekod-awa |                       |
+|                   | m-ke-jabatan-arkib-ne |                       |
+|                   | gara-malaysia-dan-sat |                       |
+|                   | u-1-salinan-dimasukan |                       |
+|                   | -ke-dalam-fail.-bagi- |                       |
+|                   | rekod-kewangan-dan-pe |                       |
+|                   | rakaunan-satu-1-salin |                       |
+|                   | an-borang-hendaklah-d |                       |
+|                   | ikemukakan-ke-jabatan |                       |
+|                   | -akauntan-negara-dan- |                       |
+|                   | jabatan-audit-negara} |                       |
++-------------------+-----------------------+-----------------------+
+| PRJ               | #####                 | Surat kebenaran       |
+|                   |  Terima surat kebenar | pemusnahan            |
+|                   | an pemusnahan daripad |                       |
+|                   | a ANM. Sekiranya meli |                       |
+|                   | batkan Rekod Kewangan |                       |
+|                   |  dan Perakaunan surat |                       |
+|                   |  kebenaran pemusnahan |                       |
+|                   |  daripada Jabatan Aka |                       |
+|                   | untan Negara dan Jaba |                       |
+|                   | tan Audit {#terima-su |                       |
+|                   | rat-kebenaran-pemusna |                       |
+|                   | han-daripada-anm.-sek |                       |
+|                   | iranya-melibatkan-rek |                       |
+|                   | od-kewangan-dan-perak |                       |
+|                   | aunan-surat-kebenaran |                       |
+|                   | -pemusnahan-daripada- |                       |
+|                   | jabatan-akauntan-nega |                       |
+|                   | ra-dan-jabatan-audit} |                       |
++-------------------+-----------------------+-----------------------+
+| PRJ/PTRJ          | ##                    | Rujuk panduan         |
+|                   | ### a. Rekod-rekod ya | pelupusan Rekod Awam  |
+|                   | ng diputuskan simpan  | oleh ANM/JRP          |
+|                   | hendaklah dilaksanaka |                       |
+|                   | n pemindahan rekod ke | Rujuk panduan         |
+|                   |  ANM dalam tempoh tig | pelupusan Rekod Awam  |
+|                   | a (3) bulan dari tari | oleh ANM/JRP          |
+|                   | kh surat kebenaran pe |                       |
+|                   | musnahan yang diterim |                       |
+|                   | a {#a.-rekod-rekod-ya |                       |
+|                   | ng-diputuskan-simpan- |                       |
+|                   | hendaklah-dilaksanaka |                       |
+|                   | n-pemindahan-rekod-ke |                       |
+|                   | -anm-dalam-tempoh-tig |                       |
+|                   | a-3-bulan-dari-tarikh |                       |
+|                   | -surat-kebenaran-pemu |                       |
+|                   | snahan-yang-diterima} |                       |
+|                   |                       |                       |
+|                   | b\. Rekod-rekod yang  |                       |
+|                   | diputuskan musnah     |                       |
+|                   | hendaklah             |                       |
+|                   | dilaksanakan          |                       |
+|                   | pemusnahan            |                       |
+|                   | rekod-rekod berkenaan |                       |
+|                   | dalam tempoh (3)      |                       |
+|                   | bulan dari tarikh     |                       |
+|                   | surat kebenaran       |                       |
+|                   | pemusnahan yang       |                       |
+|                   | diterima              |                       |
++-------------------+-----------------------+-----------------------+
+
++-------------------+-----------------------+-----------------------+
+| **TANGGUNGJAWAB** | ##### **PROSES KERJA  | **SENARAI SEMAK**     |
+|                   | ** {#proses-kerja-13} |                       |
++===================+=======================+=======================+
+| PRJ               | ##### Sete            | Borang-borang         |
+|                   | lah rekod dimusnahkan |                       |
+|                   | /dipindahkan secara f | a\. Arkib             |
+|                   | izikal, pengesahan ba | 11/08-Borang          |
+|                   | hawa rekod tersebut t | Permohonan bagi       |
+|                   | elah dimusnahkan hend | pemindahan rekod      |
+|                   | aklah dimaklumkan kep |                       |
+|                   | ada ANM dalam tempoh  | b\. Arkib             |
+|                   | satu(1) bulan daripad | 12/08-Borang          |
+|                   | a tarikh pemusnahan { | penentusahan          |
+|                   | #setelah-rekod-dimusn | pemusnahan rekod awam |
+|                   | ahkandipindahkan-seca |                       |
+|                   | ra-fizikal-pengesahan | c\. Kewangan Arkib    |
+|                   | -bahawa-rekod-tersebu | 13/08-Borang          |
+|                   | t-telah-dimusnahkan-h | penentusahan          |
+|                   | endaklah-dimaklumkan- | pemusnahan rekod      |
+|                   | kepada-anm-dalam-temp | kewangan dan          |
+|                   | oh-satu1-bulan-daripa | perakaunan            |
+|                   | da-tarikh-pemusnahan} |                       |
++-------------------+-----------------------+-----------------------+
+| PRJ               | ##### Sek             |                       |
+|                   | iranya pemusnahan ata |                       |
+|                   | u pemindahan tidak da |                       |
+|                   | pat dijalankan dalam  |                       |
+|                   | tempoh (3) bulan yang |                       |
+|                   |  ditetapkan, permohon |                       |
+|                   | an secara bertulis he |                       |
+|                   | ndaklah dibuat kepada |                       |
+|                   |  Ketua Pengarah ANM u |                       |
+|                   | ntuk melanjutkan temp |                       |
+|                   | oh pemindahan rekod { |                       |
+|                   | #sekiranya-pemusnahan |                       |
+|                   | -atau-pemindahan-tida |                       |
+|                   | k-dapat-dijalankan-da |                       |
+|                   | lam-tempoh-3-bulan-ya |                       |
+|                   | ng-ditetapkan-permoho |                       |
+|                   | nan-secara-bertulis-h |                       |
+|                   | endaklah-dibuat-kepad |                       |
+|                   | a-ketua-pengarah-anm- |                       |
+|                   | untuk-melanjutkan-tem |                       |
+|                   | poh-pemindahan-rekod} |                       |
++-------------------+-----------------------+-----------------------+
+
+> **6.14 Carta Aliran -- Pelupusan Fail**
+
+**7.0 REKOD KUALITI**
+
++---------+------------------+------------------+------------------+
+| **BIL** | ##### **         | ##### **LO       | ##### **TEMP     |
+|         | REKOD** {#rekod} | KASI** {#lokasi} | OH SIMPANAN** {# |
+|         |                  |                  | tempoh-simpanan} |
++=========+==================+==================+==================+
+| 1\.     | Buku Daftar      | Bilik Registri   | 5 tahun          |
+|         | Surat            |                  |                  |
+| 2\.     | Masuk/Keluar (Am | Bilik Registri   | 5 tahun          |
+|         | 10)              |                  |                  |
+| 3\.     |                  | Bilik Registri   | 5 tahun          |
+|         | Kertas Minit (Am |                  |                  |
+| 4\.     | 6)               | Bilik Registri   | 5 tahun          |
+|         |                  |                  |                  |
+| 5\.     | Buku Rekod       | Bilik Registri   | 5 tahun          |
+|         | Pembukaan Fail   |                  |                  |
+| 6\.     |                  | Bilik Registri   | 5 tahun          |
+|         | Buku Rekod       |                  |                  |
+|         | Pengeluaran Fail |                  |                  |
+|         |                  |                  |                  |
+|         | Buku Rekod       |                  |                  |
+|         | Pelupusan Fail   |                  |                  |
+|         |                  |                  |                  |
+|         | Buku Rekod       |                  |                  |
+|         | Daftar Surat     |                  |                  |
+|         | Terperingkat     |                  |                  |
++---------+------------------+------------------+------------------+
+
+8.0 **LAMPIRAN**
+
+8.1 Contoh Borang Arkib 02/08
+
+8.2 Contoh Borang Arkib 03/08
+
+8.3 Contoh Borang Arkib 04/08
+
+8.4 Contoh Borang Arkib 05/08
+
+8.5 Contoh Borang Arkib 06/08
+
+8.6 Contoh Borang Arkib 07/08
+
+8.7 Contoh Borang Arkib 08/08
+
+8.8 Contoh Borang Arkib 09/08
+
+8.9 Contoh Borang Arkib 10/08
+
+8.10 Contoh Borang Arkib 11/08
+
+8.11 Contoh Borang Arkib 12/08

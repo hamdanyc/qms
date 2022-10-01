@@ -1,0 +1,5 @@
+"0"," doc_files %>%"
+"0","  select(""Id""=doc_id, ""Tajuk""=doc_title) %>%"
+"0","  kbl(booktab=T,row.names = T, caption = ""Senarai Dokumentasi"", position = ""t"") %>% "
+"0","  kable_styling(latex_options = c(""striped""),position = ""left"") %>%"
+"0","  column_spec(3, width = ""31em"")"

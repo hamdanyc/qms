@@ -1,0 +1,135 @@
+# 8.0 Rekod Kualiti
+
+| Bil | Rekod          | Tempoh Penyimpanan |Lokasi                   |
+|-----|----------------|--------------------|--------------------------|
+| 1.  | Kad skor       | 5 tahun            | Pejabat Wakil Pengurusan |
+| 2.  | Pencapaian KPI | 5 tahun            | Pejabat Wakil Pengurusan |
+
+# 9.0 Lampiran
+# 8.0 Rekod Kualiti
+
+|Bil   |Rekod                       |Tempoh Penyimpanan|Lokasi  |
+|------|-----------------------------------------|--------|-------------|
+|1.    |Tawaran tender (Cetakan dari E-Perolehan)|5 tahun |Bilik Fail|
+|2.    |Senarai Sebut Harga Pembekal             |5 tahun |Bilik Fail|
+|3.    |Rundingan Kontrak (dimuktamadkan)        |5 tahun |Bilik Fail|
+|4.    |Letter of Intent                         |5 tahun |Bilik Fail|
+|5.    |Letter of Acceptance                     |5 tahun |Bilik Fail|
+
+# 9.0 Lampiran
+# 8.0 Rekod Kualiti
+
+|Bil   |Rekod                                    |Tempoh Penyimpanan|Lokasi|
+|------|-----------------------------------------|--------|-------------|
+|1.    |Delivery Order                           |5 tahun |Bilik Fail|
+|2.    |Minit Mesyuarat Status Kemajuan Projek   |5 tahun |Bilik Fail|
+
+# 9.0 Lampiran
+# 8.0 Rekod Kualiti
+
+|Bil|Rekod |Tempoh Penyimpanan|Lokasi|
+|--|------------------------------|--------|--------------|
+|1 |Salinan Pesanan Tempatan      |5 tahun |Bilik Fail|  
+|2 |Buku Daftar Bandingan Harga   |5 tahun |Bilik Fail|
+|3 |Keputusan Lembaga Pembelian   |5 tahun |Bilik Fail|
+|4 |Rekod Invois                  |5 tahun |Bilik Fail|
+
+# 8.0 Rekod Kualiti
+
+|Bil   |Rekod |Tempoh Penyimpanan|Lokasi|
+|------|----------------------------|---------------------|------|
+|1.    |Rekod Kehadiran Peserta Kurus/Latihan|5 Tahun|Bilik Fail|
+|2.    |Rekod Kurus/Latihan                  |5 Tahun|Bilik Fail|
+|3.    |Laporan Penilaian Kursus/Latihan     |5 Tahun|Bilik Fail|
+|4.    |Borang Maklum Balas Kursus/Latihan   |5 Tahun|Bilik Fail|
+
+\newpage
+
+# 9.0 Lampiran
+# 8.0 Rekod Kualiti
+
+|Bil   |Rekod |Tempoh Penyimpanan|Lokasi|
+|------|----------------------------|---------------------|------|
+|1.    |Buku Vot                    |5 Tahun              |Bilik Fail|
+|2.    |Buku Daftar Pembekal        |5 Tahun              |Bilik Fail|
+|2.    |Buku Daftar Invois          |5 Tahun              |Bilik Fail|
+
+# 9.0 Lampiran
+# 8.0 Rekod Kualiti
+
+|Bil   |Rekod |Tempoh Penyimpanan|Lokasi|
+|------|-------------------------------|---------|---------------|
+| 1    | Fail Laporan Aduan Kerosakan  | 3 tahun | Bilik Fail |
+| 2    | Fail Laman Web Syarikat       | 3 tahun | Bilik Fail |
+| 4    | Fail penyenggaraan perkakasan | 3 tahun | Bilik Fail |
+| 5    | Perjanjian Penyenggaraan      | 3 tahun | Bilik Fail |
+| 6    | Prosedur Pelupusan            | 3 tahun | Bilik Fail |
+
+\newpage
+
+# 9.0 Lampiran
+# 8.0 Rekod Kualiti
+
+|Bil   |Rekod                       |Tempoh Penyimpanan|Lokasi  |
+|------|----------------------------|----------|----------------|
+| 1    | Buku Rekod Aduan           | 7 Tahun  | Bilik Fail |
+| 2    | Fail Sebutharga            | 7 Tahun  | Bilik Fail |
+| 3    | Fail Penyelenggaraan Aset  | 7 Tahun  | Bilik Fail |
+
+
+# 9.0 Lampiran
+# 8.0 Rekod Kualiti
+
+|Bil   |Rekod                                    |Tempoh Penyimpanan|Lokasi|
+|------|-----------------------------------------|--------|-------------|
+|1.    |Rekod latihan dan kesedaran (Fail Pegawai)|5 tahun |Bilik Fail |
+|      |                                         |        |            |
+|2.    |Laporan Salahlaku (Fail Pegawai - Sulit) |5 tahun |Bilik Fail  |
+|      |                                         |        |            |
+|3.    |Minit Lembaga Tatatertib                 |5 tahun |Bilik Fail  |
+|      |                                         |        |            |
+|4.    |Laporan audit IAA-R                      |5 tahun |Bilik Fail  |
+|      |                                         |        |            |
+|5.    |Aku janji [PK(S).OA.08.B01]              |5 tahun |Bilik Fail  |
+
+# 9.0 Lampiran
+# 8.0 Rekod Kualiti
+
+|Bil   |Rekod |Tempoh Penyimpanan|Lokasi|
+|------|----------------------------|---------------------|------|
+|1.    |Rekod Kehadiran Peserta Kurus/Latihan|5 Tahun|Bilik Fail|
+|2.    |Rekod Kurus/Latihan                  |5 Tahun|Bilik Fail|
+|3.    |Laporan Penilaian Kursus/Latihan     |5 Tahun|Bilik Fail|
+|4.    |Borang Maklum Balas Kursus/Latihan    |5 Tahun|Bilik Fail|
+
+# 9.0 Lampiran
+# 8.0 Rekod Kualiti
+
+------------------------------------------------------------------------
+Bil   Jenis Rekod                  Tempoh Penyimpanan Lokasi
+----- ---------------------------- ------------------ ------------------
+1\.   Buku Daftar                  5 tahun            Bilik Fail
+		  Surat Masuk/Keluar (Am 10)       
+		
+2\.   Kertas Minit (Am 10)         5 tahun            Bilik Fail
+		
+3\.   Buku Rekod Pembukaan Fail    5 tahun            Bilik Fail
+		
+4\.   Buku Rekod Pengeluaran Fail  5 tahun            Bilik Fail
+		
+5\.   Buku Rekod Pelupusan Fail    5 tahun            Bilik Fail
+
+6\.   Buku Daftar                  5 tahun            Bilik Fail
+		  Surat Terperingkat  
+------------------------------------------------------------------------
+		
+# 9.0 Lampiran
+# 8.0 Rekod Kualiti
+
+| Bil | Rekod          | Tempoh Penyimpanan | Lokasi                   |
+|-----|----------------|--------------------|--------------------------|
+| 1.  | Laporan RAM    | 5 tahun            | Pejabat Wakil Pengurusan/Pengurus projek |
+
+\newpage
+
+# 9.0 Lampiran

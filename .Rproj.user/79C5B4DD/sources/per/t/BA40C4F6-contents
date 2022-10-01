@@ -1,0 +1,51 @@
+---
+title: "Invois"
+output:
+  html_notebook: default
+---
+
+```{r init}
+library(dplyr)
+load("cost.RData")
+```
+
+Daripada:   
+
+Kol Hamdan bin Yaccob (Bersara)
+
+
+Kepada:  
+
+Pengurus Kewangan,  
+OpenApps Sdn. Bhd
+
+
+**`r format(Sys.Date(), "%d %b %Y")`**
+
+---
+
+##### **Invois**
+
+---
+
+##### **Dokumentasi Sistem Pengurusan Kualiti (QMS) OpenApps Sdn. Bhd.**
+
+Puan,
+
+Disertakan item-item di perkara tajuk untuk tindakan, terima kasih.
+
+```{r item}
+tb_item %>% 
+  select("Siri"=id, "Jenis"=jenis, "Kuantiti"=kti, "Kos seunit"=kos_unit,"Jumlah"=jumlah)
+# df <- data_frame(total)
+# bind_rows(sum(tb_item$jumlah),df$total,"total")
+```
+##### Jumlah Keseluruhan: **RM `r format(sum(tb_item$jumlah),big.mark = ",")`**
+
+Mohon kreditkan ke akaun Bank Muamalat Malaysia Bhd 14010036728728
+
+```{r lampiran} 
+ df_item %>% 
+  select("Id"=doc_id,"Tajuk"=nama,"Jenis"=jenis)
+```
+

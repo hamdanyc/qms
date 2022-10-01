@@ -1,0 +1,1243 @@
+---
+title: |
+  ![](chart/openapps-logo.png){width=30%}  
+  Bridging the gap between \textcolor{blue}{PEOPLE}, \textcolor{blue}{BUSINESS} and \textcolor{blue}{TECHNOLOGY}
+  
+  MS ISO 9001:2015 Sistem Pengurusan Kualiti  
+  OpenApps Sdn Bhd (548151-W)
+author:
+toc-title: Jadual Kandungan
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: '4'
+    includes:
+      in_header: "preamb.tex"
+params:
+  doc_id: PK(W).OA.01
+  doc_title: "title"
+  doc_date: ""
+---
+
+\newpage
+\fancyhead[L]{\textbf{MS ISO 9001:2015\\OpenApps Sdn Bhd (548151-W)\\`r params$doc_id`}}
+\fancyhead[R]{\textbf{No: Keluaran: 01\\No Pindaan: 00\\Tarikh Kuatkuasa: `r params$doc_date`}}
+
+|                                   |
+|:---------------------------------:|
+|**`r paste0(toupper(params$doc_title)," -- ",params$doc_id)`**|
+
+# I    Penyedia dan Kelulusan
+
+|Nama &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |Tarikh |
+|-------------------------------|--------------|
+|                               |              |
+| **Disediakan Oleh**:          | `r params$doc_date` |
+|                               |              |
+|                               |              |
+|_____________________          |              |
+| **`r substr(a_list$pemilik_dok[14],1,40)`**| |
+| `r substr(a_list$pemilik_dok[14],41,60)`   | |
+| **Wakil Pengurusan**          |              |
+|                               |              |
+| **Diluluskan Oleh**:          | `r params$doc_date` |
+|                               |              |
+|                               |              |
+|_____________________          |              |
+| **`r a_list$pemilik_dok[15]`**|              |
+| **CEO**                       |              |
+|                               |              |
+| **No Salinan Terkawal**:      |              |
+|                               |              |
+| `r params$doc_id`( )          |              |
+
+\newpage
+
+# II    Rekod Pindaan
+
+|Tarikh Pindaan|No Pindaan/No Keluaran|Rujukan Pindaan Mukasurat |Butir-butir Pindaan|Diluluskan Oleh|
+|-------------|-------------|-------------|-------------|-------------|
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+
+# III   Senarai Pemegang Dokumen
+
+| No. Salinan Terkawal   | Pemegang Dokumen              |
+|------------------------|-------------------------------|
+| `r params$doc_id`(01)  | `r a_list$pemilik_dok[1]`     |
+|                        |                               |
+| `r params$doc_id`(02)  | `r a_list$pemilik_dok[2]`     |
+|                        |                               |
+| `r params$doc_id`(03)  | `r a_list$pemilik_dok[3]`     |
+|                        |                               |
+| `r params$doc_id`(04)  | `r a_list$pemilik_dok[4]`     |
+|                        |                               |
+| `r params$doc_id`(05)  | `r a_list$pemilik_dok[5]`     |
+|                        |                               |
+| `r params$doc_id`(06)  | `r a_list$pemilik_dok[6]`     |
+|                        |                               |
+| `r params$doc_id`(07)  | `r a_list$pemilik_dok[7]`     |
+|                        |                               |
+| `r params$doc_id`(08)  | `r a_list$pemilik_dok[8]`     |
+|                        |                               |
+| `r params$doc_id`(09)  | `r a_list$pemilik_dok[9]`     |
+|                        |                               |
+| `r params$doc_id`(10)  | `r a_list$pemilik_dok[10]`    |
+|                        |                               |
+| `r params$doc_id`(11)  | `r a_list$pemilik_dok[11]`    |
+|                        |                               |
+| `r params$doc_id`(12)  | `r a_list$pemilik_dok[12]`    |
+|                        |                               |
+| `r params$doc_id`(13)  | `r a_list$pemilik_dok[13]`    |
+
+\newpage
+
+#   1.0 Pengenalan kepada Manual Kualiti
+
+##    1.1 Pendahuluan
+
+   Manual Kualiti ini adalah berdasarkan keperluan Sistem Pengurusan  Kualiti (MS ISO 9001:2015). Manual ini mengandungi maklumat organisasi, dasar kualiti dan objektif kualiti terhadap perkhidmatan kepada pelanggan berhubung proses perolehan, pemantauan dan penyampaian perkhidmatan projek integrasi sistem. Manual Kualiti ini disokong dengan dokumen prosedur kualiti dan dokumen-dokumen sokongan yang berkaitan seperti berikut:
+
+1.1.1. Companies Act 2016.
+
+1.1.2. Patents Act 1983.
+
+1.1.3. Patents Regulations 1986.
+
+1.1.4. Trade Marks Act 1976.
+
+1.1.5. Trade Marks Regulations 1997.
+
+1.1.6. Copyright Act 1987.
+
+1.1.7. Employment Act 1955.
+
+1.1.10. Industrial Relations Act 1967.
+
+1.1.9. Industrial Relations Regulations 1980.
+
+##    1.2 Tujuan
+
+   Manual Kualiti ini merupakan dokumen generik yang mengandungi maklumat-maklumat di dalam aspek pengurusan kualiti Syarikat sebagaimana berikut:
+
+ 1.2.1 Menerangkan maklumat am mengenai organisasi;
+
+ 1.2.2. Menjelaskan secara ringkas Sistem Pengurusan Kualiti MS ISO
+ 9001:2015 yang dilaksanakan Syarikat;
+ 
+ 1.2.3. Menggariskan dasar dan prinsip-prinsip asas bagi
+ aktiviti-aktiviti organisasi; dan
+
+ 1.2.4. Menjelaskan mengenai pengecualian aplikasi (exclusion) dalam
+ memenuhi keperluan MS ISO 9001:2015.
+
+##    1.3 Skop pelaksanaan MS ISO 9001:2015
+
+   Skop pelaksanaan Sistem Pengurusan Kualiti (QMS) ialah penyediaan bagi **Proses perolehan, pemantauan dan penyampaian perkhidmatan projek integrasi sistem**.
+
+##    1.4 Pengecualian aplikasi (Exclusions) pelaksanaan MS ISO 9001:2015
+
+   Syarikat hendaklah melaksanakan keperluan-keperluan MS ISO 9001:2015 kecuali keperluan-keperluan yang dinyatakan dibawah dan pengecualian  tersebut kerana pengurusan Syarikat tidak tertakluk kepada aktiviti mereka bentuk (Seksyen 8.3) dan tidak terlibat dengan penggunaan sebarang peralatan yang tertakluk untuk di tentu ukur (Seksyen 8.8).
+
+ 1.4.1. Seksyen 8.3 Rekabentuk Dan Pembangunan Produk dan Perkhidmatan; dan
+
+ 1.4.2. 7.1.5 Sumber pemantauan dan pengukuran.
+ 
+
+##    1.5 Kandungan manual
+
+Manual ini mengandungi sepuluh (10) bahagian yang meliputi perkara-perkara berikut:
+
+ Bahagian 1 - Pengenalan Kepada Manual Kualiti.
+
+ Bahagian 2 - Rujukan normatif.
+
+ Bahagian 3 - Istilah dan takrifan.
+
+ Bahagian 4 - Konteks organisasi.
+
+ Bahagian 5 - Kepimpinan.
+
+ Bahagian 6 - Perancangan.
+ 
+ Bahagian 7 - Sokongan.
+
+ Bahagian 8 - Operasi.
+
+ Bahagian 9 - Penilaian prestasi.
+ 
+ Bahagian 10 - Penambahbaikan.
+
+##    1.6 Penyediaan, kuatkuasa dan pengedaran
+
+   Manual Kualiti ini hanya terpakai dan berkuatkuasa setelah diluluskan oleh Ketua Pegawai Eksekutif (CEO). Manual Kualiti ini adalah Dokumen terkawal dan hanya diedarkan kepada pegawai-pegawai seperti di dalam senarai Pemegang Dokumen Terkawal di muka surat 6 dalam manual ini. Pemegang Dokumen ini akan  bertanggungjawab menyimpan dengan selamat dan mengemaskini Manual Kualiti ini mengikut arahan yang dikeluarkan oleh Wakil Pengurusan dari masa ke semasa.
+
+##    1.7 Penyelarasan pindaan (Lihat seksyen 4.4.2 Kawalan Dokumen).
+
+# 2 Rujukan normatif
+
+Keseluruhan atau sebahagian daripada dokumen yang berikut, dirujuk secara normatif dalam dokumen ini dan sangat diperlukan untuk penggunaannya. Bagi rujukan bertarikh, hanya edisi yang disebut diguna pakai. Bagi rujukan tidak bertarikh, edisi terkini dokumen yang dirujuk (termasuk sebarang pindaan) diguna pakai.
+
+#   3.0   Istilah dan takrifan
+
+## 3.1 Aduan
+
+  Perkara yang dikemukakan oleh pelanggan mengenai ketidakpuasan hati mereka ke atas pelaksanaan proses perolehan, pemantauan dan penyampaian perkhidmatan projek integrasi sistem Syarikat.
+
+## 3.2 Analisis risiko (Risk analysis)
+
+Penggunaan maklumat secara sistematik untuk mengenal pasti sumber dan menilai risiko.
+
+## 3.3 Pegawai Syarikat
+
+  Pengurus, eksekutif dan staf sokongan yang bertaraf tetap, kontrak atau sambilan yang terlibat dengan pengurusan QMS.
+
+## 3.4 Maklumbalas Pelanggan
+
+  Maklumbalas pelanggan meliputi komen atau cadangan bagi memperbaiki/ mempertingkatkan lagi sesuatu produk / perkhidmatan dan pengurusan operasi kerja.
+
+## 3.5 Pelanggan
+
+  Dalam konteks Syarikat dibahagikan kepada dua (2) kategori iaitu: Pelanggan luaran iaitu pembekal dan penerima perkhidmatan; dan pelanggan dalaman.
+
+## 3.6 Penghasilan Produk / Penyampaian Perkhidmatan
+
+  Hasil dari proses kerja yang telah dilaksanakan oleh kakitangan Syarikat.
+
+## 3.7 Pengurus Dokumen
+  
+  Pegawai yang dilantik oleh CEO bagi mengurus dan menyelenggara Dokumen Kualiti QMS MS ISO 9001:2015.
+
+## 3.8 Pegawai Integriti
+  
+  Pegawai yang dilantik oleh CEO yang bertanggungjawab menguruskan integriti dalam syarikat bagi membendung salahlaku  jenayah  serta  pelanggaran  tatakelakuan dan etika di kalangan pegawai syarikat.
+
+## 3.9 Wakil Pengurusan
+
+  Pegawai di peringkat pengurusan Syarikat yang telah dilantik oleh CEO sebagai Wakil Pengurusan. CEO boleh melantik seorang Timbalan Wakil Pengurusan untuk membantu secara sementara / tetap semasa ketiadaannya.
+
+# 4.0 Konteks organisasi
+
+## 4.1 Organisasi dan konteksnya
+
+###    4.1.1 Struktur dan pentadbiran
+
+ Diterajui oleh seorang Ketua Pegawai Eksekutif (CEO) dengan dibantu oleh ketua-ketua Jabatan yang berikut:
+
+ a. Jabatan Pengurusan (Management Dept.);
+
+ a. Jabatan Kewangan dan Pentadbiran (Finance and Admin Dept); 
+ 
+ a. Jabatan Jualan (Sales Dept.); dan
+
+ a. Jabatan Teknikal (Technical Dept.).
+
+###    4.1.2 Carta organisasi
+
+  Carta Organisasi Syarikat seperti di Lampiran A.
+
+###    4.1.3 Visi
+
+“We strive to be the best in supporting your mission and vision by providing the right solution”
+
+###    4.1.4 Misi
+
+“providing specialised solutions to our customers. Aside from the high quality of our services, our customers value us for our unique business approach.
+Characterized by three key features: Independence, Network and Regional Expertise”
+
+###    4.1.5 Objektif operasi
+
+“Assisting our clients by providing the best solution, to solve their toughest issues. We do it by providing a wide array of Military & Commercial ICT products, consultation and technical assistance.”
+
+  OpenApps (selepas ini dikenali sebagai Syarikat) perlu mewujud, mendokumen, melaksana dan menyenggara Sistem Pengurusan Kualiti (QMS) dan meningkatkan keberkesanannya secara berterusan selaras dengan keperluan standard. Untuk itu, Syarikat perlu:
+
+a.    Mengenalpasti proses-proses yang perlu ada dalam QMS Syarikat;
+
+b.    Menentukan turutan dan hubungkait di antara proses-proses ini;
+
+c.    Menentukan kriteria dan kaedah bagi menilai keberkesanan operasi dan kawalan ke atas
+proses-proses ini;
+
+d.    Memastikan sumber dan maklumat yang diperlukan disediakan untuk pelaksanaan dan pemantauan proses-proses ini;
+
+e.    Memantau dan menilai proses-proses ini; dan
+
+f.    Melaksanakan tindakan-tindakan yang perlu bagi memastikan pencapaian matlamat yang
+dirancang dan membuat penambahbaikan yang berterusan ke atas proses-proses ini.
+
+  Proses-proses ini hendaklah diuruskan oleh Syarikat selaras dengan keperluan standard antarabangsa ini. Sekiranya Syarikat memilih untuk mendapatkan khidmat luar bagi melaksanakan mana-mana proses yang memberi kesan kepada kualiti produk yang dihasilkan, proses-proses tersebut hendaklah dikawal. Kawalan ke atas proses ini hendaklah dijadikan sebahagian daripada QMS.  
+
+Nota: Proses-proses yang perlu ada dalam QMS hendaklah meliputi proses-proses pengurusan, penyediaan sumber, penghasilan produk dan proses penilaian. Dokumentasi QMS seperti senarai di Lampiran C, D dan E.
+
+##    4.2   Keperluan dan jangkaan pihak yang berkepentingan
+
+Pihak yang berkepentingan Syarikat terdiri dari:  
+  a.    Pelanggan;  
+  b.    Pembekal;  
+  c.    Pegawai dan staf syarikat; dan    
+  d.    Institusi kewangan.
+
+Keperluan dan jangkaan pihak yang berkepentingan dan saling tindak di lampiran I.
+
+##    4.3 Menentukan skop sistem pengurusan kualiti
+
+Syarikat setelah mengambil kira isu-isu dalaman dan luaran yang boleh memberi kesan kepada pelaksanaan QMS dengan memberi keutamaan kepada kepentingan pelanggan dan prestasi syarikat. Senarai isu-isu daripada proses pengurusan risiko (lampiran F).
+
+Oleh itu, Syarikat hendaklah mewujud dan menyelenggarakan Manual Kualiti bagi menjelaskan keperluan-keperluan berikut:
+
+a.    Manual Kualiti;
+
+b.    Dasar Kualiti dan Objektif Kualiti;
+
+c.    Pengecualian aplikasi (exclusion) yang menjelaskan pengecualian dalam pematuhan MS ISO 9001:2015;
+
+d.    Rujukan kepada prosedur-prosedur kualiti dan sokongan dalam QMS;
+
+e.    Huraian tentang prinsip-prinsip dalam merancang, melaksana dan memantau QMS; dan
+
+f.    Proses-proses yang dikenalpasti di dalam pelaksanaan QMS.
+
+##    4.4   Sistem pengurusan kualiti dan prosesnya
+
+###   4.4.1 Organisasi hendaklah mewujudkan, melaksanakan, menyelenggarakan dan menambah baik secara berterusan sistem pengurusan kualiti
+
+  Dokumentasi QMS akan meliputi rekod-rekod mengenai keputusan-keputusan pihak pengurusan Syarikat untuk memastikan tindakan-tindakan berkaitan pengurusan dan dasar dapat dikesan, dan memastikan keputusan yang direkodkan dapat dihasilkan semula. Sistem dokumentasi QMS mengandungi:
+
+a.    Manual kualiti;
+
+b.    Prosedur-prosedur Wajib, Operasi dan Sokongan yang perlu didokumenkan mengikut Standard MS ISO 9001:2015. Senarai proses kerja yang berkaitan adalah seperti senarai di Lampiran C, D dan E.
+
+c.    Dokumen-dokumen yang diperlukan oleh bagi memastikan perancangan, operasi dan kawalan ke atas proses dijalankan dengan berkesan; dan
+
+d.    Rekod-rekod yang diperlukan oleh standard MS ISO 9001:2015.
+
+### 4.4.2 Menyelenggarakan maklumat didokumentasikan
+
+#     5.0     Kepimpinan
+
+##    5.1     Kepimpinan dan komitmen
+
+###   5.1.1   Am
+
+Pengurusan atasan Syarikat sentiasa komited kepada pembangunan dan perlaksanaan QMS MS ISO 9001:2015, dan sentiasa berusaha secara berterusan untuk menambahbaik sistem bagi menjamin keberkesanannya dengan;
+
+a. Memastikan semua kakitangan memahami dan menghayati akan pentingnya kehendak pelanggan dipenuhi serta keperluan perundangan dan peraturan dipatuhi;
+
+b. Mewujud dan meluluskan Dasar dan Objektif Kualiti (sila rujuk seksyen 5.3 dan 6.2); Memastikan semua kakitangan sentiasa memahami Dasar Kualiti dan Objektif Kualiti bagi mematuhi QMS MS ISO 9001:2015;
+
+c. Mengadakan Kajian Semula Pengurusan (sila rujuk seksyen 9.3); dan
+
+d. Memastikan sumber tenaga manusia dan kewangan mengikut bidang atau kepakaran serta kemudahan peralatan dan ruang fizikal yang mencukupi.
+
+Pengurusan Syarikat akan memastikan:
+
+a. Perancangan QMS diwujudkan dan dilaksanakan untuk mencapai objektif kualiti yang telah ditetapkan;
+
+b. Pelan Kualiti dan Dokumen Kualiti yang diwujudkan, dilaksanakan bagi memenuhi kehendak pelanggan;
+
+c. Penyediaan Pelan Kualiti dan arahan kerja (di mana perlu), untuk menetapkan bagaimana objektif kualiti akan dicapai; dan
+
+d. Kakitangan Syarikat hendaklah memahami serta berupaya melaksanakan Pelan Kualiti tersebut.
+
+###   5.1.2     Fokus kepada pelanggan
+
+Pengurusan Syarikat akan memastikan keperluan pelanggan dikenalpasti, difahami dan dipenuhi dengan tujuan mempertingkatkan lagi kepuasan pelanggan melalui;
+
+5.2.1 Mewujud dan menyelenggarakan Piagam Pelanggan;
+
+5.2.2 Mewujudkan kaedah bagi pengendalian maklumbalas pelanggan serta cadangan-cadangan
+daripada pelanggan berhubung dengan perkhidmatan yang diberikan;
+
+5.2.3 Sentiasa mengkaji kehendak pelanggan bagi memastikan keperluan pelanggan dipenuhi berlandaskan dasar dan peraturan baharu yang diperkenalkan dari masa ke semasa; dan
+
+5.2.4 Sebarang keperluan baharu daripada pelanggan hendaklah diberi keutamaan selagi ianya tidak bercanggah dengan keperluan perundangan, misi dan visi Syarikat.
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+|`r doc_files$doc_id[doc_files$doc_id=="PK(S).OA.01"]` - `r doc_files$doc_title[doc_files$doc_id=="PK(S).OA.01"]`|
+
+##    5.2     Dasar
+
+###   5.2.1   Membangunkan dasar kualiti dan dasar integriti, akauntabiliti dan anti-rasuah
+
+Syarikat telah menggubal dasar kualiti yang berikut;
+
+> **“Sentiasa komited kepada penyediaan bagi proses perolehan, pemantauan dan penyampaian perkhidmatan projek integrasi sistem; dan sentiasa memenuhi keperluan pelanggan, seterusnya akan berusaha melaksanakan penambahbaikan yang berterusan ke atas QMS MS ISO 9001:2015”**. 
+
+Dasar Integriti, Akauntabiliti dan Anti-Rasuah
+
+Syarikat mengamalkan budaya kerja unggul  dengan  ciri-ciri  moral  dan  etika  yang  kukuh, oleh itu Syarikat telah menggubal dasar integriti, akauntabiliti dan anti-rasuah sebagai pandu arah di dalam setiap urusniaga;
+
+> "**Syarikat berpegang kepada nilai-nilai murni integriti dan akauntabiliti, dengan itu secara tegas menolak amalan-amalan rasuah untuk menjaga kredibiliti dan kepercayaan pelanggan kepada syarikat**".
+
+### 5.2.2 Mengkomunikasikan dasar kualiti dan dasar integriti
+
+Pengurusan Syarikat hendaklah memastikan dasar kualiti; dan dasar integriti, akauntabiliti dan anti-rasuah sentiasa:
+
+a)    Bersesuaian dengan halatuju Syarikat;
+
+b)    Dihayati dan difahami oleh semua kakitangan Syarikat;
+
+c)    Mempastikan ia dibawa ke dalam agenda Kajian Semula Pengurusan untuk mencapai kepuasan pelanggan yang berterusan;
+
+d)    Melaksanakan penambahbaikan bagi meningkatkan keberkesanan sistem secara berterusan;
+
+e)    Mempastikan QMS dikawal dan dikaji semula bagi menjamin kesesuaiannya yang berterusan; dan 
+
+f)    Mempastikan kedua-dua dasar digunapakai sebagai asas untuk merangka objektif kualiti.
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+|`r doc_files$doc_id[doc_files$doc_id=="PK(S).OA.08"]` - `r doc_files$doc_title[doc_files$doc_id=="PK(S).OA.08"]`|
+
+##    5.3   Peranan, tanggungjawab dan bidang kuasa organisasi
+
+###   5.3.1   Tanggungjawab dan kuasa
+
+Pengurusan Syarikat hendaklah mengenalpasti dan mendokumenkan tanggungjawab dan tugas-tugas setiap kakitangan. Tanggungjawab kakitangan dijelaskan melalui carta organisasi, senarai tugas, Fail Meja dan Piagam Pelanggan Syarikat.
+
+###   5.3.2   Wakil Pengurusan
+
+CEO hendaklah melantik Wakil Pengurusan yang akan mempunyai tanggungjawab berikut:
+
+a. Menyedia, melaksana dan menyelenggara QMS;
+
+b. Melapor kepada Pengurusan Syarikat mengenai kemajuan QMS;
+
+c. Memastikan kesedaran ke atas usaha-usaha penambahbaikan dimaklumkan kepada kakitangan;dan
+
+d. Berurusan dengan pihak luar mengenai perkara-perkara yang berkaitan dengan QMS. 
+
+CEO/Wakil Pengurusan boleh melantik seorang Timbalan Wakil Pengurusan yang akan bertanggungjawab membantu tugas Wakil Pengurusan secara sementara/tetap semasa ketiadaannya.
+
+# 6.0   Perancangan
+
+##    6.1   Tindakan menyatakan risiko dan peluang
+
+6.1.1 Syarikat setelah mengambil kira serta mempertimbangkan isu yang disebutkan dalam 4.1 dan keperluan yang disebutkan dalam 4.2 telah menentukan risiko dan peluang seperti di Lampiran G. Penilaian dan pengurusan risiko dilaksanakan bagi mencapai objektif-objektif berikut:
+
+a) memberi jaminan bahawa sistem pengurusan kualiti boleh mencapai hasil yang
+dimaksudkan;
+
+b) meningkatkan kesan yang diingini;
+
+c) mencegah, atau mengurangkan kesan yang tidak diingini;
+
+d) mencapai penambahbaikan.
+
+6.1.2 Organisasi hendaklah merancang:
+
+a) tindakan menyatakan risiko dan peluang;
+
+b) cara untuk:
+
+1) mengintegrasikan, dan melaksanakan tindakan itu ke dalam proses sistem pengurusan kualiti (lihat 4.4);  
+2) menilai keberkesanan tindakan ini.
+
+Tindakan yang diambil untuk menyatakan risiko dan peluang hendaklah setimpal dengan kesan yang mungkin wujud terhadap keakuran produk dan perkhidmatan.
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+|`r doc_files$doc_id[doc_files$doc_id=="RAM.OA.01"]` - `r doc_files$doc_title[doc_files$doc_id=="RAM.OA.01"]`|
+
+##    6.2   Objektif kualiti dan perancangan untuk mencapainya (Lihat Pengurusan Strategi dan prestasi)
+
+###   6.2.1   Objektif kualiti pada fungsi, aras dan proses yang relevan yang diperlukan
+
+Syarikat hendaklah mewujudkan objektif kualiti pada fungsi, aras dan proses yang relevan yang diperlukan untuk sistem pengurusan kualiti.   Objektif kualiti hendaklah:
+
+a) tekal dengan dasar kualiti;
+
+b) boleh diukur;
+
+c) mengambil kira keperluan yang diterima pakai;
+
+d) relevan dengan keakuran produk dan perkhidmatan, dan peningkatan kepuasan pelanggan;
+
+e) dipantau;
+
+f) dikomunikasikan;
+
+g) dikemas kini mengikut kesesuaian.
+
+### 6.2.2 Strategi dan perancangan untuk mencapai objektif kualiti
+
+Pengurusan Syarikat akan memastikan objektif kualiti termasuk keperluan-keperluan penyampaian perkhidmatan diwujudkan bagi aktiviti yang relevan kepada pencapaian dasar kualiti. Objektif-objektif ini diukur dan selaras dengan dasar kualiti. Objektif-objektif kualiti Syarikat diukur dan dipantau menggunakan pendekatan Balanced Scorecard (BSC). Senarai objektif kualiti dan pengukuran seperti di lampiran H.
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+|`r doc_files$doc_id[doc_files$doc_id=="BSC.OA.01"]` - `r doc_files$doc_title[doc_files$doc_id=="BSC.OA.01"]`|
+
+##    6.3   Merancang perubahan
+
+Apabila syarikat menentukan keperluan untuk mengubah sistem pengurusan kualiti, perubahan itu hendaklah dilaksanakan dengan cara yang terancang (lihat 4.4). Syarikat hendaklah memberi pertimbangan terhadap:
+
+a) tujuan perubahan dan kesan yang mungkin timbul;
+
+b) integriti sistem pengurusan kualiti;
+
+c) ketersediaan sumber;
+
+d) pengagihan atau pengagihan semula tanggungjawab dan bidang kuasa.
+
+# 7.0 Sokongan
+
+## 7.1 Sumber
+
+### 7.1.1 Am
+
+Pihak pengurusan Syarikat akan menentukan dan menyediakan sumber yang diperlukan bagi mewujudkan, melaksanakan, menyelenggarakan, dan menambah baik secara berterusan sistem pengurusan kualiti.
+
+Ianya dilaksanakan dengan memberi pertimbangan terhadap:
+
+a) keupayaan dan kekangan sumber dalaman sedia ada;
+
+b) apa yang perlu diperoleh daripada penyedia luar.
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+|`r doc_files$doc_id[doc_files$doc_id=="PK(S).OA.05"]` - `r doc_files$doc_title[doc_files$doc_id=="PK(S).OA.05"]`|
+
+### 7.1.2 Modal insan
+
+#### 7.1.2.1 Am
+
+Syarikat hendaklah mempastikan kakitangan-kakitangan mempunyai kemahiran dan kepakaran dalam bidang kerja yang dipertanggungjawabkan. Keperluan sumber manusia hendaklah dirancang mengikut proses yang ditetapkan oleh CEO dan pihak pengurusan.
+
+### 7.1.3 Prasarana
+
+Pihak pengurusan Syarikat komited dalam menyediakan kemudahan prasarana bagi mengendalikan proses perolehan pemantauan dan penyampaian perkhidmatan projek integrasi sistem yang cekap dan berkesan. Kemudahan prasarana dan penyelenggaraan termasuk:
+
+a.  Bangunan, ruang pejabat staf, ruang rehat, stor, bilik komputer, ruang menunggu, ruang tamu dan surau;
+
+b.  Peralatan berkaitan perkakasan dan perisian sistem maklumat yang digunakan;
+
+c.  Kemudahan percetakan;
+
+d.  Kemudahan komunikasi; dan
+
+e.  Kemudahan pengangkutan.
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+|`r doc_files$doc_id[doc_files$doc_id=="PK(S).OA.06"]` - `r doc_files$doc_title[doc_files$doc_id=="PK(S).OA.06"]`|
+|`r doc_files$doc_id[doc_files$doc_id=="PK(S).OA.07"]` - `r doc_files$doc_title[doc_files$doc_id=="PK(S).OA.07"]`|
+
+### 7.1.4. Persekitaran untuk operasi proses
+
+Pengurusan Syarikat hendaklah memastikan dan menyediakan persekitaran kerja yang kondusif dan ceria serta mengutamakan budaya kualiti dan etika kerja yang memberi kesan positif ke atas produktiviti kakitangan Syarikat. Pengurusan Syarikat akan memastikan penyelenggaraan dan pengurusan ruang-ruang kerja adalah memenuhi keperluan kakitangan sebagaimana yang ditetapkan mengikut peraturan am keselamatan, kebajikan, kesihatan dan keselesaan persekitaran di tempat
+kerja.
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+|`r doc_files$doc_id[doc_files$doc_id=="PK(S).OA.06"]` - `r doc_files$doc_title[doc_files$doc_id=="PK(S).OA.06"]`|
+|`r doc_files$doc_id[doc_files$doc_id=="PK(S).OA.07"]` - `r doc_files$doc_title[doc_files$doc_id=="PK(S).OA.07"]`|
+
+### 7.1.5 Sumber pemantauan dan pengukuran
+
+#### 7.1.5.1 Am
+
+#### 7.1.5.2 Kebolehkesanan pengukuran
+
+Pengurusan Syarikat tidak menggunapakai Seksyen 7.1.5 iaitu sumber pemantauan dan pengukuran kerana perkhidmatan yang diberikan kepada pelanggan tidak melibatkan sebarang alatan pengukuran.
+
+### 7.1.6 Pengetahuan organisasi
+
+Pihak pengurusan Syarikat hendaklah menentukan pengetahuan yang diperlukan untuk operasi prosesnya dan bagi mencapai keakuran produk dan perkhidmatan. Keperluan yang dikenalpasti perlu dipantau secara berkala menggunakan kaedah BSC yang ditetapkan.
+
+Pengetahuan ini hendaklah diselenggarakan dan tersedia setakat yang perlu.
+
+## 7.2 Kekompetenan
+
+Pihak pengurusan Syarikat akan memastikan semua kakitangan Syarikat yang berkenaan adalah cekap untuk melaksanakan tugas-tugas serta jelas mengenai tanggungjawab seperti dikehendaki oleh standard. Pengurusan Syarikat hendaklah:
+
+a. Memastikan semua kakitangan mempunyai kelayakan dan kebolehan yang diperlukan;
+
+b. Menilai keberkesanan latihan yang diikuti oleh warga Syarikat;
+
+c. Memastikan kakitangan yang terlibat mempunyai kemahiran dan diberi latihan dalam bidang yang berkaitan;
+
+d. Menyelenggara rekod-rekod pengendalian latihan, keterampilan dan kelayakan;
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+|`r doc_files$doc_id[doc_files$doc_id=="PK(S).OA.04"]` - `r doc_files$doc_title[doc_files$doc_id=="PK(S).OA.04"]`|
+|`r doc_files$doc_id[doc_files$doc_id=="PK(S).OA.08"]` - `r doc_files$doc_title[doc_files$doc_id=="PK(S).OA.08"]`|
+
+## 7.3 Kesedaran
+
+Pengurusan Syarikat bertanggungjawab memastikan bahawa pegawai dan staf di bawah kawalannya mengetahui tentang:
+
+  a. dasar kualiti;
+
+  b. objektif kualiti yang relevan;
+
+  c. sumbangan mereka kepada keberkesanan sistem pengurusan kualiti, termasuk manfaat prestasi yang ditambah baik; dan
+
+  d. implikasi jika tidak mengakuri keperluan sistem pengurusan kualiti.
+
+## 7.4 Komunikasi
+
+Pengurusan Syarikat memastikan kaedah komunikasi dalaman yang sesuai diwujudkan melalui instrumen berikut:
+
+| Komunikasi | Tujuan | Medium | Kekerapan | Penglibatan |
+|---|---|---|---|---|
+| Bilik Sumber | Bahan rujukan, ilmiah & dokumentasi | Individu, berkumpulan | Mengikut keperluan | Pengurusan, staf,<br>Tim projek,<br>Pelanggan<br> |
+| Buletin | Kenyataan, berita dan hebahan | Elektronik | Mengikut keperluan | Pengurusan, staf,<br>Tim projek,<br>Pelanggan<br> |
+| Laman Web | Kenyataan, berita dan hebahan | Elektronik | Mengikut keperluan | Pengurusan, staf,<br>Tim projek,<br>Pelanggan<br> |
+| Memo Dalaman | Direktif, Hebahan rasmi dan <br>maklumat terklasifikasi | Fizikal dan elektronik | Mengikut keperluan | Pengurusan, staf dan<br>Tim projek |
+| Mesyuarat Pengurusan | Proses kerja dan prestasi, laporan | Bersemuka, video | Bulanan | Pengurusan, staf dan<br>Tim projek |
+| Papan Kenyataan | Kenyataan, berita dan hebahan | Fizikal | Mengikut keperluan | Pengurusan, staf,<br>Tim projek,<br>Pelanggan<br> |
+| Perbincangan di peringkat Jabatan dan Unit | Proses kerja dan prestasi, laporan | Bersemuka, video | Bulanan/Mingguan | Pengurusan, staf dan<br>Jabatan/Unit |
+| Perhimpunan Tahunan | Pemakluman, sesi motivasi,anugerah/<br>award | Bersemuka | Tahunan | Pengurusan, staf,<br>Tim projek,<br>Pelanggan<br> |
+| Peti Cadangan dan Aduan | Maklum balas dan aduan | Borang maklum balas/<br>aduan | Mengikut keperluan | Pelanggan luaran/<br>dalaman |
+| Sesi Pembelajaran Berterusan | Proses kerja dan prestasi, laporan, <br>pengetahuan organisasi | Bersemuka, video | Bulanan/Mingguan | Pengurusan, staf dan<br>Jabatan/Unit |
+| Sesi Taklimat dan Perbincangan | Proses kerja dan prestasi, laporan | Bersemuka, video | Bulanan/Mingguan | Pengurusan, staf dan<br>Jabatan/Unit |
+
+## 7.5 Maklumat didokumentasikan
+
+### 7.5.1 Am
+
+QMS Syarikat telah mengambilkira setiap keperluan didokumentasikan dengan merujuk dan mematuhi Standard Antarabangsa.
+
+### 7.5.2 Mewujudkan dan mengemas kini
+
+  Dokumentasi QMS akan meliputi rekod-rekod mengenai keputusan-keputusan pihak pengurusan Syarikat untuk memastikan tindakan-tindakan berkaitan pengurusan dan dasar dapat dikesan, dan memastikan keputusan yang direkodkan dapat dihasilkan semula. (Lihat Seksyen 4.4.1)
+  
+### 7.5.3 Kawalan maklumat didokumentasikan
+
+Syarikat memastikan maklumat didokumentasikan yang diperlukan oleh QMS adalah mematuhi Standard Antarabangsa dan dikawal.
+
+Kawalan Dokumen
+
+  Prosedur bagi kawalan dokumen disediakan meliputi perkara-perkara berikut:
+
+a.    Kelulusan dokumen sebelum diedarkan;
+
+b.    Mengkaji semula dan pengemaskinian di mana perlu serta meluluskannya;
+
+c.    Memastikan perubahan dan status dokumen terkini dikenalpasti;
+
+d.    Memastikan versi dokumen terkini yang berkaitanboleh dirujuk bila diperlukan;
+
+e.    Memastikan dokumen dapat dirujuk dan dikenalpasti pada bila-bila masa;
+
+f.    Memastikan dokumen luaran dikenalpasti dan pengedarannya dikawal; dan
+
+g.    Menghalang daripada dokumen usang digunakan dan dokumen ini perlu ditandakan, sekiranya disimpan untuk sebarang tujuan.
+
+  Kawalan Ke Atas Dokumen dilaksanakan sebagaimana berikut:
+
+a.    Dokumen Kualiti yang perlu dikawal ialah Manual Kualiti, Prosedur Kualiti, Arahan Kerja dan Dokumen-dokumen Sokongan termasuk kawalan ke atas dokumen luaran.
+
+b.    Wakil Pengurusan adalah bertanggungjawab untuk memastikan dokumen-dokumen kualiti yang dirujuk dalam QMS adalah terkini dan ditempatkan di Bilik Fail, dikawal oleh Pengurus Dokumen dan hendaklah mudah dirujuk oleh kakitangan yang memerlukan. Jika dokumen kualiti disimpan secara elektronik sistem ‘Back-up’ hendaklah diwujudkan.
+
+c.    Setiap keluaran dokumen kualiti yang baharu akan diberikan nombor rujukan identifikasi dan dicatat nombor keluaran dan tarikh kuatkuasa. Jika ada dokumen kualiti yang dibuat pindaan, muka surat yang berkaitan dengan pindaan tersebut akan digantikan, berserta dengan nombor pindaan dan tarikh kuatkuasa baharu.
+
+d.    Pemegang dokumen dan nombor salinan dokumen dikenalpasti melalui senarai edaran. Senarai edaran diselenggarakan oleh Pengurus Dokumen. Pemegang Dokumen adalah dipertanggungjawabkan untuk mengemaskini pindaan terkini dalam Dokumen Terkawal yang diedarkan sebelum ini.
+
+e.    Dokumen Kualiti yang perlu diedarkan kepada Eksekutif sepertimana senarai pemegang dokumen terkawal di muka surat 6 ditanda sebagai **SALINAN DOKUMEN TERKAWAL** di setiap muka surat dokumen.
+
+f.    Satu senarai induk yang mengandungi semua dokumen kualiti yang digunakan dalam QMS berkenaan disediakan didalam Manual Kualiti di Lampiran C hingga E. Senarai ini dikemaskini dari semasa ke semasa apabila berlaku perubahan.
+
+g.    Seorang Pengurus Dokumen hendaklah dilantik oleh CEO bagi menyelenggara naskah dokumen Terkawal, menyelaras pindaan dokumen dan edaran serta mengemaskini senarai edaran dokumen.
+
+h.    Dokumen kualiti hendaklah disediakan dalam dua bentuk. Pertama dalam salinan cetakan dan kedua melalui sistem Elektronik.
+
+Pindaan Dokumen
+
+  Pindaan dokumen kualiti berpandukan kepada kriteria-kriteria yang berikut:
+  
+a.    Jika ada dokumen kualiti yang dibuat pindaan, muka surat yang berkaitan dengan pindaan tersebut akan digantikan, berserta dengan nombor pindaan dan tarikh kuatkuasa baharu. Pindaan yang melebihi 50% keseluruhan Dokumen akan diganti seluruhnya dengan nombor keluaran yang terbaharu diberikan dan tarikh kuatkuasanya dimaklumkan. CEO boleh menggunakan budibicara untuk mengarahkan dokumen baharu disediakan walaupun kandungan pindaan tidak mencapai 50%.
+
+b.    Sebarang pindaan Dokumen mestilah mendapat kelulusan daripada CEO.
+
+c.    Wakil Pengurusan bertanggungjawab mengedarkan semua pindaan kepada Pengurus Dokumen. Pengurus Dokumen bertanggungjawab mengemaskini dan memasukkan semua pindaan berkaitan dan mengeluarkan dokumen yang dibatalkan serta melupuskannya mengikut kaedah yang ditetapkan oleh CEO.
+
+d.    Jika keseluruhan Dokumen Terkawal dipinda, dokumen asal perlu dikembalikan kepada Wakil Pengurusan dan digantikan dengan Dokumen Terkawal yang terkini.
+
+e.    Satu salinan Dokumen Terkawal asal yang tidak dipinda perlu disimpan dan ditanda **BATAL** dengan dakwat berwarna **MERAH.** Senarai Pindaan yang berkaitan juga perlu dikemaskini.
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+|`r doc_files$doc_id[doc_files$doc_id=="PK(W).OA.01"]` - `r doc_files$doc_title[doc_files$doc_id=="PK(W).OA.01"]`|
+  
+# 8.0 Operasi 
+
+Proses perolehan, pemantauan dan penyampaian perkhidmatan projek integrasi sistem.
+
+## 8.1. Perancangan dan kawalan operasi
+
+Pengurusan Syarikat akan menentukan Objektif Kualiti dan proses-proses kerja didokumen dan dilaksanakan bagi memastikan keperluan-keperluan pelanggan dan arahan-arahan serta pekeliling-pekeliling berkaitan yang berkuatkuasa dipatuhi. Pengurusan Syarikat akan menentukan pendekatan proses yang terancang meliputi proses perolehan, pemantauan dan penyampaian perkhidmatan projek integrasi sistem; seperti berikut:
+
+8.1.1 Objektif Kualiti dan Dasar Kualiti bagi proses perolehan, pemantauan dan penyampaian perkhidmatan projek integrasi sistem yang terlibat;
+
+8.1.2 Keperluan untuk membangunkan proses-proses dalam QMS, Dokumen-dokumen kualiti dan penyediaan sumber-sumber serta proses perolehan, pemantauan dan penyampaian perkhidmatan projek integrasi sistem yang terlibat;
+
+8.1.3 Penyediaan perancangan bagi keperluan, verifikasi, validasi, pemantauan serta penilaian bagi keseluruhan proses-proses perolehan, pemantauan dan penyampaian perkhidmatan projek integrasi sistem yang berkaitan supaya perkhidmatan yang dihasilkan memenuhi keperluan kualiti yang ditetapkan;
+
+8.1.4 Rekod-rekod yang diperlukan diselenggarakan sebagai bukti dari perlaksanaan QMS MS ISO 9001:2015; dan
+
+8.1.5 Proses-proses yang terlibat di dalam penyediaan perkhidmatan proses perolehan, pemantauan dan penyampaian perkhidmatan projek integrasi sistem dijelaskan secara ringkas yang terdapat di Carta Pemetaan Proses di Lampiran B.
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+|`r doc_files$doc_id[doc_files$doc_id=="PK(O).OA.01"]` - `r doc_files$doc_title[doc_files$doc_id=="PK(O).OA.01"]`|
+|`r doc_files$doc_id[doc_files$doc_id=="PK(O).OA.02"]` - `r doc_files$doc_title[doc_files$doc_id=="PK(O).OA.02"]`|
+
+## 8.2 Keperluan untuk produk dan perkhidmatan 
+
+### 8.2.1 Komunikasi dengan pelanggan
+
+Pengurusan Syarikat akan menyediakan kemudahan komunikasi yang terancang dan berkesan dengan pelanggan melalui:
+
+| Komunikasi | Tujuan | Medium | Kekerapan | Penglibatan |
+|---|---|---|---|---|
+| Bilik Sumber | Bahan rujukan, ilmiah & maklumat syarikat | Individu, berkumpulan | Mengikut keperluan | Pelanggan |
+| Buletin | Kenyataan, promosi dan hebahan | Elektronik | Mengikut keperluan | Pelanggan |
+| Laman Web | Kenyataan, berita dan hebahan | Elektronik | Mengikut keperluan | Pelanggan |
+| Papan Kenyataan | Kenyataan, berita dan hebahan | Fizikal | Mengikut keperluan | Pelanggan |
+| Mesyuarat pengurusan projek | Proses kerja dan prestasi, laporan | Bersemuka, video | Bulanan/Mingguan | Pengurusan, Pengurus Projek<br> dan pelanggan |
+| Perhimpunan Tahunan | Pemakluman, sesi motivasi,anugerah/<br>award | Bersemuka | Tahunan | Pengurusan, staf,<br>Tim projek,<br>Pelanggan<br> |
+| Peti Cadangan dan Aduan | Maklum balas dan aduan | Borang maklum balas/<br>aduan | Mengikut keperluan | Pelanggan luaran/<br>dalaman |
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+|`r doc_files$doc_id[doc_files$doc_id=="PK(S).OA.01"]` - `r doc_files$doc_title[doc_files$doc_id=="PK(S).OA.01"]`|
+
+### 8.2.2 Menentukan keperluan untuk produk dan perkhidmatan
+
+Pengurusan Syarikat akan menentukan bahawa proses perolehan, pemantauan projek dan penyampaian perkhidmatan integrasi sistem dijalankan meliputi perkara-perkara berikut:
+
+a. Memastikan keperluan dinyatakan oleh pelanggan yang meliputi proses penerimaan dan selepas penerimaan perkhidmatan yang disampaikan;
+
+b. Keperluan yang tidak dinyatakan oleh pelanggan dan didapati perlu untuk dinyatakan;
+
+c. Memenuhi syarat dan peraturan perundangan yang berkaitan dengan produk atau perkhidmatan;
+
+d. Lain-lain keperluan tambahan yang ditentukan oleh organisasi;
+
+e. Menyediakan kemudahan teknologi maklumat yang mudah diguna serta sesuai dengan teknologi terkini dengan kemampuan dan keperluan semasa;
+
+f. Memastikan proses perolehan, pemantauan projek dan penyampaian perkhidmatan integrasi sistem mengikut spesifikasi yang telah diluluskan; dan
+
+g. Memastikan penilaian bagi pengendalian proses perolehan, pemantauan projek dan penyampaian perkhidmatan projek integrasi sistem dilaksanakan mengikut prosedur atau proses kerja yang ditetapkan.
+
+### 8.2.3 Kajian semula keperluan untuk produk dan perkhidmatan
+
+Pengurusan Syarikat akan mengkaji semula kehendak-kehendak pelanggan sebelum memberi sesuatu perkhidmatan pelanggan. Kajian semula ini sekurang-kurangnya mengandungi ciri-ciri berikut:
+
+a. Kajian semula keperluan proses perolehan, pemantauan projek dan penyampaian perkhidmatan projek integrasi sistem mengambil kira cadangan-cadangan pelanggan selagi ia tidak bercanggah dengan Akta dan Peraturan yang berkaitan;
+
+b. Sekiranya berlaku sebarang perubahan kepada keperluan-keperluan produk atau perkhidmatan, pengurusan Syarikat akan memastikan semua dokumen yang terlibat diselaraskan melalui pindaan prosedur kualiti yang terlibat. Sebarang perubahan berlaku akan dimaklumkan kepada semua yang terlibat dan latihan tambahan akan diberikan mengikut keperluan semasa; dan
+
+c. Pengurusan Syarikat hendaklah mengambil kira semua keperluan-keperluan terkini yang ditetapkan dari semasa ke semasa.
+
+## 8.3 Reka bentuk dan pembangunan produk dan perkhidmatan
+
+Pengurusan Syarikat tidak menggunapakai Seksyen 8.3 iaitu rekabentuk dan pembangunan produk dan perkhidmatan kerana perkhidmatan yang diberikan kepada pelanggan tidak melibatkan sebarang aktiviti rekabentuk.
+
+## 8.4 Kawalan terhadap proses, produk dan perkhidmatan sediaan luar
+
+Am 
+
+Pengurusan Syarikat hendaklah melaksanakan dan menyelenggara prosedur-prosedur yang telah didokumenkan bagi menentukan produk dan perkhidmatan yang diperolehi secara pembelian sentiasa memenuhi keperluan dan perundangan yang berkuat kuasa.
+
+### 8.4.1 Proses perolehan
+
+Pengurusan Syarikat hendaklah menguruskan aktiviti perolehan bekalan produk dan perkhidmatan mengikut peraturan kewangan yang ditetapkan oleh Perbendaharaan Malaysia melalui kaedah-kaedah berikut:
+
+a. Pembelian terus;
+
+a. Sebut harga; dan
+
+a. Tender.
+
+### 8.4.2 Maklumat perolehan
+
+Maklumat perolehan bagi bekalan dan perkhidmatan yang diperolehi hendaklah dinyatakan dengan jelas dalam dokumen berikut:
+
+a. Pesanan Tempatan;
+
+a. Spesifikasi kerja/ produk;
+
+a. Spesifikasi penyerahan yang ditentukan oleh Syarikat;
+
+a. Dokumen sebut harga;
+
+a. Dokumen Tender;
+
+a. Dokumen perolehan hendaklah diluluskan oleh Eksekutif yang diberikan kuasa sebelum diserahkan kepada pembekal; dan
+
+a. Verifikasi ke atas bahan yang diperolehi.
+
+Bekalan dan perkhidmatan yang diterima daripada pembekal perlu diperiksa bagi memastikan ia memenuhi spesifikasi dan keperluan yang dinyatakan dalam dokumen perolehan.
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+|`r doc_files$doc_id[doc_files$doc_id=="PK(S).OA.03"]` - `r doc_files$doc_title[doc_files$doc_id=="PK(S).OA.03"]`|
+
+## 8.5 Penyediaan pengeluaran dan perkhidmatan (Proses Penyampaian Perkhidmatan Perolehan, Pemantauan Projek dan Penyampaian Perkhidmatan Integrasi Sistem)
+
+### 8.5.1 Kawalan penyediaan pengeluaran dan perkhidmatan
+
+Syarikat hendaklah menentukan supaya semua proses pengendalian perkhidmatan dokumentasi dijalankan dibawah keadaan terkawal. Keadaan terkawal akan mengandungi sekurang-kurangnya:
+
+a. Prosedur yang telah didokumenkan menetapkan cara-cara pelaksanaan sesuatu perkhidmatan;
+
+b. Memenuhi standard atau kod rujukan dan prosedur-prosedur yang telah didokumenkan;
+
+c. Penggunaan peralatan yang sesuai;
+
+d. Mengesan dan mengawal parameter proses perolehan, pemantauan projek dan penyampaian perkhidmatan integrasi sistem yang sesuai;
+
+e. Pengawalan dan penilaian proses perolehan, pemantauan dan penyampaian perkhidmatan projek integrasi sistem;
+
+f. Memastikan kakitangan yang terlibat dalam proses perolehan, pemantauan projek dan penyampaian perkhidmatan integrasi sistem adalah terlatih, mahir dan berkualiti serta memastikan kakitangan yang terlibat sentiasa memenuhi keperluan kualiti yang ditetapkan oleh pengurusan Syarikat; dan
+
+g. Menyediakan maklumat mengenai proses perolehan, pemantauan projek dan penyampaian perkhidmatan integrasi sistem untuk keperluan pelanggan.
+
+### 8.5.2 Pengenalpastian dan kebolehkesanan
+
+Pengurusan Syarikat akan memastikan proses pengenalpastian dan kebolehkesanan bagi proses-proses yang terlibat dilaksanakan untuk mencapai hasil seperti yang dirancang. Ini bagi mengenalpasti kelemahan yang berlaku setelah penyampaian perkhidmatan dilaksanakan. Pengenalpastian dan kebolehkesanan ini bertujuan untuk mencapai kualiti penyediaan perkhidmatan dokumentasi seperti yang dirancangkan. Untuk tujuan tersebut, pengurusan Syarikat akan menentukan perkara-perkara berikut:
+
+a. Kajian semula sistem dan teknik kemahiran terkini;
+
+b. Meningkatkan pengetahuan dan kemahiran kakitangan sesuai dengan perkhidmatan dokumentasi yang dirancang;
+
+c. Menggunakan kaedah dan prosedur khusus yang ditetapkan oleh perkhidmatan; dan
+
+d. Menyediakan peralatan yang bersesuaian dan mencukupi.
+
+Syarikat hendaklah mengenalpasti dan mewujudkan rekod bagi tujuan identifikasi dan kemudahkesanan penyimpanan dokumen. Penyusunan dokumen-dokumen di dalam rak dikesan melalui nombor panggilan.
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+|`r doc_files$doc_id[doc_files$doc_id=="PK(W).OA.02"]` - `r doc_files$doc_title[doc_files$doc_id=="PK(W).OA.02"]`|
+
+### 8.5.3 Harta kepunyaan pelanggan atau penyedia luar
+
+Pengurusan Syarikat tidak menyimpan harta milik pelanggan.
+
+### 8.5.4 Pemeliharaan
+
+Pengurusan Syarikat bertanggungjawab mewujudkan prosedur penyimpanan dokumen di Bilik Fail bagi mengelakkan kerosakan dan memudahkan dokumen diperolehi apabila diperlukan. Semua bahan disimpan dalam persekitaran yang sesuai untuk mengelak kerosakan.
+
+### 8.5.5 Aktiviti selepas hantar serah
+
+Pengurusan Syarikat hendaklah memenuhi keperluan bagi aktiviti selepas hantar serah yang berkaitan dengan produk dan perkhidmatan.
+
+Dalam menentukan tahap aktiviti yang diperlukan selepas hantar serah, organisasi hendaklah mengambil kira:
+
+a) keperluan berkanun dan peraturan;
+
+b) akibat tidak diingini yang mungkin timbul berkaitan produk dan perkhidmatannya;
+
+c) keadaan, kegunaan serta hayat produk dan perkhidmatan yang dimaksudkan;
+
+d) keperluan pelanggan;
+
+e) maklum balas pelanggan.
+
+NOTA. Aktiviti selepas hantar serah boleh termasuk tindakan di bawah peruntukan waranti, obligasi
+kontraktual seperti perkhidmatan penyelenggaraan, dan perkhidmatan tambahan seperti kitar semula
+atau pelupusan akhir.
+
+### 8.5.6 Kawalan perubahan
+
+Pengurusan Syarikat hendaklah menyemak semula dan mengawal perubahan terhadap pengeluaran atau penyediaan perkhidmatan, 
+setakat yang perlu bagi memastikan keakuran berterusan terhadap keperluan. Pengurusan Syarikat hendaklah mengekalkan maklumat didokumentasikan yang memerihalkan hasil kajian semula perubahan, orang yang membenarkan perubahan, dan apa-apa tindakan yang perlu hasil daripada kajian semula itu.
+
+## 8.6 Pelepasan produk dan perkhidmatan
+
+Pengurusan Syarikat hendaklah melaksanakan perkiraan terancang, pada tahap yang sesuai, untuk menentusahkan bahawa keperluan produk dan perkhidmatan telah dipenuhi.
+
+Pelepasan produk dan perkhidmatan kepada pelanggan tidak perlu diteruskan sehingga perkiraan terancang disiapkan dengan memuaskan, melainkan jika diluluskan sebaliknya oleh pihak berkuasa yang relevan dan, jika berkenaan, oleh pelanggan.
+
+Pengurusan Syarikat hendaklah mengekalkan maklumat didokumentasikan tentang pelepasan produk dan perkhidmatan. Maklumat didokumentasikan ini hendaklah termasuk:
+
+a) bukti keakuran terhadap kriteria penerimaan;
+
+b) kebolehkesanan orang yang membenarkan pelepasan.
+
+## 8.7 Kawalan output tak akur
+
+### 8.7.1 Organisasi hendaklah memastikan bahawa output tak akur terhadap keperluannya dikenal pasti dan dikawal bagi mencegah penggunaan atau hantar serah yang tidak dimaksudkan.
+
+Pengurusan Syarikat hendaklah menyediakan prosedur bagi memastikan produk sentiasa memenuhi keperluan yang ditetapkan. Pengurusan Syarikat akan mengenalpasti output tak akur dan pengasingan dilakukan serta tindakan pembetulan akan dilaksanakan berdasarkan prosedur tindakan pembetulan yang berkuatkuasa. Output tak akur adalah dokumen-dokumen proses perolehan, pemantauan projek dan penyampaian perkhidmatan integrasi sistem yang tidak diselenggara dengan betul. Semua output tak akur hendaklah dikenalpasti oleh Pengurusan Syarikat bagi menentukan sebarang kepincangan atau ketidakpatuhan akan diambil tindakan pembetulan, pencegahan serta penambahbaikan yang diperlukan.
+
+### 8.7.2 Organisasi hendaklah mengekalkan maklumat didokumentasikan yang:
+
+a) memerihalkan ketakakuran;
+
+b) memerihalkan tindakan yang diambil;
+
+c) memerihalkan apa-apa konsesi yang diperoleh;
+
+d) mengenal pasti kuasa yang memutuskan tindakan berkenaan dengan ketakakuran.
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+|`r doc_files$doc_id[doc_files$doc_id=="PK(W).OA.06"]` - `r doc_files$doc_title[doc_files$doc_id=="PK(W).OA.06"]`|
+
+#   9.0   Penilaian prestasi
+
+##    9.1   Pemantauan, pengukuran, analisis dan penilaian
+
+###   9.1.1   Am
+
+Pengurusan Syarikat hendaklah merancang, mewujud dan melaksanakan proses pemantauan bagi pengukuran, analisis dan penambahbaikan QMS. Pengurusan Syarikat hendaklah menyediakan prosedur bagi memantau dan mengukur proses perolehan, pemantauan projek dan penyampaian perkhidmatan integrasi sistem dilaksanakan secara berterusan. Pengurusan Syarikat hendaklah mengguna pakai teknik-teknik statistik bagi tujuan penambah baikan yang berterusan.
+
+###   9.1.2   Kepuasan pelanggan
+
+Pengurusan Syarikat menyediakan kaedah untuk mengukur kepuasan pelanggan tehadap perkhidmatan yang dibekalkan. Kepuasan pelanggan diukur melalui kaedah maklumbalas pelanggan, Audit dalaman dan hendaklah dibentangkan dalam Mesyuarat Kajian Semula Pengurusan.
+
+###    9.1.3   Analisis dan penilaian
+
+Pengurusan Syarikat hendaklah mengenalpasti kaedah bagi menganalisis data yang berkaitan dalam menentukan pelaksanaan QMS sentiasa berkesan. Analisis data akan meliputi sumber-sumber bagi tindakan penambahbaikan ke atas QMS. Analisis data hendaklah menyalurkan maklumat-maklumat berikut:
+
+a) keakuran produk dan perkhidmatan;
+
+b) tahap kepuasan pelanggan;
+
+c) prestasi dan keberkesanan sistem pengurusan kualiti;
+
+d) sama ada perancangan telah dilaksanakan dengan berkesan;
+
+e) keberkesanan tindakan yang diambil bagi menangani risiko dan peluang;
+
+f) prestasi penyedia luar;
+
+g) keperluan untuk menambah baik sistem pengurusan kualiti
+
+##    9.2   Audit dalaman
+
+###   9.2.1   Am
+
+Audit dalaman hendaklah dijadualkan dan dijalankan oleh Eksekutif terlatih dan laporan Audit dalaman dibentangkan dalam Mesyuarat Kajian Semula Pengurusan dan hendaklah mengambil tindakan pembetulan ke atas kelemahan yang dikesan. Audit susulan akan dijalankan untuk mengesan keberkesanan tindakan pembetulan dan laporan susulan disediakan bagi makluman kepada Pengurusan Syarikat.
+
+Pengurusan Syarikat akan melatih dan melantik Juru Audit dalaman untuk menjalankan Audit dalaman sekurang-kurangnya dua kali setahun untuk memastikan QMS memenuhi perkara-perkara berikut;
+
+a. Selaras dengan perancangan strategik dan objektif kualiti;
+
+b. QMS dilaksana dan diselenggara dengan berkesan;
+
+c. Selaras dengan keperluan-keperluan piawaian MS ISO 9001:2015;
+
+d. Mengesan kelemahan dalam QMS; dan
+
+e. Penemuan audit terdahulu diambil tindakan pembetulan yang berkesan.
+
+###   9.2.2   Keperluan Audit dalaman
+
+Audit dalaman akan dirancang, mengambil kira status dan kepentingan proses-proses, bahagian-bahagian serta hasil-hasil audit terdahulu. Kriteria audit, skop, kekerapan dan kaedah-kaedah akan dijelaskan. Pemilihan juruaudit dan pelaksanaan audit akan memastikan objektiviti dan keadilan audit. juruaudit-juruaudit tidak akan memeriksa kerja-kerja mereka sendiri.
+
+Satu prosedur perlu didokumenkan bagi menjelaskan tanggungjawab-tanggungjawab, perancangan dan syarat-syarat menjalankan audit. Hasil laporan Audit dalaman hendaklah direkodkan (lihat 9.2.2).
+
+Pihak pengurusan Syarikat di bahagian yang diaudit akan memastikan tindakan-tindakan telah diambil dengan segera untuk menghindarkan ketidakakuran dan punca berlaku nya ketidakakuran. Tindakan susulan dilaksanakan untuk pengesahan tindakan-tindakan yang telah diambil dan dilaporkan.
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+|`r doc_files$doc_id[doc_files$doc_id=="PK(W).OA.03"]` - `r doc_files$doc_title[doc_files$doc_id=="PK(W).OA.03"]`|
+
+##    9.3   Kajian semula pengurusan
+
+###   9.3.1   Am
+
+Pihak pengurusan Syarikat hendaklah melaksanakan Kajian Semula Pengurusan ke atas QMS secara berkala (sekurang-kurangnya sekali dalam tempoh setahun) bagi memastikan QMS terus sesuai, mencukupi dan berkesan. Kajian semula ini hendaklah meliputi penilaian ke atas peluang-peluang penambahbaikan dan keperluan perubahan kepada QMS termasuk dasar kualiti dan objektif-objektif kualiti. Rekod Kajian Semula Pengurusan hendaklah disenggara.
+
+###   9.3.2   Input kajian semula
+
+Kajian Semula Pengurusan hendaklah meliputi: 
+
+a. Penemuan audit;
+
+b. Tindakan susulan daripada Kajian Semula Pengurusan yang lepas;
+
+c. Maklumbalas pelanggan;
+
+d. Prestasi proses penyampaian perkhidmatan yang tidak memenuhi keperluan yang ditetapkan;
+
+e. Laporan status tindakan pencegahan dan pembetulan;
+
+f. Perubahan-perubahan yang boleh memberi kesan kepada QMS; dan
+
+g. Cadangan-cadangan untuk penambahbaikan.
+
+###   9.3.3   Output kajian semula
+
+Hasil Kajian Semula Pengurusan akan meliputi keputusan dan tindakan yang merangkumi perkara-perkara berikut:
+
+a. Penambahbaikan ke atas proses-proses terlibat;
+
+b. Penambahbaikan perkhidmatan berkaitan dengan keperluan pelanggan; dan
+
+c. Keperluan sumber-sumber.
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+|`r doc_files$doc_id[doc_files$doc_id=="PK(S).OA.02"]` - `r doc_files$doc_title[doc_files$doc_id=="PK(S).OA.02"]`|
+
+# 10.0 Penambahbaikan
+
+## 10.1 Am
+
+Pengurusan Syarikat hendaklah menjalankan pemantauan dan pengukuran ke atas QMS bagi semua proses dan produk akhir yang terlibat. Kaedah pemantauan yang sesuai akan dilaksanakan bagi menentukan proses-proses yang di rancang sentiasa menghasilkan objektif kualiti yang ditetapkan. Sekiranya hasil yang dirancang itu tidak mencapai sasaran, tindakan pembetulan dan pencegahan akan dilaksanakan bagi memastikan pemantauan kepada proses-proses dan sasaran yang dirancang.
+
+## 10.2 Ketakakuran dan tindakan pembetulan
+
+### 10.2.1.1 Tindakan pembetulan
+
+Pengurusan Syarikat hendaklah mengambil tindakan pembetulan keatas ketidakpatuhan yang dikenalpasti dari semasa ke semasa. Tindakan pembetulan perlu mengenalpasti punca kepada ketidakpatuhan yang dikesan dan tindakan pembetulan perlu diambil dengan segera dan berkesan. Tindakan-tindakan pembetulan akan dilaksanakan berdasarkan keperluan-keperluan berikut;
+
+a. Kajian semula ketidakpatuhan (termasuk aduan pelanggan);
+
+b. Mengenal pasti punca-punca ketidakpatuhan;
+
+c. Menilai keperluan tindakan untuk memastikan ketidakpatuhan tidak berulang;
+
+d. Mengenal pasti dan melaksanakan tindakan yang diperlukan;
+
+e. Merekodkan hasil-hasil tindakan yang telah diambil; dan
+
+f. Kaji semula keberkesanan tindakan pembetulan yang telah diambil.
+
+### 10.2.1.2 Tindakan pencegahan
+
+Pengurusan Syarikat hendaklah mendokumenkan prosedur bagi tindakan pencegahan. Perancangan tindakan pencegahan hendaklah dikenalpasti bagi sesuatu ketidakpatuhan yang telah berlaku untuk menentukan langkah-langkah bagi mencegahnya daripada berulang. Pemantauan yang berterusan ke atas tindakan pencegahan hendaklah dijalankan oleh pengurusan Syarikat. Tindakan Pencegahan hendaklah dilaksanakan berpandukan kepada trend ke atas tindakan pembetulan yang dilaksanakan hasil penilaian dan pemerhatian Audit dalaman, Analisis Aduan Pelanggan dan maklumbalas pelanggan. Tindakan-tindakan pencegahan akan dilaksanakan berdasarkan kepada perkara-perkara berikut:
+
+a. Menentukan ketidakpatuhan/kepincangan yang mungkin berlaku dan mengenalpasti punca dan cara-cara pencegahan;
+
+b. Mengkaji pelan tindakan pencegahan untuk mengelak ketidakpatuhan atau kepincangan dari berlaku dan berulang;
+
+c. Mengenal pasti strategi dan kaedah tindakan pencegahan serta melaksanakan seperti mana yang diperlukan;
+
+d. Merekod semua keputusan berkaitan dengan tindakan pencegahan yang diambil; dan
+
+e. Mengkaji keberkesanan tindakan pencegahan yang telah diambil.
+
+### 10.2.2 Ketakakuran dan tindakan pembetulan didokumentasikan sebagai bukti
+
+Pengurusan Syarikat hendaklah menyediakan prosedur untuk memantau dan mengukur ciri-ciri produk kepada pelanggan untuk memastikan keperluan-keperluan produk telah dipenuhi. Kriteria bagi produk akhir yang dimaksudkan merujuk kepada parameter-parameter berikut:
+
+a. Mencapai objektif kualiti yang ditetapkan; dan
+
+b. Memenuhi spesifikasi produk.
+
+Pengurusan Syarikat akan mengenal pasti perubahan risiko dan keperluan tindakan pencegahan dengan memberi tumpuan kepada perubahan risiko yang signifikan. Keutamaan tindakan pencegahan yang dikenal pasti hendaklah berasaskan kepada hasil penilaian risiko.
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+|`r doc_files$doc_id[doc_files$doc_id=="PK(W).OA.04"]` - `r doc_files$doc_title[doc_files$doc_id=="PK(W).OA.04"]`|
+|`r doc_files$doc_id[doc_files$doc_id=="PK(W).OA.05"]` - `r doc_files$doc_title[doc_files$doc_id=="PK(W).OA.05"]`|
+
+## 10.3 Penambahbaikan berterusan
+
+Pengurusan Syarikat hendaklah sentiasa menambahbaik keberkesanan QMS dengan berasaskan sumber-sumber berikut;
+
+a. Dasar Kualiti;
+
+b. Objektif Kualiti;
+
+c. Laporan Audit dalaman;
+
+d. Analisis Data;
+
+e. Tindakan Pembetulan;
+
+f. Tindakan Pencegahan; dan
+
+g. Kajian Semula Pengurusan.
+
+\newpage
+
+# Lampiran:
+
+## A. Carta Organisasi Syarikat
+
+![Carta Organisasi](chart/org_chart.png)
+
+\newpage
+
+## B. Carta Pemetaan Proses
+
+![Carta Pemetaan Proses](chart/oa_process-1.png){width=70%}
+
+\newpage
+
+## C. Senarai Induk Dokumen Kualiti (Wajib)
+
+|Senarai Induk Dokumen:                                                |
+|----------------------------------------------------------------------|
+|1. `r doc_files$doc_id[1]` - `r doc_files$doc_title[1]`               |
+|2. `r doc_files$doc_id[2]` - `r doc_files$doc_title[2]`               |
+|3. `r doc_files$doc_id[3]` - `r doc_files$doc_title[3]`               |
+|4. `r doc_files$doc_id[4]` - `r doc_files$doc_title[4]`               |
+|5. `r doc_files$doc_id[5]` - `r doc_files$doc_title[5]`               |
+|6. `r doc_files$doc_id[6]` - `r doc_files$doc_title[6]`               |
+|7. `r doc_files$doc_id[7]` - `r doc_files$doc_title[7]`               |
+
+## D. Senarai Induk Dokumen Kualiti (Sokongan)
+
+|Senarai Induk Dokumen:                                                |
+|----------------------------------------------------------------------|
+|1. `r doc_files$doc_id[8]` - `r doc_files$doc_title[8]`               |
+|2. `r doc_files$doc_id[9]` - `r doc_files$doc_title[9]`               |
+|3. `r doc_files$doc_id[10]` - `r doc_files$doc_title[10]`             |
+|4. `r doc_files$doc_id[11]` - `r doc_files$doc_title[11]`             |
+|5. `r doc_files$doc_id[12]` - `r doc_files$doc_title[12]`             |
+|6. `r doc_files$doc_id[13]` - `r doc_files$doc_title[13]`             |
+|7. `r doc_files$doc_id[14]` - `r doc_files$doc_title[14]`             |
+|8. `r doc_files$doc_id[15]` - `r doc_files$doc_title[15]`             |
+|9. `r doc_files$doc_id[18]` - `r doc_files$doc_title[18]`             |
+|10. `r doc_files$doc_id[19]` - `r doc_files$doc_title[19]`            |
+
+## E. Senarai Induk Dokumen Kualiti (Operasi)
+
+|Senarai Induk Dokumen:                                                |
+|----------------------------------------------------------------------|
+|1. `r doc_files$doc_id[16]` - `r doc_files$doc_title[16]`             |
+|2. `r doc_files$doc_id[17]` - `r doc_files$doc_title[17]`             |
+
+\newpage
+## F. Isu-isu luaran dan dalaman
+
+Jadual 1: Isu-isu luaran dan dalaman
+
+| Serial | Issues                                                                     | Type              |
+|--------|----------------------------------------------------------------------------|-------------------|
+| 1      | Client default on payment                                                  | External          |
+| 2      | Client refuses to approve deliverables/milestones <br>or delays approval   | External          |
+| 3      | “Client's change request for item”                                         | External          |
+| 4      | Currency exchange rate of the imported item                                | External          |
+| 5      | Delayed Delivery Order                                                     | Internal/External |
+| 6      | Delayed Invoice                                                            | Internal/External |
+| 7      | Delayed Purchase Order                                                     | Internal/External |
+| 8      | Delayed Quotation                                                          | Internal/External |
+| 9      | Delivery of items/project stopped                                          | Internal/External |
+| 10     | Error/s in Delivery Order                                                  | Internal/External |
+| 11     | Error/s in Invoice                                                         | Internal/External |
+| 12     | Error/s in Purchase Order                                                  | Internal/External |
+| 13     | Error/s in Quotation                                                       | Internal/External |
+| 14     | Estimating and/or scheduling errors                                        | Internal/External |
+| 15     | Inadequate client testing leads cause defect list                          | Internal/External |
+| 16     | Item becomes obsolete or is undermined by <br>external or internal changes | Internal/External |
+| 17     | Item imported hold up by custom                                            | Internal/External |
+| 18     | Item mistakenly delivered                                                  | Internal/External |
+| 19     | Item mistakenly purchase                                                   | Internal/External |
+| 20     | Item received is faulty/broken                                             | Internal/External |
+| 21     | Item received not according to specification                               | Internal/External |
+| 22     | Sudden departure of key personnel could delay <br>the project delivery     | Internal          |
+| 23     | Theft of materials, intellectual property or <br>equipment                 | Internal/External |
+| 24     | Unplanned work that must be accommodated                                   | External          |
+
+\newpage
+## G. Penilaian dan pengurusan risiko
+
+Jadual 2: Penilaian dan pengurusan risiko
+
+| Serial | Issues                                                                     | Risk          | Type              | Impact   | Likelihood |
+|--------|----------------------------------------------------------------------------|---------------|-------------------|----------|------------|
+| 1      | Client default on payment                                                  | Insignificant | External          | 2            | 3          |
+| 2      | Client refuses to approve deliverables/milestones <br>or delays approval   | Minor         | External          | 2            | 2          |
+| 3      | “Client's change request for item”                                         | Minor         | External          | 2            | 2          |
+| 4      | Currency exchange rate of the imported item                                | Minor         | External          | 2            | 2          |
+| 5      | Delayed Delivery Order                                                     | Minor         | Internal/ <br>External | 2            | 3          |
+| 6      | Delayed Invoice                                                            | Minor         | Internal/ <br>External | 1            | 2          |
+| 7      | Delayed Purchase Order                                                     | Insignificant | Internal/ <br>External | 1            | 2          |
+| 8      | Delayed Quotation                                                          | Minor         | Internal/ <br>External | 1            | 2          |
+| 9      | Delivery of items/project stopped                                          | Minor         | Internal/ <br>External | 2            | 2          |
+| 10     | Error/s in Delivery Order                                                  | Insignificant | Internal/ <br>External | 1            | 2          |
+| 11     | Error/s in Invoice                                                         | Minor         | Internal/ <br>External | 3            | 3          |
+| 12     | Error/s in Purchase Order                                                  | Minor         | Internal/ <br>External | 2            | 1          |
+| 13     | Error/s in Quotation                                                       | Minor         | Internal/ <br>External | 2            | 3          |
+| 14     | Estimating and/or scheduling errors                                        | Insignificant | Internal/ <br>External | 1            | 3          |
+| 15     | Inadequate client testing leads cause defect list                          | Insignificant | Internal/ <br>External | 1            | 2          |
+| 16     | Item becomes obsolete or is undermined by external or <br>internal changes | Minor         | Internal/ <br>External | 2            | 2          |
+| 17     | Item imported hold up by custom                                            | Minor         | Internal/ <br>External | 1            | 2          |
+| 18     | Item mistakenly delivered                                                  | Minor         | Internal/ <br>External | 1            | 2          |
+| 19     | Item mistakenly purchase                                                   | Minor         | Internal/ <br>External | 2            | 2          |
+| 20     | Item received is faulty/broken                                             | Minor         | Internal/ <br>External | 2            | 2          |
+| 21     | Item received not according to specification                               | Minor         | Internal/ <br>External | 1            | 2          |
+| 22     | Sudden departure of key personnel could delay the project delivery         | Minor         | Internal          | 2            | 2          |
+| 23     | Theft of materials, intellectual property or equipment                     | Minor         | Internal/ <br>External | 1            | 1          |
+| 24     | Unplanned work that must be accommodated                                   | Minor         | External          | 2            | 1          |
+
+\newpage
+## H. Objektif kualiti dan pengukuran
+
+Jadual 3: Objektif kualiti dan pengukuran
+
+| Id  | Perspektif                       | Objektif                                   | Item                                         | Ukuran     |
+|-----|----------------------------------|--------------------------------------------|----------------------------------------------|------------|
+| l11 | Pembelajaran & Pertumbuhan (L&G) | Inovasi/Kreativiti: Tambah nilai proses    | # unit (Tempoh audit)                        | # unit     |
+| l12 | Pembelajaran & Pertumbuhan (L&G) | Inovasi/Kreativiti: Tingkat kemahiran staf | # staf                                       | # staf     |
+| p11 | Proses                           | Serahan projek                             | # serahan menepati jadual                    | # unit     |
+| p12 | Proses                           | Serahan projek                             | # serahan awal dr jadual                     | # unit     |
+| p13 | Proses                           | Serahan projek                             | # serahan lewat dr jadual                    | # unit     |
+| p21 | Proses                           | Keberkesanan proses                        | # PO dikeluarkan 7 hari atau kurang          | # unit     |
+| p22 | Proses                           | Keberkesanan proses                        | # PO dikeluarkan 8 ke 13 hari                | # unit     |
+| p23 | Proses                           | Keberkesanan proses                        | # PO dikeluarkan lebih 13 hari               | # unit     |
+| p24 | Proses                           | Keberkesanan proses                        | # DO dikeluarkan 7 hari atau kurang          | # unit     |
+| p25 | Proses                           | Keberkesanan proses                        | # DO dikeluarkan 8 ke 13 hari                | # unit     |
+| p26 | Proses                           | Keberkesanan proses                        | # DO dikeluarkan lebih 13 hari               | # unit     |
+| p27 | Proses                           | Keberkesanan proses                        | # Sebut harga dikeluarkan 7 hari atau kurang | # unit     |
+| p28 | Proses                           | Keberkesanan proses                        | # Sebut harga dikeluarkan 8 ke 13 hari       | # unit     |
+| p29 | Proses                           | Keberkesanan proses                        | # Sebut harga dikeluarkan lebih 13 hari      | # unit     |
+| c11 | Pelanggan                        | Kepuasan pelanggan                         | # % kepuasan                                 | % kepuasan |
+| c12 | Pelanggan                        | Kepuasan pelanggan                         | # Bayar pembekal 7 hari atau kurang          | # unit     |
+| c13 | Pelanggan                        | Kepuasan pelanggan                         | # Bayar pembekal 8 ke 13 hari                | # unit     |
+| c14 | Pelanggan                        | Kepuasan pelanggan                         | # Bayar pembekal lebih 13 hari               | # unit     |
+
+\newpage
+
+Jadual 4: Kriteria pengukuran
+
+\begin{table}[ht!]
+\begin{tabular}{llllllll}
+\multirow{2}{*}{Siri} & \multirow{2}{*}{Kriteria}                     & \multicolumn{6}{c}{Skor}                                   \\
+                      &                                               & 1 & 3 & 5 & \textless{}70\% & 70-80\% & \textgreater{}80\% \\
+                      &                                               &   &   &   & 1               & 3       & 5                  \\
+1.                    & Inovasi/Kreativiti: Tambah nilai proses       & 1 & 3 & 5 &                 &         &                    \\
+2.                    & Inovasi/Kreativiti: Tingkat kemahiran staf    & 1 & 3 & 5 &                 &         &                    \\
+3.                    & \# serahan menepati jadual                    &   & 3 &   &                 &         &                    \\
+4.                    & \# serahan awal dr jadual                     &   &   & 5 &                 &         &                    \\
+5.                    & \# serahan lewat dr jadual                    & 1 &   &   &                 &         &                    \\
+6.                    & \# PO dikeluarkan 7 hari atau kurang          &   &   & 5 &                 &         &                    \\
+7.                    & \# PO dikeluarkan 8 ke 13 hari                &   & 3 &   &                 &         &                    \\
+8.                    & \# PO dikeluarkan lebih 13 hari               & 1 &   &   &                 &         &                    \\
+9.                    & \# DO dikeluarkan 7 hari atau kurang          &   &   & 5 &                 &         &                    \\
+10.                   & \# DO dikeluarkan 8 ke 13 hari                &   & 3 &   &                 &         &                    \\
+11.                   & \# DO dikeluarkan lebih 13 hari               & 1 &   &   &                 &         &                    \\
+12.                   & \# Sebut harga dikeluarkan 7 hari atau kurang &   &   & 5 &                 &         &                    \\
+13.                   & \# Sebut harga dikeluarkan 8 ke 13 hari       &   & 3 &   &                 &         &                    \\
+14.                   & \# Sebut harga dikeluarkan lebih 13 hari      & 1 &   &   &                 &         &                    \\
+15.                   & \# \% kepuasan                                &   &   &   &                 &         &                    \\
+16.                   & \# Bayar pembekal 7 hari atau kurang          &   &   & 5 &                 &         &                    \\
+17.                   & \# Bayar pembekal 8 ke 13 hari                &   & 3 &   &                 &         &                    \\
+18.                   & \# Bayar pembekal lebih 13 hari               & 1 &   &   &                 &         &                   
+\end{tabular}
+\end{table}
+
+\newpage
+## I. Pihak berkepentingan, keperluan dan jangkaan
+
+Jadual 5. Pihak berkepentingan, keperluan dan jangkaan
+
+| **Pihak Berkepentingan** | **Keperluan** | **Jangkaan** |
+|----------------------|--------------------------|----------------------------|
+| 1. **Pelanggan luaran** |  |  |
+| **Kementerian dan agensi** | a. Perkhidmatan projek integrasi sistem yang berkesan dan mapan selaras dengan persekitaran dan teknologi yang dinamik. | Perkhimatan yang berkualiti, selamat, cekap dan mesra pelanggan serta mematuhi peraturan dan garis panduan yang ditetapkan. |
+|  | b. Menghubungkan manusia, perniagaan dan teknologi.|  |
+||||
+| **Pembekal** | Menyediakan material, teknologi dan sokongan selepas perkhidmatan. | Perkhidmatan sokongan yang berkualiti, cekap dan boleh dipercayai serta mematuhi terma kontrak. |
+||||
+| 2. **Pemegang Taruh** |  |  |
+| **Institusi kewangan** | Menyediakan sokongan kewangan dan perkhidmatan untuk kelangsungan projek. | Perkhidmatan sokongan yang berkualiti, cekap dan boleh dipercayai bagi manfaat bersama. |

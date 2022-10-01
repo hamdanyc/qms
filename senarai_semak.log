@@ -1,0 +1,416 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.4.21)  9 JUN 2022 21:37
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**senarai_semak.tex
+(./senarai_semak.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count175
+\l__pdf_internal_box=\box45
+)
+(./senarai_semak.aux)
+\openout1 = `senarai_semak.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+
+Overfull \hbox (0.13092pt too wide) in paragraph at lines 7--9
+[]\OT1/cmr/bx/n/10 :tanggungjawab: \OT1/cmr/m/n/10 MS yang dis-ahkan: Malaysian
+ Stan-dard yang telah dikaji
+ []
+
+
+Overfull \hbox (2.1664pt too wide) in paragraph at lines 13--15
+\OT1/cmr/m/n/10 ima-gu-naan Stan-dard ISO di-ang-gotai oleh wakil dari-pada or-
+gan-isasi yang berikut: 
+ []
+
+! Misplaced alignment tab character &.
+l.29 Institut Terjemahan &
+                           Buku Malaysia
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (1.55626pt too wide) in paragraph at lines 38--42
+\OT1/cmr/m/n/10 Pe-nen-tuan Kual-iti (TC2) men-ge-nai Sis-tem Kual-iti di bawah
+ kuasa Jawatankuasa
+ []
+
+
+Overfull \hbox (150.77776pt too wide) in paragraph at lines 43--48
+\OT1/cmr/m/n/10 senarai perisyti-ha-ran paten ISO yang di-ter-ima (li-hat [http
+://www.iso.org/patents).](http://www.iso.org/patents).) 
+ []
+
+
+Overfull \hbox (117.9166pt too wide) in paragraph at lines 49--54
+\OT1/cmr/m/n/10 perisyti-ha-ran paten ISO yang di-ter-ima (li-hat [http://www.i
+so.org/patents).](http://www.iso.org/patents).) 
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (10.94522pt too wide) in paragraph at lines 68--71
+\OT1/cmr/m/n/10 san strate-gik un-tuk sese-buah or-gan-isasi yang boleh mem-ban
+tu un-tuk meningkatkan
+ []
+
+
+Overfull \hbox (2.09193pt too wide) in paragraph at lines 75--77
+[]\OT1/cmr/bx/n/10 :pengurusan: \OT1/cmr/m/n/10 Faedah yang mungkin kepada or-g
+an-isasi dalam melak-sanakan
+ []
+
+
+Overfull \hbox (8.53476pt too wide) in paragraph at lines 81--82
+[]\OT1/cmr/bx/n/10 :pelanggan: \OT1/cmr/m/n/10 b) memu-dahkan pelu-ang un-tuk m
+eningkatkan kepuasan \OT1/cmr/bx/n/10 pelang-
+ []
+
+
+Overfull \hbox (5.5998pt too wide) in paragraph at lines 90--92
+[]\OT1/cmr/bx/n/10 :pengurusan: \OT1/cmr/m/n/10 Keper-luan sis-tem \OT1/cmr/bx/
+n/10 pen-gu-ru-san \OT1/cmr/m/n/10 kual-iti yang diny-atakan dalam
+ []
+
+
+Overfull \hbox (6.68631pt too wide) in paragraph at lines 93--96
+[]\OT1/cmr/bx/n/10 :penambahbaikan: \OT1/cmr/m/n/10 Ki-taran PDCA mem-bolehkan 
+sesu-atu or-gan-isasi memas-
+ []
+
+[2]
+
+! Package inputenc Error: Unicode character − (U+2212)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.138 \textbf{:penambahbaikan:} −
+                                    \textbf{penambahbaikan};
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character − (U+2212)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.140 \textbf{:pengurusan:} −
+                                \textbf{pengurusan} perhubungan.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (0.91112pt too wide) in paragraph at lines 148--153
+\OT1/cmr/m/n/10 ke-berke-sanan sis-tem \OT1/cmr/bx/n/10 pen-gu-ru-san \OT1/cmr/
+m/n/10 kual-iti, bagi meningkatkan kepuasan \OT1/cmr/bx/n/10 pelang-
+ []
+
+[3] [4]
+Overfull \hbox (1.35016pt too wide) in paragraph at lines 236--241
+[]\OT1/cmr/bx/n/10 :dasar: \OT1/cmr/m/n/10 Stan-dard sis-tem pen-gu-ru-san kual
+-iti sek-tor khusus yang ber\OT1/cmr/bx/n/10 dasar\OT1/cmr/m/n/10 kan
+ []
+
+[5]
+Overfull \hbox (3.61188pt too wide) in paragraph at lines 280--284
+\OT1/cmr/m/n/10 hadap ke-u-payaan or-gan-isasi un-tuk menye-di-akan se-cara tek
+al pro-duk dan perkhid-
+ []
+
+
+Overfull \hbox (2.53633pt too wide) in paragraph at lines 294--296
+[]\OT1/cmr/bx/n/10 :pengurusan: \OT1/cmr/m/n/10 Or-gan-isasi hen-dak-lah meng-g
+una pakai se-mua keper-luan Stan-
+ []
+
+[6]
+Overfull \hbox (1.06412pt too wide) in paragraph at lines 344--345
+[]\OT1/cmr/bx/n/10 :pengurusan: \OT1/cmr/m/n/10 a) mengam-bil ke-ber-tang-gung-
+jawa-ban ter-hadap ke-berke-sanan
+ []
+
+
+Overfull \hbox (3.64934pt too wide) in paragraph at lines 365--367
+[]\OT1/cmr/bx/n/10 :komunikasi: \OT1/cmr/m/n/10 f) meng\OT1/cmr/bx/n/10 komunik
+asi\OT1/cmr/m/n/10 kan pent-ingnya \OT1/cmr/bx/n/10 pen-gu-ru-san \OT1/cmr/m/n/
+10 kual-iti yang
+ []
+
+[7]
+Overfull \hbox (0.54155pt too wide) in paragraph at lines 399--400
+[]\OT1/cmr/bx/n/10 :pelanggan: \OT1/cmr/m/n/10 c) fokus un-tuk meningkatkan kep
+uasan \OT1/cmr/bx/n/10 pelang-gan \OT1/cmr/m/n/10 dikekalkan. 
+ []
+
+
+Overfull \hbox (10.17546pt too wide) in paragraph at lines 405--407
+[]\OT1/cmr/bx/n/10 :dasar: \OT1/cmr/m/n/10 Pen-gu-ru-san atasan hen-dak-lah mew
+u-jud-kan, melak-sanakan dan menye-
+ []
+
+
+Overfull \hbox (0.15219pt too wide) in paragraph at lines 429--430
+[]\OT1/cmr/bx/n/10 :tanggungjawab: \OT1/cmr/m/n/10 #### 5.3 Per-anan, \OT1/cmr/
+bx/n/10 tang-gung-jawab \OT1/cmr/m/n/10 dan bidang kuasa
+ []
+
+
+Overfull \hbox (25.54349pt too wide) in paragraph at lines 434--436
+\OT1/cmr/m/n/10 gung-jawab dan bidang kuasa bagi per-anan yang rel-e-van dite-t
+ap-kan, di\OT1/cmr/bx/n/10 komunikasi\OT1/cmr/m/n/10 kan
+ []
+
+
+Overfull \hbox (9.0077pt too wide) in paragraph at lines 437--439
+[]\OT1/cmr/bx/n/10 :tanggungjawab: pen-gu-ru-san \OT1/cmr/m/n/10 atasan hen-dak
+-lah memas-tikan ba-hawa \OT1/cmr/bx/n/10 tang-
+ []
+
+
+Overfull \hbox (32.22359pt too wide) in paragraph at lines 437--439
+\OT1/cmr/bx/n/10 gung-jawab \OT1/cmr/m/n/10 dan bidang kuasa bagi per-anan yang
+ rel-e-van dite-tap-kan, di\OT1/cmr/bx/n/10 komunikasi\OT1/cmr/m/n/10 kan
+ []
+
+[8]
+Overfull \hbox (0.48091pt too wide) in paragraph at lines 447--449
+\OT1/cmr/m/n/10 ang un-tuk pe-nam-bah-baikan (li-hat 10.1), khusus-nya kepada \
+OT1/cmr/bx/n/10 pen-gu-ru-san \OT1/cmr/m/n/10 atasan; 
+ []
+
+
+Overfull \hbox (5.93309pt too wide) in paragraph at lines 458--460
+[]\OT1/cmr/bx/n/10 :pengurusan: \OT1/cmr/m/n/10 e) memas-tikan in-tegriti sis-t
+em \OT1/cmr/bx/n/10 pen-gu-ru-san \OT1/cmr/m/n/10 kual-iti dikekalkan
+ []
+
+
+Overfull \hbox (1.90985pt too wide) in paragraph at lines 484--485
+[]\OT1/cmr/bx/n/10 :objektif: \OT1/cmr/m/n/10 ##### 6.2.1 Or-gan-isasi hen-dak-
+lah mewu-jud-kan \OT1/cmr/bx/n/10 ob-jek-tif \OT1/cmr/m/n/10 kual-
+ []
+
+[9]
+Overfull \hbox (5.42407pt too wide) in paragraph at lines 499--500
+[]\OT1/cmr/bx/n/10 :objektif: \OT1/cmr/m/n/10 Or-gan-isasi hen-dak-lah menye-le
+ng-gara mak-lumat di-doku-men-tasikan
+ []
+
+
+Overfull \hbox (0.59663pt too wide) in paragraph at lines 510--511
+[]\OT1/cmr/bx/n/10 :tanggungjawab: \OT1/cmr/m/n/10 d) pen-gag-i-han atau pen-ga
+g-i-han sem-ula \OT1/cmr/bx/n/10 tang-gung-jawab
+ []
+
+
+Overfull \hbox (11.52841pt too wide) in paragraph at lines 544--549
+\OT1/cmr/m/n/10 yang boleh dike-san dari-pada stan-dard peng\OT1/cmr/bx/n/10 uk
+ur\OT1/cmr/m/n/10 an an-tara-bangsa atau ke-bangsaan;
+ []
+
+[10]
+Overfull \hbox (10.11145pt too wide) in paragraph at lines 553--556
+[]\OT1/cmr/bx/n/10 :ukur: \OT1/cmr/m/n/10 Or-gan-isasi hen-dak-lah menen-tukan 
+sama ada ke-sa-han hasil peng\OT1/cmr/bx/n/10 ukur\OT1/cmr/m/n/10 an
+ []
+
+
+Overfull \hbox (2.6469pt too wide) in paragraph at lines 591--593
+[]\OT1/cmr/bx/n/10 :kompeten: \OT1/cmr/m/n/10 b) memas-tikan ba-hawa orang ters
+e-but \OT1/cmr/bx/n/10 kom-pe-ten \OT1/cmr/m/n/10 ber\OT1/cmr/bx/n/10 dasar\OT1
+/cmr/m/n/10 kan
+ []
+
+[11] [12]
+Overfull \hbox (3.56924pt too wide) in paragraph at lines 688--690
+[]\OT1/cmr/bx/n/10 :pelanggan: \OT1/cmr/m/n/10 a) keper-luan yang dite-tap-kan 
+oleh \OT1/cmr/bx/n/10 pelang-gan\OT1/cmr/m/n/10 , ter-ma-suk keper-
+ []
+
+
+Overfull \hbox (3.54103pt too wide) in paragraph at lines 700--701
+[]\OT1/cmr/bx/n/10 :tanggungjawab: \OT1/cmr/m/n/10 d) \OT1/cmr/bx/n/10 tang-gun
+g-jawab \OT1/cmr/m/n/10 dan kuasa yang ter-li-bat dalam proses
+ []
+
+
+Overfull \hbox (7.94482pt too wide) in paragraph at lines 721--723
+[]\OT1/cmr/bx/n/10 :ukur: \OT1/cmr/m/n/10 c) merangkumi atau meru-juk keper-lua
+n pe-man-tauan dan peng\OT1/cmr/bx/n/10 ukur\OT1/cmr/m/n/10 an,
+ []
+
+[13]
+Overfull \hbox (1.07487pt too wide) in paragraph at lines 741--746
+\OT1/cmr/m/n/10 dan perkhid-matan se-laras den-gan keper-luan. Or-gan-isasi hen
+-dak-lah mengekalkan
+ []
+
+
+Overfull \hbox (14.26509pt too wide) in paragraph at lines 756--758
+[]\OT1/cmr/bx/n/10 :pengurusan: \OT1/cmr/m/n/10 a) memas-tikan ba-hawa proses s
+e-di-aan luar kekal dalam \OT1/cmr/bx/n/10 kawalan
+ []
+
+
+Overfull \hbox (8.3059pt too wide) in paragraph at lines 784--785
+[]\OT1/cmr/bx/n/10 :ukur: \OT1/cmr/m/n/10 b) keterse-di-aan dan peng-gu-naan su
+m-ber pe-man-tauan dan peng\OT1/cmr/bx/n/10 ukur\OT1/cmr/m/n/10 an
+ []
+
+[14]
+Overfull \hbox (2.39633pt too wide) in paragraph at lines 823--825
+\OT1/cmr/m/n/10 dalian, \OT1/cmr/bx/n/10 kawalan \OT1/cmr/m/n/10 pence-maran, p
+em-bungku-san, peny-im-panan, peng-han-taran atau
+ []
+
+
+Overfull \hbox (33.39723pt too wide) in paragraph at lines 843--847
+[]\OT1/cmr/bx/n/10 :ketakakuran: \OT1/cmr/m/n/10 Or-gan-isasi hen-dak-lah menga
+m-bil tin-dakan yang sesuai ber\OT1/cmr/bx/n/10 dasar\OT1/cmr/m/n/10 kan
+ []
+
+[15]
+Overfull \hbox (5.82193pt too wide) in paragraph at lines 897--898
+[]\OT1/cmr/bx/n/10 :pengurusan: \OT1/cmr/m/n/10 1) keper-luan sis-tem \OT1/cmr/
+bx/n/10 pen-gu-ru-san \OT1/cmr/m/n/10 kual-iti or-gan-isasi itu sendiri; 
+ []
+
+[16]
+Overfull \hbox (1.77316pt too wide) in paragraph at lines 911--914
+[]\OT1/cmr/bx/n/10 :pengurusan: pen-gu-ru-san \OT1/cmr/m/n/10 atasan hen-dak-la
+h mengkaji sem-ula sis-tem \OT1/cmr/bx/n/10 pen-
+ []
+
+
+Overfull \hbox (1.19513pt too wide) in paragraph at lines 911--914
+\OT1/cmr/m/n/10 cuku-pan, ke-berke-sanan dan ke-se-larasan yang berteru-san den
+-gan hala tuju strate-
+ []
+
+[17]
+Overfull \hbox (11.19414pt too wide) in paragraph at lines 988--989
+[]\OT1/cmr/bx/n/10 :ketakakuran: \OT1/cmr/m/n/10 3) menen-tukan jika \OT1/cmr/b
+x/n/10 ke-takaku-ran \OT1/cmr/m/n/10 serupa wu-jud, atau mungkin
+ []
+
+
+Overfull \hbox (9.4808pt too wide) in paragraph at lines 1023--1029
+[]\OT1/cmr/bx/n/10 :pengurusan: \OT1/cmr/m/n/10 Struk-tur klausa bermak-sud men
+ye-di-akan pem-ben-tan-gan keper-
+ []
+
+[18]
+Overfull \hbox (1.90817pt too wide) in paragraph at lines 1046--1051
+\OT1/cmr/m/n/10 maka-ian seseten-gah keper-luan. Ciri-ciri perkhid-matan ialah 
+sekurang-kurangnya
+ []
+
+
+Overfull \hbox (3.92522pt too wide) in paragraph at lines 1058--1066
+[]\OT1/cmr/bx/n/10 :pengurusan: \OT1/cmr/m/n/10 Sub-klausa 4.2 mene-tap-kan kep
+er-luan un-tuk or-gan-isasi menen-
+ []
+
+[19]
+Overfull \hbox (3.54945pt too wide) in paragraph at lines 1096--1101
+\OT1/cmr/m/n/10 tif dan peng-gan-tian-nya den-gan keper-luan be-rasaskan \OT1/c
+mr/bx/n/10 prestasi\OT1/cmr/m/n/10 . Ter-da-pat keluwe-
+ []
+
+[20] [21]
+Overfull \hbox (2.41742pt too wide) in paragraph at lines 1170--1176
+\OT1/cmr/m/n/10 mem-beri pan-d-uan kepada or-gan-isasi yang memilih un-tuk maju
+ melam-paui keper-
+ []
+
+
+Overfull \hbox (18.77046pt too wide) in paragraph at lines 1170--1176
+\OT1/cmr/m/n/10 lu-an-nya. Pan-d-uan atau keper-luan yang terkan-dung dalam dok
+u-men yang ter\OT1/cmr/bx/n/10 senarai
+ []
+
+[22] [23] [24]
+Overfull \hbox (0.82547pt too wide) in paragraph at lines 1304--1345
+[]\OT1/cmr/bx/n/10 :kawalan: \OT1/cmr/m/n/10 - ISO 10001 Qual-ity man-age-ment 
+- Cus-tomer sat-is-fac-tion - Guide-
+ []
+
+
+Overfull \hbox (15.63054pt too wide) in paragraph at lines 1304--1345
+\OT1/cmr/m/n/10 memenuhi keper-luan dan jangkaan pelang-gan. Peng-gu-naan-nya d
+a-pat meningkatkan
+ []
+
+[25] [26] [27] [28] [29] [30] [31] [32]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 1682.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 1683.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 1683.
+[33] (./senarai_semak.aux) ) 
+Here is how much of TeX's memory you used:
+ 370 strings out of 483183
+ 6327 string characters out of 5966292
+ 243602 words of memory out of 5000000
+ 15468 multiletter control sequences out of 15000+600000
+ 532646 words of font info for 25 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 25i,8n,19p,231b,182s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr10.pfb>
+Output written on senarai_semak.pdf (33 pages, 120224 bytes).
+PDF statistics:
+ 118 PDF objects out of 1000 (max. 8388607)
+ 80 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,54 @@
+---
+output:
+  html_document: default
+---
+
+Jadual 1: Contoh prestasi objektif kualiti mulai 1/1/2021 - 31/3/2021
+
+| Kod obj | Perspektif            | Objektif                                   | Item                                         | Ukuran     | Unit | Skor | Jlh <br>skor | Min  | Maks |
+|---------|-----------------------|--------------------------------------------|----------------------------------------------|------------|------|------|------|------|------|
+| l1           | Pembelajaran & <br>Pertumbuhan (L&G) | Tambah nilai proses                    | # unit (Tempoh audit)                        | # unit     | 3    | 3    | 9    | 3    | 15   |
+| l2           | Pembelajaran & <br>Pertumbuhan (L&G))| Tingkat kemahiran staf                 | # staf                                       | # staf     | 7    | 5    | 35   | 7    | 35   |
+| l            | Pembelajaran & <br>Pertumbuhan (L&G))| Inovasi/Kreativiti                     | # unit                                       | # unit     | 10   | 5    | 44   | 10   | 50   |
+| p11          | Proses                           | Serahan projek                             | # serahan menepati jadual                    | # unit     | 15   | 3    | 45   | 15   | 75   |
+| p12          | Proses                           | Serahan projek                             | # serahan awal dr jadual                     | # unit     | 5    | 5    | 25   | 5    | 25   |
+| p13          | Proses                           | Serahan projek                             | # serahan lewat dr jadual                    | # unit     | 0    | 1    | 0    | 0    | 0    |
+| p1           | Proses                           | Serahan projek                             | # unit serahan                               | # unit     | 20   |      | 70   | 20   | 100  |
+| p21          | Proses                           | Keberkesanan proses                        | # PO dikeluarkan 7 hari atau kurang          | # unit     | 20   | 5    | 100  | 20   | 100  |
+| p22          | Proses                           | Keberkesanan proses                        | # PO dikeluarkan 8 ke 13 hari                | # unit     | 20   | 3    | 60   | 20   | 100  |
+| p23          | Proses                           | Keberkesanan proses                        | # PO dikeluarkan lebih 13 hari               | # unit     | 10   | 1    | 10   | 10   | 50   |
+| p24          | Proses                           | Keberkesanan proses                        | # DO dikeluarkan 7 hari atau kurang          | # unit     | 20   | 5    | 100  | 20   | 100  |
+| p25          | Proses                           | Keberkesanan proses                        | # DO dikeluarkan 8 ke 13 hari                | # unit     | 20   | 3    | 60   | 20   | 100  |
+| p26          | Proses                           | Keberkesanan proses                        | # DO dikeluarkan lebih 13 hari               | # unit     | 10   | 1    | 10   | 10   | 50   |
+| p27          | Proses                           | Keberkesanan proses                        | # Sebut harga dikeluarkan 7 hari atau kurang | # unit     | 20   | 5    | 100  | 20   | 100  |
+| p28          | Proses                           | Keberkesanan proses                        | # Sebut harga dikeluarkan 8 ke 13 hari       | # unit     | 20   | 3    | 60   | 20   | 100  |
+| p29          | Proses                           | Keberkesanan proses                        | # Sebut harga dikeluarkan lebih 13 hari      | # unit     | 10   | 1    | 10   | 10   | 50   |
+| p2           | Proses                           | Keberkesanan proses                        | # PO/DO/sebut harga                          | # unit     | 150  |      | 510  | 150  | 750  |
+| c1           | Pelanggan                        | Kepuasan pelanggan                         | # % kepuasan                                 | % kepuasan | 75%  |      | 0    | 0.75 | 3.75 |
+| c2           | Pelanggan                        | Kepuasan pelanggan                         | # Bayar pembekal 7 hari atau kurang          | # unit     | 25   | 5    | 125  | 25   | 125  |
+| c3           | Pelanggan                        | Kepuasan pelanggan                         | # Bayar pembekal 8 ke 13 hari                | # unit     | 13   | 3    | 39   | 13   | 65   |
+| c4           | Pelanggan                        | Kepuasan pelanggan                         | # Bayar pembekal lebih 13 hari               | # unit     | 3    | 1    | 3    | 3    | 15   |
+| c            | Pelanggan                        | Kepuasan pelanggan                         | # Bayar pembekal/Kepuasan pelanggan          | # unit     | 41   |      | 167  | 41   | 209  |
+
+Jadual 2: Ringkasan prestasi objektif kualiti mengikut perspektif
+
+| Perspektif                  | Objektif            | Item                                | Ukuran | Unit | skor  | min | maks |
+|-----------------------------|---------------------|-------------------------------------|--------|------|-------|-----|------|
+| Pembelajaran & Pertumbuhan  | Inovasi/Kreativiti (l)| # unit                            | # unit | 10   | 44    | 10  | 50   |
+| Proses                      | Serahan projek (p1)| # unit serahan                       | # unit | 20   | 70    | 20  | 100  |
+| Proses                      | Keberkesanan proses (p2) | # PO/DO/sebut harga            | # unit | 150  | 510   | 150 | 750  |
+| Pelanggan                   | Kepuasan pelanggan (c)| # Bayar pembekal/Kepuasan pelanggan | # unit | 41 | 167   | 41  | 209  |
+|                             |                     |                                     |        |      |       |     |      |
+|                             |                     |                                     |        |      | 791   |     | 1109 |
+|                             |                     |pencapaian (%)                       |        |      | 71.3% |     |      |
+
+Rumus pencapaian
+
+i)  perspektif = unit * skor
+
+i)  Keseluruhan = perspektif(i)
+
+i)  Skor maks = skor_maks * setiap perspektif
+
+i) Peratus pencapaian = Keseluruhan / jlh skor_maks
+

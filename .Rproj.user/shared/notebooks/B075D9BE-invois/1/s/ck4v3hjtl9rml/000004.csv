@@ -1,0 +1,5 @@
+"0","# df <- data_frame(total)"
+"0","# bind_rows(sum(tb_item$jumlah),df$total,""total"")"
+"0","item <- by_item %>% "
+"0","  filter(jenis == ""aplikasi"" | jenis == ""dokumentasi"") %>% "
+"0","  summarise(""jlh"" = sum(jumlah))"

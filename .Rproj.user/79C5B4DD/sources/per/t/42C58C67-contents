@@ -1,0 +1,43 @@
+---
+title: |
+  ![](openapps-logo.png){width=30%}  
+  Bridging the Gap Between \textcolor{blue}{People}, \textcolor{blue}{Business} and \textcolor{blue}{Technology}
+  
+  MS ISO 9001:2015 Sistem Pengurusan Kualiti  
+  OpenApps Sdn Bhd (548151-W)
+output:
+  pdf_document: 
+    toc: no
+    includes:
+      in_header: preamb.tex
+params:
+  doc_id: "Doc id"
+  doc_title: "title"
+  doc_date: ""
+---
+
+\fancyhead[L]{\textbf{MS ISO 9001:2015\\OpenApps Sdn Bhd (548151-W)\\`r params$doc_id`}}
+\fancyhead[R]{\textbf{No: Keluaran: 01\\No Pindaan: 00\\Tarikh Kuatkuasa: `r params$doc_date`}}
+\vspace*{4\baselineskip}
+\rule{\textwidth}{4 pt}
+\begin{Large}
+\begin{center}
+\textbf{`r params$doc_id`}\\
+\vspace*{2\baselineskip}
+\textbf{`r params$doc_title`}
+\end{center}
+\end{Large}
+\rule{\textwidth}{4 pt}
+\vspace{3cm}
+\begin{table}[th]
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{|l|l|l|}
+\hline
+\multicolumn{1}{|c|}{\textbf{Nama}}                                                                                        & \multicolumn{1}{c|}{\textbf{Tandatangan}} & \multicolumn{1}{c|}{\textbf{Tarikh}} \\ \hline
+Disediakan Oleh:                                                                                                           &                                           &                                      \\
+\textbf{\begin{tabular}[c]{@{}l@{}}Mohd Ghazali Mohd Yusof \\ Wakil Pengurusan\end{tabular}} &                             &  `r params$doc_date`                                  \\ \hline
+Diluluskan Oleh:                                                                                                           &                                           &                                      \\
+\textbf{\begin{tabular}[c]{@{}l@{}}Abdul Hamid Shaik\\ Pengarah Urusan\end{tabular}}                                       &                                           &  `r params$doc_date`                                    \\ \hline
+\end{tabular}%
+}
+\end{table}

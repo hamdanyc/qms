@@ -1,0 +1,142 @@
+---
+title: "ISO 9000 Introduction"
+author: "PT"
+date: "5/19/2022"
+output:
+  powerpoint_presentation
+---
+
+# ISO 9001:2000 Awareness Training
+
+## Objectives of an organization
+- Customer Satisfaction - identify and meet the needs and expectations
+- Achieve competitive advantage.
+- Effective and efficient operations.
+- Achieve, maintain and improve overall organizational capabilities.
+
+## Quality management principles
+A quality management principle is a comprehensive and fundamental rule or belief, for leading and operating an organization, aimed at continually improving performance over the long term by focusing on customers while addressing the needs of all other stakeholders.
+
+- Customer Focused Organization 
+- Leadership 
+- Involvement of people 
+- Process Approach 
+- Systems Approach to Management 
+- Continual Improvement 
+- Factual approach to decision making 
+- Mutually beneficial supplier relationships
+
+## Quality management principles Beneficial
+- For Policy and Strategy formulation 
+- For Goal and Target setting 
+- For Operational Management 
+- For Human Resource Management
+
+## Principle 1: Customer-Focused Organization
+- Organizations depend on their Customers and therefore should understand current and future customer needs, meet customer requirements and strive to exceed customer expectations.
+- Assure conformance to defined customer requirements Understand current and future customer needs and expectations. Measure customer satisfaction & dissatisfaction and act on it
+
+## Principle 2: Leadership Leaders establish unity of purpose and direction of the organization 
+- They should create and maintain the internal environment in which people can become fully involved in achieving the organization's objectives.
+- Set policy and verifiable objectives, deploy policy, provide resources and establish an environment for Quality Establish vision, direction and shared values.
+- Set challenging targets & goals and implement strategies to implement them. Coach, facilitate and empower people.
+
+## Principle 3: Involvement of people
+- People at all levels are the essence of an organization and their full involvement enables their abilities to be used for the organization’s benefit.
+- Establish competency levels, train & qualify personnel. Provide clear authority and responsibility. 
+- Create personal ownership of an organization's targets & goals by using it’s peoples knowledge and experience and through training achieve involvement in operational decisions and process improvement.
+
+## Principle 4 : Process Approach
+- A desired result is achieved more efficiently when related resources and activities are managed as a process
+- Establish, control and maintain documented processes
+- Explicitly identify internal/external customers and suppliers of processes. Focus on the use of resources in process activities, leading to effective use of people, equipment, methods and materials.
+
+## Principle 5: Systems Approach to Management
+- Identifying, understanding and managing a system of interrelated processes for a given objective improves the organization’s effectiveness and efficiency.
+- Establish and maintain suitable and effective documented Quality System Identify a set of processes in a system. Understand their inter-dependencies. Align the processes with the organization's goals and targets. Measure results against key objectives.
+
+## Principle 6 : Continual improvement
+- Continual improvement should be a permanent objective of the organization.
+- Through management review, internal/external audits and corrective/preventive actions, continually improve effectiveness of the quality system Set realistic and challenging improvement goals, provide resources and give people the tools, opportunities and encouragement to contribute to the continual improvement of the processes
+
+## Principle 7 : Factual approach to decision making
+- Effective decisions are based on the analysis of data and information.
+- Management decisions & actions on the Quality System are based on the analysis of the factual data and information from reports on audits, corrective action, nonconforming product, customer complaints and other resources Decisions and actions are based on the analysis of data and information to maximize productivity and to minimize waste and rework. Effort is placed on minimizing cost, improving performance and market share through the use of suitable management tools and technology
+
+## Principle 8 : Mutually beneficial supplier relationships
+- An organization and its suppliers are interdependent, and a mutually beneficial relationship enhances the ability of both to create value.
+- Adequately define and document requirements to be met by sub-contractors. Review and evaluate their performance to control the supply of quality products and services. Establish strategic alliances or partnerships, ensuring early involvement and participation in defining requirements for joint development and improvement of products, processes and systems. Develop mutual trust, respect & commitment to customer satisfaction and continual improvement
+
+# ISO 9001:2000 Requirements
+
+## ISO 9001:2000 Approach and structure
+- Business-oriented Process Approach 
+- Easier to understand requirements 
+- Increased emphasis on customer satisfaction and continuous improvements
+
+## ISO 9000: 2000 Definitions
+- Quality: Degree to which a set of inherent characteristics fulfills requirements.
+- Requirement - need or expectation that is stated, generally implied or obligatory. 
+- Quality Policy: Overall intentions and direction of an organisation related to quality as formally expressed by the top management
+- Quality Objective: Something sought or aimed for, related to quality
+
+## ISO 9000: 2000 Definitions (contd) 
+- Quality Management: Coordinated activities to direct and control an organisation with regard to quality
+- Quality Planning: Part of quality management focused on setting quality objectives and specifying necessary operational processes and related resources to fulfill the quality objectives
+
+## ISO 9000: 2000 Definitions (contd) 
+- Quality Control: Part of quality management focused on fulfilling quality requirements. 
+- Quality Assurance: Part of quality management focused on providing confidence that quality requirements are fulfilled 
+- Quality Improvement: Part of quality management focused on increasing ability to fulfill quality requirements
+
+## ISO 9000: 2000 Definitions (contd) 
+- Non conformity Non fulfillment of a requirement 
+- Defect: Non fulfillment of a requirement related to an intended or specified use. 
+- Correction: Action taken to eliminate a detected nonconformity.
+
+## ISO 9000: 2000 Definitions (contd) 
+- Corrective action: Action taken to eliminate the cause of a detected non-conformity or other undesirable situation. 
+- Preventive action: Action taken to eliminate the cause of a potential non-conformity or other undesirable potential situation.
+
+## ISO 9000: 2000 Definitions (contd) 
+- Quality Manual: Document specifying the Quality Management System of an organization.
+- Document: Information and its supporting medium
+- Record: Document stating the results achieved or providing evidence of activities performed.
+
+# ISO 9001: 2000 Quality management system-requirements 
+
+## ISO 9001: 2000 Quality management system-requirements
+1. Scope 
+  - 1.1 General 
+  - 1.2 Application
+2. Normative Reference 
+3. Terms And Definitions 
+4. Quality Management System 
+  -4.1 General Requirements
+
+## Iso 9001: 2000 Quality Management System-Requirements 
+4.2 Documentation Requirements 
+- 4.2.1 General 
+- 4.2.2 Quality Manual 
+- 4.2.3 Control Of Documents 
+- 4.2.4 Control Of Records
+
+## Iso 9001: 2000 Quality Management System-Requirements 
+5. Management Responsibilty 
+- 5.1 Management Commitment
+- 5.2 Customer Focus 
+- 5.3 Qualiy Policy
+5.4 Planning 
+- 5.4.1 Quality Objectives 
+- 5.4.2 Quality Management System Planning
+
+## Iso 9001: 2000 Quality Management System-Requirements 
+5.5 Responsibility, Authority And Communication 
+- 5.5.1 Responsibility And Authority 
+- 5.5.2 Management Representative 
+- 5.5.3 Internal Communication 
+5.6 Management Review
+- 5.6.1 General 
+- 5.6.2 Review Input 
+- 5.6.3 Review Output
+

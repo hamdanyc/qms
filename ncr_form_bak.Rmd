@@ -1,0 +1,58 @@
+\begin{table}[]
+\begin{tabular}{ll}
+\cline{1-1}
+\multicolumn{1}{|l|}{OpenApps Sdn Bhd (548151-W)} & [PK(W).OA.03.B01]           \\ \hline
+\multicolumn{2}{|c|}{Laporan Ketakakuran}                                       \\
+Bil / Tahun: `r ncr$ser_yr[i]`                    & Tarikh: `r ncr$ser_date[i]` \\
+Bahagian/ Unit Yang Diaudit:                      & `r ncr$dept[i]`             \\
+Tajuk Prosedur/ Dokumen:                          & `r ncr$doc_proc[i]`         \\
+Auditee :                                         & `r ncr$auditee[i]`          \\
+Auditor :                                         & `r ncr$auditor[i]`         
+\end{tabular}
+\end{table}
+\begin{table}[th]
+\begin{tabular}{p{15cm}}
+\hline
+\multicolumn{1}{|c|}{\textbf{LAPORAN KETAKAKURAN}}              \\ \hline
+Bahagian/ Unit Yang Diaudit: `r ncr$dept[i]`                    \\
+Tajuk Prosedur/ Dokumen:  `r ncr$doc_proc[i]`                   \\
+Auditee : `r ncr$auditee[i]`                                    \\
+Auditor :  `r ncr$auditor[i]`                                   \\ \hline
+1.  Ketakakuran.  `r ncr$ncr[i]`                                \\
+                                                                \\
+Pemerhatian Huraian:                                            \\
+`r ncr$ncr_desc[i]`                                             \\
+                                                                \\
+                                                                \\ \hline
+2.  Punca Ketakakuran.  `r ncr$ncr_src[i]`                      \\ \hline
+3.  Penemuan:                                                   \\
+`r ncr$ncr_src_desc[i]`                                         \\
+                                                                \\
+                                                                \\
+T/Tangan Auditor:                                               \\
+                                                                \\
+T/Tangan Auditee:                                               \\ \hline
+4.  Nota penambahbaikan:                                        \\
+`r ncr$corr_note[i]`                                            \\
+                                                                \\
+                                                                \\
+T/Tangan Auditor:                                               \\
+                                                                \\
+T/Tangan Auditee:                                               \\ \hline
+5.  Tindakan Pembetulan                                         \\
+`r ncr$corr_note[i]`                                            \\
+                                                                \\
+                                                                \\
+Tarikh untuk menyelesaikan ketakakuran:                         \\
+T/Tangan Auditor:                                               \\
+                                                                \\
+T/Tangan Auditee:                                               \\ \hline
+6.  Verifikasi (Untuk diisi oleh Auditor  semasa audit susulan: \\
+`r ncr$corr_note[i]`                                            \\
+                                                                \\
+                                                                \\
+Tindakan Pembetulan:      Selesai/Tidak?                        \\
+T/Tangan Auditor:                                               \\
+                                                                \\ \hline
+\end{tabular}
+\end{table}

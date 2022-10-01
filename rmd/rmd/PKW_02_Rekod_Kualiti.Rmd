@@ -1,0 +1,261 @@
+---
+title: "MS ISO 9001:2015 Sistem Pengurusan Kualiti"
+author: "OpenApps Sdn Bhd (548151-W)"
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: '4'
+  html_document:
+    toc: yes
+    toc_depth: 4
+params:
+  doc_id: PK(W).OA.01
+  doc_title: "title"
+  
+---
+
+```{r init, include=FALSE}
+library(readr)
+a_list <- read_csv("~/R/qms/a_list.csv")
+```
+
+\newpage
+
+|Prosedur Kualiti &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|`r params$doc_id`|
+|:------------------|-------:|
+
+![](~/R/qms/media/openapps-logo.png){width=30%}
+
+| **Bridging the gap** between **PEOPLE**, **BUSINESS** and **TECHNOLOGY**
+
+|                                   |
+|:---------------------------------:|
+|**`r toupper(params$doc_title)`**|
+
+# I    Penyedia dan Kelulusan
+
+|Nama &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |Tarikh |
+|-------------------------------|--------------|
+|                               |              |
+| **Disediakan Oleh**:          | **Feb 2021** |
+|                               |              |
+|                               |              |
+|_____________________          |              |
+| **`r substr(a_list$pemilik_dok[14],1,40)`**| |
+| `r substr(a_list$pemilik_dok[14],41,60)`   | |
+| **Wakil Pengurusan**          |              |
+|                               |              |
+| **Diluluskan Oleh**:          | **Feb 2021** |
+|                               |              |
+|                               |              |
+|_____________________          |              |
+| **`r a_list$pemilik_dok[15]`**|              |
+| **CEO**                       |              |
+|                               |              |
+| **No Salinan Terkawal**:      |              |
+|                               |              |
+| `r params$doc_id`( )          |              |
+
+\newpage
+
+# II    Rekod Pindaan
+
+|Tarikh Pindaan|No Pindaan/No Keluaran|Rujukan Pindaan Mukasurat |Butir-butir Pindaan|Diluluskan Oleh|
+|-------------|-------------|-------------|-------------|-------------|
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+
+# III   Senarai Pemegang Dokumen
+
+| No. Salinan Terkawal   | Pemegang Dokumen              |
+|------------------------|-------------------------------|
+| `r params$doc_id`(01)  | `r a_list$pemilik_dok[1]`     |
+|                        |                               |
+| `r params$doc_id`(02)  | `r a_list$pemilik_dok[2]`     |
+|                        |                               |
+| `r params$doc_id`(03)  | `r a_list$pemilik_dok[3]`     |
+|                        |                               |
+| `r params$doc_id`(04)  | `r a_list$pemilik_dok[4]`     |
+|                        |                               |
+| `r params$doc_id`(05)  | `r a_list$pemilik_dok[5]`     |
+|                        |                               |
+| `r params$doc_id`(06)  | `r a_list$pemilik_dok[6]`     |
+|                        |                               |
+| `r params$doc_id`(07)  | `r a_list$pemilik_dok[7]`     |
+|                        |                               |
+| `r params$doc_id`(08)  | `r a_list$pemilik_dok[8]`     |
+|                        |                               |
+| `r params$doc_id`(09)  | `r a_list$pemilik_dok[9]`     |
+|                        |                               |
+| `r params$doc_id`(10)  | `r a_list$pemilik_dok[10]`    |
+|                        |                               |
+| `r params$doc_id`(11)  | `r a_list$pemilik_dok[11]`    |
+|                        |                               |
+| `r params$doc_id`(12)  | `r a_list$pemilik_dok[12]`    |
+|                        |                               |
+| `r params$doc_id`(13)  | `r a_list$pemilik_dok[13]`    |
+
+\newpage
+
+1.  OBJEKTIF
+
+Prosedur ini bertujuan memberi garis panduan bagi memastikan pengurusan Rekod Kualiti termasuk Sistem Pengurusan Fail dipatuhi dan dilaksanakan secara cekap dan berkesan.
+
+2.  SKOP
+
+Prosedur ini digunapakai oleh warga JRP semasa menguruskan fail dan rekod-rekod kualiti Sistem Pengurusan Kualiti. Sistem pengurusan ini termasuk juga pengurusan rekod dan maklumat yang disimpan secara elektronik. Rekod kualiti berkenaan perlu disimpan secara sistematik untuk rujukan sebagai bukti objektif kepada aktiviti-aktiviti kualiti.
+
+3.  RUJUKAN
+
+MK.JRP.02 -- Seksyen 4.2.4 (Kawalan Rekod Kualiti).
+
+
+4.  DEFINISI
+
+##    4.1   Mengindeks
+
+Proses memberikan nombor-nombor rujukan kepada rekod-rekod kualiti yang dikenalpasti.
+
+##    4.2   Pelupusan
+
+Proses pelupusan rekod-rekod kualiti mengikut prosedur pelupusan yang ditetapkan sebagaimana Akta Arkib Negara 1971.
+
+##    4.3   Rekod
+
+Maklumat yang diwujud, diterima dan diselenggara sebagai bukti oleh sesebuah  organisasi  atau  orang  perseorangan  bagi  memenuhi kehendak undang-undang serta semasa melaksanakan transaksi rasmi.
+
+##    4.4   Menyelenggara
+
+Proses penjagaan rekod-rekod agar ianya dalam keadaan selamat, teratur dan sentiasa dikemaskini.
+
+##    4.6   Mengedar
+
+Proses pergerakan rekod-rekod kepada pegawai-pegawai cawangan yang dikenalpasti mengikut prosedur yang ditetapkan dalam Manual Kualiti dan Prosedur Kualiti.
+
+##    4.7   Rekod Kualiti
+
+Dokumen hasil daripada aktiviti-aktiviti yang dilakukan mengikut Manual Kualiti dan Prosedur Kualiti.
+
+##    4.8   Fail
+
+Kegunaan untuk menyimpan dokumen dan rekod.
+
+##    4.9   Dokumen
+
+Material yang diterima dari pelanggan luaran syarikat dan merupakan transaksi urus-niaga berkaitan proses Sistem Pengurusan Kualiti.
+
+
+5.  SINGKATAN
+
+MD - Pengarah Urusan (Management Dept.)
+
+6.  TANGGUNGJAWAB DAN TINDAKAN
+
+|Tanggungjawab      |Tindakan                                       |
+|-------------------|-----------------------------------------------|
+|                   | A. PENERIMAAN DAN PENDAFTARAN                 |
+|                   |                                               |
+|Kerani Bilik Rekod | 1. Terima dokumen.                            |
+|                   |                                               |
+|                   | 2. Daftar dan cop penerimaan dokumen.         |
+|                   |                                               |
+|                   | 3. Agihkan kepada jabatan mengikut pengalamat penerima.|
+|                   |                                               |
+|Pengurus Jabatan   | 4. Terima dokumen.                            |
+|                   |                                               |
+|                   | 5. Membaca dengan teliti (peruse).            |
+|                   |                                               |
+|                   | 6. Tandatangan ringkas.                       |
+|                   |                                               |
+|Eksekutif          | 7. Ambil tindakan mengikut catatan            |
+|                   | Pengurus Jabatan.                             |
+|                   |                                               |
+|                   | 8. Serah dokumen dan jawapan kepada kerani.   |
+|                   |                                               |
+|Kerani Bilik Rekod | 9. Rekod dan failkan.                         |
+|Rekod              |                                               |
+|                   | B. PERGERAKAN FAIL                            |
+|                   |                                               |
+|Pemohon            |10. Mohon pengeluaran fail kepada MD.          |
+|                   |                                               |
+|MD                 |11. Luluskan permohonan di perenggan 10        |
+|                   |bersama catatan ringkas dan tandatangan ringkas.|
+|                   |                                               |
+|Kerani Bilik Rekod |12. Terima dan failkan permohonan              |
+|                   |pengeluaran fail bersama memo.                 |
+|                   |                                               |
+|                   |13. Rekod dan sahkan pengeluaran fail.         |
+|                   |                                               |
+|                   |14. Ambil tindakan susulan untuk pengembalian  |
+|                   |fail.                                          |
+|                   |                                               |
+|                   |15. Rekod dan sahkan fail yang telah dikembalikan.|
+|                   |                                               |
+|                   |C. TUTUP FAIL                                  |
+|                   |                                               |
+|Kerani Bilik Rekod |16. Semak fail yang perlu ditutup.             |
+|                   |                                               |
+|                   |17. Catat "TUTUP PADA" dan tarikh di sebelah   |
+|                   |luar kulit fail.                               |
+|                   |                                               |
+|                   |18. Simpan fail yang telah di tutup            |
+|                   |ke dalam bilik arkib rekod.                    |
+|                   |                                               |
+|                   |D. KESELAMATAN FAIL DI BILIK REKOD             |
+|                   |(PENGAMBILAN / PEMULANGAN FAIL)                |
+|                   |                                               |
+|Kerani Bilik Rekod |19. Terima borang permohonan dan pengeluaran.  |
+|                   |                                               |
+|                   |20. Semak No. Panggilan dalam Sistem Pengurusan Fail.|
+|                   |                                               |
+|                   |21. Rekodkan dan pastikan jalur dan rak fail   |
+|                   |yang dimohon adalah betul.                     |
+|                   |                                               |
+|                   |22. Asingkan kad keluar/masuk fail berkenaan.  |
+|                   |                                               |
+|                   |23. Serah fail kepada pemohon.                 |
+|                   |                                               |
+|Pemohon            |24. Semak fail dan tandatangan borang pinjaman fail.|
+|                   |                                               |
+|Kerani Bilik Rekod |25. Failkan borang permohonan fail.            |
+|                   |                                               |
+|Pemohon            |26. Serah fail kepada kerani rekod.            |
+|                   |                                               |
+|Kerani Bilik Rekod |27. Kembalikan fail ke rak.                    |
+|                   |                                               |
+|                   |28. Kembalikan kad keluar/masuk fail berkenaan.|
+|                   |                                               |
+|Kerani Bilik Rekod |27. Semak kad keluar/masuk fail,               |
+|                   |pastikan fail dipulangkan mengikut tempoh.     |
+|                   |                                               |
+|                   |28. Kemaskini maklumat di dalam Sistem Pengurusan Fail.|
+|                   |                                               |
+|                   |E. PELUPUSAN FAIL                              |
+|                   |                                               |
+|Kerani Bilik Rekod |29. Senaraikan fail yang perlu dilupuskan.     |
+|                   |                                               |
+|                   |30. Serah permohonan kepada MD untuk kelulusan.|
+|                   |                                               |
+|                   |31. Laksana proses pelupusan.                  |
+|                   |                                               |
+|                   |32. Rekodkan fail yang telah dibuat pelupusan. |
+
+7  CARTA ALIRAN KERJA
+
+8 REKOD KUALITI
+
+|Bil   |Rekod                                    |Tempoh Penyimpanan|Lokasi|
+|------|-----------------------------------------|--------|-------------|
+|1.    |Buku Daftar Surat/Dokumen                |5 tahun |Pejabat Tadbir|        
+|2.    |Buku Daftar Pergerakan Fail/Dokumen      |5 tahun |Bilik Rekod   |
+|3.    |Buku Daftar Pelupusan Fail/Dokumen       |7 Tahun |Bilik Rekod   |
+|4.    |Buku Rekod Pinjaman Fail/Dokumen         |5 tahun |Bilik Rekod   |
+
+9 LAMPIRAN

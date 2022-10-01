@@ -1,0 +1,338 @@
+---
+title: |
+  ![](~/R/qms/media/openapps-logo.png){width=30%}  
+  Bridging the gap between \textcolor{blue}{PEOPLE}, \textcolor{blue}{BUSINESS} and \textcolor{blue}{TECHNOLOGY}
+  
+  MS ISO 9001:2015 Sistem Pengurusan Kualiti  
+  OpenApps Sdn Bhd (548151-W)
+author:
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: '4'
+  html_document:
+    toc: yes
+    toc_depth: 4
+params:
+  doc_id: PK(W).OA.01
+  doc_title: "title"
+  
+---
+
+```{r init, include=FALSE}
+library(readr)
+a_list <- read_csv("~/R/qms/a_list.csv")
+```
+
+\newpage
+
+|Prosedur Kualiti &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|`r params$doc_id`|
+|:------------------|-------:|
+
+|                                   |
+|:---------------------------------:|
+|`r toupper(params$doc_title)`|
+
+# I    Penyedia dan Kelulusan
+
+|Nama &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |Tarikh |
+|-------------------------------|--------------|
+|                               |              |
+| Disediakan Oleh:          | Feb 2021 |
+|                               |              |
+|                               |              |
+|_____________________          |              |
+| `r substr(a_list$pemilik_dok[14],1,40)`| |
+| `r substr(a_list$pemilik_dok[14],41,60)`   | |
+| Wakil Pengurusan          |              |
+|                               |              |
+| Diluluskan Oleh:          | Feb 2021 |
+|                               |              |
+|                               |              |
+|_____________________          |              |
+| `r a_list$pemilik_dok[15]`|              |
+| CEO                       |              |
+|                               |              |
+| No Salinan Terkawal:      |              |
+|                               |              |
+| `r params$doc_id`( )          |              |
+
+\newpage
+
+# II    Rekod Pindaan
+
+|Tarikh Pindaan|No Pindaan/No Keluaran|Rujukan Pindaan Mukasurat |Butir-butir Pindaan|Diluluskan Oleh|
+|-------------|-------------|-------------|-------------|-------------|
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+
+# III   Senarai Pemegang Dokumen
+
+| No. Salinan Terkawal   | Pemegang Dokumen              |
+|------------------------|-------------------------------|
+| `r params$doc_id`(01)  | `r a_list$pemilik_dok[1]`     |
+|                        |                               |
+| `r params$doc_id`(02)  | `r a_list$pemilik_dok[2]`     |
+|                        |                               |
+| `r params$doc_id`(03)  | `r a_list$pemilik_dok[3]`     |
+|                        |                               |
+| `r params$doc_id`(04)  | `r a_list$pemilik_dok[4]`     |
+|                        |                               |
+| `r params$doc_id`(05)  | `r a_list$pemilik_dok[5]`     |
+|                        |                               |
+| `r params$doc_id`(06)  | `r a_list$pemilik_dok[6]`     |
+|                        |                               |
+| `r params$doc_id`(07)  | `r a_list$pemilik_dok[7]`     |
+|                        |                               |
+| `r params$doc_id`(08)  | `r a_list$pemilik_dok[8]`     |
+|                        |                               |
+| `r params$doc_id`(09)  | `r a_list$pemilik_dok[9]`     |
+|                        |                               |
+| `r params$doc_id`(10)  | `r a_list$pemilik_dok[10]`    |
+|                        |                               |
+| `r params$doc_id`(11)  | `r a_list$pemilik_dok[11]`    |
+|                        |                               |
+| `r params$doc_id`(12)  | `r a_list$pemilik_dok[12]`    |
+|                        |                               |
+| `r params$doc_id`(13)  | `r a_list$pemilik_dok[13]`    |
+
+\newpage
+
+
+1.0 OBJEKTIF
+
+Prosedur ini menggariskan langkah-langkah untuk mengendalikan aduan, maklumbalas pelanggan, kajian kepuasan pelanggan, penghargaan serta peti aduan/cadangan dengan berkesan dan sistematik.
+
+2.0 SKOP
+
+Prosedur ini digunapakai oleh anggota JRP dalam mengendalikan aduan dari penerimaan aduan sehingga perlaksanaan siasatan aduan. Mengendalikan maklumbalas pelanggan, kajian hasil maklumbalas pelanggan dan kepuasan pelanggan, pengendalian penghargaan yang diterima serta pengendalian dan penjagaan peti aduan/cadangan pelanggan.
+
+3.0 RUJUKAN
+
+3.1 MK.JRP.02 merujuk seksyen-seksyen berikut:
+
+Seksyen 4.2.4 - Kawalan Rekod Kualiti.
+
+Seksyen 5.2 - Keutamaan Pelanggan.
+
+Seksyen 7.2.3 - Komunikasi dengan Pelanggan.
+
+Seksyen 8.2.1 - Kepuasan Pelanggan.
+
+4.0 DEFINISI
+
+##    4.1 Aduan
+
+Merupakan pernyataan rasa tidak puashati pelanggan terhadap perkhidmatan yang diberikan di JRP melalui cara berikut:
+
+ i\) Bertemu Pelanggan.
+
+ ii\) Telefon/Faksimili.
+
+ iii\) Bertulis (samada melalui surat, Media massa, e-mel atau laman web).
+
+##    4.2 Maklumbalas Pelanggan
+
+Maklumbalas pelanggan yang diterima sama ada secara lisan dan bertulis melalui surat, memo, faks, e-mel, telefon atau pelanggan (pengadu) hadir ke pejabat untuk membuat aduan yang berkaitan.
+
+##    4.3.  Mesyuarat
+
+Mesyuarat bertujuan untuk membincangkan hal-hal pentadbiran semasa dan Sistem Pengurusan Kualiti serta membuat keputusan ke atas perkara yang dibincangkan. Ia termasuk keputusan Tindakan Pembetulan terhadap aduan pelanggan yang diterima dan diminitkan dalam Mesyuarat Pengarah atau Mesyuarat Operasi. Keahlian mesyuarat ialah:
+
+i)  PRP/WP;
+
+ii) TWP;
+
+iii) PS 1 Pengurusan; dan
+
+iv) Wakil Jabatan.
+
+##    4.4 Pelanggan
+
+Sebagaimana yang dimaksudkan di dalam seksyen 3.5 MK.OA.01.
+
+5.0 SINGKATAN
+
+5.1 MK - Manual Kualiti.
+
+5.2 MKSP - Mesyuarat Kajian Semula Pengurusan.
+
+5.3 PK - Prosedur Kualiti.
+
+5.4 TWP - Timbalan Wakil Pengurusan.
+
+5.5 WP - Wakil Pengurusan.
+
+6.0 TANGGUNGJAWAB DAN TINDAKAN
+
+------------------------------------------------------------------------
+Tanggungjawab     Tindakan   
+----------------- ------------------------------------------------------
+WP/TWP          A.  Pengendalian Aduan/Maklumbalas Pelanggan  
+                        
+                        1. Arahkan pelanggan mengisi Borang Aduan dan Maklumbalas 
+                        Pelanggan dengan lengkap.
+                   
+                        2. Beri penerangan tatacara pengisian. 
+                   
+                        3. Daftarkan dalam Buku Log Aduan Pelanggan/Maklumbalas Pelanggan.
+                   
+                        4.Isikan Borang Aduan jika aduan lengkap diterima 
+                        melalui telefon/faksimili/media massa.Terima dan teliti semua aduan
+                        yang diterima daripada pelanggan.
+                   
+                        5. Serahkan Akuan Penerimaan Aduan dan Maklumbalas
+                        Pelanggan kepada pelanggan.
+                   
+                        6. Majukan Akuan Penerimaan Aduan dan Maklumbalas
+                        Pelanggan kepada pelanggan jika aduan lengkap diterima
+                        melalui telefon/faksmili/media massa
+                        dalam tempoh 3 hari waktu bekerja dari tarikh terima aduan.
+                   
+                        7. Serahkan Borang Borang Aduan dan Maklumbalas Pelanggan 
+                        kepada Pegawai Sekretariat/Pegawai Pengendali Aduan Pelanggan.
+                   
+                        8. Terima dan teliti aduan/maklumbalas pelanggan.
+                   
+                        9. Serahkan kepada Ketua Cawangan yang 
+                        bertanggungjawab ke atas aduan/maklumbalas yang diajukan.
+
+Ketua Jabatan           10. Buat siasatan dan catatkan maklumat punca aduan serta 
+                        cadangan tindakan pembetulan.
+                        
+                        11. Serahkan Borang  Aduan/Maklumbalas Pelanggan kepada 
+                        Wakil Pengurusan/Timbalan Wakil Pengurusan.
+                        
+WP/TWP                  12. Catatkan butiran keputusan tindakan Pembetulan/Penilaian.
+
+                        13. Serahkan kepada Pengarah untuk pengesahan Tindakan Pembetulan/Penilaian.
+                        
+Pengarah                14. Sahkan catatan keputusan Tindakan Pembetulan/Penilaian yang telah dibuat 
+                        komen (jika berkenaan).
+                                           
+                        15. Serahkan kepada Pegawai Sekretariat/Pegawai Pengendali Aduan Pelanggan 
+                        untuk difailkan.
+                        
+Sekretariat ISO/        16. Pastikan keseluruhan Borang Aduan/Maklumbalas Pelanggan
+WP/TWP                  dilengkapkan dalam tempoh 5 hari bekerja dari tarikh terima aduan.
+                        Sekiranya Tindakan Pembetulan hendak diputuskan dalam 
+                        Mesyuarat Jawatankuasa Pengendalian Aduan Pelanggan, 
+                        pastikan ia dilaksanakan dalam tempoh 30 hari dari tarikh terima aduan.                       
+                                                                  
+                        17. Majukan keputusan Tindakan Pembetulan yang telah disahkan 
+                        kepada pelanggan (jika perlu).  
+                        
+                        18. Arahkan Cawangan yang berkaitan supaya melaksanakan tindakan 
+                        telah disahkan oleh Pengarah. 
+                        
+                        19. Failkan Borang Aduan/Maklumbalas Pelanggan yang telah disahkan.
+                      
+Pengarah/WP             20.  Pengerusikan mesyuarat dan bentang prestasi aduan/maklumbalas pelanggan 
+                        dan keputusan TindakanPembetulan (jika ada).
+                        
+                        21. Bentangkan laporan kajian dan analisis aduan pelanggan semasa MKSP. 
+                        
+Sekretariat ISO         22.  Failkan Minit Mesyuarat.     
+                                                                  
+Ketua Jabatan           23.  Laksanakan Tindakan Pembetulan.                  
+
+                        B. Pengendalian Kajian Kepuasan Pelanggan.                                            
+
+Sekretariat ISO         24.   Terima Borang Kepuasan Pelanggan dari pelanggan.    
+Peg. Pengendali
+Aduan Pelanggan         
+
+                        25.  Jika borang dimasukkan oleh pelanggan ke dalam peti aduan/cadangan 
+                        rujuk pengendalian Peti Aduan/Cadangan.
+                        
+                        26. Kumpul, semak dan analisa semua Borang Kepuasan Pelanggan yang diterima.     
+                                                                  
+                        27. Buat analisa berdasarkan maklumat yang diisi oleh pelanggan 
+                        di dalam Borang Kepuasan Pelanggan.          
+                                                                  
+                        28. Serahkan analisa kepuasan pelanggan kepada WP/TWP 
+                        untuk keputusan/penilaian analisa.                     
+
+WP/TWP                  29. Buat keputusan/penilaian analisa dan serah kembali kepada Sekretariat ISO/
+                        Pegawai Pengendali Aduan Pelanggan.  
+
+WP                      30. Pengerusikan mesyuarat dan bentangkan keputusan analisa. 
+
+Sekretariat ISO         31. Arahkan Cawangan yang berkaitan untuk melaksanakan Tindakan Pembetulan 
+                        hasil dari keputusan analisa/mesyuarat.
+                        
+                        32. Failkan analisa kepuasan pelanggan dan Borang Kepuasan Pelanggan.          
+
+Ketua Jabatan           33. Laksanakan Tindakan Pembetulan (jika berkenaan).       
+
+WP/TWP                  34. Bentangkan laporan kajian dan analisa semasa MKSP.     
+
+PRP                     C. Pengendalian Penghargaan.                                                   
+WP/TWP
+
+                        35. Terima penghargaan daripada pelanggan dalaman dan luaran.                      
+
+                        36. Arahkan Kerani rekodkan dalam Buku/Fail Daftar Penghargaan.                 
+
+Kerani                  37. Terima penghargaan dari PRP/WPPenyelia.         
+
+                        38. Rekodkan dalam Buku/Fail Daftar Penghargaan.          
+
+                        39. Pamerkan penghargaan mengikut tempoh bersesuaian (jika perlu).                
+
+PRP                     D. Pengendalian Peti Aduan/Cadangan                                                
+WP/TWP
+
+                        40. Rancang bentuk, lokasi dan keperluan Peti Aduan/Cadangan.              
+
+                        41. Arahkan PS 3 Tadbir untuk menyediakan Peti Aduan/Cadangan.              
+                                                                 
+                        42. Lantik pegawai pengendali untuk mengawal selia 
+                        Peti Aduan/Cadangan sebilangmasa. 
+
+PS 3 Tadbir             43. Sedia dan daftarkan penempatan Peti Aduan/Cadangan di lokasi 
+                        yang telah ditetapkan.       
+
+Sekretariat ISO         44.  Kawal selia Peti Aduan/Cadangan sebilangmasa. 
+
+Sekretariat ISO         D.  Aduan Pelanggan                                             
+
+                        47.  Buat kutipan Borang Kepuasan Pelanggan dari Peti Aduan/Cadangan
+                        setiap hari (jika ada).                  
+
+                        48.  Patuhi perenggan 6.0 Pengendalian Kajian kepuasan Pelanggan 
+                        bilangan 2 hingga 10.                          
+----------------------------------------------------------------------
+
+7.0 ALIRAN KERJA
+
+![Borang Aduan Pelanggan](~/R/qms/media/s01-1.png){width=60%}
+\newpage
+![Kajian Pelanggan](~/R/qms/media/s01-2.png){width=60%}
+\newpage
+![Penghargaan Pelanggan](~/R/qms/media/s01-3.png){width=60%}
+\newpage
+![Peti Penghargaan](~/R/qms/media/s01-4.png){width=60%}
+
+8.0 REKOD KUALITI
+
+---------------------------------------------------------------------
+Bil   Rekod                             Tempoh        Lokasi
+                                        Penyimpanan
+----  --------------------------------- ------------- ---------------
+ 1.   Borang Aduan Pelanggan            5 Tahun       Sekretariat  
+                                                   
+ 2    Minit Mesyuarat Jawatankuasa      5 Tahun       Sekretariat
+      Pengendalian Aduan Awam                                                  
+---------------------------------------------------------------------
+
+9.0 LAMPIRAN
+
+1.  Borang Aduan Pelanggan.

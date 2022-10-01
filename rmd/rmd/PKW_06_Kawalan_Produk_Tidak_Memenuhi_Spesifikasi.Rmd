@@ -1,0 +1,421 @@
+---
+title: "MS ISO 9001:2015 Sistem Pengurusan Kualiti"
+author: "OpenApps Sdn Bhd (548151-W)"
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: '4'
+  html_document:
+    toc: yes
+    toc_depth: 4
+params:
+  doc_id: PK(W).OA.01
+  doc_title: "title"
+  
+---
+
+```{r init, include=FALSE}
+library(readr)
+a_list <- read_csv("~/R/qms/a_list.csv")
+```
+
+\newpage
+
+|Prosedur Kualiti &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|`r params$doc_id`|
+|:------------------|-------:|
+
+![](~/R/qms/media/openapps-logo.png){width=30%}
+
+| **Bridging the gap** between **PEOPLE**, **BUSINESS** and **TECHNOLOGY**
+
+|                                   |
+|:---------------------------------:|
+|`r toupper(params$doc_title)`|
+
+# I    Penyedia dan Kelulusan
+
+|Nama &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |Tarikh |
+|-------------------------------|--------------|
+|                               |              |
+| Disediakan Oleh:          | Feb 2021 |
+|                               |              |
+|                               |              |
+|_____________________          |              |
+| `r substr(a_list$pemilik_dok[14],1,40)`| |
+| `r substr(a_list$pemilik_dok[14],41,60)`   | |
+| Wakil Pengurusan          |              |
+|                               |              |
+| Diluluskan Oleh:          | Feb 2021 |
+|                               |              |
+|                               |              |
+|_____________________          |              |
+| `r a_list$pemilik_dok[15]`|              |
+| CEO                       |              |
+|                               |              |
+| No Salinan Terkawal:      |              |
+|                               |              |
+| `r params$doc_id`( )          |              |
+
+\newpage
+
+# II    Rekod Pindaan
+
+|Tarikh Pindaan|No Pindaan/No Keluaran|Rujukan Pindaan Mukasurat |Butir-butir Pindaan|Diluluskan Oleh|
+|-------------|-------------|-------------|-------------|-------------|
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+
+# III   Senarai Pemegang Dokumen
+
+| No. Salinan Terkawal   | Pemegang Dokumen              |
+|------------------------|-------------------------------|
+| `r params$doc_id`(01)  | `r a_list$pemilik_dok[1]`     |
+|                        |                               |
+| `r params$doc_id`(02)  | `r a_list$pemilik_dok[2]`     |
+|                        |                               |
+| `r params$doc_id`(03)  | `r a_list$pemilik_dok[3]`     |
+|                        |                               |
+| `r params$doc_id`(04)  | `r a_list$pemilik_dok[4]`     |
+|                        |                               |
+| `r params$doc_id`(05)  | `r a_list$pemilik_dok[5]`     |
+|                        |                               |
+| `r params$doc_id`(06)  | `r a_list$pemilik_dok[6]`     |
+|                        |                               |
+| `r params$doc_id`(07)  | `r a_list$pemilik_dok[7]`     |
+|                        |                               |
+| `r params$doc_id`(08)  | `r a_list$pemilik_dok[8]`     |
+|                        |                               |
+| `r params$doc_id`(09)  | `r a_list$pemilik_dok[9]`     |
+|                        |                               |
+| `r params$doc_id`(10)  | `r a_list$pemilik_dok[10]`    |
+|                        |                               |
+| `r params$doc_id`(11)  | `r a_list$pemilik_dok[11]`    |
+|                        |                               |
+| `r params$doc_id`(12)  | `r a_list$pemilik_dok[12]`    |
+|                        |                               |
+| `r params$doc_id`(13)  | `r a_list$pemilik_dok[13]`    |
+
+\newpage
+
+1.  OBJEKTIF
+
+ Prosedur ini menyediakan garispanduan bagi memastikan produk/perkhidmatan di JRP yang tidak memenuhi spesifikasi, seperti dalam
+ peraturan yang telah ditetapkan, dikawal, diasingkan dan diambil tindakan pembetulan secara teratur dan berkesan.
+
+2.  SKOP
+
+ Prosedur ini digunapakai oleh semua anggota di JRP untuk semua penghasilan produk dan penyampaian perkhidmatan yang tidak memenuhi spesifikasi dikesan, dikawal, diasingkan dan diambil tindakan pembetulan ke atas rekod-rekod yang tidak memenuhi spesifikasi.
+
+3.  RUJUKAN
+
+3.1 MK.JRP.02
+
+Seksyen 7.5.1 - Kawalan Bagi Pelaksanaan Proses-proses.
+
+Seksyen 7.5.2 - Validasi Proses Penyediaan dan Penyampaian Perkhidmatan Kepada Pelanggan.
+
+Seksyen 7.5.3 - Identifikasi dan Kemudahkesanan.
+
+Seksyen 7.5.5 - Pemuliharaan Produk.
+
+Seksyen 8.2.3 - Pemantauan dan Pengukuran Proses.
+
+Seksyen 8.2.4 - Pemantauan dan Pengukuran Produk.
+
+Seksyen 8.3 - Kawalan Produk yang tidak memenuhi Spesifikasi.
+
+Seksyen 8.4 - Analisa Data.
+
+Seksyen 8.5. - Penambahbaikkan.
+
+4.  DEFINISI
+
+##    4.1     Produk yang tidak memenuhi spesifikasi
+
+ Semua bentuk produk/perkhidmatan yang tidak mengikut peraturan yang ditetapkan sebagaimana keperluan yang ditetapkan dalam Sistem Pengurusan Kualiti.
+
+5.  SINGKATAN
+
+ 5.1 PRP - Pengarah Rekod dan Pencen.
+
+5.2 WP - Wakil Pengurusan.
+
+ 5.3 PD - Pengurus Dokumen .
+
+ 5.4 PS 1 - Pegawai Staf Satu.
+
+ 5.5 PS 2 - Pegawai Staf Dua.
+
+ 5.6 JRP - Jabatan Arah Rekod dan Pencen.
+
+ 5.7 KC - Ketua Cawangan.
+
+6.  TANGGUNGJAWAB DAN TINDAKAN
+
++---------------------+----------------------+----------------------+
+| TANGGUNGJAWAB   | ######  {#section-6} | TINDAKAN         |
++=====================+======================+======================+
+|                     | ######  {#section-1} | ###### A.          |
+|                     |                      |  Peringkat Penerimaa |
+|                     |                      | n Dokumen (Input)  |
+|                     |                      | {#a.-peringkat-pener |
+|                     |                      | imaan-dokumen-input} |
++---------------------+----------------------+----------------------+
+| #####  {#section-2} | 1\.                  | Tentukan penerimaan  |
+|                     |                      | rekod-rekod          |
+| ##### KC  {#kc} |                      | perkhidmatan anggota |
+|                     |                      | dari pelanggan       |
+|                     |                      | menepati kehendak    |
+|                     |                      | prosedur kualiti.    |
++---------------------+----------------------+----------------------+
+| ####  {#section-3}  | 2\.                  | Kenalpasti           |
+|                     |                      | rekod-rekod          |
+|                     | 3\.                  | perkhidmatan anggota |
+|                     |                      | yang tidak memenuhi  |
+|                     | 4\.                  | spesifikasi seperti: |
+|                     |                      |                      |
+|                     |                      | i.  Rekod cuti yang  |
+|                     |                      |     tidak            |
+|                     |                      |     dik              |
+|                     |                      | emaskini/bercanggah. |
+|                     |                      |                      |
+|                     |                      | ii. Maklumat Orang   |
+|                     |                      |     Tanggungan yang  |
+|                     |                      |     mengelirukan.    |
+|                     |                      |                      |
+|                     |                      | iii. Pengisian Buku  |
+|                     |                      |      Akuan           |
+|                     |                      |      Perkhidmatan    |
+|                     |                      |      yang tidak      |
+|                     |                      |      sempurna.       |
+|                     |                      |                      |
+|                     |                      | Kembalikan           |
+|                     |                      | rekod-rekod kepada   |
+|                     |                      | pelanggan yang tidak |
+|                     |                      | memenuhi spesifikasi |
+|                     |                      | sekiranya ada.       |
+|                     |                      |                      |
+|                     |                      | Maklumkan kepada WP  |
+|                     |                      | berhubung insiden    |
+|                     |                      | penolakan dokumen    |
+|                     |                      | anggota yang tidak   |
+|                     |                      | memenuhi             |
+|                     |                      | spesifikasi.         |
++---------------------+----------------------+----------------------+
+| WP              | 5\.                  | Berikan komen ke     |
+|                     |                      | atas penerimaan      |
+| ####  {#section-4}  |                      | rekod-rekod          |
+|                     |                      | perkhidmatan anggota |
+|                     |                      | yang tidak memenuhi  |
+|                     |                      | spesifikasi.         |
++---------------------+----------------------+----------------------+
+| #####  {#section-5} | 6\.                  | Minta pelanggan      |
+|                     |                      | untuk menyediakan    |
+| #                   | 7\.                  | rekod-rekod baru     |
+| #### KC {#kc-1} |                      | yang memenuhi        |
+|                     | 8\.                  | spesifikasi.         |
+|                     |                      |                      |
+|                     |                      | Perbetulkan prosedur |
+|                     |                      | dan rekod, di mana   |
+|                     |                      | perlu.               |
+|                     |                      |                      |
+|                     |                      | Arahkan tindakan     |
+|                     |                      | pembetulan           |
+|                     |                      | dilaksanakan oleh    |
+|                     |                      | anggota yang         |
+|                     |                      | bertanggungjawab.    |
++---------------------+----------------------+----------------------+
+| WP              | 9\.                  | Sahkan tindakan      |
+|                     |                      | pembetulan yang      |
+|                     |                      | telah dilakukan      |
+|                     |                      | adalah mengikut      |
+|                     |                      | prosedur yang telah  |
+|                     |                      | ditetapkan.          |
++---------------------+----------------------+----------------------+
+| KC              | 10\.                 | Buat laporan         |
+|                     |                      | penerimaan           |
+|                     |                      | rekod-rekod          |
+|                     |                      | perkhidmatan yang    |
+|                     |                      | tidak memenuhi       |
+|                     |                      | spesifikasi dengan   |
+|                     |                      | mengisi Borang       |
+|                     |                      | Laporan Tindakan     |
+|                     |                      | Pembetulan.          |
++---------------------+----------------------+----------------------+
+
++----------------------+----------------------+----------------------+
+|                      | #                    | B. Peringkat       |
+|                      | #####  {#section-10} | Pemerosesan Rekod  |
++======================+======================+======================+
+| #####  {#section-7}  | 1\.                  | Kenalpasti           |
+|                      |                      | rekod-rekod          |
+| ##### KC {#kc-2} | 2\.                  | perkhidmatan yang    |
+|                      |                      | tidak memenuhi       |
+|                      |                      | spesifikasi seperti  |
+|                      |                      | berikut:             |
+|                      |                      |                      |
+|                      |                      | i\. Rekod-rekod      |
+|                      |                      | perkhidmatan yang    |
+|                      |                      | tidak dikemaskini    |
+|                      |                      | dengan betul.        |
+|                      |                      |                      |
+|                      |                      | ii\. Pengisian       |
+|                      |                      | maklumat yang tidak  |
+|                      |                      | tepat dalam Kertas   |
+|                      |                      | Faedah Persaraan.    |
+|                      |                      |                      |
+|                      |                      | Maklumkan kepada WP  |
+|                      |                      | berhubung rekod      |
+|                      |                      | perkhidmatan anggota |
+|                      |                      | yang tidak memenuhi  |
+|                      |                      | spesifikasi.         |
++----------------------+----------------------+----------------------+
+| ####  {#section-8}   | 3\.                  | Berikan komen ke     |
+|                      |                      | atas rekod-rekod     |
+|                      |                      | perkhidmatan yang    |
+|                      |                      | tidak memenuhi       |
+|                      |                      | spesifikasi.         |
++----------------------+----------------------+----------------------+
+| #####  {#section-9}  | 4\.                  | Arahkan anggota yang |
+|                      |                      | bertanggungjawab     |
+|                      |                      | untuk mengambil      |
+|                      |                      | tindakan pembetulan  |
+|                      |                      | ke atas rekod-rekod  |
+|                      |                      | perkhidmatan yang    |
+|                      |                      | tidak memenuhi       |
+|                      |                      | spesifikasi.         |
++----------------------+----------------------+----------------------+
+|                      | 5\.                  | Pastikan tindakan    |
+|                      |                      | pembetulan           |
+|                      |                      | dilaksanakan oleh    |
+|                      |                      | anggota yang         |
+|                      |                      | bertanggungjawab     |
+|                      |                      | seperti              |
+|                      |                      | memperbetulkan       |
+|                      |                      | rekod-rekod          |
+|                      |                      | perkhidmatan dan     |
+|                      |                      | memperkemaskini      |
+|                      |                      | Kertas Faedah        |
+|                      |                      | Persaraan.           |
++----------------------+----------------------+----------------------+
+| WP               | 6\.                  | Sahkan tindakan      |
+|                      |                      | pembetulan yang      |
+|                      |                      | telah dilakukan      |
+|                      |                      | adalah mengikut      |
+|                      |                      | prosedur yang telah  |
+|                      |                      | ditetapkan.          |
++----------------------+----------------------+----------------------+
+| KC               | 7\.                  | Buat laporan         |
+|                      |                      | rekod-rekod          |
+|                      |                      | perkhidmatan yang    |
+|                      |                      | tidak memenuhi       |
+|                      |                      | spesifikasi dengan   |
+|                      |                      | mengisi Borang       |
+|                      |                      | Laporan Tindakan     |
+|                      |                      | Pembetulan.          |
++----------------------+----------------------+----------------------+
+
++----------------------+----------------------+----------------------+
+|                      | #                    | C. Peringkat       |
+|                      | #####  {#section-14} | Pengeluaran          |
+|                      |                      | (Output)           |
++======================+======================+======================+
+| #####  {#section-11} | 1\.                  | Semak rekod-rekod    |
+|                      |                      | perkhidmatan yang    |
+| ##### KC {#kc-3} | 2\.                  | tidak memenuhi       |
+|                      |                      | spesifikasi seperti  |
+|                      |                      | berikut:             |
+|                      |                      |                      |
+|                      |                      | i\. Pengisian        |
+|                      |                      | maklumat/data yang   |
+|                      |                      | tidak tepat dalam    |
+|                      |                      | Buku Akuan           |
+|                      |                      | Perkhidmatan.        |
+|                      |                      |                      |
+|                      |                      | ii\. Pengisian       |
+|                      |                      | maklumat/data yang   |
+|                      |                      | tidak tepat dalam    |
+|                      |                      | Kad Bekas Tentera.   |
+|                      |                      |                      |
+|                      |                      | iii\. Kenalpasti     |
+|                      |                      | rekod-rekod          |
+|                      |                      | perkhidmatan yang    |
+|                      |                      | tersalah taip.       |
+|                      |                      |                      |
+|                      |                      | Maklumkan kepada WP  |
+|                      |                      | berhubung rekod      |
+|                      |                      | perkhidmatan anggota |
+|                      |                      | yang tidak memenuhi  |
+|                      |                      | spesifikasi.         |
++----------------------+----------------------+----------------------+
+| ####  {#section-12}  | 3\.                  | Berikan komen ke     |
+|                      |                      | atas rekod-rekod     |
+| #### WP {#wp}    |                      | perkhidmatan yang    |
+|                      |                      | tidak memenuhi       |
+|                      |                      | spesifikasi.         |
++----------------------+----------------------+----------------------+
+| #####  {#section-13} | 4\.                  | Arahkan anggota yang |
+|                      |                      | bertanggungjawab     |
+| #                    |                      | untuk memperbetulkan |
+| #### KC  {#kc-4} |                      | maklumat ke atas     |
+|                      |                      | Buku Akuan           |
+|                      |                      | Perkhidmatan, Kad    |
+|                      |                      | Bekas Tentera dan    |
+|                      |                      | rekod-rekod          |
+|                      |                      | perkhidmatan anggota |
+|                      |                      | yang tidak memenuhi  |
+|                      |                      | spesifikasi.         |
++----------------------+----------------------+----------------------+
+|                      | 5\.                  | Pastikan tindakan    |
+|                      |                      | pembetulan           |
+|                      |                      | dilaksanakan oleh    |
+|                      |                      | anggota yang         |
+|                      |                      | bertanggungjawab.    |
++----------------------+----------------------+----------------------+
+| WP               | 6\.                  | Sahkan tindakan      |
+|                      |                      | pembetulan yang      |
+|                      |                      | telah dilakukan      |
+|                      |                      | adalah mengikut      |
+|                      |                      | prosedur yang telah  |
+|                      |                      | ditetapkan.          |
++----------------------+----------------------+----------------------+
+| KC               | 7\.                  | Buat laporan         |
+|                      |                      | rekod-rekod          |
+|                      |                      | perkhidmatan yang    |
+|                      |                      | tidak memenuhi       |
+|                      |                      | spesifikasi dengan   |
+|                      |                      | mengisi Borang       |
+|                      |                      | Laporan Tindakan     |
+|                      |                      | Pembetulan.          |
++----------------------+----------------------+----------------------+
+
+### CARTA ALIRAN
+
+ 7.1 Di Peringkat Penerimaan
+
+7.2 Di Peringkat Pemerosesan
+
+7.3 Di Peringkat Pengeluaran
+
+8.0 REKOD KUALITI
+
++----------+--------------+--------------+------------+--------------+
+| BIL. | NAMA       | ###          | LOKASI | TEMPOH     |
+|          | REKOD      | ### INDEKS |            | P            |
+|          |              |  {#indeks} |            | ENYIMPANAN |
++==========+==============+==============+============+==============+
+| 1\.      | Laporan      | ##### Ti     | Pejabat WP | 5 Tahun      |
+|          | Tindakan     | ada {#tiada} |            |              |
+|          | Pembetulan   |              |            |              |
++----------+--------------+--------------+------------+--------------+
+
+9.0 LAMPIRAN
+
+Tiada

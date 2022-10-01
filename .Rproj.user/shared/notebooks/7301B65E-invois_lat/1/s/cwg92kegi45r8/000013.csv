@@ -1,0 +1,3 @@
+"0","jlh <- by_item %>% "
+"0","  filter(jenis == ""latihan"") %>% "
+"0","  summarise(""jlh"" = sum(jumlah))"

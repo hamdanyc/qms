@@ -1,0 +1,14 @@
+name: oa-ncr
+title: oa-ncr
+username:
+account: hamdan-yaccob
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6361830
+bundleId: 6118269
+url: https://hamdan-yaccob.shinyapps.io/oa-ncr/
+when: 1658383221.04011
+lastSyncTime: 1658383221.04014
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: B03-1.pdf|B03-2.pdf|nc_init.R|ncr.json|pdf/B03-1.pdf|pdf/B03-2.pdf|report.nb.html|report.Rmd|t.json

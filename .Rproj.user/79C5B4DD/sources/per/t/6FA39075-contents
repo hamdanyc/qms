@@ -1,0 +1,91 @@
+---
+title: |
+  ![](chart/openapps-logo.png){width=30%}  
+  Bridging the Gap Between \textcolor{blue}{PEOPLE}, \textcolor{blue}{BUSINESS} and \textcolor{blue}{TECHNOLOGY}
+  
+  MS ISO 9001:2015 Sistem Pengurusan Kualiti  
+  OpenApps Sdn Bhd (548151-W)
+author:
+toc-title: Jadual Kandungan
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: '4'
+    includes:
+      in_header: "preamb.tex"
+params:
+  doc_id: PK(W).OA.01
+  doc_title: "title"
+  doc_date: ""
+  
+---
+
+\newpage
+\fancyhead[R]{\textbf{No: Keluaran: 01\\No Pindaan: 00\\Tarikh Kuatkuasa: `r params$doc_date`}}
+\fancyhead[L]{\textbf{MS ISO 9001:2015\\OpenApps Sdn Bhd (548151-W)\\`r params$doc_id`}}
+\clearpage
+\pagenumbering{Roman}
+
+# I    Rekod Pindaan
+
+|Tarikh Pindaan|No Pindaan/No Keluaran|Rujukan Pindaan Mukasurat |Butir-butir Pindaan|Diluluskan Oleh|
+|-------------|-------------|-------------|-------------|-------------|
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+
+# II   Senarai Pemegang Dokumen
+
+| No. Salinan Terkawal   | Pemegang Dokumen              |
+|------------------------|-------------------------------|
+| `r params$doc_id`(01)  | `r a_list$pemilik_dok[1]`     |
+|                        |                               |
+| `r params$doc_id`(02)  | `r a_list$pemilik_dok[2]`     |
+|                        |                               |
+| `r params$doc_id`(03)  | `r a_list$pemilik_dok[3]`     |
+|                        |                               |
+| `r params$doc_id`(04)  | `r a_list$pemilik_dok[4]`     |
+|                        |                               |
+| `r params$doc_id`(05)  | `r a_list$pemilik_dok[5]`     |
+|                        |                               |
+| `r params$doc_id`(06)  | `r a_list$pemilik_dok[6]`     |
+|                        |                               |
+| `r params$doc_id`(07)  | `r a_list$pemilik_dok[7]`     |
+|                        |                               |
+| `r params$doc_id`(08)  | `r a_list$pemilik_dok[8]`     |
+|                        |                               |
+| `r params$doc_id`(09)  | `r a_list$pemilik_dok[9]`     |
+|                        |                               |
+| `r params$doc_id`(10)  | `r a_list$pemilik_dok[10]`    |
+|                        |                               |
+| `r params$doc_id`(11)  | `r a_list$pemilik_dok[11]`    |
+|                        |                               |
+| `r params$doc_id`(12)  | `r a_list$pemilik_dok[12]`    |
+|                        |                               |
+| `r params$doc_id`(13)  | `r a_list$pemilik_dok[13]`    |
+
+\newpage
+\clearpage
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+# 1.0     Piagam Pelanggan
+
+Kami, warga OpenApps dengan berbekalkan keupayaan serta keyakinan para pelanggan; yakin dan penuh kepercayaan akan berusaha untuk memenuhi piagam pelanggan yang dinyatakan seperti berikut:
+
+\begin{table}[th]
+\begin{tabular}{p{0.03\textwidth}p{0.5\textwidth}p{0.2\textwidth}p{0.2\textwidth}} \hline
+Siri & Piagam                                                                                                                                                                                                         & Keperluan                                                                           & Jangkaan                                                           \\ \hline
+1.   & Melunaskan bayaran kepada pembekal dalam masa 30 hari dari tarikh Arahan Penyerahan (DO).                                                                                                                     & Proses bayaran yang cekap, telus dan mengutamakan pelanggan.                         & Wujud saling kepercayaan antara OA dan pembekal.                      \\
+2.   & Bertindak terhadap aduan pelanggan dalam tempoh 3 hari (atau lebih awal) dari tarikh aduan diterima.                                                                                                           & Menyelesaikan aduan pelanggan secara profesional, kerahsiaan dan berhemah.          & Meningkatkan keyakinan pelanggan.                                     \\
+3    & Memastikan pelanggan sentiasa dimaklumkan mengenai status projek sekurang-kurang sekali setiap bulan  & Bertindak balas secara pro-aktif terhadap sebarang ketidaktentuan  & Meningkatkan keyakinan pelanggan.                                     \\
+4.   & Menyerahkan projek yang dibekalkan (cth. integrasi sistem, pembekalan produk ICT termasuk perkhidmatan senggaraan dan sokongan) sebelum atau pada tarikh yang ditetapkan, tetapi di dalam keadaan kelewatan tidak dapat dielakkan, penyerahan tidak lewat dari 14 hari yang ditetapkan jadual penyerahan. & Proses pemantauan, kawal selia sumber dan pengurusan projek yang cekap dan berkesan   & Meningkatkan imej dan prestij OA sebagai rakan kongsi yang berwibawa. \\
+5.   & Penyerahan dokumen tender mengikut spesifikasi dalam tempoh 72 jam sebelum tarikh tutup.                                                                                                & Penilaian keperluan yang jitu dengan plan kontigensi menghadapi ketidaktentuan.      & Memperolehi peluang perniagaan dan meningkatkan daya saing OA.            \\ \hline
+\end{tabular}
+\end{table}

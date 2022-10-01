@@ -1,0 +1,28 @@
+{
+    "id": "8842A6BF",
+    "path": "~/qms/invois_lat.Rmd",
+    "project_path": "invois_lat.Rmd",
+    "type": "r_markdown",
+    "hash": "4270935826",
+    "contents": "",
+    "dirty": false,
+    "created": 1663763527410.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled1",
+        "chunk_output_type": "inline",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "61,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1663853643,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1663856703083,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,77 @@
+---
+title: "Invois"
+output:
+  html_notebook: default
+  fontsize: 12pt
+  header-includes: 
+  pdf_document: default
+---
+
+```{r init, include=FALSE}
+library(dplyr)
+library(kableExtra)
+load("cost.RData")
+```
+
+Daripada:   
+
+Kol Hamdan bin Yaccob (Bersara)
+
+
+Kepada:  
+
+Pengurus Kewangan,  
+OpenApps Sdn. Bhd
+
+
+**`r format(Sys.Date(), "%d %b %Y")`**
+
+\rule{\textwidth}{4 pt}
+\begin{center}
+\textbf{Invois -- Dokumentasi, Latihan dan Aplikasi Sistem Pengurusan Kualiti (QMS)} \\        
+\textbf{OpenApps Sdn. Bhd.}
+\end{center}
+\rule{\textwidth}{4pt}
+Puan,  
+
+1.   Disertakan senarai dokumentasi dan latihan di perkara tajuk untuk tindakan, terima kasih.
+
+```{r item, echo=FALSE}
+by_item %>% 
+  filter(jenis == "aplikasi" | jenis == "dokumentasi") %>% 
+  group_by(jenis) %>% 
+  group_modify(~ bind_rows(., summarize(., across(where(is.numeric), sum)))) %>%
+  ungroup %>%
+  mutate(nama = coalesce(nama, paste("Jumlah (", jenis,")")),
+         jenis = if_else(startsWith(nama, "Jumlah"), "", jenis),
+         kos_unit = if_else(jenis == "","",as.character(kos_unit))) %>%
+  select(nama,jenis,kti,kos_unit,jumlah) %>% 
+  kbl(booktab=T) %>%
+  kable_styling(position="left",latex_options = c("striped"),
+                full_width = F) %>% 
+  # column_spec(2, width = "17em") %>% 
+  pack_rows("Aplikasi",1,4) %>% 
+  pack_rows("Dokumentasi",5,6)  # %>% pack_rows("Latihan",7,8)
+# df <- data_frame(total)
+# bind_rows(sum(tb_item$jumlah),df$total,"total")
+item <- by_item %>% 
+  filter(jenis == "aplikasi" | jenis == "dokumentasi") %>% 
+  summarise("jlh" = sum(jumlah))
+```
+2.  Jumlah Keseluruhan: **RM `r format(sum(item$jlh),big.mark = ",")`**. Mohon kreditkan ke akaun Bank Muamalat Malaysia Bhd,     
+no akaun: **14010036728728**.       
+
+3. Terima kasih.    
+
+![](tt.png){width=30%}
+  
+\rule{5.5cm}{0.2mm}    
+Kol Hamdan bin Yaccob (Bersara)   
+
+```{r lampiran, echo=FALSE}
+ doc_files %>%
+  select("Id"=doc_id, "Tajuk"=doc_title) %>%
+  kbl(booktab=T,row.names = T, caption = "Senarai Dokumentasi", position = "t") %>% 
+  kable_styling(latex_options = c("striped"),position = "left") %>%
+  column_spec(3, width = "31em")
+```

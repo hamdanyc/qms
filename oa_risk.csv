@@ -1,0 +1,25 @@
+Id,Title,Risk,Type,Consequence,Likelihood
+1,Client default on payment,Insignificant,External,2,3 
+2,Client refuses to approve deliverables/milestones or delays approval,Minor,External,2,2
+3,“Client's change request for item”,Minor,External,2,2
+4,Currency exchange rate of the imported item,Minor,External,2,2
+5,Delayed Delivery Order,Minor,Internal/External,2,3
+6,Delayed Invoice,Minor,Internal/External,1,2
+7,Delayed Purchase Order,Insignificant,Internal/External,1,2
+8,Delayed Quotation,Minor,Internal/External,1,2
+9,Delivery of items/project stopped,Minor,Internal/External,2,2
+10,Error/s in Delivery Order,Insignificant,Internal/External,1,2
+11,Error/s in Invoice,Minor,Internal/External,3,3
+12,Error/s in Purchase Order,Minor,Internal/External,2,1
+13,Error/s in Quotation,Minor,Internal/External,2,3
+14,Estimating and/or scheduling errors,Insignificant,Internal/External,1,3
+15,Inadequate client testing leads cause defect list,Insignificant,Internal/External,1,2
+16,Item becomes obsolete or is undermined by external or internal changes,Minor,Internal/External,2,2
+17,Item imported hold up by custom,Minor,Internal/External,1,2
+18,Item mistakenly delivered,Minor,Internal/External,1,2
+19,Item mistakenly purchase,Minor,Internal/External,2,2
+20,Item received is faulty/broken,Minor,Internal/External,2,2
+21,Item received not according to specification,Minor,Internal/External,1,2
+22,Sudden departure of key personnel could delay the project delivery,Minor,Internal,2,2
+23,"Theft of materials, intellectual property or equipment",Minor,Internal/External,1,1
+24,Unplanned work that must be accommodated,Minor,External,2,1

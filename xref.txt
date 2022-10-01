@@ -1,0 +1,87 @@
+Manual_Kualiti.Rmd
+   Syarikat hendaklah melaksanakan keperluan-keperluan MS ISO 9001:2015 kecuali keperluan-keperluan yang dinyatakan dibawah dan pengecualian  tersebut kerana pengurusan Syarikat tidak tertakluk kepada aktiviti mereka bentuk (Seksyen 8.3) dan tidak terlibat dengan penggunaan sebarang peralatan yang tertakluk untuk di tentu ukur (Seksyen 8.8).
+ 1.4.1. Seksyen 8.3 Rekabentuk Dan Pembangunan Produk dan Perkhidmatan; dan
+##    1.7 Penyelarasan pindaan (Lihat seksyen 4.4.2 Kawalan Dokumen).
+b. Mewujud dan meluluskan Dasar dan Objektif Kualiti (sila rujuk seksyen 5.3 dan 6.2); Memastikan semua kakitangan sentiasa memahami Dasar Kualiti dan Objektif Kualiti bagi mematuhi QMS MS ISO 9001:2015;
+c. Mengadakan Kajian Semula Pengurusan (sila rujuk seksyen 9.3); dan
+Pengurusan Syarikat tidak menggunapakai Seksyen 7.1.5 iaitu sumber pemantauan dan pengukuran kerana perkhidmatan yang diberikan kepada pelanggan tidak melibatkan sebarang alatan pengukuran.
+  Dokumentasi QMS akan meliputi rekod-rekod mengenai keputusan-keputusan pihak pengurusan Syarikat untuk memastikan tindakan-tindakan berkaitan pengurusan dan dasar dapat dikesan, dan memastikan keputusan yang direkodkan dapat dihasilkan semula. (Lihat Seksyen 4.4.1)
+Syarikat memastikan maklumat didokumentasikan yang diperlukan oleh QMS adalah mematuhi Standard Antarabangsa dan dikawal. (Lihat Seksyen 4.4.2)
+Pengurusan Syarikat tidak menggunapakai Seksyen 8.3 iaitu rekabentuk dan pembangunan produk dan perkhidmatan kerana perkhidmatan yang diberikan kepada pelanggan tidak melibatkan sebarang aktiviti rekabentuk.
+PKW_01_Kawalan_Dokumen.Rmd
+3.1     Manual Kualiti MK.OA.01 - Seksyen /2.4 Kawalan Dokumen/4.4.2 Menyelenggarakan maklumat didokumentasikan/
+PKW_02_Rekod_Kualiti.Rmd
+PKW_03_Audit_Dalam.Rmd
+ 3.1 MK.OA.01 dengan seksyen-seksyen berikut:
+ (i) Seksyen /9.2.2 Audit dalaman/9.2 Audit dalaman;/
+ (i) Seksyen /9.2.3 Kawalan dan Pengukuran Proses/9.1  Pemantauan, pengukuran, analisis dan penilaian;/
+ (i) Seksyen /10.1 Penambahbaikan Berterusan/10.3 Penambahbaikan berterusan;/
+ (i) Seksyen /10.2 Tindakan Pembetulan/10.2.1.1 Tindakan pembetulan; dan/
+ (i) Seksyen /10.3 Tindakan Pencegahan/10.2.1.2 Tindakan pencegahan./
+PKW_04_Tindakan_Pembetulan.Rmd
+3.1 MK.OA.01 pada seksyen-seksyen yang berikut:
+ (i) Seksyen 10.1 Penambahbaikan Berterusan. --
+ (i) Seksyen 10.2 Tindakan Pembetulan. --
+ (i) Seksyen 10.3 Tindakan Pencegahan. --
+Bil Seksyen Ketakakuran Bah/Caw  Jangkamasa Status tindakan
+PKW_05_Tindakan_Pencegahan.Rmd
+ 3.1 MK.OA.01 dengan seksyen-seksyen berikut:
+ (i) Seksyen /5.6.1 Tanggungjawab Dan kuasa/5.3.1 Tanggungjawab dan kuasa;/
+ (i) Seksyen /5.1 Komitmen Pengurusan/5.1  Kepimpinan dan komitmen;/
+ (i) Seksyen /8.5.1 Kawalan Ke Atas Proses Penyampaian Perkhidmatan/8.5.1 Kawalan penyediaan pengeluaran dan perkhidmatan;/
+ (i) Seksyen /8.5.2 Validasi Proses Penyampaian Perkhidmatan Kepada Pelanggan/8.5.2 Pengenalpastian dan kebolehkesanan;dan/
+ (i) Seksyen /8.5.3 Identifikasi dan Kemudahan Pengesanan Dokumen/8.5.2 Pengenalpastian dan kebolehkesanan; dan/
+ (i) Seksyen 10.3 Tindakan Pencegahan. --
+PKW_06_Kawalan_Produk_Tidak_Memenuhi_Spesifikasi.Rmd
+3.1 MK.OA.01 dengan seksyen-seksyen berikut:
+(i) Seksyen 8.5.1 Kawalan Ke Atas Proses Penyampaian Perkhidmatan. --
+(i) Seksyen 8.5.2 Validasi Proses Penyampaian Perkhidmatan Kepada Pelanggan. --
+(i) Seksyen 8.5.3 Identifikasi dan Kemudahan Pengesanan Dokumen. --
+(i) Seksyen /8.8.5 Pemuliharaan Dokumen/8.5.4 Pemeliharaan;/
+(i) Seksyen 9.2.3 Kawalan dan Pengukuran Proses. --
+(i) Seksyen /9.2.4 Pemantauan Dan Pengukuran Produk/delete/
+(i) Seksyen /8.7 Kawalan output tak akur./8.7 Kawalan output tak akur;/
+(i) Seksyen /9.4 Analisis Data/9.1.3  Analisis dan penilaian; dan/
+(i) Seksyen /10.0 Penambahbaikan/10.2 Ketakakuran dan tindakan pembetulan./
+PKS_01_Pengendalian_Aduan_Pelanggan.Rmd
+MK.OA.01 merujuk seksyen-seksyen berikut:
+(i) Seksyen /2.6 Kawalan Rekod Kualiti/4.4.2 Menyelenggarakan maklumat didokumentasikan;/
+(i) Seksyen /5.2 - Keutamaan Pelanggan/5.1.2 Fokus kepada pelanggan;/
+(i) Seksyen /8.2.3 Komunikasi Dengan Pelanggan/8.2.1 Komunikasi dengan pelanggan; dan/
+(i) Seksyen /9.2.1 Kepuasan Pelanggan/9.1.2   Kepuasan pelanggan./
+Sebagaimana yang dimaksudkan di dalam seksyen 3.5 MK.OA.01.
+PKS_02_Kajian_Semula_Pengurusan.Rmd
+MK.OA.01 merujuk seksyen-seksyen berikut:
+i) Seksyen /2.6 Kawalan Rekod Kualiti/4.4.2 Menyelenggarakan maklumat didokumentasikan;/
+i) Seksyen /5.2 Dasar Kualiti/5.2.1   Membangunkan dasar kualiti dan dasar integriti, akauntabiliti dan anti-rasuah;/
+i) Seksyen /5.2 Dasar Integriti, Akauntabiliti dan Anti-Rasuah/delete/
+i) seksyen /9.3. Kajian Semula Pengurusan/9.3. Kajian Semula Pengurusan;/
+i) Seksyen /6.1   Pengurusan Risiko/6.1 Tindakan menyatakan risiko dan peluang; dan/
+i) Seksyen /6.2   Objektif Kualiti/6.2  Objektif kualiti dan perancangan untuk mencapainya./
+| MKSP          | 9\.  Bincangkan dan putuskan tindakan pembetulan, pencegahan serta usaha penambahbaikkan  yang perlu dilaksanakan iaitu keberkesanan penambahbaikkan sistem pengurusan kualiti, penambahbaikkan produk menurut kehendak pelanggan dan keperluan sumber Seksyen 5.6.3. |
+/keperluan sumber Seksyen 5.6.3/keperluan sumber (seksyen 7.1)./
+PKS_03_Perolehan.Rmd
+Manual Kualiti (MK.OA.01) Seksyen yang berkaitan adalah:
+  i)   Seksyen 2.6 Kawalan Rekod Kualiti. --
+  i)   Seksyen /8.5 Proses Perolehan/8.4.1 Proses perolehan; dan/
+  i)   Seksyen /8.4.2 Verifikasi ke atas bahan yang diperolehi/8.5.1 Kawalan penyediaan pengeluaran dan perkhidmatan./
+PKS_04_Pengendalian_Latihan.Rmd
+MK.OA.01 di mana seksyen yang berkaitan adalah:
+  i)   Seksyen 2.6 Kawalan Rekod Kualiti. --
+  i)   /Seksyen 7.2.2 Kompetensi, Latihan dan Kesedaran/7.2 Kekompetenan./
+PKS_05_Bajet.Rmd
+ i)   Seksyen /5.1 - Komitmen Pengurusan/5.1  Kepimpinan dan komitmen; dan/
+ i)   Seksyen /7.1 Peruntukan Dan Penyediaan Sumber/7.1 Sumber./
+PKS_06_Teknologi_Maklumat.Rmd
+MK.OA.01 iaitu Seksyen /7.3 Infrastruktur/7.1.3 Prasarana./
+PKS_07_Utiliti.Rmd
+MK.OA.01 Seksyen-seksyen berkaitan:
+ i)   Seksyen 7.3 Infrastruktur. --
+ i)   Seksyen /7.4 Persekitaran Kerja/7.1.4. Persekitaran untuk operasi proses./
+PKS_08_Pelaksanaan_Integriti_Akauntabiliti_AntiRasuah.Rmd
+MK.OA.01 iaitu seksyen 5.2.1 Dasar Integriti, Akauntabiliti dan Anti-Rasuah.
+Penyataan dasar merujuk kepada seksyen 5.2.1 MK.OA.01.
+PKO_01_Sebut_harga_tender_kontrak.Rmd
+MK.OA.01 dengan seksyen-seksyen berikut:
+PKO_02_Pemantauan_Penyerahan_Perkhidmatan_Integrasi_Sistem.Rmd
+MK.OA.01 dengan seksyen-seksyen berikut:

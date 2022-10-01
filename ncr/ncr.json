@@ -1,0 +1,58 @@
+{
+	"data": [
+	{
+	  "Bil_Tahun": "1/22",
+	  "Tarikh": "21/6/22",
+	  "Jabatan": "Unit Jualan",
+	  "Tajuk": {
+	  		"Prosedure": ["MK.OA.01","MS ISO 9001:2015"],
+	  		"Dokumen": "Rujuk fail"
+	  },
+	  "Auditee": "Noranizah binti Mohd Abidi",
+	  "Auditor": "Latifah binti Shamsudin",
+	  "Ketakakuran": {
+	  		"Jenis": "OFI",
+	  		"Klausa": "8.5.1",
+	  		"Huraian": "Proses pengendalian perkhidmatan dokumentasi dijalankan dalam keadaan terkawal",
+	  		"Punca": "Manusia/mesin/latihan"
+	  },
+	  "Penemuan": "Invoice cukai tidak dapat disertakan sebagai bukti pengesahan bahawa invoice telah dibuat dalam sistem E-Perolehan, No.kontrak: KP/PERO-5/B/T185/2018/OE, Bahagian Komunikasi dan Elektronik Pertahanan, No.Invoice: INV1035",
+	  "Nota Penambahbaikan": "Auditee perlu merujuk kepada manual E-Perolehan jika ada sebarang perubahan",
+	  "Tindakan Pembetulan": {
+	  		"Keterangan": "Keterangan mengenai tindakan pembetulan yang dilaksanakan",
+	  		"Tarikh": "Jul, 2022"
+	  		},
+	  "Verifikasi": {
+	  	"Keterangan":"Keterangan mengenai verifikasi tindakan pembetulan yang telah dilaksanakan",
+	  	"Tarikh": "Ogos, 2022"
+	  	}
+	 },
+	 {
+	  "Bil_Tahun": "1/22",
+	  "Tarikh": "21/6/22",
+	  "Jabatan": "Jualan",
+	  "Tajuk":{
+	  		"Prosedure": "PKS.OA.05",
+	  		"Dokumen": "Rujuk fail"
+	  },
+	  "Auditee": "Noranizah binti Mohd Abidi",
+	  "Auditor": "Ain Nadiah Binti Fathil Anuar",
+	  "Ketakakuran": {
+	  		"Jenis": "OFI",
+	  		"Klausa": "8.5.1",
+	  		"Huraian": "Kesilapan penghantaran salinan pesanan kerajaan (AM 75E-PiN.1/2017), No.doc: CO220000000177235 bertarikh Tarikh: 14/03/2022. No.kontrak: KP/PERO-5/B/T078/2018/OE, Bahagian: Markas Angkatan Tentera Malaysia, No.Invoice: INV1221",
+	  		"Punca": "Manusia/mesin/latihan"
+	  },
+	  "Penemuan": "Auditee perlu memastikan setiap salinan pesanan kerajaan(kuning) diserahkan kepada pihak pengguna dan salinan pesanan kerajaan(pink) difailkan oleh pihak syarikat",
+	  "Nota Penambahbaikan": "Keterangan mengenai tambah baik, cadangan dan pelaksanaan. Keterangan mengenai verifikasi tindakan pembetulan yang telah dilaksanakan ",
+	  "Tindakan Pembetulan": 
+	  		{"Keterangan": "Keterangan mengenai tindakan pembetulan yang dilaksanakan",
+	  		"Tarikh": "Jul, 2022"
+	  		},
+	  "Verifikasi": {
+	  	"Keterangan":"Keterangan mengenai verifikasi tindakan pembetulan yang telah dilaksanakan",
+	  	"Tarikh": "Ogos, 2022"
+	  	}
+	 }
+]
+}

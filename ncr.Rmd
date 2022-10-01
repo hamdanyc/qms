@@ -1,0 +1,17 @@
+---
+title: "Laporan Ketakakuran [PK(W).OA.03.B01]"
+output:
+  pdf_document: default
+---
+
+```{r init}
+load("ncr.RData")
+```
+
+```{r loop, include=FALSE}
+for (i in 1:5) {
+  rmarkdown::render(
+    'ncr_form_md.Rmd', output_file = paste0('audit/','B03-',i, '.pdf')
+  )
+}
+```

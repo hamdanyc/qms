@@ -1,0 +1,12 @@
+"Bil","Jenis","Nama","Unit","Kos_unit","Jlh"
+"1","aplikasi","Dashboard Objektif Kualiti/Ketakakuran (BSC-NCR)",1,750,750
+"2","aplikasi","Dashboard Audit Dalaman (AD)",1,750,750
+"3","aplikasi","Dashboard Mesyuarat Kajian Semula Pengurusan (MKSP)",1,750,750
+"4","Jumlah (aplikasi)",,3,750,2250
+"5","dokumentasi","Dokumentasi MK, PK(W), PK(S) & PK(O)",20,1500,30000
+"6","Jumlah (dokumentasi)",,20,1500,30000
+"7","latihan","Latihan Juru AD & pelaksanaan AD",5,700,3500
+"8","latihan","Pengenalan ISO 9001 Pengurusan dan Staf",1,700,700
+"9","latihan","Balanced scorecard (BSC)",1,700,700
+"10","latihan","Latihan & Migrasi Klasifikasi Fail",2,700,1400
+"11","Jumlah (latihan)",,9,700,8400

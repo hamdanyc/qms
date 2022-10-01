@@ -1,0 +1,45 @@
+# qcost.R
+
+# Init ----
+# sql_connect.R
+
+library(RMariaDB)
+library(dplyr)
+
+# con <- RMariaDB::dbConnect(RMariaDB::MariaDB(), username="abi", password="80907299",
+#                            dbname="qms", host="abi-linode.name.my", port="3306")
+# con <- RMariaDB::dbConnect(RMariaDB::MariaDB(), groups = "my-db",
+#                            dbname="qms")
+# on.exit(RMariaDB::dbDisconnect(con))
+
+# Run query to get results as dataframe
+# RMariaDB::dbGetQuery(con, "SHOW TABLES")
+# df_item <- RMariaDB::dbGetQuery(con, "SELECT * FROM item")
+# df_kos <- RMariaDB::dbGetQuery(con, "SELECT * FROM kos_unit")
+# RMariaDB::dbExecute(con, "UPDATE kos_unit SET jumlah=1300 WHERE id='1'")
+
+# df_kos$jumlah[1] <- 1300
+# names(df_kos)[3] <- "kos_unit"
+
+df_item <- readr::read_csv("item.csv")
+df_kos <- readr::read_csv("kos_unit.csv")
+
+df_item %>% 
+  inner_join(df_kos, by="jenis") %>% 
+  group_by(jenis) %>% 
+  tally()
+
+by_item <- df_kos %>% 
+  inner_join(df_item,by="jenis") %>% 
+  group_by(jenis) %>% 
+  summarise("kti"=n(),"jumlah"=sum(kos_unit))
+
+tb_item <- inner_join(df_kos,by_item)
+sum(tb_item$Jumlah)
+
+# df_item %>% 
+#   inner_join(doc_file) %>%
+#   select(doc_id,doc_title,jenis)
+
+save.image("cost.RData")
+

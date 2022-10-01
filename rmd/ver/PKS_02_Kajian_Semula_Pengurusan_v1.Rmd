@@ -1,0 +1,179 @@
+---
+title: "MKSP"
+author: "OA"
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: '4'
+  html_document:
+    toc: yes
+    toc_depth: 4
+params:
+  doc_id: PK(S).OA.02
+  
+---
+\newpage
+
+|Prosedur Kualiti &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|`r params$doc_id`|
+|:------------------|-------:|
+
+![OA Logo](media/openapps-logo.png){width=30%}
+
+|                                   |
+|:---------------------------------:|
+|PROSEDUR MESYUARAT KAJIAN SEMULA PENGURUSAN |
+
+`r params$doc_id`
+
+# I    Penyedia dan Kelulusan
+
+|                               |                      |          |
+|-------------------------------|----------------------|----------|
+| Nama                          | Tandatangan          | Tarikh   |
+|                               |                      |          |
+| Disediakan Oleh:              |                      | Feb 2021 |
+|                               |                      |          |
+|                               |                      |          |
+| xxxxxxxxxxxxxxxxxxxxxxxxx     |                      |          |
+|                               |                      |          |
+|-------------------------------|----------------------|----------|
+| Wakil Pengurusan              |                      |          |
+|                               |                      |          |
+| Diluluskan Oleh:              |                      | Feb 2021 |
+|                               |                      |          |
+| xxxxxxxxxxxxxxxxxxxxxxxxx     |                      |          |
+|                               |                      |          |
+| Pengurus Besar                      |                      |          |
+|                               |                      |          |
+| No Salinan Terkawal           | Pemegang Dokumen     |          |
+|                               |                      |          |
+| `r params$doc_id`( )          |                      |          |
+
+# II    Rekod Pindaan
+
+# III   Senarai Pemegang Dokumen
+
+| No. Salinan Terkawal   | Pemegang Dokumen          |
+|------------------------|---------------------------|
+| `r params$doc_id`(01)  | Pengurus Besar     |
+| `r params$doc_id`(02)  | Wakil Pengurusan   |
+| `r params$doc_id`(03)  | Pengurus Jualan    |
+| `r params$doc_id`(04)  | Pengurus Pentadbiran/Kewangan |
+| `r params$doc_id`(05)  | Pengurus Teknikal  |
+| `r params$doc_id`(06)  | Pengurus Sumber Manusia |
+| `r params$doc_id`(07)  | Eksekutif Jualan   |
+| `r params$doc_id`(08)  | Eksekutif Kewangan |
+| `r params$doc_id`(09)  | Eksekutif Sumber Manusia |
+| `r params$doc_id`(10)  | Ketua Kerani       |
+| `r params$doc_id`(11)  | Pengurus Dokumen   |
+| `r params$doc_id`(12)  | Urusetia           |
+
+# 1.0 Objektif
+
+> Prosedur ini bertujuan untuk menyediakan langkah-langkah yang diambil
+> bagi Mesyuarat Kajian Semula Pengurusan bagi melakukan penilaian
+> keberkesanan Pelaksanaan Sistem Pengurusan Kualiti Syarikat dalam proses
+> memastikan usaha penambahbaikan dapat diambil secara berterusan.
+
+# 2.0 Skop
+
+> Prosedur ini digunapakai oleh Pengurusan atasan Syarikat dan semua Ketua
+> Cawangan untuk melakukan penilaian semula pelaksanaan Sistem
+> Pengurusan Kualiti Syarikat bagi memastikan kesesuaiannya yang berterusan.
+
+# 3.0  Rujukan
+
+    1.  `r params$doc_id`
+
+# 4.0 Definisi
+
+> 4.1 Mesyuarat Kajian Semula Pengurusan
+>
+> Mesyuarat diperingkat pengurusan tertinggi Syarikat untuk mengkaji semula
+> keberkesanan dan penambahbaikan Sistem Pengurusan Kualiti secara
+> berterusan. Kekakitanganan mesyuarat seperti berikut:
+
+i)    Pengurus Besar - Pengerusi;
+
+ii)   WP - Timbalan Pengerusi;
+
+iii)  Pengurus Kewangan/Pengurusan;
+
+iv)   Pengurus Teknikal;
+
+iv)   Pengurus Jualan;
+
+vi)   TWP - Setiausaha;
+
+vii)  PD - Penolong Setiausaha; dan
+
+viii) Semua Eksekutif Jabatan.
+
+
+# 5.0 Singkatan
+
+> 5.1 WP - Wakil Pengurusan.
+>
+> 5.2 TWP - Timbalan Wakil Pengurusan.
+>
+> 5.3 PJ - Pengurus Jabatan.
+>
+> 5.4 PD - Pengurus Dokumen.
+>
+> 5.5 MKSP - Mesyuarat Kajian Semula Pengurusan.
+
+# 6.0 Tanggungjawab dan Tindakan
+
+|Tanggungjawab  |Tindakan                                       |
+|---------------|-----------------------------------------------|
+| WP/TWP        | 1\. Rancangkan tarikh, masa dantempat MKSP menurut persetujuan Pengurus Besar.|                   
+|               | 2\. Arahkan PJ/PS 3 yang berkenaan menyediakan laporan-laporan berikut untuk dibincangkan di MKSP:|
+|               |     i)  Laporan Pencapaian Dasar  dan Objektif Kualiti. |
+|               |     ii) Laporan Audit.              |
+|               |     iii) Laporan MaklumbalasPelanggan.      |
+|               |    iv) Laporan Tindakan pembetulan  dan pencegahan.|
+|               |    v)  Cadangan-Cadangan Penambahbaikan yang berterusan. |
+|               |    vi) Tindakan susulan ke atas kajian semula pengurusan yang lalu (jika ada).|
+|               |    vii\) Perubahan dasar yang  boleh menjejaskan Sistem  Pengurusan Kualiti.  |
+|||
+| PJ/PS 3       |3\.   Terima arahan menyediakan laporan dan mengemukakan kepada  WP untuk semakan dan analisa. | 
+|||
+| WP/TWP        |4\.   Menganalisa Laporan yang diterima untuk dilaporkan kepada MKSP.         |
+|||
+| TWP/PD        |5\.   Membuat persediaan mesyuarat iaitu sediakan dan mengedarkan minit mesyuarat MKSP. Pengendalian mesyuarat, berhubung dengan agenda,tarikh, masa, tempat dan mengeluarkan notis mesyuarat 7 hari sebelum tarikh mesyuarat.|  
+|               | 6\.  Sediakan agenda mesyuarat dan panggil keahlian mesyuarat.     |
+|||
+| Pengurus Besar           | 7\.  Mempengerusikan mesyuarat.      |
+|||
+| WP            | 8\.  Bentangkan laporan-laporan kepada MKSP.       |
+|||
+| MKSP          | 9\.  Bincangkan dan putuskan tindakan pembetulan, pencegahan serta usaha penambahbaikkan  yang perlu dilaksanakan iaitu keberkesanan penambahbaikkan sistem pengurusan kualiti, penambahbaikkan produk menurut kehendak pelanggan dan keperluan sumber Seksyen 5.6.3. |
+|||
+| TWP/PD        | 10\. Catatkan minit mesyuarat dan sediakan draf tidak lewat 48 jam kepada WP. Minit mesyuarat hendaklah diedarkan kepada ahli-ahli mesyuarat tidak lewat 72 jam selepas mesyuarat.       |
+|||
+| WP            | 11\. Bincang dengan Pengurus Besar hasil keputusan MKSP mengenai tindakan pembetulan, pencegahan dan penambahbaikan.             |
+|||
+| PJ/PS 3       | 12\. Laksanakan keputusan MKSP kemudian sediakan laporan  kemajuan pelaksanaan tindakan pencegahan, pembetulan dan penambahbaikan dan mengemukakan kepada WP/TWP. |
+|||
+| WP            | 13 Laporkan kepada MKSP atau mesyuarat pengurusan Syarikat mengenai laporan keberkesanan tindakan pencegahan, pembetulan, penambahbaikkan, aduan pelanggan, laporan Audit Dalaman yang telah  dilaksanakan.                   |
+|||
+| PD            | 14  Rekodkan dalam fail MKSP.       |
+
+#   7.0  Aliran Kerja
+
+#   8.0 Rekod-rekod Kualiti
+
+|Bil   |Rekod                                                      |Tempoh Penyimpanan   |Lokasi|
+|------|-----------------------------------------------------------|---------------------|------|
+|1\.   | Surat Panggilan Mesyuarat                                       |5 hingga 7 tahun   |Pejabat WP|
+|2\.   | Minit Mesyuarat                                                 |5 hingga 7 tahun   |Pejabat WP|
+|3\.   | Laporan Pencapaian Dasar dan Objektif Kualiti                   |5 hingga 7 tahun   |Pejabat WP|
+|4\.   | Laporan Audit                                                   |5 hingga 7 tahun   |Pejabat WP|
+|5\.   | Laporan Maklumbalas Pelanggan                                   |5 hingga 7 tahun   |Pejabat WP|
+|6\.   | Laporan Tindakan Pembetulan dan Pencegahan dan penambahbaikan   |5 hingga 7 tahun   |Pejabat WP|
+|7\.   | Laporan Cadangan Penambahbaikan                                 |5 hingga 7 tahun   |Pejabat WP|
+|8\.   | Perancangan program Latihan Syarikat                                 |5 hingga 7 tahun   |Pejabat WP|
+
+#   9.  LAMPIRAN
+
+> Tiada

@@ -1,0 +1,24 @@
+{
+    "id": "61657349",
+    "path": "~/qms/sar.sh",
+    "project_path": "sar.sh",
+    "type": "sh",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1664239818312.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "cursorPosition": "83,4",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1655529439,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1655529439,
+    "read_only": false,
+    "read_only_alternatives": []
+}

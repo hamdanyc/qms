@@ -1,0 +1,27 @@
+perkara,jenis,nama,doc_id
+Manual Kualiti,dokumentasi,Manual Kualiti,MK.OA.01
+Prosedur Kualiti Wajib - PK(W),dokumentasi,PK(W) 01 Kawalan Dokumen,PK(W).OA.01
+Prosedur Kualiti Wajib - PK(W),dokumentasi,PK(W) 02 Rekod Kualiti,PK(W).OA.02
+Prosedur Kualiti Wajib - PK(W),dokumentasi,PK(W) 03 Audit Dalam,PK(W).OA.03
+Prosedur Kualiti Wajib - PK(W),dokumentasi,PK(W) 04 Tindakan Pembetulan,PK(W).OA.04
+Prosedur Kualiti Wajib - PK(W),dokumentasi,PK(W) 05 Tindakan Pencegahan,PK(W).OA.05
+Prosedur Kualiti Wajib - PK(W),dokumentasi,PK(W) 06 Kawalan Penghasilan Produk Perkhidmatan Yang Tidak Memenuhi Spesifikasi,PK(W).OA.06
+Prosedur Kualiti Sokongan - PK(S),dokumentasi,"PK(S) 01 Pengendalian Aduan, Maklumbalas Pelanggan Dan Penghargaan Serta Peti Aduan/Cadangan",PK(S).OA.01
+Prosedur Kualiti Sokongan - PK(S),dokumentasi,PK(S) 02 Mesyuarat Kajian Semula Pengurusan,PK(S).OA.02
+Prosedur Kualiti Sokongan - PK(S),dokumentasi,PK(S) 03 Perolehan,PK(S).OA.03
+Prosedur Kualiti Sokongan - PK(S),dokumentasi,PK(S) 04 Pengendalian Latihan,PK(S).OA.04
+Prosedur Kualiti Sokongan - PK(S),dokumentasi,PK(S) 05 Bajet,PK(S).OA.05
+Prosedur Kualiti Sokongan - PK(S),dokumentasi,"PK(S) 06 Pengurusan Teknologi, Maklumat dan Komunikasi",PK(S).OA.06
+Prosedur Kualiti Sokongan - PK(S),dokumentasi,PK(S) 07 Penyenggaraan Utiliti,PK(S).OA.07
+Prosedur Kualiti Sokongan - PK(S),dokumentasi,"Prosedur Pelaksanaan Integriti, Akauntabiliti dan Anti-Rasuah",PK(S).OA.08
+Prosedur Kualiti Operasi - PK(O),dokumentasi,Prosedur  Kualiti Operasi - PK(O) 01,PK(O).OA.01
+Prosedur Kualiti Operasi - PK(O),dokumentasi,Prosedur  Kualiti Operasi - PK(O) 02,PK(O).OA.02
+Balanced scorecard,dokumentasi,Balanced scorecard,BSC.OA.01
+Pengurusan Penaksiran Risiko (RAM),dokumentasi,Pengurusan Penaksiran Risiko (RAM),RAM.OA.01
+Juru Audit Dalam,latihan,Kursus Juru Audit Dalam,lat-01
+Pengenalan ISO 9001 Pengurusan dan Staf,latihan,Program Kesedaran ISO 9001 Pengurusan dan Staf,lat-02
+"Integriti, Akauntabiliti dan Anti-Rasuah",latihan,"Latihan Integriti, Akauntabiliti dan Anti-Rasuah",lat-03
+Aplikasi BSC,latihan,Latihan Aplikasi BSC,lat-04
+Aplikasi Audit Dalam,latihan,Latihan Aplikasi Audit Dalam,lat-05
+Aplikasi Pengurusan Dokumen,latihan,Latihan Aplikasi Pengurusan Dokumen,lat-06
+

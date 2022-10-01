@@ -1,0 +1,228 @@
+---
+title: "MS ISO 9001:2015 Sistem Pengurusan Kualiti"
+author: "OpenApps Sdn Bhd (548151-W)"
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: '4'
+  html_document:
+    toc: yes
+    toc_depth: 4
+params:
+  doc_id: PK(W).OA.01
+  doc_title: "title"
+  
+---
+
+```{r init, include=FALSE}
+library(readr)
+a_list <- read_csv("~/R/qms/a_list.csv")
+```
+
+\newpage
+
+|Prosedur Kualiti &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|`r params$doc_id`|
+|:------------------|-------:|
+
+![](~/R/qms/media/openapps-logo.png){width=30%}
+
+| **Bridging the gap** between **PEOPLE**, **BUSINESS** and **TECHNOLOGY**
+
+|                                   |
+|:---------------------------------:|
+|**`r toupper(params$doc_title)`**|
+
+# I    Penyedia dan Kelulusan
+
+|Nama &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |Tarikh |
+|-------------------------------|--------------|
+|                               |              |
+| **Disediakan Oleh**:          | **Feb 2021** |
+|                               |              |
+|                               |              |
+|_____________________          |              |
+| **`r substr(a_list$pemilik_dok[14],1,40)`**| |
+| `r substr(a_list$pemilik_dok[14],41,60)`   | |
+| **Wakil Pengurusan**          |              |
+|                               |              |
+| **Diluluskan Oleh**:          | **Feb 2021** |
+|                               |              |
+|                               |              |
+|_____________________          |              |
+| **`r a_list$pemilik_dok[15]`**|              |
+| **CEO**                       |              |
+|                               |              |
+| **No Salinan Terkawal**:      |              |
+|                               |              |
+| `r params$doc_id`( )          |              |
+
+\newpage
+
+# II    Rekod Pindaan
+
+|Tarikh Pindaan|No Pindaan/No Keluaran|Rujukan Pindaan Mukasurat |Butir-butir Pindaan|Diluluskan Oleh|
+|-------------|-------------|-------------|-------------|-------------|
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+
+# III   Senarai Pemegang Dokumen
+
+| No. Salinan Terkawal   | Pemegang Dokumen              |
+|------------------------|-------------------------------|
+| `r params$doc_id`(01)  | `r a_list$pemilik_dok[1]`     |
+|                        |                               |
+| `r params$doc_id`(02)  | `r a_list$pemilik_dok[2]`     |
+|                        |                               |
+| `r params$doc_id`(03)  | `r a_list$pemilik_dok[3]`     |
+|                        |                               |
+| `r params$doc_id`(04)  | `r a_list$pemilik_dok[4]`     |
+|                        |                               |
+| `r params$doc_id`(05)  | `r a_list$pemilik_dok[5]`     |
+|                        |                               |
+| `r params$doc_id`(06)  | `r a_list$pemilik_dok[6]`     |
+|                        |                               |
+| `r params$doc_id`(07)  | `r a_list$pemilik_dok[7]`     |
+|                        |                               |
+| `r params$doc_id`(08)  | `r a_list$pemilik_dok[8]`     |
+|                        |                               |
+| `r params$doc_id`(09)  | `r a_list$pemilik_dok[9]`     |
+|                        |                               |
+| `r params$doc_id`(10)  | `r a_list$pemilik_dok[10]`    |
+|                        |                               |
+| `r params$doc_id`(11)  | `r a_list$pemilik_dok[11]`    |
+|                        |                               |
+| `r params$doc_id`(12)  | `r a_list$pemilik_dok[12]`    |
+|                        |                               |
+| `r params$doc_id`(13)  | `r a_list$pemilik_dok[13]`    |
+
+\newpage
+
+# 1.0   Objektif
+
+Syarikat mengamalkan budaya kerja unggul  dengan  ciri-ciri  moral  dan  etika  yang  kukuh, oleh itu Syarikat telah menggubal dasar integriti, akauntabiliti dan anti-rasuah sebagai pandu arah di dalam setiap urusniaga. Setiap pegawai syarikat adalah tertakluk kepada dasar tersebut serta perlu menghayati prinsip-prinsip moral dan  etika yang unggul.
+
+# 2.0   Skop
+
+##    2.1   Pelanggaran Dasar IAA-R
+
+Syarikat memandang serius terhadap pelanggaran dasar IAA-R dan pegawai syarikat yang berkenaan boleh dikenakan tindakan tatatertib serta penamatan perkhidmatan. Pelanggaran dasar IAA-R oleh pelanggan boleh menyebabkan kontrak dibatalkan.
+
+##    2.2   Pegawai Integriti
+
+Pegawai Integriti bertanggungjawab untuk melaksanakan enam (6) fungsi teras seperti berikut: 
+
+a.  Tadbir Urus. Memastikan tadbir urus yang terbaik dilaksanakan; 
+
+b.  Pengukuhan Integriti. Memastikan pembudayaan, penginstitusian dan pelaksanaan integriti dalam syarikat;
+
+c.  Pengesanan dan Pengesahan. Bertindak terhadap pelanggaran integriti dan akauntabiliti dengan:
+  i)  Mengesan dan mengesahkan aduan  salahlaku jenayah serta pelanggaran tatakelakuan  dan etika syarikat serta   memastikan tindakan susulan yang sewajarnya diambil; dan  
+  ii) Melaporkan salahlaku  jenayah  kepada  agensi  penguatkuasaan  yang  bertanggungjawab;
+  
+d.  Pengurusan Aduan. Menerima   dan   mengambil   tindakan   ke   atas   semua   aduan/maklumat   mengenai salahlaku   jenayah   serta pelanggaran   tatakelakuan   dan   etika   syarikat;  
+
+e.  Pematuhan. Memastikan   pematuhan   terhadap   undang-undang   dan   peraturan   yang   berkuatkuasa; dan
+
+f.  Tatatertib. Melaksanakan fungsi urus setia Lembaga Tatatertib.
+
+# 3.0   Rujukan
+
+MK.OA.01 iaitu seksyen 5.4 Dasar Integriti, Akauntabiliti dan Anti-Rasuah.
+
+
+# 4.0   Definisi
+
+##    4.1   Aku Janji 
+
+Pengakuan oleh pegawai syarikat yang menjadi asas untuk melaksanakan sesuatu tindakan (tugas, tanggungjawab, kewajiban dan sebagainya) (Sumber Kamus Dewan Edisi ke-4)
+
+##    4.2   Dasar Integriti, Akauntabiliti dan Anti-Rasuah 
+
+Penyataan dasar merujuk kepada seksyen 5.4 MK.OA.01.
+
+##    4.3   Lembaga Tatatertib 
+
+Jawatankuasa yang dipengerusikan oleh Pegawai Integriti berkaitan pentadbiran dan pengurusan bagi menguatkuasakan tatakelakuan (pematuhan atau pelanggaran) berhubung Dasar Integriti, Akauntabiliti dan Anti-Rasuah terhadap pegawai syarikat.
+
+# 5.0   Singkatan
+
+i)  IAA-R - Integriti, Akauntabiliti dan Anti-Rasuah.
+
+i)  CEO - Ketua Pegawai Eksekutif
+
+# 6.0   Tanggungjawab dan Tindakan
+
+|Tanggungjawab  |Tindakan                                       |
+|---------------|-----------------------------------------------|
+|Pegawai Syarikat| A. AKU JANJI IAA-R                           |
+|               | Setiap pegawai syarikat dikehendaki:          |
+|               |                                               |
+|               | i)  Membuat Aku Janji;                        |
+|               |                                               |
+|               | ii) Memahami keperluan Aku Janji; dan         |
+|               |                                               |
+|               | iii) Mematuhi Aku Janji.                      |
+|               |                                               |
+|CEO            | B. MEMBANGUN DAN MENERAPKAN PELAKSANAAN DASAR IAA-R|
+|               |                                               |
+|               | i) Menyediakan garispanduan IAA-R pada semua dasar sumber manusia;|
+|               |                                               |
+|               | ii) Menentukan pemantauan, pengukuran dan analisis yang yang memadai;|
+|               |                                               |
+|               | iii) Melaporkan secara berkala kepada pihak pengurusan terhadap penilaian dasar IAA-R;|
+|               |                                               |
+|               | iv) Melantik Pegawai Integriti; dan           |  
+|               |                                               |
+|               | v) Menubuhkan Lembaga Tatatertib.             |
+|               |                                               |
+|Pegawai        | C. LATIHAN DAN KESEDARAN IAA-R                |
+|Integriti      |                                               |
+|               | i) Menyediakan latihan dan kesedaran mengenai IAA-R|
+|               | secara berkala.                               |
+|               |                                               |
+|               | ii) Rekod latihan dan kesedaran disimpan oleh |
+|               | sumber manusia (Finance and Admin Dept.)      |
+|               |                                               |
+|               | D. PELAPORAN TERHADAP PELANGGARAN IAA-R       |
+|               |                                               |
+|               |i)  Mengesan dan mengesahkan aduan  salahlaku jenayah|
+|               |serta pelanggaran tatakelakuan; dan            |
+|               |                                               |
+|               |ii) Melaporkan salahlaku  jenayah  kepada  agensi|
+|               |penguatkuasaan yang bertanggungjawab.          |
+|               |                                               |
+|               | E. AUDIT DAN PEMATUHAN                        |
+|               |                                               |
+|               |i) Melaksanakan audit pematuhan dari semasa ke semasa.|
+|               | Audit hendaklah dijalankan secara dalaman atau|
+|               | oleh pihak ketiga; dan                        |
+|               |                                               |
+|               |ii) Mengukur objektif pematuhan/pelanggaran IAA-R|
+|               |dan melaksanakan tindakan pembetulan dan pencegahan.|
+
+
+# 7.0 Aliran Kerja
+
+# 8.0 Rekod Kualiti
+
+|Bil   |Rekod                                    |Tempoh Penyimpanan|Lokasi|
+|------|-----------------------------------------|--------|-------------|
+|1.    |Rekod latihan dan kesedaran (Fail Pegawai)|5 tahun |Bilik Rekod |
+|      |                                         |        |             |
+|2.    |Laporan Salahlaku (Fail Pegawai - Sulit) |5 tahun |Bilik Rekod  |
+|      |                                         |        |             |
+|3.    |Minit Lembaga Tatatertib                 |5 tahun |Bilik Rekod  |
+|      |                                         |        |             |
+|4.    |Laporan audit IAA-R                      |5 tahun |Bilik Rekod  |
+
+
+# 9.0 Lampiran
+
+Borang Aku Janji

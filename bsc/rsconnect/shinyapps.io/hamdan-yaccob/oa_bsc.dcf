@@ -1,0 +1,14 @@
+name: oa_bsc
+title: oa_bsc
+username:
+account: hamdan-yaccob
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6445588
+bundleId: 6001077
+url: https://hamdan-yaccob.shinyapps.io/oa_bsc/
+when: 1655074976.44793
+lastSyncTime: 1655074976.44794
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: bsc.RData

@@ -1,0 +1,721 @@
+---
+title: "REKOD KUALITI"
+author: "OpenApps QMS"
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: '4'
+  html_document:
+    toc: yes
+    toc_depth: 4
+params:
+  doc_id: PK(W).OA.02
+  doc_title: "REKOD KUALITI"
+  
+---
+\newpage
+
+|Prosedur Kualiti &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|`r params$doc_id`|
+|:------------------|-------:|
+
+![OA Logo](media/openapps-logo.png){width=30%}
+
+|                                   |
+|:---------------------------------:|
+|`r params$doc_title`|
+
+# 1.0  Objektik
+
+ Prosedur ini bertujuan memberi garis panduan bagi memastikan
+ pengurusan Rekod Kualiti termasuk Sistem Pengurusan Fail dan Dasar
+ Keselamatan Maklumat dipatuhi dan dilaksanakan secara cekap dan
+ berkesan.
+
+# 2.0  Skop
+
+ Prosedur ini digunapakai oleh warga Syarikat semasa menguruskan fail dan
+ rekod-rekod kualiti Sistem Pengurusan Kualiti dan Keselamatan
+ Maklumat. Sistem pengurusan ini termasuk juga pengurusan rekod dan
+ maklumat yang disimpan secara elektronik. Rekod kualiti berkenaan
+ perlu disimpan secara sistematik untuk rujukan sebagai bukti objektif
+ kepada aktiviti-aktiviti kualiti.
+
+# 3.0   Rujukan
+
+    1.  MK.OA.02 -- Seksyen 4.2.4 (Kawalan Rekod Kualiti).
+
+ 3.2 Akta Arkib Negara, 1971
+
+ 3.3 Dasar Keselamatan Maklumat -- DKM.OA.01
+
+ 3.4 FAFSI 1961
+
+ 3.5 Arahan Keselamatan
+
+# 4.0  Definisi
+
+    2.  Mengindeks
+
+ Proses memberikan nombor-nombor rujukan kepada rekod-rekod kualiti
+ yang dikenalpasti
+
+3.  Pelupusan
+
+ Proses pelupusan rekod-rekod kualiti mengikut prosedur pelupusan yang
+ ditetapkan sebagaimana Akta Arkib Negara 1971.
+
+4.  Rekod
+
+ Semua data dan maklumat yang diterima,dikeluarkan, dikumpulkan dan
+ direkodkan secara sistematik, sebagai bukti objektif dalam pelaksanaan
+ Sistem Pengurusan Kualiti.
+
+5.  Menyelenggara
+
+ Proses penjagaan rekod-rekod agar ianya dalam keadaan selamat, teratur
+ dan sentiasa dikemaskini.
+
+6.  Mengedar
+
+ Proses pergerakan rekod-rekod kepada pegawai-pegawai cawangan yang
+ dikenalpasti mengikut prosedur yang ditetapkan dalam Manual Kualiti
+ dan Prosedur Kualiti.
+
+7.  Rekod Kualiti
+
+ Dokumen hasil daripada aktiviti-aktiviti yang dilakukan mengikut
+ Manual Kualiti dan Prosedur Kualiti.
+
+8.  Fail
+
+ Kegunaan untuk menyimpan dokumen dan rekod.
+
+4.8 Utusan/Kawat
+
+ Berita tentera (maklumat) yang diterima dari pasukan yang lain dalam
+ bentuk utusan ringkas.
+
+9.  Surat Perkhidmatan Biasa
+
+ Surat rasmi atau tidak rasmi yang dihantar secara pos awam atau
+ khidmat tentera berkaitan dengan perkhidmatan sahaja.
+
+5.  Singkatan
+
+ 5.1 BSPP - Bahagian Staf Perisikan Pertahanan.
+
+ 5.2 Syarikat - Syarikat.
+
+ 5.3 Pengurus Besar - Pengurus Besar Rekod dan Pencen.
+
+5.4 PS 1 - Pegawai Staf 1.
+
+5.5 PS 2 - Pegawai Staf 2.
+
+5.6 PS 3 - Pegawai Staf 3.
+
+ 5.7 PAR - Pembantu Am Rendah.
+
+ 5.8 Sjn Tad - Sarjan Tadbir.
+
+ 5.9 PC - Penyelia Cawangan.
+
+ 5.10 KS - Ketua Sel.
+
+ 5.11 PT - Pembantu Tadbir.
+
+# 6.0   Tanggungjawab dan Tindakan
+
++-----------------------+-----------------------+-----------------------+
+| TANGGUNGJAWAB     |                       | TINDAKAN          |
++=======================+=======================+=======================+
+|                       | A                 | PENERIMAAN DAN      |
+|                       |                       | PENDAFTARAN         |
++-----------------------+-----------------------+-----------------------+
+| PAR/Kerani        | 1.                    | Terima dan asingkan   |
+|                       |                       | surat perkhidmatan    |
+|                       | 2.                    | biasa dan utusan.     |
+|                       |                       |                       |
+|                       | 3.                    | Edarkan surat         |
+|                       |                       | peribadi kepada       |
+|                       | 4.                    | kakitangan berkenaan     |
+|                       |                       | (jika ada).           |
+|                       |                       |                       |
+|                       |                       | Rekodkan dan cop      |
+|                       |                       | penerimaan surat      |
+|                       |                       | perkhidmatan biasa    |
+|                       |                       | dan utusan.           |
+|                       |                       |                       |
+|                       |                       | Agihkan surat         |
+|                       |                       | perkhidmatan biasa    |
+|                       |                       | dan utusan kepada:    |
+|                       |                       |                       |
+|                       |                       | i\) Sjn Tad jika      |
+|                       |                       | berkaitan dengan      |
+|                       |                       | tadbir.               |
+|                       |                       |                       |
+|                       |                       | ii\) PC/KS jika       |
+|                       |                       | berkaitan dengan      |
+|                       |                       | Cawangan- Cawangan    |
+|                       |                       | atau Sel-Sel.         |
++-----------------------+-----------------------+-----------------------+
+| Sjn Tad/PC/KS     | 5.                    | Terima surat          |
+|                       |                       | perkhidmatan biasa    |
+|                       | 6.                    | dan utusan dari       |
+|                       |                       | PAR/Kerani.           |
+|                       |                       |                       |
+|                       |                       | Semak dan majukan     |
+|                       |                       | untuk perhatian       |
+|                       |                       | Pengurus Besar/PS 1/PS 2/PS 3.   |
++-----------------------+-----------------------+-----------------------+
+| Pengurus Besar/PS 1/PS 2/PS    | 7.                    | Semak dan teliti      |
+| 3                   |                       | surat perkhidmatan    |
+|                       | 8.                    | biasa dan utusan      |
+|                       |                       | serta tandatangan     |
+|                       |                       | ringkas.              |
+|                       |                       |                       |
+|                       |                       | Majukan kepada Sjn    |
+|                       |                       | Tad/PC/KS untuk       |
+|                       |                       | diambil tindakan      |
+|                       |                       | berpandukan catatan   |
+|                       |                       | Pengurus Besar/PS 1/PS 2/PS 3.   |
++-----------------------+-----------------------+-----------------------+
+
++-----------------------+-----------------------+-----------------------+
+| Sjn Tad/PC/KS     | 9.                    | Terima kembali surat  |
+|                       |                       | perkhidmatan biasa    |
+|                       | 10.                   | dan utusan.           |
+|                       |                       |                       |
+|                       |                       | Serahkan kepada       |
+|                       |                       | PT/Kerani.            |
++=======================+=======================+=======================+
+| PT/Kerani         | 11.                   | Rekod dan failkan.    |
++-----------------------+-----------------------+-----------------------+
+|                       | B.                | PERGERAKAN          |
+|                       |                       | FAIL/DOKUMEN        |
++-----------------------+-----------------------+-----------------------+
+| PC/Sjn Tad/KS     | 1.                    | Terima surat/nota     |
+|                       |                       | permohonan            |
+|                       | 2.                    | pengeluaran           |
+|                       |                       | fail/dokumen dari     |
+|                       |                       | Pengurus Besar/PS 1/PS 2/PS      |
+|                       |                       | 3/PC.                 |
+|                       |                       |                       |
+|                       |                       | Kemukakan surat       |
+|                       |                       | permohonan kepada PS  |
+|                       |                       | 1/                    |
+|                       |                       |                       |
+|                       |                       | PS 2 dan dapatkan     |
+|                       |                       | kelulusannya jika     |
+|                       |                       | permohonan dari       |
+|                       |                       | Jabatan/agensi luar.  |
++-----------------------+-----------------------+-----------------------+
+| PS 1/PS 2         | 3.                    | Beri kelulusan dan    |
+|                       |                       | serahkan surat        |
+|                       |                       | permohonan di para 2  |
+|                       |                       | kepada PC/Sjn Tad/KS  |
+|                       |                       | setelah di            |
+|                       |                       | tandatangan ringkas.  |
++-----------------------+-----------------------+-----------------------+
+| PC/Sjn Tad/KS     | 4.                    | Terima dan failkan    |
+|                       |                       | surat permohonan di   |
+|                       | 5.                    | para 2 dan 3.         |
+|                       |                       |                       |
+|                       |                       | Arahkan PT/Kerani     |
+|                       |                       | menyediakan surat     |
+|                       |                       | iringan/Memo          |
+|                       |                       | pengesahan            |
+|                       |                       | pengeluaran           |
+|                       |                       | fail/dokumen.         |
++-----------------------+-----------------------+-----------------------+
+| PT/Kerani         | 6.                    | Rekod dan sahkan      |
+|                       |                       | pengeluaran           |
+|                       | 7.                    | fail/dokumen.         |
+|                       |                       |                       |
+|                       | 8.                    | Buat tindakan susulan |
+|                       |                       | untuk pengembalian    |
+|                       |                       | fail/dokumen (jika    |
+|                       |                       | perlu).               |
+|                       |                       |                       |
+|                       |                       | Rekod dan sahkan      |
+|                       |                       | fail/dokumen yang     |
+|                       |                       | telah dikembalikan.   |
++-----------------------+-----------------------+-----------------------+
+
++-----------------------+-----------------------+-----------------------+
+|                       | C.                | PENUTUPAN FAIL/FAIL |
+|                       |                       | MATI                |
++=======================+=======================+=======================+
+| PT/Kerani         | 1.                    | Semak fail/dokumen    |
+|                       |                       | yang perlu dibuat     |
+|                       | 2.                    | penutupan.            |
+|                       |                       |                       |
+|                       | 3.                    | Catat \`TUTUP PADA'   |
+|                       |                       | dan tarikh di sebelah |
+|                       |                       | luar kulit            |
+|                       |                       | fail/dokumen.         |
+|                       |                       |                       |
+|                       |                       | Simpan fail/dokumen   |
+|                       |                       | yang telah di buat    |
+|                       |                       | penutupan ke dalam    |
+|                       |                       | stor.                 |
++-----------------------+-----------------------+-----------------------+
+|                       | D.                | [KESELAMATAN        |
+|                       |                       | DOKUMEN DI BILIK      |
+|                       |                       | KEBAL (PENGAMBILAN    |
+|                       |                       | DOKUMEN/FAIL)]{.small |
+|                       |                       | caps}               |
++-----------------------+-----------------------+-----------------------+
+| KS Bilik Kebal    | 1.                    | Semak borang          |
+|                       |                       | permohonan dan        |
+|                       | 2.                    | pengeluaran           |
+|                       |                       | fail/dokumen dan      |
+|                       |                       | sahkan                |
+|                       |                       |                       |
+|                       |                       | Serah permohonan      |
+|                       |                       | kepada Kerani Bilik   |
+|                       |                       | Kebal                 |
++-----------------------+-----------------------+-----------------------+
+| Kerani Bilik        | 3.                    | Terima dari KS buat   |
+| Kebal               |                       | semakan dalam Sistem  |
+|                       | 4.                    | Pengurusan Fail       |
+|                       |                       |                       |
+|                       | 5.                    | Rekodkan dan pastikan |
+|                       |                       | jalur dan rak fail    |
+|                       | 6.                    | yang dimohon adalah   |
+|                       |                       | betul                 |
+|                       |                       |                       |
+|                       |                       | Sekiranya fail tidak  |
+|                       |                       | ditemui rujuk semula  |
+|                       |                       | kepada KS untuk       |
+|                       |                       | semakan rak dan jalur |
+|                       |                       |                       |
+|                       |                       | Kumpulkan             |
+|                       |                       | dokumen/fail yang     |
+|                       |                       | ditemui untuk semakan |
+|                       |                       | KS                    |
++-----------------------+-----------------------+-----------------------+
+| KS Bilik Kebal    | 7.                    | Terima fail/dokumen   |
+|                       |                       | yang dipohon untuk    |
+|                       | 8.                    | semakan kali kedua    |
+|                       |                       |                       |
+|                       |                       | Setelah disahkan      |
+|                       |                       | serah dokumen/fail    |
+|                       |                       | kepada pemohon        |
+|                       |                       | (Kerani Sel)          |
++-----------------------+-----------------------+-----------------------+
+| Kerani Sel        | 9.                    | Tandatangan borang    |
+|                       |                       | pinjaman fail setelah |
+|                       |                       | dibuat semakan        |
++-----------------------+-----------------------+-----------------------+
+
++-----------------------+-----------------------+-----------------------+
+|                       | 10.                   | Failkan borang        |
+|                       |                       | permohonan            |
+|                       |                       | dokumen/fail dari     |
+|                       |                       | Bilik Kebal           |
++=======================+=======================+=======================+
+|                       | E.                | PEMULANGAN          |
+|                       |                       | FAIL/DOKUMEN KE BILIK |
+|                       |                       | KEBAL               |
++-----------------------+-----------------------+-----------------------+
+| Penyelia/KS       | 1.                    | Kenalpasti            |
+|                       |                       | fail/dokumen yang     |
+|                       | 2.                    | hendak dihantar ke    |
+|                       |                       | Bilik Kebal.          |
+|                       |                       |                       |
+|                       |                       | Arahkan kerani /PT    |
+|                       |                       | membuat semakan.      |
++-----------------------+-----------------------+-----------------------+
+| Kerani/PT         | 3.                    | Semak dan rekodkan    |
+|                       |                       | dalam Buku Rekod      |
+|                       | 4.                    | penghantaran          |
+|                       |                       | fail/dokumen.         |
+|                       |                       |                       |
+|                       |                       | Hantar kepada Kerani  |
+|                       |                       | Bilik Kebal.          |
++-----------------------+-----------------------+-----------------------+
+| Kerani Bilik        | 5.                    | Sahkan penerimaan.    |
+| Kebal               |                       |                       |
+|                       | 6.                    | Rekodkan:             |
+|                       |                       |                       |
+|                       | 7.                    | i)  Nombor rak        |
+|                       |                       |     penyimpanan       |
+|                       | 8.                    |     fail/dokumen.     |
+|                       |                       |                       |
+|                       |                       | ii\) Keluar/masuk     |
+|                       |                       | fail (jika ada        |
+|                       |                       | permintaan).          |
+|                       |                       |                       |
+|                       |                       | Pastikan fail/dokumen |
+|                       |                       | yang dipulangkan      |
+|                       |                       | ditempatkan dirak     |
+|                       |                       | yang telah ditetapkan |
+|                       |                       |                       |
+|                       |                       | Pastikan kad          |
+|                       |                       | keluar/masuk          |
+|                       |                       | dimasukan ke dalam    |
+|                       |                       | kes fail dan          |
+|                       |                       | menentukan tempat di  |
+|                       |                       | mana kes fail akan    |
+|                       |                       | disimpan mengikut     |
+|                       |                       | susunan peruntukan    |
+|                       |                       | nombor tentera.       |
++-----------------------+-----------------------+-----------------------+
+| KS Bilik Kebal    | 9.                    | Semak rekod           |
+|                       |                       | pemulangan            |
+|                       | 10.                   | dokumen/fail yang     |
+|                       |                       | telah dipulangkan     |
+|                       |                       |                       |
+|                       |                       | Pastikan penukaran    |
+|                       |                       | jalur dan rak fail    |
+|                       |                       | direkodkan dalam      |
+|                       |                       | Sistem Pengurusan     |
+|                       |                       | Fail Syarikat              |
++-----------------------+-----------------------+-----------------------+
+
++-----------------------+-----------------------+-----------------------+
+| KS Bilik Kebal    | 11.                   | Semak dokumen/fail    |
+|                       |                       | yang tidak            |
+|                       | 12.                   | dipulangkan melebihi  |
+|                       |                       | sebulan dan sahkan    |
+|                       | 13.                   | dokumen tersebut      |
+|                       |                       | masih berada di       |
+|                       | 14.                   | pegangan Kerani Sel   |
+|                       |                       |                       |
+|                       |                       | Jika dokumen/fail     |
+|                       |                       | didapati hilang atau  |
+|                       |                       | tiada dalam pegangan  |
+|                       |                       | Kerani Sel.           |
+|                       |                       |                       |
+|                       |                       | Laporkan kepada PS 1  |
+|                       |                       | Operasi untuk         |
+|                       |                       | tindakan selanjutnya  |
+|                       |                       |                       |
+|                       |                       | Patuh kepada Arahan   |
+|                       |                       | Kerja seperti di      |
+|                       |                       | Kembaran A            |
++=======================+=======================+=======================+
+| PS 1 Ops          | 15.                   | Terima laporan dan    |
+|                       |                       | ambil Tindakan        |
+|                       | 16.                   | pembetulan dan        |
+|                       |                       | pencegahan            |
+|                       | 17.                   |                       |
+|                       |                       | Buat siasatan dan     |
+|                       |                       | adakan Lembaga        |
+|                       |                       | Siasatan (Jika Perlu) |
+|                       |                       |                       |
+|                       |                       | Hasil Siasatan        |
+|                       |                       | dimaklumkan kepada    |
+|                       |                       | Wakil Pengurusan      |
++-----------------------+-----------------------+-----------------------+
+|                       | E.                | PELUPUSAN FAIL    |
++-----------------------+-----------------------+-----------------------+
+| PT/Kerani         | 1.                    | Semak dan senaraikan  |
+|                       |                       | fail/dokumen yang     |
+|                       | 2.                    | perlu di buat         |
+|                       |                       | pelupusan.            |
+|                       |                       |                       |
+|                       |                       | Majukan senarai       |
+|                       |                       | kepada Sjn Tad/PC/KS  |
+|                       |                       | untuk diteliti.       |
++-----------------------+-----------------------+-----------------------+
+| Sjn Tad/PC/KS     | 3.                    | Teliti senarai        |
+|                       |                       | pelupusan             |
+|                       | 4.                    | fail/dokumen.         |
+|                       |                       |                       |
+|                       | 5.                    | Sediakan surat        |
+|                       |                       | permohonan pelupusan  |
+|                       |                       | kepada Pengurus Besar untuk      |
+|                       |                       | kelulusan.            |
+|                       |                       |                       |
+|                       |                       | Majukan surat         |
+|                       |                       | permohonan pelupusan  |
+|                       |                       | kepada PS 3 untuk     |
+|                       |                       | ditandatangani.       |
++-----------------------+-----------------------+-----------------------+
+
++-----------------------+-----------------------+-----------------------+
+| PS 3              | 6.                    | Sahkan surat          |
+|                       |                       | permohonan pelupusan  |
+|                       | 7.                    | fail/dokumen.         |
+|                       |                       |                       |
+|                       |                       | Rekod dan majukan     |
+|                       |                       | surat permohonan      |
+|                       |                       | kepada Pengurus Besar.           |
++=======================+=======================+=======================+
+| Pengurus Besar               | 8.                    | Terima surat          |
+|                       |                       | permohonan pelupusan  |
+|                       | 9.                    | fail/dokumen dari PS  |
+|                       |                       | 3.                    |
+|                       | 10.                   |                       |
+|                       |                       | Semak dan pastikan    |
+|                       | 11.                   | permohonan adalah     |
+|                       |                       | bersesuaian dengan    |
+|                       |                       | peraturan di          |
+|                       |                       | perenggan 3.1 hingga  |
+|                       |                       | 3.5                   |
+|                       |                       |                       |
+|                       |                       | Sahkan dan catat      |
+|                       |                       | kelulusan.            |
+|                       |                       |                       |
+|                       |                       | Majukan permohonan    |
+|                       |                       | yang telah diluluskan |
+|                       |                       | kepada PS 3.          |
++-----------------------+-----------------------+-----------------------+
+| PS 3              | 12.                   | Terima permohonan     |
+|                       |                       | yang telah diluluskan |
+|                       | 13.                   | dari Pengurus Besar.             |
+|                       |                       |                       |
+|                       | 14.                   | Majukan surat         |
+|                       |                       | kebenaran pelupusan   |
+|                       | 15.                   | fail/dokumen ke       |
+|                       |                       | Jabatan Arkib Negara. |
+|                       | 16.                   |                       |
+|                       |                       | Terima surat          |
+|                       |                       | kebenaran pelupusan   |
+|                       |                       | dari Jabatan Arkib    |
+|                       |                       | Negara.               |
+|                       |                       |                       |
+|                       |                       | Laksanakan pelupusan. |
+|                       |                       |                       |
+|                       |                       | Rekodkan fail/dokumen |
+|                       |                       | yang telah dibuat     |
+|                       |                       | pelupusan.            |
++-----------------------+-----------------------+-----------------------+
+
+7.  CARTA ALIRAN KERJA
+
+ 7.1 Penerimaan dan Pendaftaran
+
+7.2 Pergerakan Fail/Dokumen
+
+7.3 Keselamatan Dokumen di Bilik Kebal (Pengambilan Dokumen/Fail)
+
+ 7.4 Pemulangan Fail/Dokumen ke Bilik Kebal
+
+7.5 Pelupusan Fail/Dokumen
+
+8.0 REKOD KUALITI
+
+  BIL   REKOD KUALITI                                 LOKASI                  TEMPOH PENYIMPANAN
+  --------- ------------------------------------------------- --------------------------- ------------------------
+  1         Buku Daftar Surat/Utusan                          Pejabat Rekod/PC/PJ        5 tahun
+  2.        Buku Daftar Pergerakan Fail/Dokumen               Pejabat Rekod/PS 3/PC/PJ   5 tahun
+  7.        Buku Daftar Pelupusan Fail/Dokumen                Pejabat Rekod/PS 3/PC/PJ   7 tahun
+  8.        Buku Rekod Pinjaman Fail/Dokumen Di Bilik Kebal   Pejabat Bilik Kebal         5 tahun
+
+9.0 Kembaran
+
+Kembaran A -- Arahan Kerja Pengurusan Fail/Dokumen Di Bilik Kebal
+
+[KEMBARAN A]{.underline}
+
+[ARAHAN KERJA PENGURUSAN FAIL/DOKUMEN DI BILIK KEBAL]{.underline}
+
+[Rujuk:]{.underline}
+
+A. PK(W).OA.02
+
+B. FAFSI 1961
+
+C. Arahan Keselamatan BSPP
+
+D. DKM.OA.01
+
+[AM]{.underline}
+
+1\. Bilik Kebal adalah kawasan larangan bagi semua peringkat kakitangan
+melainkan membuat tugas-tugas tertentu sahaja. Kakitangan yang bertugas di
+Bilik Kebal adalah terdiri dari kakitangan yang telah ditetapkan.
+
+2\. Tiap-tiap kes fail/dokumen yang hendak dikeluarkan atau dipulangkan
+semula mestilah disemak, direkodkan dan didaftarkan. Kes fail/dokumen
+tidak dibenarkan untuk dipinjamkan keluar dari Jabatan Arah Rekod dan
+Pencen melainkan dengan kebenaran Pengurus Besar Rekod dan Pencen sendiri.
+
+3\. Semua kes fail/dokumen yang dikeluarkan mestilah dipulangkan ke Bilik
+Kebal dalam jangka masa dua minggu dari tarikh dikeluarkan. Sekiranya
+tindakan-tindakan yang masih belum selesai diambil, maka Cawangan,
+Bahagian atau Sel berkenaan hendaklah memberitahu Ketua Sel Bilik Kebal
+semasa memulangkan fail/dokumen yang lain itu.
+
+[CARA MEMOHON]{.underline}
+
+4\. Permohonan untuk mengeluarkan kes fail/dokumen mestilah menggunakan
+borang seperti di *Kembaran A* dan pemohon-pemohon dikehendaki mengisi
+dan tandatangan ringkas dibahagian borang tersebut dan disahkan oleh
+Ketua Sel Bilik Kebal.
+
+[TINDAKAN UNTUK MENGELUARKAN FAIL/DOKUMEN]{.underline}
+
+5\. Apabila menerima permohonan, Ketua Sel Bilik Kebal akan menyemak,
+mengesahkan dan mengarahkan Kerani Bilik Kebal untuk menyemak kedudukan
+fail/dokumen dalam Sistem Pengurusan Fail bagi menentukan jalur dan rak
+fail/dokumen tersebut. Apabila kedudukan fail/dokumen telah diketahui,
+Kerani Bilik Kebal akan mencari dan mengeluarkan kes fail/dokumen yang
+dikehendaki.
+
+A - 1
+
+Masa yang diberikan untuk mencari fail tersebut ialah lebih kurang 45
+minit dan ini mengikut beberapa banyak fail yang dikeluarkan.
+
+6\. Kerani dari Cawangan/Bahagian/Sel tidak dibenarkan memasuki sendiri
+untuk mencari fail/dokumen yang dikehendaki. Apabila fail/dokumen yang
+dimohon telah siap dikumpulkan kerani sel boleh datang untuk mengambil
+
+[TINDAKAN UNTUK MEMULANGKAN]{.underline}
+
+7\. Setelah tindakan diambil, semua kes fail/dokumen yang dipinjam
+hendaklah dipulangkan dengan kadar segera melainkan yang masih diambil
+tindakan. Kerani Bilik Kebal mestilah mengesahkan penerimaan dan
+rekodkan.
+
+8\. Kerani Sel Bilik Kebal dikehendaki memastikan fail/dokumen yang
+dipulangkan ditempatkan dirak dan jalurkan yang telah ditetapkan.
+Pastikan kad keluar/masuk dimasukan semula ke dalam fail tersebut
+mengikut susunan nombor tentera.
+
+9\. Ketua Sel Bilik Kebal semak rekod pemulangan fail/dokumen yang telah
+dipulangkan dan pastikan jalur dan rak yang direkodkan betul.
+
+10\. Semak semula fail/dokumen yang tidak dipulangkan melebihi sebulan
+berada dalam pegangan Kerani Sel. Sekiranya dokumen tersebut didapati
+hilang laporkan kepada PS 1 Ops untuk tindakan selanjutnya.
+
+[TINDAKAN KETUA SEL BILIK KEBAL]{.underline}
+
+11\. Pada tiap-tiap bulan Ketua Bilik Kebal dikehendaki menyemak kes-kes
+fail/dokumen yang mana belum dipulangkan oleh Cawangan,Bahagian dan Sel
+dan mengingatkan Penyelia Cawangan/Bahagian/Sel untuk memulangkannya.
+Sekiranya terdapat ada fail/dokumen yang hilang, maka hendaklah
+melaporkan kepada PS 1 Ops untuk diambil tindakan pembetulan dan
+pencegahan dan laporan dimajukan ke Wakil Pengurusan.
+
+[LANGKAH KESELAMATAN DAN PERKARA-PERKARA YANG PERLU DIPATUHI BAGI
+MENGELAKKAN KEBAKARAN]{.underline}
+
+12\. Punca-punca kebakaran tiada dapat diramalkan tetapi dari aspek-aspek
+berikut yang boleh berlaku kebakaran jika tidak diawasi dengan rapi:
+
+A - 2
+
+ a\. Puntong rokok yang belum dipadam dengan sepenuhnya dibuang di dalam
+ bakul sampah atau dibuang dimerata tempat pada saat-saat meninggal Bilik
+ Kebal semasa habis kerja.
+
+ b\. Suis tidak ditutup (Off) dan plugnya tidak dicabut selepas meninggal
+ Bilik Kebal semasa habis waktu kerja
+
+12\. Untuk mengelak dan mencegah kebakaran, perkara-perkara berikut
+perlulah dititikberatkan dan hendaklah dipatuhi oleh semua kakitangan di
+dalam Jabatan Arah ini terutama sekali kepada kakitangan yang mengelolakan
+Bilik Kebal.
+
+ a\. Puntong-puntong rokok mestilah dipadamkan apinya terlebih dahulu
+ sebelum dibuang ke dalam tempat-tempat yang dikhaskan dan dilarang sama
+ sekali dibuang di merata-rata tempat.
+
+ b\. Dilarang sama sekali merokok di Bilik Kebal.
+
+ c\. Semua alat-alat elektrik mestilah dijaga berada di dalam keadaan baik
+ dan boleh digunakan.
+
+ d\. Semua alat-alat elekterik yang rosak hendaklah ditanggalkan daripada
+ penyambungan aliran elektrik dan tidak boleh digunakan sama sekali.
+
+ e\. Apa jua pendawaian elektrik mestilah mendapat kebenaran dan kelulusan
+ pihak JKR Kem KEMENTAH
+
+ f\. Semua kerosakan pendawaian elektrik mestilah dilaporkan dengan segera
+ ke Pejabat Rekod untuk tindakan sewajarnya.
+
+ g\. Semua Staf Bilik Kebal adalah bertanggungjawab menentukan semua suis
+ elektrik ditutup (off) dan plak-plaknya dicabut apabila habis waktu
+ kerja.
+
+ h\. Dilarang sama sekali membakar sampah dimerata tempat di Bilik Kebal.
+
+13\. Tindakan sekiranya berlaku kebakaran:
+
+ \(1) Cuba memadamkan api itu dengan alat-alat pemadam yang disediakan dan
+ tutupkan semua suis alat-alat elektrik.
+
+A - 3
+
+ \(2) Laporkan perkara tersebut kepada Pegawai Kebakaran/Keselamatan Syarikat
+
+ \(3) Jika api merebak dan tidak dapat dikawal lapor terus kepada
+ pihak-pihak seperti berikut:
+
+\(a) Balai Bomba.
+
+\(b) Kem KEMENTAH.
+
+\(c) Bilik DOR.
+
+ \(d) Pengurus Besar Rekod dan Pencen atau PS 1 Operasi/Pengurusan.
+
+ \(e) Kakitangan-kakitangan yang lain hendaklah keluar dari pejabat berkenaan
+ dan berbaris di Dataran Syarikat sekiranya kebakaran berlaku di waktu kerja.
+
+A - 4
+
+ [LAMPIRAN 1]{.underline}
+
+[BOR/PK(W).OA.02]{.underline}
+
+![](media/image39.jpg){width="0.9486111111111111in"
+height="0.8319444444444445in"}
+
+PERMOHONAN PENGELUARAN FAIL ANGGOTA DARI BILIK KEBAL
+
+BUTIR-BUTIR PERMOHON:
+
+1\. No, Ten/IC:.......................... Pkt:...........
+Nama:...................................................
+
+2.
+Cawangan/Bhg/Sel:............................................................................................
+
+3\. Samb
+Tel:\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.....
+
+4\. Jumlah Fail yang dikehendaki:.....................................
+
+  Bil   No Ten/Pkt/Nama Fail/Dokumen Yang Dimohon   Catatan
+  --------- ----------------------------------------------- -------------
+  (a)   (b)                                         (c)
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+
+\...\...\...\...\...\...\...\...\...\...\...\...\.....
+\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
+
+(Tandatangan Pemohon) (Disahkan oleh KS/Pertugas Bilik Kebal)
+
+Tarikh:
+No:\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+
+Pkt:\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
+
+Nama:\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.....
+
+Jawatan:\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
+
+Tarikh:\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....

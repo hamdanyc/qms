@@ -1,0 +1,66 @@
+---
+title: "Invois"
+output:
+  pdf_document: default
+  fontsize: 12pt
+  header-includes: 
+  html_notebook: default
+---
+
+```{r init, include=FALSE}
+library(dplyr)
+library(kableExtra)
+load("cost.RData")
+```
+
+Daripada:   
+
+Kol Hamdan bin Yaccob (Bersara)
+
+
+Kepada:  
+
+Pengurus Kewangan,  
+OpenApps Sdn. Bhd
+
+
+**`r format(Sys.Date(), "%d %b %Y")`**
+
+\rule{\textwidth}{4 pt}
+\begin{center}
+\textbf{Invois -- Latihan Sistem Pengurusan Kualiti (QMS)} \\        
+\textbf{OpenApps Sdn. Bhd.}
+\end{center}
+\rule{\textwidth}{4pt}
+Puan,  
+
+1.   Disertakan senarai latihan di perkara tajuk untuk tindakan, terima kasih.
+
+```{r item, echo=FALSE}
+by_item %>% 
+  filter(jenis == "latihan") %>% 
+  group_by(jenis) %>% 
+  group_modify(~ bind_rows(., summarize(., across(where(is.numeric), sum)))) %>%
+  ungroup %>%
+  mutate(nama = coalesce(nama, paste("Jumlah (", jenis,")")),
+         jenis = if_else(startsWith(nama, "Jumlah"), "", jenis),
+         kos_unit = if_else(jenis == "","",as.character(kos_unit))) %>%
+  select(nama,jenis,kti,kos_unit,jumlah) %>% 
+  kbl(booktab=T) %>%
+  kable_styling(position="left",latex_options = c("striped"),
+                full_width = F)
+
+jlh <- by_item %>% 
+  filter(jenis == "latihan") %>% 
+  summarise("jlh" = sum(jumlah))
+```
+2.  Jumlah Keseluruhan: **RM `r format(jlh$jlh,big.mark = ",")`**. Mohon kreditkan ke akaun Bank Muamalat Malaysia Bhd,     
+no akaun: **14010036728728**.       
+
+3. Terima kasih.    
+
+![](tt.png){width=30%}
+  
+\rule{5.5cm}{0.2mm}    
+Kol Hamdan bin Yaccob (Bersara)    
+

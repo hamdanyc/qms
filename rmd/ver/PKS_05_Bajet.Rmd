@@ -1,0 +1,172 @@
+---
+title: |
+  ![](~/R/qms/media/openapps-logo.png){width=30%}  
+  **Bridging the gap between \textcolor{blue}{PEOPLE}, \textcolor{blue}{BUSINESS} and \textcolor{blue}{TECHNOLOGY}**
+  
+  **MS ISO 9001:2015 Sistem Pengurusan Kualiti**  
+  OpenApps Sdn Bhd (548151-W)
+author:
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: '4'
+  html_document:
+    toc: yes
+    toc_depth: 4
+params:
+  doc_id: PK(W).OA.01
+  doc_title: "title"
+  
+---
+
+```{r init, include=FALSE}
+library(readr)
+a_list <- read_csv("~/R/qms/a_list.csv")
+```
+
+\newpage
+
+|Prosedur Kualiti &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|`r params$doc_id`|
+|:------------------|-------:|
+
+
+|                                   |
+|:---------------------------------:|
+|**`r toupper(params$doc_title)`**|
+
+# I    Penyedia dan Kelulusan
+
+|Nama &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |Tarikh |
+|-------------------------------|--------------|
+|                               |              |
+| **Disediakan Oleh**:          | **Feb 2021** |
+|                               |              |
+|                               |              |
+|_____________________          |              |
+| **`r substr(a_list$pemilik_dok[14],1,40)`**| |
+| `r substr(a_list$pemilik_dok[14],41,60)`   | |
+| **Wakil Pengurusan**          |              |
+|                               |              |
+| **Diluluskan Oleh**:          | **Feb 2021** |
+|                               |              |
+|                               |              |
+|_____________________          |              |
+| **`r a_list$pemilik_dok[15]`**|              |
+| **CEO**                       |              |
+|                               |              |
+| **No Salinan Terkawal**:      |              |
+|                               |              |
+| `r params$doc_id`( )          |              |
+
+\newpage
+
+# II    Rekod Pindaan
+
+|Tarikh Pindaan|No Pindaan/No Keluaran|Rujukan Pindaan Mukasurat |Butir-butir Pindaan|Diluluskan Oleh|
+|-------------|-------------|-------------|-------------|-------------|
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+
+# III   Senarai Pemegang Dokumen
+
+| No. Salinan Terkawal   | Pemegang Dokumen              |
+|------------------------|-------------------------------|
+| `r params$doc_id`(01)  | `r a_list$pemilik_dok[1]`     |
+|                        |                               |
+| `r params$doc_id`(02)  | `r a_list$pemilik_dok[2]`     |
+|                        |                               |
+| `r params$doc_id`(03)  | `r a_list$pemilik_dok[3]`     |
+|                        |                               |
+| `r params$doc_id`(04)  | `r a_list$pemilik_dok[4]`     |
+|                        |                               |
+| `r params$doc_id`(05)  | `r a_list$pemilik_dok[5]`     |
+|                        |                               |
+| `r params$doc_id`(06)  | `r a_list$pemilik_dok[6]`     |
+|                        |                               |
+| `r params$doc_id`(07)  | `r a_list$pemilik_dok[7]`     |
+|                        |                               |
+| `r params$doc_id`(08)  | `r a_list$pemilik_dok[8]`     |
+|                        |                               |
+| `r params$doc_id`(09)  | `r a_list$pemilik_dok[9]`     |
+|                        |                               |
+| `r params$doc_id`(10)  | `r a_list$pemilik_dok[10]`    |
+|                        |                               |
+| `r params$doc_id`(11)  | `r a_list$pemilik_dok[11]`    |
+|                        |                               |
+| `r params$doc_id`(12)  | `r a_list$pemilik_dok[12]`    |
+|                        |                               |
+| `r params$doc_id`(13)  | `r a_list$pemilik_dok[13]`    |
+
+\newpage
+
+# 1.0   Objektif
+
+ Prosedur ini menggariskan langkah-langkah bagi memastikan penyediaan Program Anggaran Belanja Mengurus Tahunan dilaksanakan dengan berkesan.
+
+# 2.0   Skop
+
+ Prosedur ini digunapakai oleh Cawangan Tadbir Syarikat di dalam penyediaan Program Anggaran Belanja Mengurus Tahunan Syarikat.
+
+# 3.0   Rujukan
+
+##   3.1   MK.OA.01
+
+ i)   Seksyen 5.1 - Komitmen Pengurusan.
+
+ i)   Seksyen 6.1 - Peruntukan Dan Penyediaan Sumber.
+
+##    3.2.  Perakaunan Syarikat
+
+Penjenisan Kod bagi Hasil dan Perbelanjaan.
+
+##    3.3   Buku Panduan Sistem Belanjawan yang disediakan oleh Bahagian Kewangan Tahun 1994.
+
+##    3.4.  Sistem Buku Vot Manual.
+
+##    3.5.  Akta Syarikat 1956.
+
+# 4.0   Definisi
+
+ Bajet adalah sumber yang diperuntukan oleh Jabatan Kewangan/Pentadbiran bagi keperluan yang telah diputuskan oleh Pengurusan Syarikat.
+
+# 5.0   Singkatan
+
+
+# 6.0   Tanggungjawab dan Tindakan
+
+|Tanggungjawab  |Tindakan                                       |
+|---------------|-----------------------------------------------|
+|Eksekutif Kewangan/    |1. Sediakan anggaran perbelanjaan mengurus tahunan|
+|Pentadbiran            |keperluan Syarikat.|
+|               |                                               |
+|Pengurus Kewangan/Pentadbiran    |2. Semak keperluan di perenggan 1 dan kemukakan kepada CEO untuk kelulusan.|
+|               |                                               |
+|CEO            |3. Luluskan keperluan di perenggan 2.          | 
+|               |                                               |
+|Kerani Kewangan/Pentadbiran|4. Majukan kepada Financial Controller - Kewangan/Pentadbiran.                   |
+|               |                                               |
+|Eksekutif Kewangan/Pentadbiran    |5. Selenggarakan Buku Vot dan kemaskinikan setiap masa|
+|               |Pastikan tandatangan ringkas setiap tanggungan di dalam Buku Vot.|
+
+# 7.0 Aliran Kerja
+
+![Penyediaan Belanja Mengurus Tahunan](~/R/qms/media/s05.png){width=20%}\
+
+# 8.0 Rekod Kualiti
+
+|Bil   |Rekod |Tempoh Penyimpanan|Lokasi|
+|------|----------------------------|---------------------|------|
+|1.    |Buku Vot                    |5 Tahun              |Pejabat Rekod|
+|2.    |Buku Daftar Pembekal        |5 Tahun              |Pejabat Rekod|
+|2.    |Buku Daftar Invois          |5 Tahun              |Pejabat Rekod|
+
+# 9.0 Lampiran
+
+Tidak berkenaan

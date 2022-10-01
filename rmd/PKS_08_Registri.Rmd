@@ -1,0 +1,297 @@
+---
+title: |
+  ![](~/R/qms/media/openapps-logo.png){width=30%}  
+  **Bridging the gap between \textcolor{blue}{PEOPLE}, \textcolor{blue}{BUSINESS} and \textcolor{blue}{TECHNOLOGY}**
+  
+  OpenApps Sdn Bhd (548151-W)
+  **MS ISO 9001:2015 Sistem Pengurusan Kualiti**  
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: '4'
+  html_document:
+    toc: yes
+    toc_depth: 4
+params:
+  doc_id: PK(W).OA.01
+  doc_title: "title"
+  
+---
+
+```{r init, include=FALSE}
+library(readr)
+a_list <- read_csv("~/R/qms/a_list.csv")
+```
+
+\newpage
+
+|Prosedur Kualiti &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|`r params$doc_id`|
+|:------------------|-------:|
+
+|                                   |
+|:---------------------------------:|
+|`r toupper(params$doc_title)`|
+
+# I    Penyedia dan Kelulusan
+
+|Nama &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |Tarikh |
+|-------------------------------|--------------|
+|                               |              |
+| Disediakan Oleh:          | Feb 2021 |
+|                               |              |
+|                               |              |
+|_____________________          |              |
+| `r substr(a_list$pemilik_dok[14],1,40)`| |
+| `r substr(a_list$pemilik_dok[14],41,60)`   | |
+| Wakil Pengurusan          |              |
+|                               |              |
+| Diluluskan Oleh:          | Feb 2021 |
+|                               |              |
+|                               |              |
+|_____________________          |              |
+| `r a_list$pemilik_dok[15]`|              |
+| CEO                       |              |
+|                               |              |
+| No Salinan Terkawal:      |              |
+|                               |              |
+| `r params$doc_id`( )          |              |
+
+\newpage
+
+# II    Rekod Pindaan
+
+|Tarikh Pindaan|No Pindaan/No Keluaran|Rujukan Pindaan Mukasurat |Butir-butir Pindaan|Diluluskan Oleh|
+|-------------|-------------|-------------|-------------|-------------|
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+
+# III   Senarai Pemegang Dokumen
+
+| No. Salinan Terkawal   | Pemegang Dokumen              |
+|------------------------|-------------------------------|
+| `r params$doc_id`(01)  | `r a_list$pemilik_dok[1]`     |
+|                        |                               |
+| `r params$doc_id`(02)  | `r a_list$pemilik_dok[2]`     |
+|                        |                               |
+| `r params$doc_id`(03)  | `r a_list$pemilik_dok[3]`     |
+|                        |                               |
+| `r params$doc_id`(04)  | `r a_list$pemilik_dok[4]`     |
+|                        |                               |
+| `r params$doc_id`(05)  | `r a_list$pemilik_dok[5]`     |
+|                        |                               |
+| `r params$doc_id`(06)  | `r a_list$pemilik_dok[6]`     |
+|                        |                               |
+| `r params$doc_id`(07)  | `r a_list$pemilik_dok[7]`     |
+|                        |                               |
+| `r params$doc_id`(08)  | `r a_list$pemilik_dok[8]`     |
+|                        |                               |
+| `r params$doc_id`(09)  | `r a_list$pemilik_dok[9]`     |
+|                        |                               |
+| `r params$doc_id`(10)  | `r a_list$pemilik_dok[10]`    |
+|                        |                               |
+| `r params$doc_id`(11)  | `r a_list$pemilik_dok[11]`    |
+|                        |                               |
+| `r params$doc_id`(12)  | `r a_list$pemilik_dok[12]`    |
+|                        |                               |
+| `r params$doc_id`(13)  | `r a_list$pemilik_dok[13]`    |
+
+\newpage
+
+# 1.0  Objektif
+
+Prosedur ini menggariskan mengenai registri dan langkah-langkah pengurusan rekod untuk memastikan proses pendaftaran fail, pembukaan fail, penutupan fail, penggunaan dan kawalan fail, tindakan fail hilang atau tidak dapat dikesan, pembaikan kecil fail yang rosak, pengendalian fail tidak aktif, pelupusan dan pendaftaran surat supaya prosedur registri dan pengurusan rekod dapat dilaksanakan dengan betul dan sistematik.
+
+# 2.0  Skop
+
+ Prosedur ini digunapakai oleh Pusat Registri, Cawangan dan Bahagian dalam Syarikat dalam melaksanakan tugas registri dan pengurusan rekod di Syarikat.
+
+3.0   Rujukan
+
+ 3.1 MK.OA.01.
+
+ 3.2 Akta Arkib Negara 2003 (Akta 629).
+
+ 3.4 Jadual Klasifikasi Urusan Am dan Fungsian.
+
+ 3.5 Jadual Pelupusan Rekod Urusan Am Terbitan Arkib
+
+ 3.6 Jadual Pelupusan Rekod Kewangan dan Perakaunan Terbitan Arkib.
+
+# 4.0  Definisi
+
+ 4.1 Fail Rasmi. Dokumen rasmi kerajaan yang dikandung, disusun dengan teratur dan didaftarkan. Fail ini diberi tajuk spesifik sepertimana yang telah ditetapkan dalam Klasifikasi Fail.
+
+ 4.2 Kertas Minit. Kertas atau format yang dilampirkan di sebelah kiri fail yang mencatatkan butiran dan maklumat lampiran. Ia boleh digunakan sebagai indeks.
+
+ 4.3 Kepada Lampiran. Yang terkandung di dalam fail. Kertas minit juga digunakan untuk memberi arahan atau maklumbalas ringkas ke atas lampiran yang berkenaan.
+
+ 4.4 Sampul Kecil. Kulit fail yang menepati format Am 435A-Pin.1/82. Kulit fail yang digunakan sebagai fail sementara apabila fail asal tidak dapat dikesan atau apabila lebih daripada seorang pegawai perlu mengambil tindakan segera ke atas fail yang sama.
+
+ 4.5 Klasifikasi Fail. Proses mengenalpasti dan mengumpulkan maklumat secara logikal ke dalam kategori/kumpulan yang sama atau seakan-akan sama, di mana setiap satu kategori/kumpulan rekod itu dikenali dengan identitinya sendiri.
+
+ 4.6 Daftar Fail. Format yang disediakan bagi mendaftar fail rasmi.
+
+ 4.7 Kad Keluar Fail/Kad Pergerakan Fail. Kad kawalan yang merekodkan pergerakan fail di registri.
+
+ 4.8 Indeks. Alat atau kaedah silang rujuk bagi membolehkan sesuatu dokumen dikenalpasti atau dicapai dengan pantas.
+
+ 4.9 SDP/BF. Simpan Dalam Perhatian *"Keep in view'' (KIV),* arahan yang dikeluarkan oleh mana-mana pegawai kepada kakitangan registri untuk menyimpan sementara sesebuah fail dan memajukan kembali fail kepadanya pada tarikh yang ditetapkan, disebut juga sebagai *''bring forward''*(BF).
+
+ 4.10 Registri. Unit atau bahagian khusus disesebuah pejabat yang bertanggungjawab terhadap urusan surat-menyurat dokumen dan fail-fail.
+
+ 4.11 Bilik Fail. Bilik penyimpanan, penyelenggaraan dan pengawalan fail-fail (rekod) aktif sahaja.
+
+ 4.12 Bilik Rekod. Bilik atau ruang khusus sebagai tempat simpanan bagi menempatkan rekod-rekod separa aktif dan tidak aktif sementara menunggu rekod-rekod tersebut dikaji dan ditentukan tindakan pelupusan yang perlu diambil.
+
+ 4.13 Bilik Fail Keselamatan. Sebuah bilik yang diperkuatkan untuk menempatkan fail-fail dan dokumen terperingkat jabatan.
+
+ 4.14 Bilik Kebal. Bilik khas yang kukuh binaanya di mana ia tidak mudah untuk dipecahkan atau dirobohkan. Sesebuah Bilik Kebal dibina bertujuan untuk menyimpan rekod atau fail terperingkat yang mempunyai kepentingan kepada syarikat.
+
+ 4.15 Pelupusan. Cara menguruskan pengasingan rekod dengan tujuan pemusnahan, pemindahan atau selain.
+
+ 4.16 Rekod Awam. Bahan dalam bentuk bertulis atau bentuk lain yang menyatakan fakta atau peristiwa atau selainya merakamkan maklumat dan termasuklah kertas, dokumen, daftar, bahan bercetak, buku, peta, pelan, lukisan, gambar foto, mikrofilem, filem sinematograf, rakaman bunyi, rekod yang dihasilkan secara elektronik tanpa mengira bentuk atau ciri-ciri fizikal dan apa-apa salinannya.
+
+ 4.17 Pejabat Awam.
+
+ 4.18 Pegawai Rekod Jabatan (PRJ).
+
+ 4.19 Pegawai Pengelasan.
+
+# 5.0  Singkatan
+
+(i) JPR - Jadual Pelupusan Rekod
+
+(i) PRJ - Pegawai Rekod Jabatan
+
+(i) PTRJ - Pembantu Tadbir Rekod Jabatan
+
+
+# 6.0   Tanggungjawab dan Tindakan
+
+---------------------------------------------------------------------
+Tanggungjawab     Tindakan
+----------------- ------------------------------------------
+									**A.  Penerimaan dan Pendaftaran Surat**
+
+PRJ/PTRJ          (1) Terima surat/dokumen. 
+									(2) Daftar ke dalam Buku Rekod Daftar Surat Masuk
+
+PTRJ  						(3) Imbas surat/dokumen dan muat naik ke Sistem E-Firstsight.
+
+PTRJ              (4) Surat/dokumen yang asal dikandung mengikut kod klasifikasi fail dan 
+									perjenisan keselamatan fail.
+									
+									(5) Catatkan di kertas minit.
+									
+									(6) Simpan fail mengikut perjenisan keselamatan. 
+									Fail terperingkat disimpan ditempatberkunci dan dikawal.
+									
+									**B. Pembukaan Fail dan Pendaftaran Fail**
+
+PRJ/PTRJ          (7) Teliti kandungan surat/dokumen yang hendak diwujudkan fail. 
+
+									(8) Semak dan kenal pasti klasifikasi fail dan kod klasifikasi.
+									
+									(9) Tentukan nama dan tajuk fail baharu:
+									
+									a\. Tebuk lubang pada kulit fail dan kertas minit.
+									
+									b\. Tulis tajuk fail dan nombor rujukan fail. 
+									
+									c\. Masukkan tali hijau dan kertas minit. 
+									
+PTRJ 							(10) Masukkan kandungan, catat nombor kandungan pada bahagian atas 
+									sebelah kanan surat/dokumen dan minitkan lampiran 
+									pada kertas minit di sebelah kanan fail.
+									
+PTRJ              (11) Daftar fail baharu dalam Buku Daftar Fail dan sediakan indeks.
+
+ 									**C.	Penutupan Fail**
+
+PRJ               (12) Pastikan fail memenuhi kriteria penutupan fail.
+
+PTRJ              (13) Cop atau tuliskan DITUTUP PADA .....
+
+									(14) Lihat jilid (sekiranya jilid baru dibuka 
+									pada muka hadapan (kulit fail)
+									
+									(15) Buka kulit fail baharu dgn klasifikasi yg sama.
+									
+									(16) Tanda sebagai jilid ke-2 dan seterusnya.
+									
+									(17) Fail yang ditutup diikat bersama fail baharu selama 3 bulan 
+									atau untuk tempoh tertentu.
+									
+PTRJ              (18) Pindahkan fail yg ditutup ke Bilik Rekod untuk disimpan
+									sementara menunggu proses pelupusan.
+
+									**D. Penggunaan dan Kawalan Fail**
+
+PTRJ              (19) Isi borang permohonan fail.
+
+									(20) Rekod Pinjaman dan Pemulangan Fail.
+									
+									(21) Asingkan doket kad pergerakan fail dari fail.
+									
+									(22) Semak fail yg tidak dipulangkan melebihi tempoh yang ditetapkan.
+									
+PRJ/PTRJ					(23) Hubungi pemimjam untuk mengetahui status fail.
+
+									(24) Kemaskini tarikh dipulangkan pada rekod pinjaman.
+									
+									(25) Kembalikan doket kad pergerakan fail ke fail.
+
+									**E. Pelupusan Fail**
+
+PRJ           		(26) Asingkan fail telah tamat tindakan/telah capai tempoh simpanan 
+									sebagaimanana Jadual Pelupusan Rekod.
+									
+PRJ/PTRJ      		(27) Susun mengikut nombor turutan atau siri fail dan diikat.
+
+									(28) Senaraikan di dalam borang pelupusan.
+									
+PRJ           		(29) Buat penilaian ke atas setiap unit rekod, dan kenal pasti
+									rekod bernilai kepada organisasi. 
+									
+									(30) Catat dalam borang permohonan pelupusan, samada:
+									
+									(i) untuk disimpan/dipindah, 
+									
+									(ii) untuk dimusnah.
+									
+									(31) Kemukakan kepada JK Pelupusan Rekod untuk kelulusan.
+									
+									(32) Buat tindakan pengasingan atau pemusnahan rekod.
+---------------------------------------------------------------------
+
+# 7.0 Aliran Kerja
+
+# 8.0 Rekod Kualiti
+
+------------------------------------------------------------------------
+Bil   Jenis Rekod                  Tempoh Penyimpanan Lokasi
+----- ---------------------------- ------------------ ------------------
+1\.   Buku Daftar                  5 tahun            Bilik Registri
+		Surat Masuk/Keluar (Am 10)       
+		
+2\.   Kertas Minit (Am 10)         5 tahun            Bilik Registri
+		
+3\.   Buku Rekod Pembukaan Fail    5 tahun            Bilik Registri
+		
+4\.   Buku Rekod Pengeluaran Fail  5 tahun            Bilik Registri
+		
+5\.   Buku Rekod Pelupusan Fail    5 tahun            Bilik Registri
+
+6\.   Buku Daftar                  5 tahun            Bilik Registri
+		  Surat Terperingkat  
+------------------------------------------------------------------------
+		
+# 9.0 Lampiran
+

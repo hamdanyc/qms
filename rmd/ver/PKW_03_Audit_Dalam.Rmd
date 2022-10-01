@@ -1,0 +1,362 @@
+---
+title: "MS ISO 9001:2015 Sistem Pengurusan Kualiti"
+author: "OpenApps Sdn Bhd (548151-W)"
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: '4'
+  html_document:
+    toc: yes
+    toc_depth: 4
+params:
+  doc_id: PK(W).OA.01
+  doc_title: "title"
+  
+---
+
+```{r init, include=FALSE}
+library(readr)
+a_list <- read_csv("~/R/qms/a_list.csv")
+```
+
+\newpage
+
+|Prosedur Kualiti &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|`r params$doc_id`|
+|:------------------|-------:|
+
+![](~/R/qms/media/openapps-logo.png){width=30%}
+
+| **Bridging the gap** between **PEOPLE**, **BUSINESS** and **TECHNOLOGY**
+
+|                                   |
+|:---------------------------------:|
+|**`r toupper(params$doc_title)`**|
+
+# I    Penyedia dan Kelulusan
+
+|Nama &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |Tarikh |
+|-------------------------------|--------------|
+|                               |              |
+| **Disediakan Oleh**:          | **Feb 2021** |
+|                               |              |
+|                               |              |
+|_____________________          |              |
+| **`r substr(a_list$pemilik_dok[14],1,40)`**| |
+| `r substr(a_list$pemilik_dok[14],41,60)`   | |
+| **Wakil Pengurusan**          |              |
+|                               |              |
+| **Diluluskan Oleh**:          | **Feb 2021** |
+|                               |              |
+|                               |              |
+|_____________________          |              |
+| **`r a_list$pemilik_dok[15]`**|              |
+| **CEO**                       |              |
+|                               |              |
+| **No Salinan Terkawal**:      |              |
+|                               |              |
+| `r params$doc_id`( )          |              |
+
+\newpage
+
+# II    Rekod Pindaan
+
+|Tarikh Pindaan|No Pindaan/No Keluaran|Rujukan Pindaan Mukasurat |Butir-butir Pindaan|Diluluskan Oleh|
+|-------------|-------------|-------------|-------------|-------------|
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+
+# III   Senarai Pemegang Dokumen
+
+| No. Salinan Terkawal   | Pemegang Dokumen              |
+|------------------------|-------------------------------|
+| `r params$doc_id`(01)  | `r a_list$pemilik_dok[1]`     |
+|                        |                               |
+| `r params$doc_id`(02)  | `r a_list$pemilik_dok[2]`     |
+|                        |                               |
+| `r params$doc_id`(03)  | `r a_list$pemilik_dok[3]`     |
+|                        |                               |
+| `r params$doc_id`(04)  | `r a_list$pemilik_dok[4]`     |
+|                        |                               |
+| `r params$doc_id`(05)  | `r a_list$pemilik_dok[5]`     |
+|                        |                               |
+| `r params$doc_id`(06)  | `r a_list$pemilik_dok[6]`     |
+|                        |                               |
+| `r params$doc_id`(07)  | `r a_list$pemilik_dok[7]`     |
+|                        |                               |
+| `r params$doc_id`(08)  | `r a_list$pemilik_dok[8]`     |
+|                        |                               |
+| `r params$doc_id`(09)  | `r a_list$pemilik_dok[9]`     |
+|                        |                               |
+| `r params$doc_id`(10)  | `r a_list$pemilik_dok[10]`    |
+|                        |                               |
+| `r params$doc_id`(11)  | `r a_list$pemilik_dok[11]`    |
+|                        |                               |
+| `r params$doc_id`(12)  | `r a_list$pemilik_dok[12]`    |
+|                        |                               |
+| `r params$doc_id`(13)  | `r a_list$pemilik_dok[13]`    |
+
+\newpage
+
+# 1.0  Objektif
+
+Prosedur ini bertujuan menyediakan garispanduan Audit Dalaman Syarikat dilaksanakan secara terancang dan berkesan. Audit Dalaman akan mengenalpasti kepatuhan dan ketidakpatuhan akan keberkesanan Sistem Pengurusan Kualiti untuk keperluan penambahbaikan.
+
+# 2.0  Skop
+
+Prosedur ini digunapakai oleh WP, KSA, KPAD dan JAD bagi semua aktiviti audit dalaman Syarikat semasa merancang, melaksanakan dan menilai keberkesanan Sistem Pengurusan Kualiti Syarikat.
+
+# 3.0   Rujukan
+
+ 3.1 MK.OA.02 dengan seksyen-seksyen berikut:
+
+ Seksyen 8.2 - Pemantauan dan Pengukuran.
+
+ Seksyen 8.2.2 - Audit Dalaman.
+
+ Seksyen 8.5.1 - Penambahbaikan Berterusan.
+
+ Seksyen 8.5.2 - Tindakan Pembetulan.
+
+ Seksyen 8.5.3 - Tindakan Pencegahan.
+
+# 4.0  Definisi
+
+##    4.1 Audit Dalaman
+
+Suatu proses pemeriksaan untuk menilai keberkesanan Sistem Pengurusan Kualiti Syarikat melalui pemeriksaan sistematik yang dijalankan oleh Pegawai terlatih yang dilantik sebagai JAD.
+
+##    4.2  Auditee
+
+Semua kakitangan Syarikat di dalam Sistem Pengurusan Kualiti MS ISO 9001:2015 di Cawangan dan Sel tertakluk untuk diaudit.
+
+##    4.3  Juruaudit Dalaman
+
+Kakitangan pasukan AD yang terlatih dan dilantik oleh CEO.
+
+##    4.4  Audit Susulan
+
+Suatu proses pengauditan semula dan susulan audit dalaman bagi mempastikan tindakan pembetulan ke atas Ketakakuran yang dikenalpasti semasa pengauditan awal.
+
+##    4.5  Ketakakuran
+
+Percanggahan atau pelanggaran terhadap keperluan di dalam Sistem Pengurusan Kualiti MS ISO 9001:2015 Syarikat yang ditemui semasa proses pengauditan dijalankan.
+
+###   4.5.1 Major
+
+Ketakakuran ke atas mana-mana prosedur/keperluan standard/pekeliling dan perundangan yang telah menjejaskan produk akhir/perkhidmatan dan
+memberi kesan buruk secara langsung kepada Sistem Pengurusan Kualiti keseluruhannya.
+
+###   4.5.2 Minor
+
+ Ketakakuran/kepincangan yang telah berlaku tidak menjejaskan secara langsung produk akhir atau Sistem Pengurusan Kualiti keseluruhannya.
+
+###   4.5.3  Pemerhatian
+
+Sebarang kepincangan atau penambahbaikan yang perlu diambil berikutan  dari prosedur kualiti yang tidak jelas. Ia belum menjejaskan Sistem
+Pengurusan Kualiti secara keseluruhannya.
+
+##    4.6  Senarai Semak Audit
+
+Satu siri soalan bertulis di dalam format khas yang dijadikan panduan oleh JAD kepada perkara-perkara yang perlu diperiksa semasa pengauditan.
+
+# 5.0   Singkatan
+
+  5.1   WP     \-   Wakil Pengurusan
+  
+  5.2   TWP    \-   Timbalan Wakil Pengurusan
+  
+  5.3   KSA    \-   Ketua Sistem Audit
+  
+  5.4   KPAD   \-   Ketua Pasukan Audit Dalaman
+  
+  5.5   PAD    \-   Pasukan Audit Dalaman
+  
+  5.6   JAD    \-   Juru Audit Dalaman
+  
+  5.7   PD     \-   Pengurus Dokumen
+  
+  5.8   KS     \-   Ketua Sel
+  
+  5.9   AD     \-   Audit Dalaman
+
+# 6.0   Tanggungjawab dan Tindakan
+
+|Tanggungjawab  |Tindakan                                       |
+|---------------|-----------------------------------------------|
+|               |A  PERANCANGAN AD                              |
+|               |                                               |
+| Ketua Pegawai Eksekutif (CEO)           | 1\. Bincang dengan WP dari semasa ke semasa   |
+|               | mengenai perlaksanaan AD.                     |
+|               |                                               |
+|               | 2\. Lantik KSA.                               |
+|               |                                               |
+| WP            | 3\. Arahkan KSA rancang dan sediakan          |
+|               |perancangan audit dalaman tahunan.             |
+|               |                                               |
+| KSA           | 4\. Rancang dan sediakan Perancangan AD       |
+|               |Tahunan, 2 kali setahun berdasarkan            |
+|               |format di Lampiran 1.                          |
+|               |                                               |
+|               | 5\. Serahkan draf perancangan AD Tahunan      |
+|               |kepada WP.                                     |
+|               |                                               |
+|               | 6\. Terima draf Perancangan AD Tahunan dan    |
+|               |                                               |
+| WP            | 7\. Kemukakan draf akhir Perancangan AD       |
+|               |Tahunan kepada Ketua Pegawai Eksekutif (CEO) untuk kelulusan.            |
+|               |                                               |
+| Ketua Pegawai Eksekutif (CEO)           | 8\. Terima draf akhir Perancang AD Tahunan    |
+|               |untuk pertimbangan dan kelulusan.              |
+|               |                                               |
+|               | 9\. Bincang dengan WP sekiranya perlu.        |
+|               |                                               |
+|               |B  PELANTIKAN JAD                               |
+|               |                                               |
+| KSA           |10\. Sediakan senarai calon untuk dilantik     |
+|               |sebagai JAD.                                   |
+|               |                                               |
+|               |11\. Kenalpasti pegawai yang telah mendapat    |
+|               |latihan JAD.                                   |
+|               |                                               |
+|               |12\. Pastikan pegawai yang belum mendapat latihan|
+|               |JAD diberi latihan JAD.                        |
+|               |                                               |
+| WP            |13\. Terima cadangan lantikan calon JAD dan keluarkan|
+|               |surat lantikan.                                |
+|               |                                               |
+|               |14\. Susul perlaksanaan AD dari semasa ke semasa.|
+|               |                                               |
+|               |15\. Bincang dengan KSA sekiranya perlu mengenai;|
+|               |i\)  Status kepentingan audit.                 |
+|               |ii\) Penemuan dari perlaksanaan audit yang lepas.|
+|               |                                               |
+|               |C  PERSIAPAN SEBELUM AD                        |
+|               |                                               |
+| KSA           |16\. Rujuk perancangan perlaksanaan AD         |
+|               |(Lampiran 1).                                  |
+|               |                                               |
+|               |17\. Keluarkan surat perlaksanaan AD kepada KPAD.|
+|               |                                               |
+|               |18\. Beri taklimat kepada JAD berdasarkan perancangan,|
+|               |skop AD dan log audit.                         |
+|               |                                               |
+| KPAD          |19\. Maklumkan kepada PD/KS mengenai AD yang akan |
+|               |dilaksanakan serta keperluan AD yang berkaitan.|
+|               |                                               |
+|               |20\. Baca dan fahami:-                         |
+|               |     i)  MK.OA.01.                            |
+|               |     ii) Piawaian ISO 9001:2015.               |
+|               |     iii)  Prosedur Kualiti dan dokumen sokongan berkaitan.|
+|               |     iv)  Rujuk prosedur AD.                   |
+|               |                                               |
+| PAD           |21\. Buat persediaan sebelum melaksanakan AD:- |
+|               |     i)  Format laporan AD.(Lampiran 2).       |
+|               |     ii) Borang ketidakpatuhan (Lampiran 3).   |
+|               |     iii) Alat tulis mencukupi.                |
+|               |     iv) Senarai semak (Lampiran 4).           |
+|               |                                               |
+|               |D  PELAKSANAAN AD                              |
+|               |                                               |
+| KPAD          |22\. Maklumkan kepada Auditee berhubung tarikh AD.|
+|               |                                               |
+|               |23\. Pastikan semua ahli PAD hadir melaksanakan AD||
+|               |tepat mengikut jadual.                         |
+|               |                                               |
+|               |24\. Adakan mesyuarat pembukaan AD dengan jabatan/sel|
+|               |yang akan diaudit.                             |
+|               |                                               |
+| PAD           |25\. Laksanakan AD berdasarkan Senarai Semak yang disediakan.|
+|               |                                               |
+|               |26\. Kumpul bukti audit dan buat catatan semasa.|
+|               |                                               |
+|               |27\. Proses temuduga, pemerhatian dan pemeriksaan|
+|               |ke atas rekod-rekod kualiti sebagai bukti objektif.|
+|               |                                               |
+|               |28\. Catatkan butiran ketidakpatuhan yang dikesan semasa dan| 
+|               |tindakan pembetulan (jika ada) di dalam Borang Ketidakpatuhan.| 
+|               |Bincang tarikh untuk membuat audit susulan dengan Auditee.|
+|               |                                               |
+| KPAD          |29\. Adakan Mesyuarat Penutup AD dengan jabatan/sel yang berkaitan.|
+|               |                                               |
+|               |30\. Maklum mengenai ketidakpatuhan yang ditemui|
+|               |dan tindakan pembetulan yang akan diambil oleh |
+|               |jabatan/sel yang berkaitan.                   |
+|               |                                               |
+|               |31\. Beri salinan Laporan Ketidakpatuhan kepada PD/KS.|
+|               |                                               |
+|               |32\. Maklum tarikh Audit Susulan (jika ada).   |
+|               |                                               |
+|               |33\. Sediakan Laporan AD dan serahkan kepada KSA|
+|               |(terus ke tindakan ke 37).                     |
+|               |                                               |
+|               |E  PELAKSANAAN AUDIT SUSULAN                   |
+|               |                                               |
+| KSA           |34\. Minta PAD untuk membuat Audit Susulan (jika ada).|
+|               |                                               |
+| PAD           |35\. Rujuk semula laporan AD dan ketidakpatuhan yang dikeluarkan.|
+|               |                                               |
+|               |36\. Buat audit susulan yang diperlukan.       |
+|               |                                               |
+|               |37\. Pastikan tindakan pembetulan yang diperlukan |
+|               |dilaksanakan dengan  berkesan.                 |
+|               |                                               |
+| KPAD          |38\. Sediakan Laporan Audit Susulan dan serah kepada KSA / WP.|
+|               |                                               |
+|               |F  PENYEDIAAN LAPORAN KESELURUHAN AD           |
+|               |                                               |
+| KSA           |39\. Kumpulkan semua Laporan AD yang telah dilaksanakan|
+|               |(Lampiran 2).                                  |
+|               |                                               |
+|               |40\. Kemaskini Log AD (Lampiran 5)             |
+|               |                                               |
+|               |41\. Sediakan dan kemukakan Laporan Keseluruhan AD kepada WP.|
+|               |                                               |
+|               |F  PENYIMPANAN REKOD AD                        |
+|               |                                               |
+| WP            |42\. Kemaskini rekod-rekod berkaitan AD.       |
+|               |Failkan semua laporan dan rekod pelaksanaan AD.|
+|               |                                               |
+|               |43\. Semak Laporan Keseluruhan AD.             |
+|               |                                               |
+|               |44\. Bentangkan Laporan Keseluruhan AD di dalam MKSP. |
+
+# 7.0  Aliran Kerja
+
+# 8.0  Rekod Kualiti
+
+|Bil       |Rekod                   |Tempoh Penyimpanan|Lokasi|
+|----------|------------------------|---------|---------------|
+| 1\.      | Perancangan AD Tahunan | 7 Tahun | Unit Kualiti  |
+|          |                        |         |               |
+| 2\.      | Laporan AD             | 7 Tahun | Unit Kualiti  |
+|          |                        |         |               |
+| 3\.      | Log AD                 | 7 Tahun | Unit Kualiti  |
+|          |                        |         |               |
+| 4\.      | Laporan Ketidakpatuhan | 7 Tahun | Unit Kualiti  |
+|          |                        |         |               |
+| 5\.      | Senarai Juruaudit      | 7 Tahun | Unit Kualiti  |
+|          |                        |         |               |
+| 6\.      | Rekod Perlantikan JAD  | 7 Tahun | Unit Kualiti  |
+
+# 9.0  Lampiran
+
+| Lampiran    | Tajuk                  |
+|-------------|------------------------|
+| 1           | Perancangan AD         |
+|             |                        |
+| 2           | Laporan AD             |
+|             |                        |
+| 3           | Laporan Ketidakpatuhan |
+|             |                        |
+| 4           | Contoh Senarai Semak   |
+|             |                        |
+| 5           | Log AD                 |
+
+

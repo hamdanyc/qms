@@ -1,0 +1,20 @@
+doc_id,file_title
+MK.OA.01,Manual_Kualiti.Rmd
+PK(O).OA.01,PKO_01_Sebut_harga_tender_kontrak.Rmd
+PK(O).OA.02,PKO_02_Pemantauan_Penyerahan_Perkhidmatan_Integrasi_Sistem.Rmd
+PK(O).OA.03,PKO_03_Pengurusan_ Pemantauan_Pembayaran_Pembekal.Rmd
+PK(S).OA.01,PKS_01_Pengendalian_Aduan_Pelanggan.Rmd
+PK(S).OA.02,PKS_02_Kajian_Semula_Pengurusan.Rmd
+PK(S).OA.03,PKS_03_Perolehan.Rmd
+PK(S).OA.04,PKS_04_Pengendalian_Latihan.Rmd
+PK(S).OA.05,PKS_05_Bajet.Rmd
+PK(S).OA.06,PKS_06_Teknologi_Maklumat.Rmd
+PK(S).OA.07,PKS_07_Utiliti.Rmd
+PK(S).OA.08,PKS_08_Registri.Rmd
+PK(S).OA.10,PKS_10_Pelaksanaan_Integriti_Akauntabiliti_AntiRasuah.Rmd
+PK(W).OA.01,PKW_01_Kawalan_Dokumen.Rmd
+PK(W).OA.02,PKW_02_Rekod_Kualiti.Rmd
+PK(W).OA.03,PKW_03_Audit_Dalam.Rmd
+PK(W).OA.04,PKW_04_Tindakan_Pembetulan.Rmd
+PK(W).OA.05,PKW_05_Tindakan_Pencegahan.Rmd
+

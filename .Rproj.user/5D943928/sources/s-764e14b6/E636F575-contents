@@ -1,0 +1,13 @@
+# qrdr_bat.R
+
+load("qms.RData") # from qinit.R
+for (i in 1:nrow(doc_files)) {
+  rmarkdown::render(paste0("~/R/qms/ver/",doc_files$file_title[i]),
+                    output_dir = "~/R/qms/pdf",
+                    output_format = "word_document",
+                    params = list(
+                      doc_id = doc_files$doc_id[i],
+                      doc_title = doc_files$doc_title[i],
+                      doc_date = "   Mac 2022"
+                    ))
+}

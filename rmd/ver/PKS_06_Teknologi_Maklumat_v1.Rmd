@@ -1,0 +1,590 @@
+---
+title: "ICT"
+author: "OA"
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: '4'
+  html_document:
+    toc: yes
+    toc_depth: 4
+params:
+  doc_id: PK(S).OA.06
+  
+---
+\newpage
+
+|Prosedur Kualiti &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|`r params$doc_id`|
+|:------------------|-------:|
+
+![OA Logo](media/openapps-logo.png){width=30%}
+
+|                                   |
+|:---------------------------------:|
+|PROSEDUR PENYELENGGARAAN TEKNOLOGI MAKLUMAT DAN KOMUNIKASI|
+
+`r params$doc_id`
+
+# I    Penyedia dan Kelulusan
+
+|                               |                      |          |
+|-------------------------------|----------------------|----------|
+| Nama                          | Tandatangan          | Tarikh   |
+|                               |                      |          |
+| Disediakan Oleh:              |                      | Feb 2021 |
+|                               |                      |          |
+|                               |                      |          |
+| xxxxxxxxxxxxxxxxxxxxxxxxx     |                      |          |
+|                               |                      |          |
+|                               |                      |          |
+| Wakil Pengurusan              |                      |          |
+|                               |                      |          |
+| Diluluskan Oleh:              |                      | Feb 2021 |
+|                               |                      |          |
+|                               |                      |          |
+| xxxxxxxxxxxxxxxxxxxxxxxxx     |                      |          |
+|                               |                      |          |
+|                               |                      |          |
+| Pengurus Besar                      |                      |          |
+|                               |                      |          |
+| No Salinan Terkawal           | Pemegang Dokumen     |          |
+|                               |                      |          |
+| `r params$doc_id`( )          |                      |          |
+
+# II    Rekod Pindaan
+
+|Tarikh Pindaan|No Pindaan/No Keluaran|Rujukan Pindaan Mukasurat |Butir-butir Pindaan|Diluluskan Oleh|
+|-------------|-------------|-------------|-------------|-------------|
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+
+# III   Senarai Pemegang Dokumen
+
+| No. Salinan Terkawal   | Pemegang Dokumen          |
+|------------------------|---------------------------|
+| `r params$doc_id`(01)  | Pengurus Besar     |
+| `r params$doc_id`(02)  | Wakil Pengurusan   |
+| `r params$doc_id`(03)  | Pengurus Jualan    |
+| `r params$doc_id`(04)  | Pengurus Pentadbiran/Kewangan |
+| `r params$doc_id`(05)  | Pengurus Teknikal  |
+| `r params$doc_id`(06)  | Pengurus Sumber Manusia |
+| `r params$doc_id`(07)  | Eksekutif Jualan   |
+| `r params$doc_id`(08)  | Eksekutif Kewangan |
+| `r params$doc_id`(09)  | Eksekutif Sumber Manusia |
+| `r params$doc_id`(10)  | Ketua Kerani       |
+| `r params$doc_id`(11)  | Pengurus Dokumen   |
+| `r params$doc_id`(12)  | Urusetia           |
+
+# 1.0   Objektif
+
+Prosedur ini menyediakan garispanduan bagi memastikan proses
+ penyenggaraan perkakasan, perisian dan sistem rangkaian komputer dan
+ laman web Syarikat dilaksanakan dengan terancang dan berkesan.
+
+# 2.0   Skop
+
+Prosedur ini digunapakai oleh kakitangan Cawangan ICT (*Information,
+ Communication and Technology*) semasa untuk menyelenggara sistem
+ komputer Syarikat yang meliputi aspek-aspek berikut:
+
+i)    Penyenggaraan Perkakasan dan peralatan komputer, perisian, rangkaian
+     sistem komputer dan laman web Syarikat.
+
+i)    Pelupusan Komputer/peralatan perkakasan komputer.
+
+# 3.0   Rujukan
+
+i)    MK.OA.01-- Seksyen 6.3 (infrastruktur).
+
+i)   Surat Pekeliling Perbendaharaan Bil. 7 Tahun 1995 (Garispanduan
+     Pelupusan Peralatan Komputer).
+
+# 4.0   Definisi
+
+## 4.1    Penyenggaraan
+
+ Kerja-kerja yang dijalankan bagi menjamin kestabilan dan keselamatan
+ perkakasan, perisian dan rangkaian komputer. Berfungsi berada pada
+ tahap sempurna secara berterusan dan menepati kemudahan serta
+ fungsinya.
+
+## 4.2    Perkakasan dan peralatan komputer
+
+ Semua peralatan komputer Syarikat seperti server, komputer mikro,
+ pencetak, komputer bimbit, pengimbas. CD- Writer serta peralatan lain
+ yang berkaitan dengan komputer seperti UPS, mouse, external speaker,
+ zip drive dan lain-lain.
+
+## 4.3    Perisian komputer
+
+ Perisian aplikasi yang terdapat Syarikat.
+
+## 4.4    Rangkaian sistem
+
+ Komputer-komputer individu yang dihubungkan kepada pelayan utama Syarikat
+ dengan tujuan berkomunikasi antara satu dengan yang lain dan berkongsi
+ maklumat.
+
+## 4.5    Kerosakan besar
+
+ Satu keadaan di mana kerosakan yang berlaku pada perkakasan dan
+ peralatan komputer perisian dan rangkaian komunikasi komputer yang
+ melibatkan fungsi /operasi utama terjejas seperti koerosakan pada
+ *konfigurasi server* *LAN* yang terdapat Syarikat.
+
+## 4.6    Kerosakan Kecil
+
+ Satu keadaan di mana kerosakan yang berlaku pada perkakasan dan
+ peralatan komputer, perisian dan rangkaian komunikasi komputer yang
+ tidak dapat berfungsi dengan keadaan biasa yang tidak menjejaskan
+ secara langsung kesan operasi /fungsi utama dan boleh diperbaiki dalam
+ tempoh masa yang singkat.
+
+# 5.0   Singkatan
+
+i)    PTM - Pengurus Teknologi Maklumat.
+
+i)    TMO - Teknologi Maklumat Operasi.
+
+i)    TMTek - Juteknik Teknologi Maklumat.
+
+# 6.0   Tanggungjawab dan Tindakan
+
+|Tanggungjawab  |Tindakan                                       |
+|---------------|-----------------------------------------------|
+|TM-Tek       |PENYENGGARAAN PERKAKASAN, PERALATAN KOMPUTER, 
+|               |RANGKAIAN SISTEM DAN PANGKALAN DATA|
+|               |                                               |
+|               |A. PENGENDALIAN ADUAN KEROSAKAN/MASALAH SISTEM |
+|               |                                               |
+|               |1\. Terima aduan kerosakan atau masalah komputer|
+|               |dari pengguna menggunakan Borang ICT 1 dan catatkan aduan ke dalam Buku Log Aduan|
+|               |(Borang Aduan Kerosakan Perkakasan/Perisian Komputer) *(Lampiran 1*).|
+|               |2\. Kenalpasti jenis aduan dan maklum kepada pegawai yang bertanggungjawab iaitu:
+|               |    i\) PS2 ICT bagi kerosakan besar perkakasan,perisian dan rangkaian.|
+|               |    ii\) PS3 ICT bagi kerosakan kecil perkakasan,perisian dan rangkaian.|
+|               |    iii\) PS3 ICT bagi masalah sistem APLIKASI dan pangkalan data.|
+|               |3\. Serahkan Borang ICT 1 kepada pegawai yang bertanggungjawab untuk tindakan pembaikan.|
+|               |4\. Sekiranya aduan yang dikenalpasti adalah masalah sistem APLIKASI dan pangkalan data,
+|               |serahkan Borang ICT 1 kepada TM-Op dan rujuk kepada Proses Pengendalian|
+|               |Masalah Sistem dan Pangkalan Data (Langkah 33- 37).|
+|               |                                               |
+|PTM       |5\. Jalankan pemeriksaan dan ambil langkah-langkah pembaikan yang bersesuaian.|
+|TM-Op       |                                               |
+|               |                                               |
+|TM-Tek       |6\. Jalankan ujian untuk memastikan samada kerosakan|
+|               |dapat diatasi (dibaiki sendiri) atau tidak.    |
+|               |7\. Sekiranya masalah dapat diatasi (dibaiki sendiri):
+|               |                                                |
+|               |  i\) Catatkan masalah yang dihadapi, langkah   |
+|               |  pembaikan, tarikh pembaikan, masa pembaikan   |
+|               |  dan dapatkan tandatangan pengadu di Borang ICT 1.|
+|               |  ii\) Serahkan Borang ICT 1 yang telah lengkap |
+|               |  kepada TM-Tek.                              |
+|               |                                                |
+|               |  iii\) Catatkan tarikh terima Borang dan       |
+|               |  tandatangan pada Buku Log Aduan Kerosakan dan |
+|               |  failkan Borang ICT 1.                         |
+|               |                                                |
+|               |  iv\) Sediakan laporan bulanan suku tahunan    |
+|               |  bagi pihak pengurusan berdasarkan Buku Log    |
+|               |  Aduan Kerosakan.                              |
+|               |8\. Sekiranya masalah tidak dapat diatasi       |
+|               |(dibaiki sendiri), hubungi syarikat             |
+|               |penyenggara.                                    |
+|               |                                                |
+|               |9\. Tentukan peralatan dalam tempoh jaminan     |
+|               |(waranti) syarikat penyelenggaraan.             |
+|               |                                                |
+|               |10\. Sekiranya peralatan telah tamat tempoh     |
+|               |jaminan (waranti) syarikat penyelenggaraan,     |
+|               |Semak dengan syarikat samada peralatan atau     |
+|               |gantian perlu diganti atau tidak.               |
+|               |                                                |
+|               |  i\) Sekiranya tidak ada peralatan / komputer  |
+|               |perlu diganti, teruskan dengan Prosedur       |
+|               |Pembaikan (Langkah 20 - 22).                  |
+|               |                                                |
+|               | ii\) Sekiranya ada keperluan penggantian       |
+|               |komponen/peralatan teruskan dengan Prosedur    | 
+|               |Gantian (Langkah 23 - 30).                      |
+|               |                                                |
+| TM-Op /    |B. APLIKASINTAUAN KERJA PENYELENGGARAAN             |
+| TM-Tek      | (PENCEGAHAN) YANG DIKONTRAKKAN.                |
+|               |                                                |
+|               | 11\. Kenalpasti perkakasan dan syarikat     |
+|               | penyelenggaraan yang bertanggungjawab       |
+|               | menjalani penyelenggaraan dari dokumen      |
+|               | perjanjian.                                 |
+|               |                                             |
+|               | 12\. Hubungi syarikat penyelenggaraan untuk |
+|               | menjalankan penyelenggaraan mengikut jadual |
+|               | yang telah ditetapkan.                      |
+|               |                                             |
+|               | 13\. Pantau kerja-kerja penyelenggaraan     |
+|               | yang dijalankan oleh syarikat               |
+|               | penyelenggaraan.                            |
+|               |                                             |
+|               | 14\. Pastikan penyelenggaraan dibuat        |
+|               | mengikut jadual.                            |
+|               |                                             |
+|               | 15\. Dapatkan laporan penyelenggaraan yang  |
+|               | dibuat daripada pihak penyelenggaraan.      |
+|               |                                             |
+|               | 16\. Sahkan laporan penyelenggaraan yang    |
+|               | disediakan oleh pihak penyelenggaraan.      |
+|               |                                             |
+|               | 17\. Serahkan laporan prestasi pembekal     |
+|               | kepada TM-Tek untuk difailkan.             |
+|               |                                             |
+|               | 18\. Bagi kes penyelenggaraan yang          |
+|               | memerlukan /tidak memerlukan penggantian    |
+|               | komponen, ikuti langkah pada Prosedur       |
+|               | Pembaikan (Ulangi Langkah 20-22).           |
+|               |                                             |
+|               | 19\. Sekiranya masalah tersebut memerlukan  |
+|               | penggantian komponen / peralatan, patuhi    |
+|               | Prosedur Gantian (Langkah 23 - 30).         |
+|               |                                             |
+| PTM /    | C. PEMBAIKAN, GANTIAN DAN PELUPUSAN         |
+| TM-Op /    | (PERKAKASAN DAN PERALATAN KOMPUTER).        |
+| TM-Tek      |                                             |
+|               | i)  PEMBAIKAN                               |
+|               |                                             |
+|               | 20\. Minta syarikat penyenggaraan selesaikan|
+|               | masalah.                                    |
+|               |                                             |
+|               | 21\. Buat pemeriksaan ke atas peralatan yang|
+|               | diselenggara bagi memastikan ianya memuaskan.|
+|               |                                             |
+|               | 22\. Jika peralatan masih bermasalah, arahkan   |
+|               | pihak penyenggaraan menyelesaikan hingga    |
+|               | sempurna.                                   |
+|               |                                             |
+|               | Jika puashati patuhi Prosedur Laporan       |
+|               | Penyelenggaraan (Langkah 38-42).            |
+|               |                                             |
+|               | ii) GANTIAN                                 |
+|               |                                             |
+|               | 23\. Periksa samada peralatan tersebut      |
+|               | diselenggara di bawah kontrak penyenggara atau  |
+|               | tidak. Jika peralatan dibawah kontrak       |
+|               | penyenggara patuhi Prosedur Gantian Komponen|
+|               | Dibawah Kontrak Penyenggaraan (Langkah      |
+|               | 25-30).                                     |
+|               |                                             |
+|               | 24\. Sekiranya ia tidak diselenggara di bawah   |
+|               | kontrak penyenggaraan:                          |
+|               |                                                |
+|               | i\) Dapatkan sebutharga daripada syarikat     |
+|               | penyenggaraan.                                |
+|               |                                                |
+|               | ii) Sekiranya nilai sebutharga tersebut kurang  |
+|               | dari RM 50,000 teruskan langkah c), jika  |
+|               | sebaliknya rujuk Prosedur Perolehan.  |
+|               |                                                |
+|               | iii) Minta kelulusan bagi membuat penyenggaraan |
+|               | dari Pengurus ICT.                              |
+|               |                                                 |
+|               | iv) Sekiranya mendapat kelulusan:               |
+|               |                                                 |
+|               | -   Failkan sebutharga/surat kelulusan.         |
+|               |                                                 |
+|               | v)  Sekiranya tidak diluluskan                  |
+|               |                                                 |
+|               | -   Maklumkan pihak pembekal untuk              |
+|               | pembatalan.                                     |
+|               |                                                 |
+|               | -   Failkan makluman di dalam fail              |
+|               | berkenaan                                       |
+|               |                                                 |
+|               |  -   Rujuk Prosedur Pelupusan (Langkah          |
+|               | 31 - 37)                                        |
+|               |                                                 |
+| PTM /    | C. PEMBAIKAN, GANTIAN DAN PELUPUSAN             |
+|               | (PERKAKASAN DAN PERALATAN KOMPUTER).            |
+| TM-Op /    |                                                 |
+|               | i)  PEMBAIKAN                                   |
+| TM-Tek      |                                                 |
+|               | 20\. Minta syarikat penyenggaraan selesaikan    |
+|               | masalah.                                        |
+|               |                                                 |
+|               | 21\. Buat pemeriksaan ke atas peralatan yang    |
+|               | diselenggara bagi memastikan ianya memuaskan.   |
+|               |                                                 |
+|               | 22\. Jika peralatan masih bermasalah, arahkan   |
+|               | pihak penyenggaraan menyelesaikan hingga        |
+|               | sempurna.                                       |
+|               |                                                 |
+|               | Jika puashati patuhi Prosedur Laporan           |
+|               | Penyelenggaraan (Langkah 38-42).                |
+|               |                                                 |
+|               | ii) GANTIAN                                     |
+|               |                                                 |
+|               | 23\. Periksa samada peralatan tersebut          |
+|               | diselenggara di bawah kontrak penyenggara atau  |
+|               | tidak. Jika peralatan dibawah kontrak           |
+|               | penyenggara patuhi Prosedur Gantian Komponen    |
+|               | Dibawah Kontrak Penyenggaraan (Langkah          |
+|               | 25-30).                                         |
+|               |                                                 |
+|               | 24\. Sekiranya ia tidak diselenggara di bawah   |
+|               | kontrak penyenggaraan:                          |
+|               |                                                 |
+|               |  i\) Dapatkan sebutharga daripada syarikat      |
+|               |  penyenggaraan.                                 |
+|               |                                                 |
+|               | ii) Sekiranya nilai sebutharga tersebut kurang  |
+|               |      dari RM 50,000 teruskan langkah c), jika   |
+|               |      sebaliknya rujuk Prosedur Perolehan.       |
+|               |                                                 |
+|               | iii) Minta kelulusan bagi membuat penyenggaraan |
+|               |       dari Pengurus ICT.                        |
+|               |                                                 |
+|               | iv) Sekiranya mendapat kelulusan:               |
+|               |                                                 |
+|               |     -   Failkan sebutharga/surat kelulusan.     |
+|               |                                                 |
+|               | v)  Sekiranya tidak diluluskan                  |
+|               |                                                 |
+|               |     -   Maklumkan pihak pembekal untuk          |
+|               |          pembatalan.                            |
+|               |                                                 |
+|               |     -   Failkan makluman di dalam fail          |
+|               |          berkenaan                              |
+|               |                                                 |
+|               |     -   Rujuk Prosedur Pelupusan (Langkah       |
+|               |          31 - 37)                               |
+|               |                                                 |
+| PTM      | iii) GANTIAN KOMPONEN DI BAWAH KONTRAK          |
+|               |  PENYELENGGARAAN.                               |
+|               |                                                 |
+|               | 25\. Minta syarikat di bawah kontrak            |
+|               | penyenggara ganti komponen.                     |
+|               |                                                 |
+|               | 26\. Buat pemeriksaan ke atas peralatan yang    |
+|               | diganti bagi memastikan ianya memuaskan.        |
+|               |                                                 |
+|               | 27\. Jika puashati ikuti Prosedur Laporan       |
+|               | Penyelenggaraan (Langkah 38-42).                |
+|               |                                                 |
+|               | 28\. Jika peralatan masih bermasalah, arahkan   |
+|               | pihak penyelenggaraan menyelesaikan sehingga    |
+|               | sempurna.                                       |
+|               |                                                 |
+|               | 29\. Buat penilaian prestasi pembekal yuang     |
+|               | menjalankan kerja-kerja penyelenggaraan setelah |
+|               | kerja sempurna.                                 |
+|               |                                                 |
+|               | 30\. Rekodkan kedalam fail.                     |
+|               |                                                 |
+|               |  iv) PELUPUSAN                                  |
+|               |                                                 |
+|               | 31\. Terima cadangan untuk melupuskan dari      |
+|               | cawangan.                                       |
+|               |                                                 |
+|               | 32\. Sediakan satu kertas kerja mengenai        |
+|               | cadangan pelupusan peralatan dan kemukakan      |
+|               | kepada Lembaga Pelupusan Peralatan Komputer.    |
+|               |                                                 |
+|               | 33\. Dapatkan keputusan persetujuan dari        |
+|               | Lembaga                                         |
+|               |                                                 |
+|               | Pelupusan Peralatan Komputer.                   |
+|               |                                                 |
+|               | 34\. Tubuhkan satu Jawatankuasa Teknikal bagi   |
+|               | mengkaji cadangan pelupusan tersebut.           |
+|               |                                                 |
+|               | 35\. Dapatkan cadangan dan hasil kajian yang    |
+|               | mendalam ke atas semua aspek mengenai peralatan |
+|               | yang terlibat dari Jawatakuasa Teknikal         |
+|               | mengenai Pelupusan.                             |
+|               |                                                 |
+|               | 36\. Dapatkan laporan lengkap mengenai cadangan |
+|               | serta syor-syor dari Jawatankuasa Teknikal      |
+|               | Pelupusan tersebut.                             |
+|               |                                                 |
+|               | 37\. Jalankan pelupusan mengikuti peraturan     |
+|               | pelupusan yang telah ditetapkan.                |
+|               |                                                 |
+|               | D.  LAPORAN PENYELENGGARAAN                     |
+|               |                                                 |
+|               | 38\. Dapatkan laporan penyelenggaraan daripada  |
+|               | pihak penyenggara.                              |
+|               |                                                 |
+|               | 39\. Sahkan laporan penyelenggaraan dari        |
+|               | syarikat penyenggaraan.                         |
+|               |                                                 |
+|               | 40\. Serahkan laporan penyelenggaraan kepada    |
+|               | TM-Tek untuk difailkan.                        |
+|               |                                                 |
+|               | 41\. Catatkan pembaikan yang telah dibuat,      |
+|               | tarikh siap pembaikan dan tandatangani Borang   |
+|               | ICT 1.                                          |
+|               |                                                 |
+|               | 42\. Catatkan tarikh terima Borang ICT 1 di     |
+|               | dalam buku log aduan dan failkan Borang ICT 1   |
+|               | dan laporan.                                    |
+|               | E. PENGENDALIAN MASALAH SISTEM                  |
+|               |                                                 |
+|               | APLIKASI DAN PANGKALAN DATA                         |
+|               |                                                 |
+|               | 43\. Terima Borang ICT 1 tentang aduan masalah  |
+|               | berkaitan sistem daripada TM-Tek.             |
+|               |                                                 |
+|               | 44\. Jalankan pemeriksaan dan ambil             |
+|               | langkah-langkah pembaikan yang bersesuaian.     |
+|               |                                                 |
+|               | 45\. Jalankan ujian untuk memastikan samada     |
+|               | masalah dapat diatasi (dibaiki sendiri) atau    |
+|               | tidak.                                          |
+|               |                                                 |
+|               | 46\. Sekiranya masalah dapat diatasi (dibaiki   |
+|               | sendiri) :-                                     |
+|               |                                                 |
+|               |  i\) Catatkan masalah yang dihadapi, langkah    |
+|               |  pembaikan, tarikh pembaikan, masa pembaikan    |
+|               |  dan tandatangan pengadu di Borang ICT 1.       | 
+|               |                                                 |
+|               |  ii\) Serah Borang ICT 1 kepada TM-Tek.       |
+|               |                                                 |
+|               | 47\. Sekiranya masalah tidak dapat diatasi      |
+|               | (dibaiki sendiri) hubungi syarikat              |
+|               | penyelenggaraan, teruskan dengan Prosedur       |
+|               | Pembaikan (Ulangi Langkah 20-22).               |
+|               |                                                 |
+|               | F. APLIKASINTAUAN KERJA PENYENGGARAAN               |
+|               | (PENCEGAHAN) YANG DIKONTRAKKAN.                 |
+|               |                                                 |
+|               | 48\. Kenalpasti masalah dan syarikat            |
+|               | penyenggara yang bertanggungjawab menjalani     |
+|               | penyenggaraan dari dokumen perjanjian.          |
+|               |                                                 |
+|               | 49\. Hubungi syarikat penyenggara untuk         |
+|               | menjalankan penyenggaraan mengikut jadual yang  |
+|               | telah ditetapkan.                               |
+|               |                                                 |
+|               | 50\. Pantau kerja-kerja penyenggaraan yang      |
+|               | dijalankan oleh syarikat penyenggaraan          |
+|               |                                                 |
+| PTM      | 51\. Pastikan penyenggaraan dibuat mengikut     |
+|               | jadual.                                         |
+|               |                                                 |
+|               | 52\. Dapatkan laporan penyenggaraan yang dibuat |
+|               | daripada pihak penyenggaraan                    |
+|               |                                                 |
+|               | 53\. Sahkan laporan penyenggaraan yang          |
+|               | disediakan oleh pihak penyenggaraan.            |
+|               |                                                 |
+|               | 54\. Serahkan laporan kepada TM-Tek untuk      |
+|               | difailkan.                                      |
+|               |                                                 |
+|               | 55\. Sekiranya terdapat masalah dalam           |
+|               | penyenggaraan, teruskan dengan Prosedur         |
+|               | Pembaikan (Langkah 20-22).                      |
+|               |                                                 |
+|               | G. PEMBAIKAN SISTEM APLIKASI DAN PANGKALAN DATA     |
+|               |                                                 |
+|               |  i) PEMBAIKAN                                   |
+|               |                                                 |
+|               | 56\. Minta syarikat penyelenggaraan membaiki    |
+|               | kerosakan.                                      |
+|               |                                                 |
+|               | 57\. Buat pemeriksaan ke atas masalah pada      |
+|               | sistem yang diselenggara bagi memastikan ianya  |
+|               | telah diperbaiki dan berfungsi dengan sempurna. |
+|               |                                                 |
+|               | 58\. Jika sistem masih bermasalah, arahkan      |
+|               | pihak penyenggaraan menyelesaikan hingga        |
+|               | sempurna. ika puashati ikut Prosedur Laporan    |
+|               | Penyelenggaraan (Langkah 73-79).                |
+|               |                                                 |
+|               | 59\. Buat penilaian prestasi ke atas mutu       |
+|               | kerja-kerja pembaikan yang dijalankan oleh      |
+|               | syarikat penyelenggaraan.                       |
+|               |                                                 |
+|               | 60\. Failkan.                                   |
+|               |                                                 |
+| TM-Tek       |  ii) PENGEMASKINIAN LAMAN WEB                   |
+|               |                                                 |
+|               | 61\. Terima arahan pengemaskinian laman web     |
+|               | jabatan melalui Borang ICT 2 (Borang            |
+|               | Pengemaskinian Laman Web Syarikat) (*Lampiran        |
+|               | 2*).                                            |
+|               |                                                 |
+|               | 62\. Minitkan kepada Web Master untuk tindakan  |
+|               | susulan bersama Borang ICT 2.                   |
+|               |                                                 |
+|               | 63\. Serahkan Borang ICT 2 kepada WebTeam.      |
+|               |                                                 |
+|               | 64\. Jalankan pengemaskinian kandungan laman    |
+|               | web.                                            |
+|               |                                                 |
+|               | 65\. Catatkan tarikh pengemaskinian dan tanda   |
+|               | tangan di Borang ICT 2.                         |
+|               |                                                 |
+|               | 66\. Serahkan Borang ICT 2 kepada Web Master    |
+|               | untuk semakan.                                  |
+|               |                                                 |
+|               | 67\. Semak pengemaskinian yang telah dibuat     |
+|               |                                                 |
+|               | 68\. Sekiranya ADA masalah kembalikan Borang    |
+|               | ICT 2 kepada WEB TEAM untuk pengemaskinian      |
+|               | semula                                          |
+|               |                                                 |
+|               | 69\. Sekiranya TIADA masalah serahkan Borang    |
+|               | ICT 2 kepada PS 2 STAT untuk kelulusan          |
+|               |                                                 |
+|               | 70\. Sekiranya masih ADA masalah kembalikan     |
+|               | Borang ICT 2 kepada Web Master untuk            |
+|               | pengemaskinian semula                           |
+|               |                                                 |
+|               | 71\. Sekiranya TIADA masalah luluskan           |
+|               | pengemaskinian laman web                        |
+|               |                                                 |
+|               | 72\. Maklumkan kepada STAT melalui memo         |
+|               |                                                 |
+|               | 73\. Sediakan laporan bulanan/sukutahunan bagi  |
+|               | pihak pengurusan                                |
+|               |                                                 |
+|               | H. LAPORAN PENYENGGARAAN                        |
+|               |                                                 |
+|               | 74\. Dapatkan laporan penyenggaraan daripada    |
+|               | pihak penyenggara.                              |
+|               |                                                 |
+|               | 75\. Sahkan laporan penyenggaraan dari syarikat |
+|               | penyenggaraan.                                  |
+|               |                                                 |
+|               | 76\. Serahkan laporan penyenggaraan kepada TM-Tek|
+|               | untuk difailkan.                                |
+|               |                                                 |
+|               | 77\. Catatkan pembaikan yang telah dibuat,      |
+|               | tarikh siap pembaikan dan tandatangani Borang   |
+|               | ICT 1.                                          |
+|               |                                                 |
+|               | 78\. Serahkan Borang ICT 1 kepada TM-Tek     |
+
+# 7.0 Aliran Kerja
+
+# 8.0 Rekod Kualiti
+
+|Bil   |Rekod |Tempoh Penyimpanan|Lokasi|
+|------|-------------------------------|---------|---------------|
+| 1    | Fail Laporan Aduan Kerosakan  | 3 tahun | Pejabat Rekod |
+| 2    | Fail Laman Web Syarikat            | 3 tahun | Pejabat Rekod |
+| 4    | Fail penyenggaraan perkakasan | 3 tahun | Pejabat Rekod |
+| 5    | Perjanjian Penyenggaraan      | 3 tahun | Pejabat Rekod |
+| 6    | Prosedur Pelupusan            | 3 tahun | Pejabat Rekod |
+
+# 9.0 Lampiran
+
+i)    Lampiran 1 -- Borang ICT 1.
+
+i)    Lampiran 2 -- Borang ICT 2.

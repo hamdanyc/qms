@@ -1,0 +1,1112 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={REKOD KUALITI},
+  pdfauthor={OpenApps QMS},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage[margin=1in]{geometry}
+\usepackage{longtable,booktabs}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+
+\title{REKOD KUALITI}
+\author{OpenApps QMS}
+\date{}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{4}
+\tableofcontents
+}
+\newpage
+
+\begin{longtable}[]{@{}lr@{}}
+\toprule
+\begin{minipage}[b]{0.66\columnwidth}\raggedright
+Prosedur Kualiti ~ ~ ~ ~ ~ ~ ~ ~ ~ ~~ ~ ~ ~ ~ ~ ~ ~ ~ ~~ ~ ~ ~ ~ ~ ~ ~ ~
+~~ ~ ~ ~ ~ ~ ~ ~ ~ ~\strut
+\end{minipage} & \begin{minipage}[b]{0.28\columnwidth}\raggedleft
+PK(W).OA.02\strut
+\end{minipage}\tabularnewline
+\midrule
+\endhead
+\bottomrule
+\end{longtable}
+
+\begin{figure}
+\centering
+\includegraphics[width=0.3\textwidth,height=\textheight]{media/openapps-logo.png}
+\caption{OA Logo}
+\end{figure}
+
+\begin{longtable}[]{@{}c@{}}
+\toprule
+\endhead
+REKOD KUALITI\tabularnewline
+\bottomrule
+\end{longtable}
+
+\hypertarget{objektik}{%
+\section{1.0 Objektik}\label{objektik}}
+
+Prosedur ini bertujuan memberi garis panduan bagi memastikan pengurusan
+Rekod Kualiti termasuk Sistem Pengurusan Fail dan Dasar Keselamatan
+Maklumat dipatuhi dan dilaksanakan secara cekap dan berkesan.
+
+\hypertarget{skop}{%
+\section{2.0 Skop}\label{skop}}
+
+Prosedur ini digunapakai oleh warga Syarikat semasa menguruskan fail dan
+rekod-rekod kualiti Sistem Pengurusan Kualiti dan Keselamatan Maklumat.
+Sistem pengurusan ini termasuk juga pengurusan rekod dan maklumat yang
+disimpan secara elektronik. Rekod kualiti berkenaan perlu disimpan
+secara sistematik untuk rujukan sebagai bukti objektif kepada
+aktiviti-aktiviti kualiti.
+
+\hypertarget{rujukan}{%
+\section{3.0 Rujukan}\label{rujukan}}
+
+\begin{verbatim}
+1.  MK.OA.02 -- Seksyen 4.2.4 (Kawalan Rekod Kualiti).
+\end{verbatim}
+
+3.2 Akta Arkib Negara, 1971
+
+3.3 Dasar Keselamatan Maklumat -- DKM.OA.01
+
+3.4 FAFSI 1961
+
+3.5 Arahan Keselamatan
+
+\hypertarget{definisi}{%
+\section{4.0 Definisi}\label{definisi}}
+
+\begin{verbatim}
+2.  Mengindeks
+\end{verbatim}
+
+Proses memberikan nombor-nombor rujukan kepada rekod-rekod kualiti yang
+dikenalpasti
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{2}
+\tightlist
+\item
+  Pelupusan
+\end{enumerate}
+
+Proses pelupusan rekod-rekod kualiti mengikut prosedur pelupusan yang
+ditetapkan sebagaimana Akta Arkib Negara 1971.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{3}
+\tightlist
+\item
+  Rekod
+\end{enumerate}
+
+Semua data dan maklumat yang diterima,dikeluarkan, dikumpulkan dan
+direkodkan secara sistematik, sebagai bukti objektif dalam pelaksanaan
+Sistem Pengurusan Kualiti.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{4}
+\tightlist
+\item
+  Menyelenggara
+\end{enumerate}
+
+Proses penjagaan rekod-rekod agar ianya dalam keadaan selamat, teratur
+dan sentiasa dikemaskini.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{5}
+\tightlist
+\item
+  Mengedar
+\end{enumerate}
+
+Proses pergerakan rekod-rekod kepada pegawai-pegawai cawangan yang
+dikenalpasti mengikut prosedur yang ditetapkan dalam Manual Kualiti dan
+Prosedur Kualiti.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{6}
+\tightlist
+\item
+  Rekod Kualiti
+\end{enumerate}
+
+Dokumen hasil daripada aktiviti-aktiviti yang dilakukan mengikut Manual
+Kualiti dan Prosedur Kualiti.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{7}
+\tightlist
+\item
+  Fail
+\end{enumerate}
+
+Kegunaan untuk menyimpan dokumen dan rekod.
+
+4.8 Utusan/Kawat
+
+Berita tentera (maklumat) yang diterima dari pasukan yang lain dalam
+bentuk utusan ringkas.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{8}
+\tightlist
+\item
+  Surat Perkhidmatan Biasa
+\end{enumerate}
+
+Surat rasmi atau tidak rasmi yang dihantar secara pos awam atau khidmat
+tentera berkaitan dengan perkhidmatan sahaja.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{4}
+\tightlist
+\item
+  Singkatan
+\end{enumerate}
+
+5.1 BSPP - Bahagian Staf Perisikan Pertahanan.
+
+5.2 Syarikat - Syarikat.
+
+5.3 Pengurus Besar - Pengurus Besar Rekod dan Pencen.
+
+5.4 PS 1 - Pegawai Staf 1.
+
+5.5 PS 2 - Pegawai Staf 2.
+
+5.6 PS 3 - Pegawai Staf 3.
+
+5.7 PAR - Pembantu Am Rendah.
+
+5.8 Sjn Tad - Sarjan Tadbir.
+
+5.9 PC - Penyelia Cawangan.
+
+5.10 KS - Ketua Sel.
+
+5.11 PT - Pembantu Tadbir.
+
+\hypertarget{tanggungjawab-dan-tindakan}{%
+\section{6.0 Tanggungjawab dan
+Tindakan}\label{tanggungjawab-dan-tindakan}}
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+\begin{minipage}[b]{0.30\columnwidth}\raggedright
+TANGGUNGJAWAB \textbar{}\strut
+\end{minipage} & \begin{minipage}[b]{0.30\columnwidth}\raggedright
+\textbar{} TIN\strut
+\end{minipage} & \begin{minipage}[b]{0.30\columnwidth}\raggedright
+DAKAN\strut
+\end{minipage}\tabularnewline
+\midrule
+\endhead
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+A \textbar{} PEN\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+ERIMAAN DAN PENDAFTARAN\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+PAR/Kerani \textbar{} 1.\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\begin{verbatim}
+              | Ter
+\end{verbatim}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{1}
+\item
+\item
+\item
+\end{enumerate}\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+ima dan asingkan surat perkhidmatan biasa dan utusan.
+
+Edarkan surat peribadi kepada kakitangan berkenaan (jika ada).
+
+Rekodkan dan cop penerimaan surat perkhidmatan biasa dan utusan.
+
+Agihkan surat perkhidmatan biasa dan utusan kepada:
+
+i) Sjn Tad jika berkaitan dengan tadbir.
+
+ii) PC/KS jika berkaitan dengan Cawangan- Cawangan atau Sel-Sel.\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+Sjn Tad/PC/KS \textbar{} 5.\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\begin{verbatim}
+              | Ter
+\end{verbatim}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{5}
+\item
+\end{enumerate}\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+ima surat perkhidmatan biasa dan utusan dari PAR/Kerani.
+
+Semak dan majukan untuk perhatian Pengurus Besar/PS 1/PS 2/PS 3.\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+Pengurus Besar/PS 1/PS 3 \textbar{}\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+2/PS \textbar{} 7. \textbar{} s 8.\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\begin{verbatim}
+    | Semak dan teliti
+\end{verbatim}
+
+urat perkhidmatan biasa dan utusan serta tandatangan ringkas.
+
+Majukan kepada Sjn Tad/PC/KS untuk diambil tindakan berpandukan catatan
+Pengurus Besar/PS 1/PS 2/PS 3.\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+\begin{minipage}[b]{0.30\columnwidth}\raggedright
+Sjn Tad/PC/KS \textbar{} 9.\strut
+\end{minipage} & \begin{minipage}[b]{0.30\columnwidth}\raggedright
+Ter
+
+10.\strut
+\end{minipage} & \begin{minipage}[b]{0.30\columnwidth}\raggedright
+ima kembali surat perkhidmatan biasa dan utusan.
+
+Serahkan kepada PT/Kerani.\strut
+\end{minipage}\tabularnewline
+\midrule
+\endhead
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+PT/Kerani \textbar{} 11.\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\begin{verbatim}
+              | Rek
+\end{verbatim}
+\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+od dan failkan.\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\begin{enumerate}
+\def\labelenumi{\Alph{enumi}.}
+\setcounter{enumi}{1}
+\item
+\begin{verbatim}
+           | PER
+\end{verbatim}
+\end{enumerate}\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+GERAKAN FAIL/DOKUMEN\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+PC/Sjn Tad/KS \textbar{} 1.\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\begin{verbatim}
+              | Ter
+\end{verbatim}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{1}
+\item
+\end{enumerate}\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+ima surat/nota permohonan pengeluaran fail/dokumen dari Pengurus
+Besar/PS 1/PS 2/PS 3/PC.
+
+Kemukakan surat permohonan kepada PS 1/
+
+PS 2 dan dapatkan kelulusannya jika permohonan dari Jabatan/agensi
+luar.\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+PS 1/PS 2 \textbar{} 3.\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\begin{verbatim}
+              | Ber
+\end{verbatim}
+\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+i kelulusan dan serahkan surat permohonan di para 2 kepada PC/Sjn Tad/KS
+setelah di tandatangan ringkas.\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+PC/Sjn Tad/KS \textbar{} 4.\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\begin{verbatim}
+              | Ter
+\end{verbatim}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{4}
+\item
+\end{enumerate}\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+ima dan failkan surat permohonan di para 2 dan 3.
+
+Arahkan PT/Kerani menyediakan surat iringan/Memo pengesahan pengeluaran
+fail/dokumen.\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+PT/Kerani \textbar{} 6.\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\begin{verbatim}
+              | Rek
+\end{verbatim}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{6}
+\item
+\item
+\end{enumerate}\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+od dan sahkan pengeluaran fail/dokumen.
+
+Buat tindakan susulan untuk pengembalian fail/dokumen (jika perlu).
+
+Rekod dan sahkan fail/dokumen yang telah dikembalikan.\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+\begin{minipage}[b]{0.30\columnwidth}\raggedright
+\strut
+\end{minipage} & \begin{minipage}[b]{0.30\columnwidth}\raggedright
+C. \textbar{} PEN\strut
+\end{minipage} & \begin{minipage}[b]{0.30\columnwidth}\raggedright
+UTUPAN FAIL/FAIL MATI\strut
+\end{minipage}\tabularnewline
+\midrule
+\endhead
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+PT/Kerani \textbar{} 1.\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\begin{verbatim}
+              | Sem
+\end{verbatim}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{1}
+\item
+\item
+\end{enumerate}\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+ak fail/dokumen yang perlu dibuat penutupan.
+
+Catat `TUTUP PADA' dan tarikh di sebelah luar kulit fail/dokumen.
+
+Simpan fail/dokumen yang telah di buat penutupan ke dalam stor.\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\begin{enumerate}
+\def\labelenumi{\Alph{enumi}.}
+\setcounter{enumi}{3}
+\item
+\begin{verbatim}
+           | [KE
+\end{verbatim}
+\end{enumerate}\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+SELAMATAN DOKUMEN DI BILIK KEBAL (PENGAMBILAN DOKUMEN/FAIL){]}\{.small
+caps\}\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+KS Bilik Kebal \textbar{} 1.\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\begin{verbatim}
+              | Sem
+\end{verbatim}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{1}
+\item
+\end{enumerate}\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+ak borang permohonan dan pengeluaran fail/dokumen dan sahkan
+
+Serah permohonan kepada Kerani Bilik Kebal\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+Kerani Bilik \textbar{} 3 Kebal \textbar{}\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+. \textbar{} T \textbar{} s 4.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{4}
+\item
+\item
+\end{enumerate}\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+erima dari KS buat emakan dalam Sistem Pengurusan Fail
+
+Rekodkan dan pastikan jalur dan rak fail yang dimohon adalah betul
+
+Sekiranya fail tidak ditemui rujuk semula kepada KS untuk semakan rak
+dan jalur
+
+Kumpulkan dokumen/fail yang ditemui untuk semakan KS\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+KS Bilik Kebal \textbar{} 7.\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\begin{verbatim}
+              | Ter
+\end{verbatim}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{7}
+\item
+\end{enumerate}\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+ima fail/dokumen yang dipohon untuk semakan kali kedua
+
+Setelah disahkan serah dokumen/fail kepada pemohon (Kerani Sel)\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+Kerani Sel \textbar{} 9.\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\begin{verbatim}
+              | Tan
+\end{verbatim}
+\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+datangan borang pinjaman fail setelah dibuat semakan\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+\begin{minipage}[b]{0.30\columnwidth}\raggedright
+\strut
+\end{minipage} & \begin{minipage}[b]{0.30\columnwidth}\raggedright
+10.\strut
+\end{minipage} & \begin{minipage}[b]{0.30\columnwidth}\raggedright
+Failkan borang permohonan dokumen/fail dari Bilik Kebal\strut
+\end{minipage}\tabularnewline
+\midrule
+\endhead
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\begin{enumerate}
+\def\labelenumi{\Alph{enumi}.}
+\setcounter{enumi}{4}
+\item
+\begin{verbatim}
+           | PEM
+\end{verbatim}
+\end{enumerate}\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+ULANGAN FAIL/DOKUMEN KE BILIK KEBAL\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+Penyelia/KS \textbar{} 1.\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\begin{verbatim}
+              | Ken
+\end{verbatim}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{1}
+\item
+\end{enumerate}\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+alpasti fail/dokumen yang hendak dihantar ke Bilik Kebal.
+
+Arahkan kerani /PT membuat semakan.\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+Kerani/PT \textbar{} 3.\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\begin{verbatim}
+              | Sem
+\end{verbatim}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{3}
+\item
+\end{enumerate}\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+ak dan rekodkan dalam Buku Rekod penghantaran fail/dokumen.
+
+Hantar kepada Kerani Bilik Kebal.\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+Kerani Bilik \textbar{} 5 Kebal \textbar{}\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+. \textbar{} S \textbar{} 6.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{6}
+\item
+\item
+\end{enumerate}\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+ahkan penerimaan.
+
+Rekodkan:
+
+\begin{enumerate}
+\def\labelenumi{\roman{enumi})}
+\tightlist
+\item
+  Nombor rak penyimpanan fail/dokumen.
+\end{enumerate}
+
+ii) Keluar/masuk fail (jika ada permintaan).
+
+Pastikan fail/dokumen yang dipulangkan ditempatkan dirak yang telah
+ditetapkan
+
+Pastikan kad keluar/masuk dimasukan ke dalam kes fail dan menentukan
+tempat di mana kes fail akan disimpan mengikut susunan peruntukan nombor
+tentera.\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+KS Bilik Kebal \textbar{} 9.\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\begin{verbatim}
+              | Sem
+\end{verbatim}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{9}
+\item
+\end{enumerate}\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+ak rekod pemulangan dokumen/fail yang telah dipulangkan
+
+Pastikan penukaran jalur dan rak fail direkodkan dalam Sistem Pengurusan
+Fail Syarikat\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+\begin{minipage}[b]{0.30\columnwidth}\raggedright
+KS Bilik Kebal \textbar{} 11.\strut
+\end{minipage} & \begin{minipage}[b]{0.30\columnwidth}\raggedright
+Sem
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{11}
+\item
+\item
+\end{enumerate}
+
+14.\strut
+\end{minipage} & \begin{minipage}[b]{0.30\columnwidth}\raggedright
+ak dokumen/fail yang tidak dipulangkan melebihi sebulan dan sahkan
+dokumen tersebut masih berada di pegangan Kerani Sel
+
+Jika dokumen/fail didapati hilang atau tiada dalam pegangan Kerani Sel.
+
+Laporkan kepada PS 1 Operasi untuk tindakan selanjutnya
+
+Patuh kepada Arahan Kerja seperti di Kembaran A\strut
+\end{minipage}\tabularnewline
+\midrule
+\endhead
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+PS 1 Ops \textbar{} 15.\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\begin{verbatim}
+              | Ter
+\end{verbatim}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{15}
+\item
+\item
+\end{enumerate}\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+ima laporan dan ambil Tindakan pembetulan dan pencegahan
+
+Buat siasatan dan adakan Lembaga Siasatan (Jika Perlu)
+
+Hasil Siasatan dimaklumkan kepada Wakil Pengurusan\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\begin{enumerate}
+\def\labelenumi{\Alph{enumi}.}
+\setcounter{enumi}{4}
+\item
+\begin{verbatim}
+           | PEL
+\end{verbatim}
+\end{enumerate}\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+UPUSAN FAIL\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+PT/Kerani \textbar{} 1.\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\begin{verbatim}
+              | Sem
+\end{verbatim}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{1}
+\item
+\end{enumerate}\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+ak dan senaraikan fail/dokumen yang perlu di buat pelupusan.
+
+Majukan senarai kepada Sjn Tad/PC/KS untuk diteliti.\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+Sjn Tad/PC/KS \textbar{} 3.\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\begin{verbatim}
+              | Tel
+\end{verbatim}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{3}
+\item
+\item
+\end{enumerate}\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+iti senarai pelupusan fail/dokumen.
+
+Sediakan surat permohonan pelupusan kepada Pengurus Besar untuk
+kelulusan.
+
+Majukan surat permohonan pelupusan kepada PS 3 untuk
+ditandatangani.\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+\begin{minipage}[b]{0.30\columnwidth}\raggedright
+PS 3 \textbar{} 6.\strut
+\end{minipage} & \begin{minipage}[b]{0.30\columnwidth}\raggedright
+Sah
+
+7.\strut
+\end{minipage} & \begin{minipage}[b]{0.30\columnwidth}\raggedright
+kan surat permohonan pelupusan fail/dokumen.
+
+Rekod dan majukan surat permohonan kepada Pengurus Besar.\strut
+\end{minipage}\tabularnewline
+\midrule
+\endhead
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+Pengurus Besar\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\begin{verbatim}
+ | 8.
+\end{verbatim}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{8}
+\item
+\item
+\item
+\end{enumerate}\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\begin{verbatim}
+ | Terima surat
+\end{verbatim}
+
+permohonan pelupusan fail/dokumen dari PS 3.
+
+Semak dan pastikan permohonan adalah bersesuaian dengan peraturan di
+perenggan 3.1 hingga 3.5
+
+Sahkan dan catat kelulusan.
+
+Majukan permohonan yang telah diluluskan kepada PS 3.\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.30\columnwidth}\raggedright
+PS 3 \textbar{} 12.\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+\begin{verbatim}
+              | Ter
+\end{verbatim}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{12}
+\item
+\item
+\item
+\item
+\end{enumerate}\strut
+\end{minipage} & \begin{minipage}[t]{0.30\columnwidth}\raggedright
+ima permohonan yang telah diluluskan dari Pengurus Besar.
+
+Majukan surat kebenaran pelupusan fail/dokumen ke Jabatan Arkib Negara.
+
+Terima surat kebenaran pelupusan dari Jabatan Arkib Negara.
+
+Laksanakan pelupusan.
+
+Rekodkan fail/dokumen yang telah dibuat pelupusan.\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{6}
+\tightlist
+\item
+  CARTA ALIRAN KERJA
+\end{enumerate}
+
+7.1 Penerimaan dan Pendaftaran
+
+7.2 Pergerakan Fail/Dokumen
+
+7.3 Keselamatan Dokumen di Bilik Kebal (Pengambilan Dokumen/Fail)
+
+7.4 Pemulangan Fail/Dokumen ke Bilik Kebal
+
+7.5 Pelupusan Fail/Dokumen
+
+8.0 REKOD KUALITI
+
+\begin{longtable}[]{@{}llrl@{}}
+\toprule
+BIL REKO & D KUALITI LOKASI & TEMPOH PENYI & MPANAN\tabularnewline
+\midrule
+\endhead
+1 & Buku Daftar Surat/Utusan & Pejabat Rekod/PC/PJ 5 &
+tahun\tabularnewline
+2. & Buku Daftar Pergerakan Fail/Dokumen & Pejabat Rekod/PS 3/PC/PJ 5 &
+tahun\tabularnewline
+7. & Buku Daftar Pelupusan Fail/Dokumen & Pejabat Rekod/PS 3/PC/PJ 7 &
+tahun\tabularnewline
+8. & Buku Rekod Pinjaman Fail/Dokumen Di Bilik Kebal & Pejabat Bilik
+Kebal & 5 tahun\tabularnewline
+\bottomrule
+\end{longtable}
+
+9.0 Kembaran
+
+Kembaran A -- Arahan Kerja Pengurusan Fail/Dokumen Di Bilik Kebal
+
+{KEMBARAN A}
+
+{ARAHAN KERJA PENGURUSAN FAIL/DOKUMEN DI BILIK KEBAL}
+
+{Rujuk:}
+
+A. PK(W).OA.02
+
+B. FAFSI 1961
+
+C. Arahan Keselamatan BSPP
+
+D. DKM.OA.01
+
+{AM}
+
+1. Bilik Kebal adalah kawasan larangan bagi semua peringkat kakitangan
+melainkan membuat tugas-tugas tertentu sahaja. Kakitangan yang bertugas
+di Bilik Kebal adalah terdiri dari kakitangan yang telah ditetapkan.
+
+2. Tiap-tiap kes fail/dokumen yang hendak dikeluarkan atau dipulangkan
+semula mestilah disemak, direkodkan dan didaftarkan. Kes fail/dokumen
+tidak dibenarkan untuk dipinjamkan keluar dari Jabatan Arah Rekod dan
+Pencen melainkan dengan kebenaran Pengurus Besar Rekod dan Pencen
+sendiri.
+
+3. Semua kes fail/dokumen yang dikeluarkan mestilah dipulangkan ke Bilik
+Kebal dalam jangka masa dua minggu dari tarikh dikeluarkan. Sekiranya
+tindakan-tindakan yang masih belum selesai diambil, maka Cawangan,
+Bahagian atau Sel berkenaan hendaklah memberitahu Ketua Sel Bilik Kebal
+semasa memulangkan fail/dokumen yang lain itu.
+
+{CARA MEMOHON}
+
+4. Permohonan untuk mengeluarkan kes fail/dokumen mestilah menggunakan
+borang seperti di \emph{Kembaran A} dan pemohon-pemohon dikehendaki
+mengisi dan tandatangan ringkas dibahagian borang tersebut dan disahkan
+oleh Ketua Sel Bilik Kebal.
+
+{TINDAKAN UNTUK MENGELUARKAN FAIL/DOKUMEN}
+
+5. Apabila menerima permohonan, Ketua Sel Bilik Kebal akan menyemak,
+mengesahkan dan mengarahkan Kerani Bilik Kebal untuk menyemak kedudukan
+fail/dokumen dalam Sistem Pengurusan Fail bagi menentukan jalur dan rak
+fail/dokumen tersebut. Apabila kedudukan fail/dokumen telah diketahui,
+Kerani Bilik Kebal akan mencari dan mengeluarkan kes fail/dokumen yang
+dikehendaki.
+
+A - 1
+
+Masa yang diberikan untuk mencari fail tersebut ialah lebih kurang 45
+minit dan ini mengikut beberapa banyak fail yang dikeluarkan.
+
+6. Kerani dari Cawangan/Bahagian/Sel tidak dibenarkan memasuki sendiri
+untuk mencari fail/dokumen yang dikehendaki. Apabila fail/dokumen yang
+dimohon telah siap dikumpulkan kerani sel boleh datang untuk mengambil
+
+{TINDAKAN UNTUK MEMULANGKAN}
+
+7. Setelah tindakan diambil, semua kes fail/dokumen yang dipinjam
+hendaklah dipulangkan dengan kadar segera melainkan yang masih diambil
+tindakan. Kerani Bilik Kebal mestilah mengesahkan penerimaan dan
+rekodkan.
+
+8. Kerani Sel Bilik Kebal dikehendaki memastikan fail/dokumen yang
+dipulangkan ditempatkan dirak dan jalurkan yang telah ditetapkan.
+Pastikan kad keluar/masuk dimasukan semula ke dalam fail tersebut
+mengikut susunan nombor tentera.
+
+9. Ketua Sel Bilik Kebal semak rekod pemulangan fail/dokumen yang telah
+dipulangkan dan pastikan jalur dan rak yang direkodkan betul.
+
+10. Semak semula fail/dokumen yang tidak dipulangkan melebihi sebulan
+berada dalam pegangan Kerani Sel. Sekiranya dokumen tersebut didapati
+hilang laporkan kepada PS 1 Ops untuk tindakan selanjutnya.
+
+{TINDAKAN KETUA SEL BILIK KEBAL}
+
+11. Pada tiap-tiap bulan Ketua Bilik Kebal dikehendaki menyemak kes-kes
+fail/dokumen yang mana belum dipulangkan oleh Cawangan,Bahagian dan Sel
+dan mengingatkan Penyelia Cawangan/Bahagian/Sel untuk memulangkannya.
+Sekiranya terdapat ada fail/dokumen yang hilang, maka hendaklah
+melaporkan kepada PS 1 Ops untuk diambil tindakan pembetulan dan
+pencegahan dan laporan dimajukan ke Wakil Pengurusan.
+
+{LANGKAH KESELAMATAN DAN PERKARA-PERKARA YANG PERLU DIPATUHI BAGI
+MENGELAKKAN KEBAKARAN}
+
+12. Punca-punca kebakaran tiada dapat diramalkan tetapi dari aspek-aspek
+berikut yang boleh berlaku kebakaran jika tidak diawasi dengan rapi:
+
+A - 2
+
+a. Puntong rokok yang belum dipadam dengan sepenuhnya dibuang di dalam
+bakul sampah atau dibuang dimerata tempat pada saat-saat meninggal Bilik
+Kebal semasa habis kerja.
+
+b. Suis tidak ditutup (Off) dan plugnya tidak dicabut selepas meninggal
+Bilik Kebal semasa habis waktu kerja
+
+12. Untuk mengelak dan mencegah kebakaran, perkara-perkara berikut
+perlulah dititikberatkan dan hendaklah dipatuhi oleh semua kakitangan di
+dalam Jabatan Arah ini terutama sekali kepada kakitangan yang
+mengelolakan Bilik Kebal.
+
+a. Puntong-puntong rokok mestilah dipadamkan apinya terlebih dahulu
+sebelum dibuang ke dalam tempat-tempat yang dikhaskan dan dilarang sama
+sekali dibuang di merata-rata tempat.
+
+b. Dilarang sama sekali merokok di Bilik Kebal.
+
+c. Semua alat-alat elektrik mestilah dijaga berada di dalam keadaan baik
+dan boleh digunakan.
+
+d. Semua alat-alat elekterik yang rosak hendaklah ditanggalkan daripada
+penyambungan aliran elektrik dan tidak boleh digunakan sama sekali.
+
+e. Apa jua pendawaian elektrik mestilah mendapat kebenaran dan kelulusan
+pihak JKR Kem KEMENTAH
+
+f. Semua kerosakan pendawaian elektrik mestilah dilaporkan dengan segera
+ke Pejabat Rekod untuk tindakan sewajarnya.
+
+g. Semua Staf Bilik Kebal adalah bertanggungjawab menentukan semua suis
+elektrik ditutup (off) dan plak-plaknya dicabut apabila habis waktu
+kerja.
+
+h. Dilarang sama sekali membakar sampah dimerata tempat di Bilik Kebal.
+
+13. Tindakan sekiranya berlaku kebakaran:
+
+(1) Cuba memadamkan api itu dengan alat-alat pemadam yang disediakan dan
+tutupkan semua suis alat-alat elektrik.
+
+A - 3
+
+(2) Laporkan perkara tersebut kepada Pegawai Kebakaran/Keselamatan
+Syarikat
+
+(3) Jika api merebak dan tidak dapat dikawal lapor terus kepada
+pihak-pihak seperti berikut:
+
+(a) Balai Bomba.
+
+(b) Kem KEMENTAH.
+
+(c) Bilik DOR.
+
+(d) Pengurus Besar Rekod dan Pencen atau PS 1 Operasi/Pengurusan.
+
+(e) Kakitangan-kakitangan yang lain hendaklah keluar dari pejabat
+berkenaan dan berbaris di Dataran Syarikat sekiranya kebakaran berlaku
+di waktu kerja.
+
+A - 4
+
+{LAMPIRAN 1}
+
+{BOR/PK(W).OA.02}
+
+\includegraphics[width=0.94861in,height=0.83194in]{media/image39.jpg}
+
+PERMOHONAN PENGELUARAN FAIL ANGGOTA DARI BILIK KEBAL
+
+BUTIR-BUTIR PERMOHON:
+
+1. No, Ten/IC:\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots..
+Pkt:\ldots\ldots\ldots..
+Nama:\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots{}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{1}
+\tightlist
+\item
+  Cawangan/Bhg/Sel:\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots..
+\end{enumerate}
+
+3. Samb
+\url{Tel:/}\ldots.............................................................\ldots.
+
+4. Jumlah Fail yang
+dikehendaki:\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots.
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+Bil No T & en/Pkt/Nama Fail/Dokumen Yang Dimohon Catatan
+&\tabularnewline
+\midrule
+\endhead
+(a) (b) & (c) &\tabularnewline
+\bottomrule
+\end{longtable}
+
+.....................................\ldots.
+..............................................................................
+
+(Tandatangan Pemohon) (Disahkan oleh KS/Pertugas Bilik Kebal)
+
+Tarikh:
+No:......................................................................\ldots{}
+
+Pkt:........................................................................
+
+Nama:................................................................\ldots.
+
+Jawatan:...............................................................
+
+Tarikh:................................................................\ldots{}
+
+\end{document}

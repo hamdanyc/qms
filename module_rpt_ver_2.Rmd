@@ -1,0 +1,168 @@
+---
+title: "ODL's Lecture Note Database"
+output:
+  pdf_document: default
+  html_notebook: default
+  html_document:
+    df_print: paged
+  word_document: default
+---
+
+
+```{r setup}
+knitr::opts_chunk$set(
+	echo = FALSE,
+	message = FALSE,
+	warning = FALSE
+)
+options(
+  knitr.kable.NA = '',
+  knitr.table.format = "latex"
+  ) 
+```
+
+```{R Init}
+library(dplyr)
+library(kableExtra)
+library(knitr)
+load("repo.RData")
+```
+@.  The total file to upload are **`r total$Topics + total$Activity + total$"Self Check" + total$PPT` **. Each topics has to be uploaded separately by module. Each module which is in word format to be separated by topic and save to a pdf file. Total files and the learning type as in Table 1 - Files by Learning Type.
+
+     **Table 1 - Files by Learning Type**
+
+|Serial|Learning Type|Total
+|------|-------------|----|
+|1. |Lecture note by topic|`r total$Topics`
+|2. |PPT Slides|`r total$PPT`
+|3. |Microsoft Form (URL)|
+|   |- Activities|`r total$Activity`
+|   |- Self check|`r total$"Self Check"`
+|4. |**Total**|**`r total$Topics + total$Activity + total$"Self Check" + total$PPT`**
+
+@.   Whilst, there are `r nrow(module[is.na(module$Code),])` modules without the source file (.docx) as listed below:
+
+     **Table 2 - Modules without the source file**
+
+```{r missing module, echo=FALSE}
+i <- c(0:6)
+module %>% 
+  filter(is.na(Code)) %>%
+  mutate("Serial" = i + 1) %>% 
+  select(Serial,Module,"Code"=Code_Doc,`YR-SM`) %>%
+  arrange(`YR-SM`) %>%
+  kable() %>% 
+  kable_styling(full_width = FALSE)
+
+```
+
+@.  Modules without activity and/or self check:
+
+
+     **Table 2(1) - Modules without Activity**
+
+```{r activity is NA, echo=FALSE}
+module_activity %>% 
+  filter(is.na(Type)) %>% 
+  inner_join(module) %>% 
+  select(Module, Code, `YR-SM`) %>% 
+  arrange(`YR-SM`) %>%
+  kable() %>% 
+  kable_styling(full_width = FALSE)
+
+```
+
+  **Table 2(1) - Modules without Self Check**
+
+```{r self check is NA}
+module_self_check %>% 
+  filter(is.na(Type)) %>% 
+  inner_join(module) %>% 
+  select(Module, Code, `YR-SM`) %>% 
+  arrange(`YR-SM`) %>%
+  kable() %>% 
+  kable_styling(full_width = FALSE)
+
+```
+     
+
+@.  A script to automate the process to separate, convert and save each topics, the steps are:
+    
+    - Separate each topic from the source(.docx),
+    - Verify the validity of the URL, figure and image source,
+    - Annotation and clean the text, and
+    - Convert each topic to markdown and save as pdf format.       
+
+    **Table 3 - Summary of Module by Topics** (No Change)
+
+```{r summary by module, eval=FALSE, include=FALSE}
+module_topics %>% 
+  bind_rows(module_activity) %>% 
+  bind_rows(module_self_check) %>% 
+  group_by(Module,Code,`YR-SM`) %>%
+  select(Module, Topic, module_activity$Type) %>%
+  summarise("Topics" = count(Topic), "Activity" = count(module_activity$Type)) %>%
+  # count() %>%
+  arrange(`YR-SM`) %>%
+  # summarise("Topics" = sum(n)) %>% 
+  kable() %>%
+  kable_styling(full_width = FALSE) %>% 
+  column_spec(1, bold = T, color = "red", width = "21em")
+
+```
+
+@.  The `r total$Topics + total$Activity + total$"Self Check" + total$PPT` files will be uploaded manually to the ODL database. List of files as Table 5 - Detail of Topics by Module. Average daily upload is **`r total$Module` / 7 days = `r round(total$Module/7)`** Module/day. The work start from **week 39** and expected to finish earliest in **week 44**. (see schedule below).
+
+  **Table 4 - Schedule of Activity**
+
+|Serial|Activity Week(Month)|W39|W40|W41|W42|W43|W44|W45|W46|Days
+|------|-------------|---|---|---|---|---|---|---|---|-----
+|1.|**File preparation**:|X||||||||7
+||   - Write script to separate source file,
+||   - Separate topics to markdown, and
+||   - Each module is in it's own folder
+|2.|**Edit and verify content in serial 1**.||X|X|X|X||||28
+|| - edit content,
+|| - verify URL,
+|| - create activity/self check
+|| - verify PPT slides
+|3.|**Convert to pdf format**||X|||||||7
+|4.|**HOD/Program Coordinator Approval**||||X|X||||14
+||(1)  Documents will be sent in batches   
+||       - Module 1 - 13
+||       - Module 14 - `r nrow(module[!is.na(module$Code),])`
+||       - Module (Reserved)
+||(2) Confirmation by HOD/Program Coordinator|
+|5.|**Upload materials to ODL database**||||||X|||7
+||Module 1 - `r nrow(module[!is.na(module$Code),])`||||||X|
+||PPT (`r nrow(module[!is.na(module$Code),])` files)|||||||X
+||Activities and self-check (`r nrow(module[!is.na(module$Code),])` files)|||||||X
+||**Total (Man-Days)**|||||||||`r 7+28+7+14+7`
+
+@.  A weekly report to the HOD/Program Coordinator and a copy to Faculty's dean to update the upload progress. The format as in table 4(1) - Weekly Progress Report.
+
+|Module,     |Code  ||Status(Topics, Activity & Self check, PPT) ||
+|---------------|-----------|------------|-----------|-------|
+|               |  | Preparatory|Work in Progress|Completed
+|Communication and Counseling|BNBS 6124|15|||
+
+
+  **Table 5 - Detail of Topics by Module** (No Change)
+
+```{r module_topics, eval=FALSE, include=FALSE}
+module %>% 
+  select(Module,Code,"Year/Semester"=`YR-SM`) %>% 
+  inner_join(module_topics) %>% 
+  group_by(Module) %>% 
+  kable(longtable =T,booktabs=TRUE) %>%
+  kable_styling(latex_options =c("scale_down","repeat_header")) %>%
+  column_spec(1, bold = T, color = "red", width = "15em") %>%
+  column_spec(2:3, width = "7em") %>%
+  column_spec(4, width = "19em") %>% 
+  collapse_rows(columns = 1:2, latex_hline = "major", valign = "top")
+
+```
+
+Prepared by: Colonel Hamdan bin Yaccob (R)
+
+Date: `r format(Sys.Date(),"%d %b %y")`

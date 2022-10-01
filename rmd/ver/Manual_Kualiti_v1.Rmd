@@ -1,0 +1,1080 @@
+---
+title: "title"
+author: "OpenApps QMS"
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: '4'
+  html_document:
+    toc: yes
+    toc_depth: 4
+params:
+  doc_id: PK(W).OA.01
+  doc_title: "title"
+  
+---
+\newpage
+
+|Prosedur Kualiti &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|`r params$doc_id`|
+|:------------------|-------:|
+
+![OA Logo](media/openapps-logo.png){width=30%}
+
+|                                   |
+|:---------------------------------:|
+|`r params$doc_title`|
+
+
+#   1.0 Pengenalan Kepada Manual Kualiti
+
+##    1.1 Pendahuluan
+
+ Manual Kualiti ini adalah berdasarkan keperluan Sistem Pengurusan
+ Kualiti (MS ISO 9001:2015). Manual ini mengandungi maklumat organisasi, dasar kualiti dan
+ objektif kualiti terhadap perkhidmatan kepada pelanggan berhubung
+ proses perolehan, pemantauan projek dan penyampaian perkhidmatan integrasi sistem.
+ Manual Kualiti ini disokong dengan dokumen prosedur kualiti
+ dan dokumen-dokumen sokongan yang berkaitan seperti berikut:
+
+1.1.1. Companies Act 2016.
+
+1.1.2. Patents Act 1983.
+
+1.1.3. Patents Regulations 1986.
+
+1.1.4. Trade Marks Act 1976.
+
+1.1.5. Trade Marks Regulations 1997.
+
+1.1.6. Copyright Act 1987.
+
+1.1.7. Employment Act 1955.
+
+1.1.8. Industrial Relations Act 1967.
+
+1.1.9. Industrial Relations Regulations 1980.
+
+##    1.2 Tujuan
+
+ Manual Kualiti ini merupakan dokumen generik yang mengandungi
+ maklumat-maklumat di dalam aspek pengurusan kualiti Syarikat sebagaimana
+ berikut:
+
+ 1.2.1 Menerangkan maklumat am mengenai organisasi;
+
+ 1.2.2. Menjelaskan secara ringkas Sistem Pengurusan Kualiti MS ISO
+ 9001:2015 yang dilaksanakan Syarikat;
+ 
+ 1.2.3. Menggariskan dasar dan prinsip-prinsip asas bagi
+ aktiviti-aktiviti organisasi; dan
+
+ 1.2.4. Menjelaskan mengenai pengecualian aplikasi (exclusion) dalam
+ memenuhi keperluan MS ISO 9001:2015.
+
+##    1.3 Skop Pelaksanaan MS ISO 9001:2015
+
+ Skop pelaksanaan Sistem Pengurusan Kualiti (QMS) ialah penyediaan bagi
+ proses perolehan, pemantauan projek dan penyampaian perkhidmatan integrasi sistem.
+
+##    1.4 Pengecualian Aplikasi (Exclusions) Pelaksanaan MS ISO
+ 9001:2015
+
+ Syarikat hendaklah melaksanakan keperluan-keperluan MS ISO 9001:2015
+ kecuali keperluan-keperluan yang dinyatakan dibawah dan pengecualian
+ tersebut kerana pengurusan Syarikat tidak tertakluk kepada aktiviti mereka
+ bentuk (perkara 7.3) dan tidak terlibat dengan penggunaan sebarang
+ peralatan yang tertakluk untuk di tentu ukur (perkara 7.6).
+
+ 1.4.1. Perkara 7.3 - Rekabentuk dan Pembangunan Proses.
+
+ 1.4.2. Perkara 7.6 - Kawalan bagi Penentu Ukuran Peralatan.
+
+##    1.5 Kandungan Manual
+
+Manual ini mengandungi lapan (8) bahagian yang meliputi perkara-perkara
+berikut:
+
+ Bahagian 1 - Pengenalan Kepada Manual Kualiti
+
+ Bahagian 2 - Maklumat Organisasi
+
+ Bahagian 3 - Terma-Terma dan Definisi
+
+ Bahagian 4 - Sistem Pengurusan Kualiti dan Sistem Pengurusan
+ Keselamatan Maklumat
+
+ Bahagian 5 - Tanggungjawab Pengurusan
+
+ Bahagian 6 - Pengurusan Sumber
+
+ Bahagian 7 - Penzahiran Produk (proses perolehan, pemantauan projek dan penyampaian perkhidmatan integrasi sistem)
+
+ Bahagian 8 - Pengukuran, Analisis Dan Penambahbaikan Sistem Kualiti
+
+##    1.7 Penyediaan, Kuatkuasa Dan Pengedaran
+
+ Manual Kualiti ini hanya terpakai dan berkuatkuasa setelah diluluskan
+ oleh Pengurus Besar. Manual Kualiti ini adalah Dokumen terkawal dan hanya diedarkan kepada
+ pegawai-pegawai seperti di dalam senarai Pemegang Dokumen Terkawal di
+ muka surat 2 dalam manual ini. Pemegang Dokumen ini akan
+ bertanggungjawab menyimpan dengan selamat dan mengemaskini Manual
+ Kualiti ini mengikut arahan yang dikeluarkan oleh Wakil Pengurusan
+ dari masa ke semasa.
+
+##    1.8 Penyelarasan Pindaan (Lihat seksyen 4.2.3 Kawalan Dokumen).
+
+ Mana-mana bahagian daripada dokumen ini tidak boleh dikeluarkan atau
+ dipinda tanpa kebenaran pihak yang meluluskan dokumen ini.
+
+#   2.0 Maklumat Organisasi
+
+##    2.1 Sejarah Dan Latar Belakang
+
+ Diterajui oleh seorang Pengurus Besar dengan dibantu oleh ketua-ketua Jabatan yang berikut:
+
+ 2.1.1 Jabatan Pengurusan;
+
+ 2.1.2 Jabatan Operasi (Kewangan dan Jualan);
+
+ 2.1.3 Jabatan Teknikal; dan
+ 
+ 2.1.4 Jabatan Sumber Manusia.
+
+##    2.2 Carta Organisasi
+
+ Carta Organisasi Syarikat seperti di Kembaran B.
+
+##    2.3 Visi
+
+“We strive to be the best in supporting your mission and
+vision by providing the right solution”
+
+##    2.4 Misi
+
+“providing specialised solutions to our customers. Aside from the high quality of our services,
+our customers value us for our unique business approach.
+Characterized by three key features: Independence, Network and Regional Expertise”
+
+##    2.5 Objektif Operasi
+
+“Assisting our clients by providing the best solution, to solve their toughest issues.
+We do it by providing a wide array of Military & Commercial ICT products,
+consultation and technical assistance.”
+
+#   3.0   Terma-Terma dan Definisi
+
+## 3.1 Aduan
+
+Perkara yang dikemukakan oleh pelanggan mengenai ketidakpuasan hati mereka ke atas pelak-
+sanaan proses perolehan, pemantauan projek dan penyampaian perkhidmatan integrasi sistem
+Syarikat.
+
+## 3.2 Analisis Risiko (Risk Analysis)
+
+Penggunaan maklumat secara sistematik untuk mengenal pasti sumber dan menilai risiko.
+
+## 3.3 Pegawai Syarikat
+
+Pengurus, eksekutif dan staf sokongan yang bertaraf tetap, kontrak atau sambilan yang terlibat
+dengan pengurusan Sistem Pengurusan Kualiti.
+
+## 3.4 Maklumbalas Pelanggan
+
+Maklumbalas pelanggan meliputi komen atau cadangan bagi memperbaiki/ mempertingkatkan
+lagi sesuatu produk / perkhidmatan dan pengurusan operasi kerja.
+
+## 3.5 Pelanggan
+
+Dalam konteks Syarikat dibahagikan kepada dua (2) kategori iaitu: Pelanggan luaran iaitu pem-
+bekal dan penerima perkhidmatan; dan pelanggan dalaman.
+
+## 3.6 Penghasilan Produk / Penyampaian Perkhidmatan
+
+Hasil dari proses kerja yang telah dilaksanakan oleh kakitangan Syarikat.
+
+## 3.7 Pengurus Dokumen
+Pegawai yang dilantik oleh Pengurus Besar bagi mengurus dan menyelenggara Dokumen Kualiti
+Sistem Pengurusan Kualiti MS ISO 9001:2015.
+
+## 3.8 Wakil Pengurusan
+
+Pegawai di peringkat pengurusan Syarikat yang telah dilantik oleh Pengurus Besar sebagai Wakil
+Pengurusan. Pengurus Besar Pengurus Besar boleh melantik seorang Timbalan Wakil Penguru-
+san untuk membantu secara sementara / tetap semasa ketiadaannya.
+
+# 4.0 Sistem Pengurusan Kualiti
+
+OpenApps (selepas ini dikenali sebagai Syarikat) perlu mewujud, mendokumen, melaksana dan
+menyenggara QMS dan meningkatkan keberkesanannya secara berterusan selaras dengan keper-
+luan standard. Untuk itu, Syarikat perlu:
+
+a. Mengenalpasti proses-proses yang perlu ada dalam Sistem Pengurusan kualiti Syarikat;
+
+b. Menentukan turutan dan hubungkait di antara proses-proses ini;
+
+c. Menentukan kriteria dan kaedah bagi menilai keberkesanan operasi dan kawalan ke atas
+proses-proses ini;
+
+d. Memastikan sumber dan maklumat yang diperlukan disediakan untuk pelaksanaan dan pe-
+mantauan proses-proses ini;
+
+e. Memantau dan menilai proses-proses ini; dan
+
+f. Melaksanakan tindakan-tindakan yang perlu bagi memastikan pencapaian matlamat yang
+dirancang dan membuat penambahbaikan yang berterusan ke atas proses-proses ini.
+
+Proses-proses ini hendaklah diuruskan oleh Syarikat selaras dengan keperluan standard antara-
+bangsa ini. Sekiranya Syarikat memilih untuk mendapatkan khidmat luar bagi melaksanakan
+mana-mana proses yang memberi kesan kepada kualiti produk yang dihasilkan, proses-proses
+tersebut hendaklah dikawal. Kawalan ke atas proses ini hendaklah dijadikan sebahagian dari-
+pada Sistem Pengurusan kualiti.  
+
+Nota: Proses-proses yang perlu ada dalam Sistem Pengurusan kualiti hendaklah meliputi proses-
+proses pengurusan, penyediaan sumber, penghasilan produk dan proses penilaian. Dokumentasi
+Sistem Pengurusan Kualiti diringkaskan seperti gambarajah 1 di Kembaran C.
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+|PK(W).OA.01   Prosedur Kawalan Dokumen Kualiti|
+
+## 4.1. Am
+
+Dokumentasi QMS akan meliputi rekod-rekod mengenai keputusan-keputusan pihak pengurusan
+Syarikat untuk memastikan tindakan-tindakan berkaitan pengurusan dan dasar dapat dikesan,
+dan memastikan keputusan yang direkodkan dapat dihasilkan semula. Sistem dokumentasi QMS
+mengandungi:
+
+## 4.2 Penyataan dasar kualiti dan objektif kualiti;
+
+a. Manual kualiti;
+
+b. Prosedur-prosedur yang perlu didokumenkan mengikut Standard MS ISO 9001:2015;
+
+c. Dokumen-dokumen yang diperlukan oleh bagi memastikan perancangan, operasi dan kawalan
+ke atas proses dijalankan dengan berkesan; dan
+
+d. Rekod-rekod yang diperlukan oleh standard MS ISO 9001:2015.
+
+## 4.3 Manual Kualiti
+
+Syarikat hendaklah mewujud dan menyelenggarakan Manual Kualiti bagi menjelaskan keperluan-
+keperluan berikut:
+
+### 4.3.1 Skop pelaksanaan Sistem Pengurusan Kualiti;
+
+a. Manual Kualiti;
+
+b. Dasar Kualiti dan Objektif Kualiti;
+
+c. Pengecualian aplikasi (exclusion) yang menjelaskan pengecualian dalam pematuhan MS ISO
+9001:2015;
+
+d. Rujukan kepada prosedur-prosedur kualiti dan sokongan dalam Sistem Pengurusan Kualiti;
+
+e. Huraian tentang prinsip-prinsip dalam merancang, melaksana dan memantau Sistem Pengu-
+rusan Kualiti; dan
+
+f. Proses-proses yang dikenalpasti di dalam pelaksanaan Sistem Pengurusan Kualiti (Rujuk
+Pemetaan Proses).
+
+### 4.3.2 Kawalan Dokumen
+
+Prosedur bagi kawalan dokumen disediakan meliputi perkara-perkara berikut:
+
+a. Kelulusan dokumen sebelum diedarkan;
+
+b. Mengkaji semula dan pengemaskinian di mana perlu serta meluluskannya;
+
+c. Memastikan perubahan dan status dokumen terkini dikenalpasti;
+
+d. Memastikan versi dokumen terkini yang berkaitanboleh dirujuk bila diperlukan;
+
+e. Memastikan dokumen dapat dirujuk dan dikenalpasti pada bila-bila masa;
+
+f. Memastikan dokumen luaran dikenalpasti dan pengedarannya dikawal; dan
+
+g. Menghalang daripada dokumen usang digunakan dan dokumen ini perlu ditandakan, sekiranya
+disimpan untuk sebarang tujuan.
+
+### 4.3.3 Kawalan Ke Atas Dokumen dilaksanakan sebagaimana berikut:
+
+a. Dokumen Kualiti yang perlu dikawal ialah Manual Kualiti, Prosedur Kualiti, Arahan Kerja
+dan Dokumen-dokumen Sokongan termasuk kawalan ke atas dokumen luaran.
+
+b. Wakil Pengurusan adalah bertanggungjawab untuk memastikan dokumendokumen kualiti
+yang dirujuk dalam Sistem Pengurusan Kualiti adalah terkini dan ditempatkan di Pejabat Rekod
+, dikawal oleh Pengurus Dokumen dan hendaklah mudah dirujuk oleh kakitangan yang memerlukan.
+
+Jika dokumen kualiti disimpan secara elektronik sistem ‘Back-up’ hendaklah diwujudkan.
+
+c. Setiap keluaran dokumen kualiti yang baru akan diberikan nombor rujukan identifikasi dan
+dicatat nombor keluaran dan tarikh kuatkuasa. Jika ada dokumen kualiti yang dibuat pindaan,
+muka surat yang berkaitandengan pindaan tersebut akan digantikan, berserta dengan nombor
+pindaan dan tarikh kuatkuasa baru.
+
+d. Pemegang dokumen dan nombor salinan dokumen dikenalpasti melalui senarai edaran. Senarai
+edaran diselenggarakan oleh Pengurus Dokumen. Pemegang Dokumen adalah dipertanggung-
+jawabkan untuk mengemaskini pindaan terkini dalam Dokumen Terkawal yang diedarkan se-
+belum ini.
+
+e. Dokumen Kualiti yang perlu diedarkan kepada Eksekutif sepertimana senarai pemegang doku-
+men terkawal di mukasurat dua (2) ditanda sebagai SALINAN DOKUMEN TERKAWAL di
+setiap muka surat dokumen.
+
+f. Satu senarai induk yang mengandungi semua dokumen kualiti yang digunakan dalam Sis-
+tem Pengurusan Kualiti berkenaan disediakan didalam Manual Kualiti di Lampiran 4 hingga 6.
+Senarai ini dikemaskini dari semasa ke semasa apabila berlaku perubahan.
+
+g. Seorang Pengurus Dokumen hendaklah dilantik oleh Pengurus Besar bagi menyelenggara
+naskah dokumen Terkawal, menyelaras pindaan dokumen dan edaran serta mengemaskini senarai
+edaran dokumen.
+
+h. Dokumen kualiti hendaklah disediakan dalam dua bentuk. Pertama dalam salinan ‘hard copy’
+dan kedua melalui sistem Elektronik.
+
+### 4.3.4 Pindaan Dokumen
+
+a. Jika ada dokumen kualiti yang dibuat pindaan, muka surat yang berkaitandengan pindaan
+tersebut akan digantikan, berserta dengan nombor pindaan dan tarikh kuatkuasa baru. Pindaan
+yang melebihi 50% keseluruhan Dokumen akan diganti seluruhnya dengan nombor keluaran yang
+terbaru diberikan dan tarikh kuatkuasanya dimaklumkan. Pengurus Besar boleh menggunakan
+budibicara untuk mengarahkan dokumen baru disediakan walaupun kandungan pindaan tidak
+mencapai 50%.
+
+b. Sebarang pindaan Dokumen mestilah mendapat kelulusan daripada Pengurus Besar.
+
+c. Wakil Pengurusan bertanggungjawab mengedarkan semua pindaan kepada Pengurus Doku-
+men. Pengurus Dokumen bertanggungjawab mengemaskini dan memasukkan semua pindaan
+berkaitandan mengeluarkan dokumen yang dibatalkan serta melupuskannya mengikut kaedah
+yang ditetapkan oleh Pengurus Besar.
+
+d. Jika keseluruhan Dokumen Terkawal dipinda, dokumen asal perlu dikembalikan kepada Wakil
+Pengurusan dan digantikan dengan Dokumen Terkawal yang terkini.
+
+e. Satu salinan Dokumen Terkawal asal yang tidak dipinda perlu disimpan dan ditanda BATAL
+dengan dakwat berwarna MERAH. Senarai Pindaan yang berkaitan juga perlu dikemaskini.
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+|PK(W).OA.01 Prosedur Kawalan Dokumen Kualiti|
+
+### 4.3.5 Kawalan Rekod Kualiti
+
+Syarikat hendaklah mewujud dan menyelenggara satu prosedur berhubung Kawalan Rekod Kual-
+iti. Senarai induk bagi rekod kualiti diwujudkan untuk kemudahan pengendalian dan pengesanan
+rekod. Had masa penyimpanan dikenalpasti dan rekod kualiti disimpan dengan selamat dalam
+fail-fail tertentu yang ditetapkan dan mudah dirujuk semula. Jika rekod disimpan secara elek-
+tronik, satu sistem sokongan bagi rekod-rekod berkenaan hendaklah diwujudkan. Rekod Kualiti
+berkenaan hendaklah disimpan secara sistematik untuk rujukan sebagai bukti objektif kepada
+aktiviti-aktiviti kualiti berserta rekod kualiti yang dikenalpasti setiap prosedur.
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+|PK(W).OA.02 Prosedur Pengurusan Rekod Kualiti|
+
+# 5.0 Tanggungjawab Pengurusan
+
+## 5.1 Komitmen Pengurusan
+
+Pengurusan Syarikat sentiasa komited kepada pembangunan dan perlaksanaan Sistem Penguru-
+san Kualiti MS ISO 9001:2015, dan sentiasa berusaha secara berterusan untuk menambahbaik
+sistem bagi menjamin keberkesanannya dengan;
+
+a. Memastikan semua kakitangan memahami dan menghayati akan pentingnya kehendak pelanggan
+dipenuhi serta keperluan perundangan dan peraturan dipatuhi;
+
+b. Mewujud dan meluluskan Dasar dan Objektif Kualiti (sila rujuk seksyen 5.3 dan 5.4); Memas-
+tikan semua kakitangan sentiasa memahami Dasar Kualiti dan Objektif Kualiti bagi mematuhi
+Sistem Pengurusan Kualiti MS ISO 9001:2015;
+
+c. Mengadakan Kajian Semula Pengurusan (sila rujuk seksyen 5.6.); dan
+
+d. Memastikan sumber tenaga manusia dan kewangan mengikut bidang atau kepakaran serta
+kemudahan peralatan dan ruang fizikal yang mencukupi.
+
+## 5.2. Keutamaan Pelanggan
+
+Pengurusan Syarikat akan memastikan keperluan pelanggan dikenalpasti, difahami dan dipenuhi
+dengan tujuan mempertingkatkan lagi kepuasan pelanggan melalui;
+
+5.2.1 Mewujud dan menyelenggarakan Piagam Pelanggan;
+
+5.2.2 Mewujudkan kaedah bagi pengendalian maklumbalas pelanggan serta cadangan-cadangan
+daripada pelanggan berhubung dengan perkhidmatan yang diberikan;
+
+5.2.3 Sentiasa mengkaji kehendak pelanggan bagi memastikan keperluan pelanggan dipenuhi
+berlandaskan dasar dan peraturan baru yang diperkenalkan dari masa ke semasa; dan
+
+5.2.4 Sebarang keperluan baru daripada pelanggan hendaklah diberi keutamaan selagi ianya tidak
+bercanggah dengan keperluan perundangan, misi dan visi Syarikat.
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+|PK(S).OA.01 Prosedur Pengendalian Aduan, Maklumbalas Pelanggan dan Penghargaan Serta Peti Aduan/Cadangan|
+
+
+## 5.3. Dasar Kualiti
+
+Pengurusan Syarikat telah menggubal Dasar Kualiti seperti berikut: “sentiasa komited kepada
+penyediaan bagi proses perolehan, pemantauan projek dan penyampaian perkhidmatan integrasi sistem;
+dan sentiasa memenuhi keperluan pelanggan, seterusnya akan berusaha melaksanakan penambahbaikan 
+yang berterusan ke atas Sistem Pengurusan Kualiti MS ISO 9001:2015”. Pengurusan Syarikat hendaklah 
+memastikan Dasar Kualiti sentiasa:
+
+5.3.1 Bersesuaian dengan halatuju Syarikat;
+
+5.3.2 Dihayati dan difahami oleh semua kakitangan Syarikat;
+
+5.3.3 Mempastikan ia dibawa ke dalam agenda Kajian Semula Pengurusan untuk mencapai
+kepuasan pelanggan yang berterusan;
+
+5.3.4 Melaksanakan penambahbaikan bagi meningkatkan keberkesanan sistemnya secara berteru-
+san;
+
+5.3.5 Mempastikan Sistem Pengurusan Kualiti dikawal dan dikaji semula bagi menjamin kesesua-
+iannya yang berterusan; dan 
+
+5.3.6 Mempastikan Dasar Kualiti yang diwujudkan digunapakai sebagai asas untuk merangka
+Objektif Kualiti. Dasar keselamatan Maklumat sentiasa menekankan kepada perlindungan ke
+atas semua bentuk maklumat bertujuan untuk menjamin kerahsiaan, integriti, kesahihan dan
+ketersediaan kepada semua pengguna yang dibenarkan.
+
+## 5.4. Perancangan
+
+### 5.4.1 Objektif Kualiti
+
+Pengurusan Syarikat akan memastikan objektif kualiti termasuk keperluan-keperluan penyam-
+paian perkhidmatan diwujudkan bagi aktiviti yang relevan kepada pencapaian dasar kualiti.
+Objektif-objektif ini diukur dan selaras dengan dasar kualiti. Objektif-objektif kualiti Syarikat
+diukur dan dipantau menggunakan pendekatan Balanced Scorecard (BSC).
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+|BSC.OA.01 Balanced Scorecard Syarikat|
+
+### 5.4.2. Perancangan Sistem Pengurusan Kualiti
+
+Pengurusan Syarikat akan memastikan:
+
+a. Perancangan Sistem Pengurusan Kualiti diwujudkan dan dilaksanakan untuk mencapai ob-
+jektif kualiti yang telah ditetapkan;
+
+b. Pelan Kualiti dan Dokumen Kualiti yang diwujudkan, dilaksanakan bagi memenuhi kehendak
+pelanggan;
+
+c. Penyediaan Pelan Kualiti dan arahan kerja (di mana perlu), untuk menetapkan bagaimana
+objektif kualiti akan dicapai; dan
+
+d. Kakitangan Syarikat hendaklah memahami serta berupaya melaksanakan Pelan Kualiti tersebut.
+
+## 5.5 Tanggungjawab, Kuasa Dan Komunikasi
+
+### 5.5.1 Tanggungjawab Dan kuasa
+
+Pengurusan Syarikat hendaklah mengenalpasti dan mendokumenkan tanggungjawab dan tugas-
+tugas setiap kakitangan. Tanggungjawab kakitangan dijelaskan melalui carta organisasi, senarai tugas
+, Fail Meja dan Piagam Pelanggan Syarikat.
+
+### 5.5.2 Wakil Pengurusan
+
+Pengurus Besar hendaklah melantik Wakil Pengurusan yang akan mempunyai tanggungjawab
+berikut:
+
+a. Menyedia, melaksana dan menyelenggara Sistem Pengurusan Kualiti;
+
+b. Melapor kepada Pengurusan Syarikat mengenai kemajuan Sistem Pengurusan Kualiti;
+
+c. Memastikan kesedaran ke atas usaha-usaha penambahbaikan dimaklumkan kepada kakitangan;dan
+
+d. Berurusan dengan pihak luar mengenai perkara-perkara yang berkaitan dengan Sistem Pengurusan Kualiti. 
+
+Pengurus Besar/Wakil Pengurusan boleh melantik seorang Timbalan Wakil
+Pengurusan yang akan bertanggungjawab membantu tugas Wakil Pengurusan secara sementara/tetap semasa ketiadaannya.
+
+### 5.5.3 Komunikasi Dalaman
+
+Pengurusan Syarikat hendaklah memastikan kaedah komunikasi dalaman yang sesuai diwujudkan
+melalui instrumen berikut:
+
+a. Mesyuarat Pengurusan;
+
+b. Sesi Taklimat dan Perbincangan;
+
+c. Papan Kenyataan;
+
+d. Memo Dalaman;
+
+e. Perbincangan di peringkat Jabatan dan Unit;
+
+f. Peti Cadangan dan Aduan;
+
+g. Perhimpunan Bulanan;
+
+h. Sesi Pembelajaran Berterusan;
+
+i. Laman Web;
+
+j. Buletin; dan
+
+k. Bilik Sumber.
+
+## 5.6. Kajian Semula Pengurusan
+
+### 5.6.1 Am
+
+Pihak pengurusan Syarikat hendaklah melaksanakan Kajian Semula Pengurusan ke atas Sis-
+tem Pengurusan kualiti secara berkala (sekurang-kurangnya sekali dalam tempoh setahun) bagi
+memastikan Sistem Pengurusan kualiti terus sesuai, mencukupi dan berkesan. Kajian semula
+ini hendaklah meliputi penilaian ke atas peluang-peluang penambahbaikan dan keperluan pe-
+rubahan kepada Sistem Pengurusan kualiti termasuk dasar kualiti dan objektif-objektif kualiti.
+Rekod Kajian Semula Pengurusan hendaklah disenggara.
+
+### 5.6.2 Input Kajian Semula
+
+Kajian Semula Pengurusan hendaklah meliputi: 
+
+a. Penemuan audit;
+
+b. Tindakan susulan daripada Kajian Semula Pengurusan yang lepas;
+
+c. Maklumbalas pelanggan;
+
+d. Prestasi proses penyampaian perkhidmatan yang tidak memenuhi keperluan yang ditetapkan;
+e. Laporan status tindakan pencegahan dan pembetulan;
+
+f. Perubahan-perubahan yang boleh memberi kesan kepada Sistem Pengurusan kualiti; dan
+
+g. Cadangan-cadangan untuk penambahbaikan.
+
+### 5.6.3 Output Kajian Semula
+
+Hasil Kajian Semula Pengurusan akan meliputi keputusan dan tindakan yang merangkumi
+perkara-perkara berikut:
+
+a. Penambahbaikan ke atas proses-proses terlibat;
+
+b. Penambahbaikan perkhidmatan berkaitan dengan keperluan pelanggan; dan
+
+c. Keperluan sumber-sumber.
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+|PK(S).OA.02 Prosedur Mesyuarat Kajian Semula Pengurusan|
+
+# 6.0 Pengurusan Sumber
+
+## 6.1 Peruntukan Dan Penyediaan Sumber
+
+Pihak pengurusan Syarikat akan mengenalpasti peruntukan dan penyediaan sumber-sumber yang
+diperlukan bagi mencapai objektif-objektif berikut:
+
+a. Melaksanakan dan menyelenggara QMS di samping meningkatkan keberkesanannya secara
+berterusan; dan
+
+b. Meningkatkan tahap kepuasan pelanggan dengan sentiasa peka untuk memenuhi keperluan
+pelanggan.
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+|PK(S).OA.05 Prosedur Penyediaan Bajet    |
+
+## 6.2 Sumber Manusia
+
+### 6.2.1 Am
+
+Syarikat hendaklah mempastikan kakitangan-kakitangan mempunyai kemahiran dan kepakaran dalam
+bidang kerja yang dipertanggungjawabkan. Keperluan sumber manusia hendaklah dirancang
+mengikut proses yang ditetapkan oleh.
+
+### 6.2.2 Kompetensi, Latihan dan Kesedaran
+
+Pihak pengurusan Syarikat akan memastikan semua kakitangan Syarikat yang berkenaan adalah
+cekap untuk melaksanakan tugas-tugas serta jelas mengenai tanggungjawab seperti dikehendaki
+oleh standard. Pengurusan Syarikat hendaklah:
+
+a. Memastikan semua kakitangan mempunyai kelayakan dan kebolehan yang diperlukan;
+
+b. Menilai keberkesanan latihan yang diikuti oleh warga Syarikat;
+
+c. Memastikan kakitangan yang terlibat mempunyai kemahiran dan diberi latihan dalam bidang yang berkaitan;
+
+d. Menyelenggara rekod-rekod pengendalian latihan, keterampilan dan kelayakan;
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+|PK(S).OA.04 Prosedur Pengendalian Latihan|
+|PK(S).OA.08 Prosedur Pengurusan Sumber Manusia|
+
+## 6.3 Infrastruktur
+
+Pihak pengurusan Syarikat komited dalam menyediakan kemudahan infrastruktur bagi men-
+gendalikan rekod perkhidmatan dan faedah persaraan yang cekap dan berkesan. Kemudahan
+infrastruktur dan penyelenggaraan termasuk:
+
+6.3.1 Bangunan, ruang pejabat staf, ruang rehat, stor, bilik komputer, ruang menunggu, ruang
+tamu dan surau;
+
+6.3.2 Peralatan berkaitan perkakasan dan perisian sistem maklumat yang digunakan;
+
+6.3.3 Kemudahan percetakan;
+
+6.3.4 Kemudahan komunikasi; dan
+
+6.3.5 Kemudahan pengangkutan.
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+|PK(S).OA.06 Prosedur Penyenggaraan ICT   |
+|PK(S).OA.07 Prosedur Pengurusan Aset     |
+
+## 6.4. Persekitaran Kerja
+
+Pengurusan Syarikat hendaklah memastikan dan menyediakan persekitaran kerja yang kondusif
+dan ceria serta mengutamakan budaya kualiti dan etika kerja yang memberi kesan positif ke
+atas produktiviti kakitangan Syarikat. Pengurusan Syarikat akan memastikan penyelenggaraan dan
+pengurusan ruang-ruang kerja adalah memenuhi keperluan kakitangan sebagaimana yang ditetapkan
+mengikut peraturan am keselamatan, kebajikan, kesihatan dan keselesaan persekitaran di tempat
+kerja.
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+|PK(S).OA.07 Prosedur Pengurusan Aset     |
+|PK(S).OA.09 Prosedur Keselamatan Fizikal dan Persekitaran|
+|PK(S).OA.10 Prosedur Komunikasi dan Operasi|
+|PK(S).OA.11 Prosedur Kawalan Akses|
+|PK(S).OA.12 Prosedur Perolehan, Pembangunan dan Penyenggaraan Sistem Maklumat|
+|PK(S).OA.13 Prosedur Pengurusan Pengendalian Insiden Keselamatan Maklumat|
+|PK(S).OA.14 Prosedur Pengurusan Kesinambungan Perkhidmatan (BCM)|
+
+# 7.0 Penzahiran Produk (proses perolehan, pemantauan projek dan penyampaian perkhidmatan integrasi sistem)
+
+## 7.1. Perancangan Bagi Penzahiran Produk
+
+Pengurusan Syarikat akan menentukan Objektif Kualiti dan proses-proses kerja didokumen
+dan dilaksanakan bagi memastikan keperluan-keperluan pelanggan dan arahan-arahan serta
+pekeliling-pekeliling berkaitan yang berkuatkuasa dipatuhi. Pengurusan Syarikat akan menen-
+tukan pendekatan proses yang terancang meliputi proses perolehan, pemantauan projek dan penyampaian perkhidmatan integrasi sistem; seperti berikut:
+
+7.1.1 Objektif Kualiti dan Dasar Kualiti bagi proses perolehan, pemantauan projek dan penyampaian perkhidmatan integrasi sistem yang terlibat;
+
+7.1.2 Keperluan untuk membangunkan proses-proses dalam Sistem Pengurusan Kualiti,
+Dokumen-dokumen kualiti dan penyediaan sumber-sumber serta proses perolehan, pemantauan projek dan penyampaian perkhidmatan integrasi sistem yang terlibat;
+
+7.1.3 Penyediaan perancangan bagi keperluan, verifikasi, validasi, pemantauan serta penila-
+ian bagi keseluruhan proses-proses proses perolehan, pemantauan projek dan penyampaian perkhidmatan integrasi sistem yang berkaitan supaya perkhidmatan yang dihasilkan memenuhi keperluan kualiti yang ditetapkan;
+
+7.1.4 Rekod-rekod yang diperlukan diselenggarakan sebagai bukti dari perlaksanaan Sistem Pen-
+gurusan Kualiti MS ISO 9001:2015; dan
+
+7.1.5 Proses-proses yang terlibat di dalam penyediaan perkhidmatan proses perolehan, pemantauan projek dan penyampaian perkhidmatan integrasi sistem dijelaskan secara ringkas yang terdapat di Carta Pemetaan Proses
+di Lampiran 7.
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+|PK(O).OA.01 Prosedur Penyediaan Sebut Harga, Pengurusan Tender Perolehan
+dan Rundingan Kontrak|
+|PK(O).OA.02 Prosedur Pengurusan, Pemantauan dan Penyerahan Perkhidmatan
+Integrasi Sistem|
+|PK(O).OA.03 Prosedur Pengurusan, Pemantauan Perolehan Perkhidmatan dan Pembayaran kepada Pembekal|
+|PK(O).OA.04 Prosedur|
+
+## 7.2 Proses Berkaitan Pelanggan
+
+### 7.2.1 Penentuan Keperluan-Keperluan Perkhidmatan yang Hendak Disampaikan
+
+Pengurusan Syarikat akan menentukan bahawa proses perolehan, pemantauan projek dan
+penyampaian perkhidmatan integrasi sistem dijalankan meliputi perkara-perkara berikut:
+
+a. Memastikan keperluan dinyatakan oleh pelanggan yang meliputi proses penerimaan dan se-
+lepas penerimaan perkhidmatan yang disampaikan;
+
+b. Keperluan yang tidak dinyatakan oleh pelanggan dan didapati perlu untuk dinyatakan;
+
+c. Memenuhi syarat dan peraturan perundangan yang berkaitandengan produk atau perkhid-
+matan;
+
+d. Lain-lain keperluan tambahan yang ditentukan oleh organisasi;
+
+e. Menyediakan kemudahan teknologi maklumat yang mudah diguna serta sesuai dengan
+teknologi terkini dengan kemampuan dan keperluan semasa;
+
+f. Memastikan proses perolehan, pemantauan projek dan
+penyampaian perkhidmatan integrasi sistem mengikut spesifikasi yang telah diluluskan; dan
+
+g. Memastikan penilaian bagi pengendalian proses perolehan, pemantauan projek dan penyam-
+paian perkhidmatan integrasi sistem dilaksanakan mengikut prosedur atau proses kerja yang
+ditetapkan.
+
+### 7.2.2 Semakan Semula Ke Atas Keperluan-Keperluan Perkhidmatan yang Hendak Disampaikan.
+
+Pengurusan Syarikat akan mengkaji semula kehendak-kehendak pelanggan sebelum memberi
+sesuatu perkhidmatan pelanggan. Kajian semula ini sekurang-kurangnya mengandungi ciri-ciri
+berikut:
+
+a. Kajian semula keperluan proses perolehan, pemantauan projek dan penyampaian perkhid-
+matan integrasi sistem mengambil kira cadangan-cadangan pelanggan selagi ia tidak bercanggah
+dengan Akta dan Peraturan yang berkaitan;
+
+b. Sekiranya berlaku sebarang perubahan kepada keperluan-keperluan produk atau perkhidmatan, pengurusan Syarikat 
+akan memastikan semua dokumen yang terlibat diselaraskan melalui pindaan prosedur kualiti yang terlibat. 
+Sebarang perubahan berlaku akan dimaklumkan kepada semua yang terlibat dan latihan tambahan akan diberikan 
+mengikut keperluan semasa; dan
+
+c. Pengurusan Syarikat hendaklah mengambil kira semua keperluan-keperluan terkini yang dite-
+tapkan dari semasa ke semasa.
+
+### 7.2.3 Komunikasi Dengan Pelanggan
+
+Pengurusan Syarikat akan menyediakan kemudahan komunikasi yang terancang dan berkesan
+dengan pelanggan melalui:
+
+a. Publisiti ke atas piagam pelanggan yang disediakan;
+
+b. Penyediaan risalah-risalah pengendalian proses perolehan, pemantauan projek dan penyam-
+paian perkhidmatan integrasi sistem;
+
+c. Soalselidik kepuasan pelanggan dan maklumbalas pelanggan;
+
+d. Peti cadangan;
+
+e. Komunikasi melalui telefon perlu dijawab segera serta layanan mesra dan berhemah;
+
+f. Surat-menyurat; dan
+
+g. Perjumpaan bersemuka/perkhidmatan kaunter.
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+|PK(S).OA.01 Prosedur Pengendalian Aduan, Maklumbalas Pelanggan dan Penghargaan Serta Peti Aduan/Cadangan|
+
+## 7.3 Rekabentuk Dan Pembangunan Proses
+
+Pengurusan Syarikat tidak menggunapakai Seksyen 7.3 iaitu rekabentuk dan pembangunan
+proses kerana perkhidmatan yang diberikan kepada pelanggan tidak melibatkan sebarang aktiviti rekabentuk.
+
+## 7.4 Perolehan
+
+Am 
+
+Pengurusan Syarikat hendaklah melaksanakan dan menyelenggara prosedur-prosedur yang
+telah didokumenkan bagi menentukan produk dan perkhidmatan yang diperolehi secara pembelian sentiasa memenuhi keperluan dan perundangan yang berkuat kuasa.
+
+## 7.5 Proses Perolehan
+
+Pengurusan Syarikat hendaklah menguruskan aktiviti perolehan bekalan produk dan perkhid-
+matan mengikut peraturan kewangan yang ditetapkan oleh Perbendaharaan Malaysia melalui
+kaedah-kaedah berikut:
+
+7.5.1 Pembelian terus;
+
+7.5.2 Sebut harga; dan
+
+7.5.3 Tender.
+
+## 7.6 Maklumat Perolehan
+
+Maklumat perolehan bagi bekalan dan perkhidmatan yang diperolehi hendaklah dinyatakan dengan jelas dalam dokumen berikut:
+
+7.6.1 Pesanan Tempatan;
+
+7.6.2 Spesifikasi kerja/ produk;
+
+7.6.3 Spesifikasi penyerahan yang ditentukan oleh Syarikat;
+
+7.6.4 Dokumen sebut harga;
+
+7.6.5 Dokumen Tender;
+
+7.6.6 Dokumen perolehan hendaklah diluluskan oleh Eksekutif yang diberikan kuasa sebelum
+diserahkan kepada pembekal; dan
+
+7.6.7 Verifikasi ke atas bahan yang diperolehi.
+
+Bekalan dan perkhidmatan yang diterima daripada pembekal perlu diperiksa bagi memastikan
+ia memenuhi spesifikasi dan keperluan yang dinyatakan dalam dokumen perolehan.
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+|PK(S).OA.03 Prosedur Perolehan                                        |
+
+## 7.7 Proses Penyampaian Perkhidmatan Perolehan, Pemantauan Projek dan Penyampaian Perkhidmatan Integrasi Sistem
+
+### 7.7.1 Kawalan Ke Atas Proses Penyampaian Perkhidmatan Pengurusan.
+
+Syarikat hendaklah menentukan supaya semua proses pengendalian perkhidmatan dokumentasi dijalankan dibawah keadaan terkawal. Keadaan terkawal akan mengandungi sekurang-kurangnya:
+
+a. Prosedur yang telah didokumenkan menetapkan cara-cara pelaksanaan sesuatu perkhidmatan;
+
+b. Memenuhi standard atau kod rujukan dan prosedur-prosedur yang telah didokumenkan;
+
+c. Penggunaan peralatan yang sesuai;
+
+d. Mengesan dan mengawal parameter proses perolehan, pemantauan projek dan penyampaian
+perkhidmatan integrasi sistem yang sesuai;
+
+e. Pengawalan dan penilaian proses perolehan, pemantauan projek dan penyampaian perkhid-
+matan integrasi sistem;
+
+f. Memastikan kakitangan yang terlibat dalam proses perolehan, pemantauan projek dan penyam-
+paian perkhidmatan integrasi sistem adalah terlatih, mahir dan berkualiti serta memastikan
+kakitangan yang terlibat sentiasa memenuhi keperluan kualiti yang ditetapkan oleh pengurusan
+Syarikat; dan
+
+g. Menyediakan maklumat mengenai proses perolehan, pemantauan projek dan penyampaian
+perkhidmatan integrasi sistem untuk keperluan pelanggan.
+
+### 7.7.2 Validasi Proses Penyampaian Perkhidmatan Kepada Pelanggan.
+
+Pengurusan Syarikat akan memastikan proses validasi bagi proses-proses yang terlibat dilak-
+sanakan untuk mencapai hasil seperti yang dirancang. Ini bagi mengenalpasti kelemahan yang
+berlaku setelah penyampaian perkhidmatan dilaksanakan. Validasi ini bertujuan untuk mencapai
+kualiti penyediaan perkhidmatan dokumentasi seperti yang dirancangkan. Pengurusan Syarikat
+akan menentukan validasi seperti berikut:
+
+a. Kajian semula sistem dan teknik kemahiran terkini;
+
+b. Meningkatkan pengetahuan dan kemahiran kakitangan sesuai dengan perkhidmatan dokumentasi
+yang dirancang;
+
+c. Menggunakan kaedah dan prosedur khusus yang ditetapkan oleh perkhidmatan; dan
+
+d. Menyediakan peralatan yang bersesuaian dan mencukupi.
+
+### 7.7.3 Identifikasi dan Kemudahan Pengesanan Dokumen.
+
+Syarikat hendaklah mengenalpasti dan mewujudkan rekod bagi tujuan identifikasi dan kemudahkesanan penyimpanan dokumen. Penyusunan dokumen-dokumen di dalam rak dikesan melalui nombor panggilan.
+
+### 7.7.4 Harta Hak Milik Pelanggan
+
+Pengurusan Syarikat tidak menyimpan harta milik pelanggan.
+
+### 7.7.5 Pemuliharaan Dokumen
+
+Pengurusan Syarikat bertanggungjawab mewujudkan prosedur penyimpanan dokumen di Bilik
+Rekod bagi mengelakkan kerosakan dan memudahkan dokumen diperolehi apabila diperlukan.
+Semua bahan disimpan dalam persekitaran yang sesuai untuk mengelakkan kerosakan.
+
+## 7.8 Kawalan Bagi Kaedah Penentuan Ukuran Peralatan
+
+Pengurusan Syarikat tidak menggunapakai Klausa 7.8 iaitu kawalan bagi kaedah penentuan uku-
+ran peralatan kerana perkhidmatan yang diberikan kepada pelanggan tidak melibatkan perkhid-
+matan kawalan bagi kaedah penetuan ukuran peralatan.
+
+# 8.0 Pengukuran, Analisis dan Penambahbaikan Sistem Kualiti
+
+## 8.1 Am
+
+Pengurusan Syarikat hendaklah merancang, mewujud dan melaksanakan proses pemantauan bagi
+pengukuran, analisis dan penambahbaikan Sistem Pengurusan Kualiti. Pengurusan Syarikat
+hendaklah menyediakan prosedur bagi memantau dan mengukur proses perolehan, pemantauan projek dan penyampaian perkhidmatan integrasi sistem dilaksanakan secara berterusan. Pengurusan Syarikat hendaklah mengguna pakai teknik-teknik statistik bagi tujuan penambah baikan yang berterusan.
+
+## 8.2 Pemantauan Dan Pengukuran
+
+### 8.2.1 Kepuasan Pelanggan
+
+Pengurusan Syarikat menyediakan kaedah untuk mengukur kepuasan pelanggan tehadap
+perkhidmatan yang dibekalkan. Kepuasan pelanggan diukur melalui kaedah maklumbalas
+pelanggan, Audit Dalam dan hendaklah dibentangkan dalam Mesyuarat Kajian Semula
+Pengurusan.
+
+### 8.2.2 Audit Dalam
+
+Audit Dalam hendaklah dijadualkan dan dijalankan oleh Eksekutif terlatih dan laporan Audit
+Dalam dibentangkan dalam Mesyuarat Kajian Semula Pengurusan dan hendaklah mengambil
+tindakan pembetulan ke atas kelemahan yang dikesan. Audit susulan akan dijalankan untuk
+mengesan keberkesanan tindakan pembetulan dan laporan susulan disediakan bagi makluman
+kepada Pengurusan Syarikat.
+
+Pengurusan Syarikat akan melatih dan melantik Juru Audit Dalam untuk menjalankan Au-
+dit Dalam sekurang-kurangnya dua kali setahun untuk memastikan Sistem Pengurusan Kualiti
+memenuhi perkara-perkara berikut;
+
+a. Selaras dengan perancangan strategik dan objektif kualiti;
+
+b. Sistem Pengurusan Kualiti dilaksana dan diselenggara dengan berkesan;
+
+c. Selaras dengan keperluan-keperluan piawaian MS ISO 9001:2015;
+
+d. Mengesan kelemahan dalam Sistem Pengurusan kualiti; dan
+
+e. Penemuan audit terdahulu diambil tindakan pembetulan yang berkesan.
+
+Audit Dalam akan dirancang, mengambil kira status dan kepentingan proses-proses, bahagian-
+bahagian serta hasil-hasil audit terdahulu. Kriteria audit, skop, kekerapan dan kaedah-kaedah
+akan dijelaskan. Pemilihan juruaudit dan pelaksanaan audit akan memastikan objektiviti dan
+keadilan audit. Juruaudit-juruaudit tidak akan memeriksa kerja-kerja mereka sendiri.
+
+Satu prosedur perlu didokumenkan bagi menjelaskan tanggungjawab-tanggungjawab, perancan-
+gan dan syarat-syarat menjalankan audit. Hasil laporan audit dalam hendaklah direkodkan (lihat
+4.3.3).
+
+Pihak pengurusan Syarikat di bahagian yang diaudit akan memastikan tindakan-tindakan telah
+diambil dengan segera untuk menghindarkan ketidakakuran dan punca berlaku nya ketidakakuran. 
+Tindakan susulan dilaksanakan untuk pengesahan tindakan-tindakan yang telah diambil
+dan dilaporkan.
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+|PK(W).OA.03 Prosedur Audit Dalam                                      |
+
+### 8.2.3 Kawalan dan Pengukuran Proses
+
+Pengurusan Syarikat hendaklah menjalankan pemantauan dan pengukuran ke atas Sistem Pen-
+gurusan Kualiti bagi semua proses dan produk akhir yang terlibat. Kaedah pemantauan yang
+sesuai akan dilaksanakan bagi menentukan proses-proses yang di rancang sentiasa menghasilkan
+objektif kualiti yang ditetapkan. Sekiranya hasil yang dirancang itu tidak mencapai sasaran,
+tindakan pembetulan dan pencegahan akan dilaksanakan bagi memastikan pemantauan kepada
+proses-proses dan sasaran yang dirancang.
+
+### 8.2.4 Pemantauan Dan Pengukuran Produk.
+
+Pengurusan Syarikat hendaklah menyediakan prosedur untuk memantau dan mengukur ciri-
+ciri produk kepada pelanggan untuk memastikan keperluan-keperluan produk telah dipenuhi.
+Kriteria bagi produk akhir yang dimaksudkan merujuk kepada parameter-parameter berikut:
+a. Mencapai objektif kualiti yang ditetapkan; dan
+b. Memenuhi spesifikasi produk.
+
+## 8.3 Kawalan Produk Dan Perkhidmatan Yang Tidak Memenuhi Spesifikasi
+
+Pengurusan Syarikat hendaklah menyediakan prosedur bagi memastikan produk sentiasa
+memenuhi keperluan yang ditetapkan. Pengurusan Syarikat akan mengenalpasti produk yang
+tidak memenuhi spesifikasi dan pengasingan dilakukan serta tindakan pembetulan akan dilak-
+sanakan berdasarkan prosedur tindakan pembetulan yang berkuatkuasa. Produk yang tidak
+memenuhi spesifikasi adalah dokumen-dokumen proses perolehan, pemantauan projek dan penyampaian perkhidmatan integrasi sistem yang tidak diselenggara dengan betul. Semua produk yang tidak memenuhi spesifikasi hendaklah dikenalpasti oleh Pengurusan Syarikat bagi menentukan sebarang kepincangan atau
+ketidakpatuhan akan diambil tindakan pembetulan, pencegahan serta penambahbaikan yang diperlukan.
+
+## 8.4 Analisis Data
+
+Pengurusan Syarikat hendaklah mengenalpasti kaedah bagi menganalisis data yang berkaitan-
+dalam menentukan pelaksanaan Sistem Pengurusan Kualiti sentiasa berkesan. Analisis data
+akan meliputi sumber-sumber bagi tindakan penambahbaikan keatas Sistem Pengurusan kualiti.
+Analisis data hendaklah menyalurkan maklumat-maklumat berikut:
+
+8.4.1 Tahap kepuasan pelanggan;
+
+8.4.2 Pencapaian objektif kualiti;
+
+8.4.3 Proses-proses kerja yang memerlukan tindakan penambahbaikan yang berterusan;
+
+8.4.4 Prestasi sasaran kerja tahunan staf ; dan
+
+8.4.5 Piagam Pelanggan.
+
+## 8.5 Penambahbaikan
+
+### 8.5.1 Penambahbaikan Berterusan
+
+Pengurusan Syarikat hendaklah sentiasa menambahbaik keberkesanan Sistem Pengurusan Kualiti dengan berasaskan sumber-sumber berikut;
+
+a. Dasar Kualiti;
+
+b. Objektif Kualiti;
+
+c. Laporan Audit Dalam;
+
+d. Analisis Data;
+
+e. Tindakan Pembetulan;
+
+f. Tindakan Pencegahan; dan
+
+g. Kajian Semula Pengurusan. Fokus sesuatu projek penambahbaikan hendaklah dikenalpasti
+oleh dari masa ke semasa.
+
+### 8.5.2 Tindakan Pembetulan
+
+Pengurusan Syarikat hendaklah mengambil tindakan pembetulan keatas ketidakpatuhan yang
+dikenalpasti dari semasa ke semasa. Tindakan pembetulan perlu mengenalpasti punca kepada
+ketidakpatuhan yang dikesan dan tindakan pembetulan perlu diambil dengan segera dan
+berkesan. Tindakan-tindakan pembetulan akan dilaksanakan berdasarkan keperluan-keperluan
+berikut;
+
+a. Kajian semula ketidakpatuhan (termasuk aduan pelanggan);
+
+b. Mengenal pasti punca-punca ketidakpatuhan;
+
+c. Menilai keperluan tindakan untuk memastikan ketidakpatuhan tidak berulang;
+
+d. Mengenal pasti dan melaksanakan tindakan yang diperlukan;
+
+e. Merekodkan hasil-hasil tindakan yang telah diambil; dan
+
+f. Kaji semula keberkesanan tindakan pembetulan yang telah diambil.
+
+### 8.5.3 Tindakan Pencegahan
+
+Pengurusan Syarikat hendaklah mendokumenkan prosedur bagi tindakan pencegahan. Peran-
+cangan tindakan pencegahan hendaklah dikenalpasti bagi sesuatu ketidakpatuhan yang telah
+berlaku untuk menentukan langkah-langkah bagi mencegahnya daripada berulang. Pemantauan
+yang berterusan ke atas tindakan pencegahan hendaklah dijalankan oleh pengurusan Syarikat.
+Tindakan Pencegahan hendaklah dilaksanakan berpandukan kepada trend ke atas tindakan
+pembetulan yang dilaksanakan hasil penilaian dan pemerhatian Audit Dalam, Analisis Aduan Pelanggan dan maklumbalas pelanggan. Tindakan-tindakan pencegahan akan dilaksanakan berdasarkan kepada perkara-perkara berikut:
+
+a. Menentukan ketidakpatuhan/kepincangan yang mungkin berlaku dan mengenalpasti punca
+dan cara-cara pencegahan;
+
+b. Mengkaji pelan tindakan pencegahan untuk mengelak ketidakpatuhan atau kepincangan dari
+berlaku dan berulang;
+
+c. Mengenal pasti strategi dan kaedah tindakan pencegahan serta melaksanakan seperti mana
+yang diperlukan;
+
+d. Merekod semua keputusan berkaitan dengan tindakan pencegahan yang diambil; dan
+
+e. Mengkaji keberkesanan tindakan pencegahan yang telah diambil.
+
+Pengurusan Syarikat akan mengenal pasti perubahan risiko dan keperluan tindakan pencega-
+han dengan memberi tumpuan kepada perubahan risiko yang signifikan. Keutamaan tindakan
+pencegahan yang dikenal pasti hendaklah berasaskan kepada hasil penilaian risiko.
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+|PK(W).OA.04 Prosedur Tindakan Pembetulan                              |
+|PK(W).OA.05 Prosedur Tindakan Pencegahan                              |
+|PK(W).OA.06 Prosedur Kawalan Penghasilan Produk Perkhidmatan Yang Tidak Memenuhi Spesifikasi|
+
+# 9. Kembaran-Kembaran:
+
+## A. CARTA ORGANISASI Syarikat
+
+## B. MODEL PDCA
+
+## C. CARTA PEMETAAN PROSES
+
+## D. SENARAI INDUK DOKUMEN KUALITI (WAJIB)
+
+|Senarai Induk Dokumen:                                                |
+|----------------------------------------------------------------------|
+|1. PK(W).OA.01 – Prosedur Kawalan Dokumen Kualiti                     |
+|2. PK(W).OA.02 – Prosedur Pengurusan Rekod Kualiti                    |
+|3. PK(W).OA.03 – Prosedur Audit Dalaman                               |
+|4. PK(W).OA.04 – Prosedur Tindakan Pembetulan                         |
+|5. PK(W).OA.05 – Prosedur Tindakan Pencegahan                        |
+|6. PK(W).OA.06 – Prosedur Kawalan Penghasilan Produk Perkhidmatan Yang Tidak Memenuhi Spesifikasi|
+
+## E. SENARAI INDUK DOKUMEN KUALITI (SOKONGAN)
+
+|Senarai Induk Dokumen:                                                |
+|----------------------------------------------------------------------|
+|1. PK(S).OA.01 – Prosedur Pengendalian Aduan, Maklumbalas Pelanggan   |
+|dan Penghargaan Serta Peti Aduan/Cadangan|
+|2. PK(S).OA.02 – Prosedur Mesyuarat Kajian Semula Pengurusan          |
+|3. PK(S).OA.03 – Prosedur Perolehan                                   |
+|4. PK(S).OA.04 – Prosedur Pengendalian Latihan                        |
+|5. PK(S).OA.05 – Prosedur Penyediaan Bajet                            |
+|6. PK(S).OA.06 – Prosedur Penyenggaraan ICT                           |
+|7. PK(S).OA.07 – Prosedur Pengurusan Aset                             |
+|8. PK(S).OA.08 – Prosedur Pengurusan Keselamatan Sumber Manusia       |
+|9. PK(S).OA.09 – Prosedur Keselamatan Fizikal dan Persekitaran        |
+|10. PK(S).OA.10 – Prosedur Pengurusan Komunikasi dan Operasi          |
+|11. PK(S).OA.11 – Prosedur Kawalan Capaian                            |
+|12. PK(S).OA.12 – Prosedur Perolehan, Pembangunan dan Penyelenggaraan Sistem|
+|13. PK(S).OA.13 – Prosedur Pengurusan Pengendalian Insiden           |
+
+## F. SENARAI INDUK DOKUMEN KUALITI (OPERASI)
+
+|Senarai Induk Dokumen:                                                |
+|----------------------------------------------------------------------|
+|1. PK(O).OA.01- Prosedur Penyediaan Sebut Harga, Pengurusan Tender Perolehan dan Rundingan Kontrak|
+|2. PK(O).OA.02- Prosedur Pengurusan, Pemantauan dan Penyerahan Perkhidmatan Integrasi Sistem|
+|3. PK(O).OA.03- Prosedur Pengurusan, Pemantauan Perolehan Perkhidmatan dan Pembayaran kepada Pembekal|

@@ -1,0 +1,209 @@
+---
+title: |
+  ![](chart/openapps-logo.png){width=30%}  
+  Bridging the gap between \textcolor{blue}{PEOPLE}, \textcolor{blue}{BUSINESS} and \textcolor{blue}{TECHNOLOGY}
+  
+  MS ISO 9001:2015 Sistem Pengurusan Kualiti  
+  OpenApps Sdn Bhd (548151-W)
+author:
+toc-title: Jadual Kandungan
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: '4'
+    includes:
+      in_header: "preamb.tex"
+params:
+  doc_id: PK(W).OA.01
+  doc_title: "title"
+  doc_date: ""
+  
+---
+
+\newpage
+\fancyhead[R]{\textbf{No: Keluaran: 01\\No Pindaan: 00\\Tarikh Kuatkuasa: `r params$doc_date`}}
+\fancyhead[L]{\textbf{MS ISO 9001:2015\\OpenApps Sdn Bhd (548151-W)\\`r params$doc_id`}}
+
+|                                   |
+|:---------------------------------:|
+|**`r paste0(toupper(params$doc_title)," -- ",params$doc_id)`**|
+
+# I    Penyedia dan Kelulusan
+
+|Nama &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |Tarikh |
+|-------------------------------|--------------|
+|                               |              |
+| **Disediakan Oleh**:          | `r params$doc_date` |
+|                               |              |
+|                               |              |
+|_____________________          |              |
+| **`r substr(a_list$pemilik_dok[14],1,40)`**| |
+| `r substr(a_list$pemilik_dok[14],41,60)`   | |
+| **Wakil Pengurusan**          |              |
+|                               |              |
+| **Diluluskan Oleh**:          | `r params$doc_date` |
+|                               |              |
+|                               |              |
+|_____________________          |              |
+| **`r a_list$pemilik_dok[15]`**|              |
+| **CEO**                       |              |
+|                               |              |
+| **No Salinan Terkawal**:      |              |
+|                               |              |
+| `r params$doc_id`( )          |              |
+
+\newpage
+
+# II    Rekod Pindaan
+
+|Tarikh Pindaan|No Pindaan/No Keluaran|Rujukan Pindaan Mukasurat |Butir-butir Pindaan|Diluluskan Oleh|
+|-------------|-------------|-------------|-------------|-------------|
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+
+# III   Senarai Pemegang Dokumen
+
+| No. Salinan Terkawal   | Pemegang Dokumen              |
+|------------------------|-------------------------------|
+| `r params$doc_id`(01)  | `r a_list$pemilik_dok[1]`     |
+|                        |                               |
+| `r params$doc_id`(02)  | `r a_list$pemilik_dok[2]`     |
+|                        |                               |
+| `r params$doc_id`(03)  | `r a_list$pemilik_dok[3]`     |
+|                        |                               |
+| `r params$doc_id`(04)  | `r a_list$pemilik_dok[4]`     |
+|                        |                               |
+| `r params$doc_id`(05)  | `r a_list$pemilik_dok[5]`     |
+|                        |                               |
+| `r params$doc_id`(06)  | `r a_list$pemilik_dok[6]`     |
+|                        |                               |
+| `r params$doc_id`(07)  | `r a_list$pemilik_dok[7]`     |
+|                        |                               |
+| `r params$doc_id`(08)  | `r a_list$pemilik_dok[8]`     |
+|                        |                               |
+| `r params$doc_id`(09)  | `r a_list$pemilik_dok[9]`     |
+|                        |                               |
+| `r params$doc_id`(10)  | `r a_list$pemilik_dok[10]`    |
+|                        |                               |
+| `r params$doc_id`(11)  | `r a_list$pemilik_dok[11]`    |
+|                        |                               |
+| `r params$doc_id`(12)  | `r a_list$pemilik_dok[12]`    |
+|                        |                               |
+| `r params$doc_id`(13)  | `r a_list$pemilik_dok[13]`    |
+
+\newpage
+
+
+# 1.0   Objektif
+
+Prosedur bagi proses mendapatkan dan memantau tender perolehan serta rundingan kontrak. 
+
+# 2.0   Skop
+
+Pelaksanaan oleh Jabatan Jualan bagi proses mendapatkan dan memantau tender perolehan serta rundingan kontrak.
+
+# 3.0   Rujukan
+
+MK.OA.01 dengan seksyen-seksyen berikut:
+
+a. 8.1 Perancangan dan kawalan operasi.
+
+a. 8.2 Keperluan untuk produk dan perkhidmatan.
+
+a. 8.2.2 Semakan Semula Ke Atas Keperluan-Keperluan Perkhidmatan yang Hendak Disampaikan.
+
+# 4.0   Definisi
+
+  a.    E-Perolehan - Aplikasi perolehan dalam talian bagi kementerian/agensi kerajaan.
+  
+  a.    Keperluan Mandatori - Item-item atau keperluan yang mesti ditawarkan oleh penender sebagai syarat mandatori.
+  
+  a.    "Letter of Intent" - Surat hasrat yang dikeluarkan oleh kementerian/agensi sebagai setuju-terima 
+  tawaran oleh syarikat mengenai sesuatu perolehan oleh kementerian/agensi berkenaan.
+  
+  a.    "Letter of Acceptance" - Surat yang dikeluarkan oleh kementerian/agensi sebagai setuju-terima 
+  tawaran oleh syarikat mengenai sesuatu perolehan oleh kementerian/agensi berkenaan.
+
+# 5.0   Singkatan
+
+  a.    LOI - "Letter of Intent".
+  
+  a.    LOA - "Letter of Acceptance".
+
+\newpage
+
+# 6.0   Tanggungjawab dan Tindakan
+
+\begin{table}[ht]
+\begin{tabular}{|l|l|}
+\hline
+Tanggungjawab     & Tindakan                                                               \\ \hline
+Eksekutif Jualan  & A.  PERMOHONAN TENDER PEROLEHAN, SEBUT HARGA DAN TAWARAN LOI/LOA       \\
+                  &                                                                        \\
+                  & 1.  Dapatkan maklumat iklan dari E-Perolehan. Maklumat penting:        \\
+                  & i.    Kementerian/Agensi;                                              \\
+                  & ii.   Keperluan mandatori dan spesifikasi;dan                          \\
+                  & iii.  Tarikh tutup iklan.                                              \\
+                  &                                                                        \\
+                  & 2.  Dapatkan sebut harga dari pembekal perkara-perkara 1.              \\
+                  &                                                                        \\
+                  & 3.  Terima sebut harga dari pembekal dan buat verifikasi.              \\
+                  &                                                                        \\
+                  & 4.  Sediakan cadangan tender untuk kelulusan Pengurus Jualan.          \\
+                  &                                                                        \\ \hline
+Pengurus Jualan   & 5.  Semak dan verifikasi cadangan tender dan luluskan.                 \\
+                  &                                                                        \\ \hline
+Eksekutif Jualan  & 6.  Serah permohonan tender dalam tempoh kuatkuasa iklan.              \\
+                  &                                                                        \\
+                  & 7.  Pantau keputusan tender melalui E-Perolehan dari semasa ke semasa. \\
+                  &                                                                        \\
+                  & 8.  Terima LOI/LOA secara emel dari kementerian/agensi.                \\
+                  &                                                                        \\ \hline
+Pengurus Jualan / & B. RUNDINGAN KONTRAK                                                   \\
+Eksekutif Jualan  &                                                                        \\
+                  & 9.   Sediakan tawaran balas sebagai asas rundingan kontrak.            \\
+                  & Butir-butir utama:                                                     \\
+                  & i.    Keperluan mandatori dan spesifikasi;dan                          \\
+                  & ii.   Item-item tambah nilai.                                          \\
+                  &                                                                        \\
+                  & 10. Hadir mesyuarat rundingan kontrak bersama kementerian/agensi.      \\
+                  &                                                                        \\
+                  & 11. Terima tawaran kontrak(dimuktamadkan) dari kementerian/agensi.     \\
+                  &                                                                        \\
+                  & 12. Bentuk pasukan projek.                                             \\
+                  &                                                                        \\ \hline
+Kerani            & 13.  Failkan:                                                          \\
+                  & i.    Sebut harga pembekal;                                            \\
+                  & ii.   LOI/LOA; dan                                                     \\
+                  & iii.  kontrak(dimuktamadkan).                                          \\ \hline
+\end{tabular}
+\end{table}
+
+\newpage
+
+# 7.0 Aliran Kerja
+
+![Sebut harga dan tender](chart/o01-1.png){width=18%}
+\newpage
+
+![Tawaran Tender](chart/o01-2.png){width=18%}
+\newpage
+
+# 8.0 Rekod Kualiti
+
+|Bil   |Rekod                       |Tempoh Penyimpanan|Lokasi  |
+|------|-----------------------------------------|--------|-------------|
+|1.    |Tawaran tender (Cetakan dari E-Perolehan)|5 tahun |Bilik Fail|
+|2.    |Senarai Sebut Harga Pembekal             |5 tahun |Bilik Fail|
+|3.    |Rundingan Kontrak (dimuktamadkan)        |5 tahun |Bilik Fail|
+|4.    |Letter of Intent                         |5 tahun |Bilik Fail|
+|5.    |Letter of Acceptance                     |5 tahun |Bilik Fail|
+
+# 9.0 Lampiran

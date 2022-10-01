@@ -1,0 +1,19 @@
+id|Perspektif|Objektif|Item|Ukuran|Unit|Skor|Jlh|Maks|Min
+l11|Kapasiti organisasi (L&G)|Inovasi/Kreativiti|ada|# inovasi|3|1|3|3|0
+l12|Kapasiti organisasi (L&G)|Inovasi/Kreativiti|ada|# staf|7|1|7|7|0
+l1|Kapasiti organisasi (L&G)|Inovasi/Kreativiti|ada|ada Award/Inovasi|3|1|3|3|0
+p11|Proses|Serahan projek|awal|# serahan|15|5|75|75|15
+p12|Proses|Serahan projek|tepat|# serahan|5|3|15|25|5
+p13|Proses|Serahan projek|lewat|# serahan|0|1|0|0|0
+p21|Proses|Keberkesanan proses|7 hari atau kurang|# DO|20|5|100|100|20
+p22|Proses|Keberkesanan proses|8 ke 14 hari|# DO|20|3|60|100|20
+p23|Proses|Keberkesanan proses|lebih 14 hari|# DO|10|1|10|50|10
+p24|Proses|Keberkesanan proses|7 hari atau kurang|#  PO|20|5|100|100|20
+p25|Proses|Keberkesanan proses|8 ke 14 hari|#  PO|20|3|60|100|20
+p26|Proses|Keberkesanan proses|lebih 14 hari|#  PO|10|1|10|50|10
+p27|Proses|Keberkesanan proses|7 hari atau kurang|# Sebut harga|20|5|100|100|20
+p28|Proses|Keberkesanan proses|8 ke 14 hari|# Sebut harga|20|3|60|100|20
+p29|Proses|Keberkesanan proses|lebih 14 hari|# Sebut harga|10|1|10|50|10
+c11|Pelanggan|Kepuasan pelanggan|71% ke 100%|%|1|5|5|5|0
+c12|Pelanggan|Kepuasan pelanggan|30 hari atau kurang|#|25|5|125|125|25
+c14|Pelanggan|Kepuasan pelanggan|lebih 39 hari|#|3|1|3|15|3

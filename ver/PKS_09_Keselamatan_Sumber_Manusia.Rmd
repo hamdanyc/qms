@@ -1,0 +1,206 @@
+---
+title: "MS ISO 9001:2015 Sistem Pengurusan Kualiti"
+author: "OpenApps Sdn Bhd (548151-W)"
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: '4'
+  html_document:
+    toc: yes
+    toc_depth: 4
+params:
+  doc_id: PK(W).OA.01
+  doc_title: "title"
+  
+---
+
+```{r init, include=FALSE}
+library(readr)
+a_list <- read_csv("~/R/qms/a_list.csv")
+```
+
+\newpage
+
+|Prosedur Kualiti &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|`r params$doc_id`|
+|:------------------|-------:|
+
+![Bridging the Gap Between PEOPLE, BUSINESS and TECHNOLOGY](chart/openapps-logo.png){width=30%}
+
+|                                   |
+|:---------------------------------:|
+|**`r paste0(toupper(params$doc_title)," -- ",params$doc_id)`**|
+
+# I    Penyedia dan Kelulusan
+
+|Nama &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |Tarikh |
+|-------------------------------|--------------|
+|                               |              |
+| **Disediakan Oleh**:          | **Jun 2021** |
+|                               |              |
+|                               |              |
+|_____________________          |              |
+| **`r substr(a_list$pemilik_dok[14],1,40)`**| |
+| `r substr(a_list$pemilik_dok[14],41,60)`   | |
+| **Wakil Pengurusan**          |              |
+|                               |              |
+| **Diluluskan Oleh**:          | **Jun 2021** |
+|                               |              |
+|                               |              |
+|_____________________          |              |
+| **`r a_list$pemilik_dok[15]`**|              |
+| **MD**                       |              |
+|                               |              |
+| **No Salinan Terkawal**:      |              |
+|                               |              |
+| `r params$doc_id`( )          |              |
+
+\newpage
+
+# II    Rekod Pindaan
+
+|Tarikh Pindaan|No Pindaan/No Keluaran|Rujukan Pindaan Mukasurat |Butir-butir Pindaan|Diluluskan Oleh|
+|-------------|-------------|-------------|-------------|-------------|
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+
+# III   Senarai Pemegang Dokumen
+
+| No. Salinan Terkawal   | Pemegang Dokumen              |
+|------------------------|-------------------------------|
+| `r params$doc_id`(01)  | `r a_list$pemilik_dok[1]`     |
+|                        |                               |
+| `r params$doc_id`(02)  | `r a_list$pemilik_dok[2]`     |
+|                        |                               |
+| `r params$doc_id`(03)  | `r a_list$pemilik_dok[3]`     |
+|                        |                               |
+| `r params$doc_id`(04)  | `r a_list$pemilik_dok[4]`     |
+|                        |                               |
+| `r params$doc_id`(05)  | `r a_list$pemilik_dok[5]`     |
+|                        |                               |
+| `r params$doc_id`(06)  | `r a_list$pemilik_dok[6]`     |
+|                        |                               |
+| `r params$doc_id`(07)  | `r a_list$pemilik_dok[7]`     |
+|                        |                               |
+| `r params$doc_id`(08)  | `r a_list$pemilik_dok[8]`     |
+|                        |                               |
+| `r params$doc_id`(09)  | `r a_list$pemilik_dok[9]`     |
+|                        |                               |
+| `r params$doc_id`(10)  | `r a_list$pemilik_dok[10]`    |
+|                        |                               |
+| `r params$doc_id`(11)  | `r a_list$pemilik_dok[11]`    |
+|                        |                               |
+| `r params$doc_id`(12)  | `r a_list$pemilik_dok[12]`    |
+|                        |                               |
+| `r params$doc_id`(13)  | `r a_list$pemilik_dok[13]`    |
+
+\newpage
+
+
+# 1.0   Objektif
+
+ Prosedur ini menggariskan langkah-langkah pihak Pengurusan Syarikat
+ mengendalikan latihan dalaman dan latihan luaran dengan baik dan
+ berkesan setelah dikenalpasti keperluan rancangan latihan.
+
+# 2.0   Skop
+
+ Prosedur ini digunapakai oleh pihak Pengurusan Syarikat yang terlibat dalam
+ perancangan, pengendalian dan pelaksanaan latihan dalaman dan luaran
+ untuk semua Staf Syarikat.
+ 
+# 3.0   Rujukan
+
+  3.1   MK.OA.01
+  
+  i)    Seksyen 4.2.4. - Kawalan Rekod.
+  i)    Seksyen 6.2.2. - Keupayaan, Kesedaran dan Latihan.
+  i)    Seksyen 7.5.1  - Kawalan Proses.
+
+# 4.0   Definisi
+
+## 4.1  Kursus/Latihan Dalaman
+
+ Sebarang kursus/program latihan yang dianjurkan oleh Bahagian
+ Pengurusan Syarikat kepada kakitangan di dalam lokasi sahaja.
+
+## 4.2  Kursus/Latihan Luaran
+
+ Sebarang kursus/program latihan yang dianjurkan oleh agensi luar dan
+ dimajukan kepada Syarikat untuk diturut serta oleh kakitangannya.
+
+## 4.3  Urusetia
+
+ Urusetia kursus adalah pegawai dan staf yang dilantik untuk mengurus
+ dan mengelola sesuatu kursus/latihan.
+
+## 3.4 Penyelia Latihan
+
+ Penyelia Latihan adalah staf yang dilantik untuk menyelia dan mengawal
+ perjalanan kursus secara langsung.
+
+## 3.5 Pegawai Latihan
+
+ Pegawai Latihan adalah pegawai yang dilantik untuk mengurus dan
+ merancang perjalanan kursus secara langsung.
+
+# 5.0   Singkatan
+
+  i)    PJB - Pengurus Jabatan/Bahagian.
+  i)    PL - Penyelia Latihan.
+  i)    SM - Sumber Manusia.
+
+# 6.0   Tanggungjawab dan Tindakan
+
+## 6.1    Perancangan & Pelaksanaan Kursus/Latihan
+
+|Tanggungjawab  |Tindakan                                       |
+|---------------|-----------------------------------------------|
+|Pengurus Kewangan/Pentadbiran|1. Merancang untuk mengendalikan kursus/latihan berasaskan bilangan kakitangan dan peruntukan kewangan.|
+|               |2. Arahkan Pengurus Kewangan/Pentadbiran mengenalpasti tempat,   |
+|               |tarikh, keperluan, peserta kursus dan peruntukan kewangan.|
+|               |                                               |
+|Pengurus Kewangan/Pentadbiran    |3.  Kenalpasti tempat, tarikh dan keperluan latihan.|
+|               |serta memajukan permohonan peruntukan kewangan dari JKP|
+|               |untuk pembelian peralatan (jika perlu) dan pastikan surat jawapan|
+|               |permohonan dan kelulusan itu diterima oleh Kerani Kewangan.|
+|               |                                               |
+|Kerani Kewangan|4.  Terima kelulusan Kewangan dari JKP.|
+|               |5.  Kemukakan sebutharga dari 3 pembekal kepada JKP.
+|               |6.  Terima keperluan peralatan kursus/latihan dari pembekal.|
+|               |                                               |
+|Eksekutif SM   |7.  Terima arahan dari Pengurus SM untuk Lantik PL.|
+|               |8.  Arahkan PL untuk mengendalikan Kursus/Latihan. |
+|               |9.  Terima dari PL Arahan Pentadbiran Kursus/Latihan, disemak dan tandatangan.|
+|               |10. Terima senarai peserta kursus dari PJB.|
+|               |                                               |
+|PL             |11. Dapatkan senarai peserta kursus dari PJB salinan kepada Eksekutif SM.|
+|               |12. Kendalikan kursus/latihan seperti Arahan Pentadbiran Kursus/Latihan.|
+|               |13. Edarkan Borang Maklum Balas Kursus/Latihan.|
+|               |14. Sediakan laporan kursus/latihan.|
+|               |15. Sediakan laporan penilaian kursus serta agihkan kepada PJB.|                                  
+
+# 7.0 Aliran Kerja
+
+# 8.0 Rekod Kualiti
+
+|Bil   |Rekod |Tempoh Penyimpanan|Lokasi|
+|------|----------------------------|---------------------|------|
+|1.    |Rekod Kehadiran Peserta Kurus/Latihan|5 Tahun|Bilik Fail|
+|2.    |Rekod Kurus/Latihan                  |5 Tahun|Bilik Fail|
+|3.    |Laporan Penilaian Kursus/Latihan     |5 Tahun|Bilik Fail|
+|4.    |Borang Maklum Balas Kursus/Latihan    |5 Tahun|Bilik Fail|
+
+# 9.0 Lampiran
+
+i)    Borang Laporan Penilaian Latihan.
+i)    Nama-nama Peserta Yang Menghadiri Kursus.
+i)    Borang Maklum Balas Kursus/Latihan.
+i)    Penilaian Keberkesanan Kursus/Latihan.
+

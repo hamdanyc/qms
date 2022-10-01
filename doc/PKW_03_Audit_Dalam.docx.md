@@ -1,0 +1,2342 @@
+![](media/image36.png){width="2.2694444444444444in"
+height="2.7354166666666666in"}
+
+  -------------------
+  **AUDIT DALAMAN**
+  -------------------
+
+**PK (W). JRP. 03**
+
++------------------------------------+-------------+--------+
+| NAMA                               | TANDATANGAN | TARIKH |
++====================================+=============+========+
+| DISEDIAKAN OLEH:                   |             |        |
+|                                    |             |        |
+| **KOL HAMDAN BIN YAACOB**          |             |        |
+|                                    |             |        |
+| **WAKIL PENGURUSAN**               |             |        |
++------------------------------------+-------------+--------+
+| DILULUSKAN OLEH:                   |             |        |
+|                                    |             |        |
+| **BRIG JEN DATO' NAZRI ABU BAKAR** |             |        |
+|                                    |             |        |
+| **PENGARAH**                       |             |        |
++------------------------------------+-------------+--------+
+
+  **NO. SALINAN TERKAWAL**   **PEMEGANG DOKUMEN**
+  -------------------------- ----------------------
+  **PK (W).JRP.03. ( )**     
+
+**REKOD PINDAAN**
+
++-------------+-------------+-------------+-------------+-------------+
+| **TARIKH**  | **NO.       | **RUJUKAN   | **          | *           |
+|             | PINDAAN/**  | PINDAAN     | BUTIR-BUTIR | *DILULUSKAN |
+| **PINDAAN** |             | MUKASURAT** | PINDAAN**   | OLEH**      |
+|             | **NO.       |             |             |             |
+|             | KELUARAN**  | *           |             |             |
+|             |             | *TERLIBAT** |             |             |
++=============+=============+=============+=============+=============+
+| 09/06/2014  | No Pin. 00  | P           | Pindaan     | Brig Jen    |
+|             |             | K(W).JRP.03 | Mukasurat   | Nazri Abu   |
+| 30/11/2015  | No Keluaran | Pindaan     |             | Bakar       |
+|             | 01          | Keseluruhan | Pindaan     |             |
+|             |             | Mukasurat 1 | Keseluruhan | Brig Jen    |
+|             | No Pin. 01  | dan 2       |             | Dato' Nazri |
+|             |             |             |             | Abu Bakar   |
+|             | No Keluaran | P           |             |             |
+|             | 02          | K(W).JRP.03 |             |             |
+|             |             | Pindaan     |             |             |
+|             |             | Keseluruhan |             |             |
+|             |             | Mukasurat 1 |             |             |
+|             |             | hingga 3    |             |             |
++-------------+-------------+-------------+-------------+-------------+
+
+### 
+
+### **SENARAI EDARAN**
+
++--------------------+-------------------------------+
+| **NO. SALINAN**    | ### **PEMEGANG DOKUMEN**      |
+|                    |                               |
+| **TERKAWAL**       |                               |
++====================+===============================+
+| PK (W).JRP.03.(01) | Pengarah Rekod dan Pencen     |
++--------------------+-------------------------------+
+| PK (W).JRP.03.(02) | Wakil Pengurusan              |
++--------------------+-------------------------------+
+| PK (W).JRP.03.(03) | PS 1 Pengurusan               |
++--------------------+-------------------------------+
+| PK (W).JRP.03.(04) | PS 2 Tadbir/Kor               |
++--------------------+-------------------------------+
+| PK (W).JRP.03.(05) | PS 2 ICT                      |
++--------------------+-------------------------------+
+| PK (W).JRP.03.(06) | PS 2 Operasi                  |
++--------------------+-------------------------------+
+| PK (W).JRP.03.(07) | PS 2 Dasar dan Teknik         |
++--------------------+-------------------------------+
+| PK (W).JRP.03.(08) | PS 2 Inspektorat              |
++--------------------+-------------------------------+
+| PK (W).JRP.03.(09) | PS 3 Tadbir                   |
++--------------------+-------------------------------+
+| PK (W).JRP.03.(10) | PS 3 Koord Operasi            |
++--------------------+-------------------------------+
+| PK (W).JRP.03.(11) | PS 3 Sel Pegawai              |
++--------------------+-------------------------------+
+| PK (W).JRP.03.(12) | Penyelia Kanan Markas Operasi |
++--------------------+-------------------------------+
+| PK (W).JRP.03.(13) | Penyelia Sel Pegawai          |
++--------------------+-------------------------------+
+| PK (W).JRP.03.(14) | Pengurus Dokumen              |
++--------------------+-------------------------------+
+| PK (W).JRP.03.(15) | Sekretariat ISO               |
++--------------------+-------------------------------+
+
+### 
+
+1.  **OBJEKTIF**
+
+Prosedur ini bertujuan menyediakan garispanduan Audit Dalaman JRP
+dilaksanakan secara terancang dan berkesan. Audit Dalaman akan
+mengenalpasti kepatuhan dan ketidakpatuhan akan keberkesanan Sistem
+Pengurusan Kualiti untuk keperluan penambahbaikan**.**
+
+2.  **SKOP**
+
+> Prosedur ini digunapakai oleh WP, KSA, KPAD dan JAD bagi semua
+> aktiviti audit dalaman di JRP semasa merancang, melaksanakan dan
+> menilai keberkesanan Sistem Pengurusan Kualiti JRP.
+
+3.  **RUJUKAN**
+
+> **3.1 MK.JRP.02**
+>
+> Seksyen 8.2 - Pemantauan dan Pengukuran.
+>
+> Seksyen 8.2.2 - Audit Dalaman.
+>
+> Seksyen 8.5.1 - Penambahbaikan Berterusan.
+>
+> Seksyen 8.5.2 - Tindakan Pembetulan.
+>
+> Seksyen 8.5.3 - Tindakan Pencegahan.
+
+4.  **DEFINISI**
+
+> **4.1 AUDIT DALAMAN**
+>
+> Suatu proses pemeriksaan untuk menilai keberkesanan Sistem Pengurusan
+> Kualiti JRP melalui pemeriksaan sistematik yang dijalankan oleh
+> Pegawai terlatih yang dilantik sebagai JAD.
+
+2.  **AUDITEE**
+
+> Semua anggota JRP di dalam Sistem Pengurusan Kualiti MS ISO 9001:2008
+> di Cawangan dan Sel tertakluk untuk diauditkan.
+
+3.  **JURUAUDIT DALAMAN**
+
+> Anggota pasukan AD yang terlatih dan dilantik oleh Pengarah.
+
+4.  **AUDIT SUSULAN**
+
+> Suatu proses pengauditan semula dan susulan audit dalaman bagi
+> mempastikan tindakan pembetulan ke atas Ketakakuran yang dikenalpasti
+> semasa pengauditan awal.
+
+5.  **KETAKAKURAN**
+
+> Percanggahan atau pelanggaran terhadap keperluan di dalam Sistem
+> Pengurusan Kualiti MS ISO 9001:2008 JRP yang ditemui semasa proses
+> pengauditan dijalankan.
+
+**4.5.1** **MAJOR**
+
+Ketakakuran ke atas mana-mana prosedur/keperluan standard/ pekeliling
+dan perundangan yang telah menjejaskan produk akhir/ perkhidmatan dan
+memberi kesan buruk secara langsung kepada Sistem Pengurusan Kualiti
+keseluruhannya.
+
+> **4.5.2 MINOR**
+>
+> Ketakakuran/kepincangan yang telah berlaku tidak menjejaskan secara
+> langsung produk akhir atau Sistem Pengurusan Kualiti keseluruhannya.
+
+3.  **PEMERHATIAN**
+
+> Sebarang kepincangan atau penambahbaikan yang perlu diambil berikutan
+> dari prosedur kualiti yang tidak jelas. Ia belum menjejaskan Sistem
+> Pengurusan Kualiti secara keseluruhannya.
+
+5.  **SENARAI SEMAK AUDIT**
+
+> Satu siri soalan bertulis di dalam format khas yang dijadikan panduan
+> oleh JAD kepada perkara-perkara yang perlu diperiksa semasa
+> pengauditan.
+
+5.  **SINGKATAN**
+
+  5.1   WP     \-   Wakil Pengurusan
+  ----- ------ ---- -----------------------------
+  5.2   TWP    \-   Timbalan Wakil Pengurusan
+  5.3   KSA    \-   Ketua Sistem Audit
+  5.4   KPAD   \-   Ketua Pasukan Audit Dalaman
+  5.5   PAD    \-   Pasukan Audit Dalaman
+  5.6   JAD    \-   Juru Audit Dalaman
+  5.7   PD     \-   Pengurus Dokumen
+  5.8   KS     \-   Ketua Sel
+  5.9   AD     \-   Audit Dalaman
+
+6.  **TANGGUNGJAWAB DAN TINDAKAN**
+
++-------------------+-----+------------------------------------------+
+| **TANGGUNGJAWAB** |     | **TINDAKAN**                             |
++===================+=====+==========================================+
+|                   |     | **PERANCANGAN AD** {#perancangan-ad}     |
+|                   |     | ==================                       |
++-------------------+-----+------------------------------------------+
+| **PRP**           | 1\. | Bincang dengan WP dari semasa ke semasa  |
+|                   |     | mengenai perlaksanaan AD.                |
++-------------------+-----+------------------------------------------+
+|                   | 2\. | > Lantik KSA.                            |
++-------------------+-----+------------------------------------------+
+| **WP**            | 3\. | > Arahkan KSA rancang dan sediakan       |
+|                   |     | > perancangan audit dalaman tahunan.     |
++-------------------+-----+------------------------------------------+
+| **KSA**           | 4\. | Rancang dan sediakan Perancangan AD      |
+|                   |     | Tahunan, 2 kali setahun berdasarkan      |
+|                   |     | format di Lampiran 1.                    |
++-------------------+-----+------------------------------------------+
+|                   | 5\. | Serahkan draf perancangan AD Tahunan     |
+|                   |     | kepada WP.                               |
++-------------------+-----+------------------------------------------+
+| ##                | 6\. | > Terima draf Perancangan AD Tahunan dan |
+| ###  {#section-2} |     | > semak.                                 |
+|                   |     |                                          |
+| #                 |     |                                          |
+| #### **WP** {#wp} |     |                                          |
++-------------------+-----+------------------------------------------+
+|                   | 7\. | > Kemukakan draf akhir Perancangan AD    |
+|                   |     | > Tahunan kepada PRP untuk kelulusan.    |
++-------------------+-----+------------------------------------------+
+| **PRP**           | 8\. | > Terima draf akhir Perancang AD Tahunan |
+|                   |     | > untuk pertimbangan dan kelulusan.      |
++-------------------+-----+------------------------------------------+
+|                   | 9\. | > Bincang dengan WP sekiranya perlu.     |
++-------------------+-----+------------------------------------------+
+
++-------------------+------+-------------------+-------------------+
+|                   |      |                   | ### **PE          |
+|                   |      |                   | RLANTIKAN JAD** { |
+|                   |      |                   | #perlantikan-jad} |
++===================+======+===================+===================+
+| ####              | 10\. | ### Se            |                   |
+| # **KSA**  {#ksa} |      | diakan senarai ca |                   |
+|                   |      | lon untuk dilanti |                   |
+|                   |      | k sebagai JAD. {# |                   |
+|                   |      | sediakan-senarai- |                   |
+|                   |      | calon-untuk-dilan |                   |
+|                   |      | tik-sebagai-jad.} |                   |
++-------------------+------+-------------------+-------------------+
+|                   | 11\. | ### Kena          |                   |
+|                   |      | lpasti pegawai ya |                   |
+|                   |      | ng telah mendapat |                   |
+|                   |      |  latihan JAD. {#k |                   |
+|                   |      | enalpasti-pegawai |                   |
+|                   |      | -yang-telah-menda |                   |
+|                   |      | pat-latihan-jad.} |                   |
++-------------------+------+-------------------+-------------------+
+|                   | 12\. | Pastikan pegawai  |                   |
+|                   |      | yang belum        |                   |
+|                   |      | mendapat latihan  |                   |
+|                   |      | JAD diberi        |                   |
+|                   |      | latihan JAD.      |                   |
++-------------------+------+-------------------+-------------------+
+| ###               | 13\. | ###  {#section-3} |                   |
+| ## **WP** {#wp-1} |      |                   |                   |
+|                   |      | ### Terima cadang |                   |
+|                   |      | an lantikan calon |                   |
+|                   |      |  JAD dan keluarka |                   |
+|                   |      | n surat lantikan. |                   |
+|                   |      |  {#terima-cadanga |                   |
+|                   |      | n-lantikan-calon- |                   |
+|                   |      | jad-dan-keluarkan |                   |
+|                   |      | -surat-lantikan.} |                   |
++-------------------+------+-------------------+-------------------+
+|                   | 14\. | ### Susul p       |                   |
+|                   |      | erlaksanaan AD da |                   |
+|                   |      | ri semasa ke sema |                   |
+|                   |      | sa. {#susul-perla |                   |
+|                   |      | ksanaan-ad-dari-s |                   |
+|                   |      | emasa-ke-semasa.} |                   |
++-------------------+------+-------------------+-------------------+
+|                   | 15\. | ### Bincang       |                   |
+|                   |      |  dengan KSA sekir |                   |
+|                   |      | anya perlu mengen |                   |
+|                   |      | ai ; {#bincang-de |                   |
+|                   |      | ngan-ksa-sekirany |                   |
+|                   |      | a-perlu-mengenai} |                   |
++-------------------+------+-------------------+-------------------+
+|                   |      | i\)               | Status            |
+|                   |      |                   | kepentingan       |
+|                   |      |                   | audit.            |
++-------------------+------+-------------------+-------------------+
+|                   |      | ii\)              | Penemuan dari     |
+|                   |      |                   | perlaksanaan      |
+|                   |      |                   | audit yang lepas. |
+|                   |      |                   |                   |
+|                   |      |                   | ###  {#section-4} |
++-------------------+------+-------------------+-------------------+
+|                   |      |                   | ####              |
+|                   |      |                   | ## **PERSIAPAN SE |
+|                   |      |                   | BELUM AD** {#pers |
+|                   |      |                   | iapan-sebelum-ad} |
++-------------------+------+-------------------+-------------------+
+| ##                | 16\. | > Rujuk           |                   |
+| ###  {#section-5} |      | > perancangan     |                   |
+|                   |      | > perlaksanaan AD |                   |
+| #####             |      | > ***(Lampiran    |                   |
+|  **KSA** {#ksa-1} |      | > 1***).          |                   |
++-------------------+------+-------------------+-------------------+
+|                   | 17\. | Keluarkan surat   |                   |
+|                   |      | perlaksanaan AD   |                   |
+|                   |      | kepada KPAD.      |                   |
++-------------------+------+-------------------+-------------------+
+|                   | 18\. | > Beri taklimat   |                   |
+|                   |      | > kepada JAD      |                   |
+|                   |      | > berdasarkan     |                   |
+|                   |      | > perancangan,    |                   |
+|                   |      | > skop AD dan log |                   |
+|                   |      | > audit, jika     |                   |
+|                   |      | > perlu.          |                   |
++-------------------+------+-------------------+-------------------+
+| #####             | 19\. | Maklumkan kepada  |                   |
+|  **KPAD** {#kpad} |      | PD/KS mengenai AD |                   |
+|                   |      | yang akan         |                   |
+|                   |      | dilaksanakan      |                   |
+|                   |      | serta keperluan   |                   |
+|                   |      | AD yang           |                   |
+|                   |      | berkaitan.        |                   |
++-------------------+------+-------------------+-------------------+
+| ##                | 20\. | > Baca dan        |                   |
+| ###  {#section-6} |      | > fahami:-        |                   |
++-------------------+------+-------------------+-------------------+
+|                   |      | i\)               | MK.JRP.01.        |
++-------------------+------+-------------------+-------------------+
+|                   |      | ii\)              | Standard Piawaian |
+|                   |      |                   | ISO 9001: 2008.   |
++-------------------+------+-------------------+-------------------+
+
++-------------------+------+-------------------+-------------------+
+|                   |      | iii\)             | Prosedur Kualiti  |
+|                   |      |                   | dan dokumen       |
+|                   |      |                   | sokongan yang     |
+|                   |      |                   | berkaitan.        |
++===================+======+===================+===================+
+|                   |      | iv\)              | Rujuk Prosedur    |
+|                   |      |                   | Audit Dalaman.    |
++-------------------+------+-------------------+-------------------+
+| ###               | 21\. | Buat persediaan   |                   |
+| ## **PAD** {#pad} |      | sebelum           |                   |
+|                   |      | melaksanakan AD:- |                   |
++-------------------+------+-------------------+-------------------+
+|                   |      | i\)               | Format Laporan    |
+|                   |      |                   | Audit Dalaman     |
+|                   |      |                   | ***(Lampiran      |
+|                   |      |                   | 2).***            |
++-------------------+------+-------------------+-------------------+
+|                   |      | ii\)              | Borang            |
+|                   |      |                   | ketidakpatuhan    |
+|                   |      |                   | ***(Lampiran      |
+|                   |      |                   | 3***).            |
++-------------------+------+-------------------+-------------------+
+|                   |      | iii\)             | Alatulis          |
+|                   |      |                   | mencukupi.        |
++-------------------+------+-------------------+-------------------+
+|                   |      | iv\)              | Senarai semak     |
+|                   |      |                   | yang menyeluruh   |
+|                   |      |                   | ***(Lampiran      |
+|                   |      |                   | 4).***            |
++-------------------+------+-------------------+-------------------+
+|                   |      |  {#section-7}     |                   |
+|                   |      |                   |                   |
+|                   |      | **PE              |                   |
+|                   |      | RLAKSANAAN AD** { |                   |
+|                   |      | #perlaksanaan-ad} |                   |
+|                   |      | ==                |                   |
+|                   |      | ================= |                   |
++-------------------+------+-------------------+-------------------+
+| ##### *           | 22\. | Maklumkan         |                   |
+| *KPAD** {#kpad-1} |      |  kepada Auditee b |                   |
+|                   |      | erhubung tarikh A |                   |
+|                   |      | D. {#maklumkan-ke |                   |
+|                   |      | pada-auditee-berh |                   |
+|                   |      | ubung-tarikh-ad.} |                   |
+|                   |      | ===========       |                   |
+|                   |      | ================= |                   |
+|                   |      | ================= |                   |
++-------------------+------+-------------------+-------------------+
+|                   | 23\. | Pastikan sem      |                   |
+|                   |      | ua ahli PAD hadir |                   |
+|                   |      |  melaksanakan aud |                   |
+|                   |      | it dengan ketepat |                   |
+|                   |      | an waktu. {#pasti |                   |
+|                   |      | kan-semua-ahli-pa |                   |
+|                   |      | d-hadir-melaksana |                   |
+|                   |      | kan-audit-dengan- |                   |
+|                   |      | ketepatan-waktu.} |                   |
+|                   |      | ====              |                   |
+|                   |      | ================= |                   |
+|                   |      | ================= |                   |
+|                   |      | ================= |                   |
+|                   |      | ================= |                   |
++-------------------+------+-------------------+-------------------+
+|                   | 24\. | > Adakan          |                   |
+|                   |      | > mesyuarat       |                   |
+|                   |      | > pembukaan AD    |                   |
+|                   |      | > dengan          |                   |
+|                   |      | > Cawangan/Sel    |                   |
+|                   |      | > yang akan       |                   |
+|                   |      | > diaudit.        |                   |
+|                   |      |                   |                   |
+|                   |      |  {#section-8}     |                   |
++-------------------+------+-------------------+-------------------+
+| ##                | 25\. | > Laksanakan AD   |                   |
+| ###  {#section-9} |      | > berdasarkan     |                   |
+|                   |      | > Senarai Semak   |                   |
+| #####             |      | > yang            |                   |
+|  **PAD** {#pad-1} |      | > disediakan.     |                   |
+|                   |      |                   |                   |
+|                   |      |  {#section-10}    |                   |
++-------------------+------+-------------------+-------------------+
+|                   | 26\. | Kumpul bukti      |                   |
+|                   |      | audit dan buat    |                   |
+|                   |      | catatan semasa.   |                   |
++-------------------+------+-------------------+-------------------+
+|                   | 27\. |  {#section-11}    |                   |
+|                   |      |                   |                   |
+|                   |      | Proses t          |                   |
+|                   |      | emuduga, pemerhat |                   |
+|                   |      | ian dan pemeriksa |                   |
+|                   |      | an ke atas rekod- |                   |
+|                   |      | rekod kualiti seb |                   |
+|                   |      | agai bukti objekt |                   |
+|                   |      | if. {#proses-temu |                   |
+|                   |      | duga-pemerhatian- |                   |
+|                   |      | dan-pemeriksaan-k |                   |
+|                   |      | e-atas-rekod-reko |                   |
+|                   |      | d-kualiti-sebagai |                   |
+|                   |      | -bukti-objektif.} |                   |
+|                   |      | ===========       |                   |
+|                   |      | ================= |                   |
+|                   |      | ================= |                   |
+|                   |      | ================= |                   |
+|                   |      | ================= |                   |
+|                   |      | ================= |                   |
++-------------------+------+-------------------+-------------------+
+|                   | 28\. | Catatkan butiran  |                   |
+|                   |      |  ketidakpatuhan y |                   |
+|                   |      | ang dikesan semas |                   |
+|                   |      | a proses AD dan t |                   |
+|                   |      | indakan pembetula |                   |
+|                   |      | n (jika ada) di d |                   |
+|                   |      | alam Borang Ketid |                   |
+|                   |      | akpatuhan. Bincan |                   |
+|                   |      | g tarikh untuk me |                   |
+|                   |      | mbuat audit susul |                   |
+|                   |      | an dengan Auditee |                   |
+|                   |      | /PD yang diaudit. |                   |
+|                   |      |  {#catatkan-butir |                   |
+|                   |      | an-ketidakpatuhan |                   |
+|                   |      | -yang-dikesan-sem |                   |
+|                   |      | asa-proses-ad-dan |                   |
+|                   |      | -tindakan-pembetu |                   |
+|                   |      | lan-jika-ada-di-d |                   |
+|                   |      | alam-borang-ketid |                   |
+|                   |      | akpatuhan.-bincan |                   |
+|                   |      | g-tarikh-untuk-me |                   |
+|                   |      | mbuat-audit-susul |                   |
+|                   |      | an-dengan-auditee |                   |
+|                   |      | pd-yang-diaudit.} |                   |
+|                   |      | ================  |                   |
+|                   |      | ================= |                   |
+|                   |      | ================= |                   |
+|                   |      | ================= |                   |
+|                   |      | ================= |                   |
+|                   |      | ================= |                   |
+|                   |      | ================= |                   |
+|                   |      | ================= |                   |
+|                   |      | ================= |                   |
+|                   |      | ================= |                   |
+|                   |      | ================= |                   |
+|                   |      | ================= |                   |
++-------------------+------+-------------------+-------------------+
+
++--------------------------+------+------------------------------+
+| ##### **KPAD** {#kpad-2} | 29\. | Adakan Mesyuarat Penutup AD  |
+|                          |      | dengan bahagian yang         |
+|                          |      | berkaitan.                   |
++==========================+======+==============================+
+|                          | 30\. | Maklum mengenai              |
+|                          |      | ketidakpatuhan yang ditemui  |
+|                          |      | dan tindakan pembetulan yang |
+|                          |      | akan diambil oleh            |
+|                          |      | Cawangan/Sel yang berkaitan. |
++--------------------------+------+------------------------------+
+|                          | 31\. | Beri salinan Laporan         |
+|                          |      | Ketidakpatuhan kepada PD/KS. |
++--------------------------+------+------------------------------+
+|                          | 32\. | > Maklum tarikh Audit        |
+|                          |      | > Susulan (jika ada).        |
++--------------------------+------+------------------------------+
+|                          | 33\. | > Sediakan Laporan AD dan    |
+|                          |      | > serahkan kepada KSA (terus |
+|                          |      | > ke tindakan ke 37).        |
++--------------------------+------+------------------------------+
+|                          |      | #####  {#section-12}         |
+|                          |      |                              |
+|                          |      | ####                         |
+|                          |      | # **MELAKSANA AUDIT SUSULAN* |
+|                          |      | * {#melaksana-audit-susulan} |
++--------------------------+------+------------------------------+
+| ##### **KSA** {#ksa-2}   | 34\. | Minta PAD untuk membuat      |
+|                          |      | Audit Susulan (jika ada).    |
++--------------------------+------+------------------------------+
+| **PAD**                  | 35\. | Rujuk semula laporan AD dan  |
+|                          |      | ketidakpatuhan yang          |
+|                          |      | dikeluarkan.                 |
++--------------------------+------+------------------------------+
+|                          | 36\. | > Buat audit susulan seperti |
+|                          |      | > mana yang diperlukan.      |
++--------------------------+------+------------------------------+
+|                          | 37\. | > Pastikan tindakan          |
+|                          |      | > pembetulan yang diperlukan |
+|                          |      | > dilaksanakan dengan        |
+|                          |      | > berkesan.                  |
++--------------------------+------+------------------------------+
+| **KPAD**                 | 38\. | > Sediakan Laporan Audit     |
+|                          |      | > Susulan dan serah kepada   |
+|                          |      | >                            |
+|                          |      | > KSA / WP.                  |
++--------------------------+------+------------------------------+
+|                          |      | **PENYEDIAAN LAPORAN         |
+|                          |      | KESELURUHAN AD**             |
++--------------------------+------+------------------------------+
+| ##### **KSA** {#ksa-3}   | 39\. | Kumpulkan semua Laporan AD   |
+|                          |      | yang telah dilaksanakan      |
+|                          |      | ***(Lampiran 2).***          |
++--------------------------+------+------------------------------+
+|                          | 40\. | > Kemaskini Log AD           |
+|                          |      | > ***(Lampiran 5)***.        |
++--------------------------+------+------------------------------+
+|                          | 41\. | > Sediakan dan kemukakan     |
+|                          |      | > Laporan Keseluruhan AD     |
+|                          |      | > kepada WP.                 |
++--------------------------+------+------------------------------+
+
++----------------------+------+------------------------------+
+|                      |      | ###### **PENYIMPANAN REKOD   |
+|                      |      | AD** {#penyimpanan-rekod-ad} |
++======================+======+==============================+
+| ##### **WP** {#wp-2} | 42\. | > Kemaskini rekod-rekod      |
+|                      |      | > berkaitan AD. Failkan      |
+|                      |      | > semua laporan dan rekod    |
+|                      |      | > pelaksanaan AD.            |
++----------------------+------+------------------------------+
+|                      | 43\. | > Semak Laporan Keseluruhan  |
+|                      |      | > AD.                        |
++----------------------+------+------------------------------+
+|                      | 44\. | > Bentangkan Laporan         |
+|                      |      | > Keseluruhan AD di dalam    |
+|                      |      | > MKSP.                      |
++----------------------+------+------------------------------+
+
+7.  **ALIRAN KERJA**
+
+> 7.1 Perancangan AD
+
+  -------------------
+  **TANGGUNGJAWAB**
+  -------------------
+
++-------------------------------+---+----------------------+
+| > Bincang dengan WP mengenai  |   | **PRP**              |
+| > perlaksanaan AD dan lantik  |   |                      |
+| > KSA                         |   |                      |
++===============================+===+======================+
+|                               |   |                      |
++-------------------------------+---+----------------------+
+| > Arahkan KSA rancang dan     |   | > **WP**             |
+| > sediakan perancangan audit  |   |                      |
+| > dalaman tahunan.            |   |                      |
++-------------------------------+---+----------------------+
+|                               |   |                      |
++-------------------------------+---+----------------------+
+| Rancang dan sediakan          |   | **KSA**              |
+| Perancangan AD. Serahkan draf |   |                      |
+| perancangan AD kepada WP.     |   |                      |
++-------------------------------+---+----------------------+
+|                               |   |                      |
++-------------------------------+---+----------------------+
+| > Terima draf Perancangan AD  |   | #####  {#section-13} |
+| > dan semak. Kemukakan draf   |   |                      |
+| > akhir kepada PRP untuk      |   | #####  {#section-14} |
+| > kelulusan.                  |   |                      |
+|                               |   | ##### **WP** {#wp-3} |
++-------------------------------+---+----------------------+
+|                               |   | #####  {#section-15} |
++-------------------------------+---+----------------------+
+| > Terima draf akhir Perancang |   | > **PRP**            |
+| > AD untuk pertimbangan dan   |   |                      |
+| > kelulusan. Bincang dengan   |   |                      |
+| > WP sekiranya perlu.         |   |                      |
++-------------------------------+---+----------------------+
+
+7.2 Perlantikan JAD
+
++-----------------------+--------------------+----------------------+
+| ###  {#section-22}    | ###  {#section-23} | ###  {#section-24}   |
+|                       |                    |                      |
+| ###                   |                    | ###  {#section-25}   |
+|  Sediakan senarai cal |                    |                      |
+| on JAD. Kenalpasti pe |                    | ### **KSA** {#ksa-4} |
+| gawai yang telah mend |                    |                      |
+| apat latihan JAD dan  |                    |                      |
+| beri latihan kepada p |                    |                      |
+| egawai yang tiada lat |                    |                      |
+| ihan JAD. {#sediakan- |                    |                      |
+| senarai-calon-jad.-ke |                    |                      |
+| nalpasti-pegawai-yang |                    |                      |
+| -telah-mendapat-latih |                    |                      |
+| an-jad-dan-beri-latih |                    |                      |
+| an-kepada-pegawai-yan |                    |                      |
+| g-tiada-latihan-jad.} |                    |                      |
++=======================+====================+======================+
+|                       | ###  {#section-16} | ###  {#section-17}   |
++-----------------------+--------------------+----------------------+
+| ###  {#section-18}    |                    | #####  {#section-19} |
+|                       |                    |                      |
+| ### Terima cadan      |                    | #####  {#section-20} |
+| gan lantikan calon JA |                    |                      |
+| D dan keluarkan surat |                    | ##### **WP** {#wp-4} |
+|  lantikan. Susul perl |                    |                      |
+| aksanaan AD dan binca |                    | ###  {#section-21}   |
+| ng status kepentingan |                    |                      |
+|  audit dan penemuan d |                    |                      |
+| ari perlaksanaan audi |                    |                      |
+| t yang lepas. {#terim |                    |                      |
+| a-cadangan-lantikan-c |                    |                      |
+| alon-jad-dan-keluarka |                    |                      |
+| n-surat-lantikan.-sus |                    |                      |
+| ul-perlaksanaan-ad-da |                    |                      |
+| n-bincang-status-kepe |                    |                      |
+| ntingan-audit-dan-pen |                    |                      |
+| emuan-dari-perlaksana |                    |                      |
+| an-audit-yang-lepas.} |                    |                      |
++-----------------------+--------------------+----------------------+
+
+7.3 Persiapan Sebelum AD.
+
++----------------------------------------------------+---+-----------+
+| Rujuk perancangan perlaksanaan AD dan keluarkan    |   | > **KSA** |
+| surat perlaksanaan. Beri taklimat kepada JAD.      |   |           |
++====================================================+===+===========+
+|                                                    |   |           |
++----------------------------------------------------+---+-----------+
+| Maklumkan kepada PD/KS mengenai AD .               |   | **KPAD**  |
+|                                                    |   |           |
+| > Baca dan fahami MK.JRP.01, Standard Piawaian ISO |   |           |
+| > 9001: 2008, Prosedur Kualiti dan dokumen         |   |           |
+| > sokongan yang berkaitan.                         |   |           |
+|                                                    |   |           |
+| Rujuk Prosedur Audit Dalaman.                      |   |           |
++----------------------------------------------------+---+-----------+
+
++-------------------------------+---+------------------------+
+| Buat persediaan AD. Senarai   |   | #####  {#section-26}   |
+| semak yang menyeluruh, Borang |   |                        |
+| ketidakpatuhan, Alatulis      |   | #####  {#section-27}   |
+| mencukupi, dan format Laporan |   |                        |
+| Audit Dalaman.                |   | ##### **PAD** {#pad-2} |
++-------------------------------+---+------------------------+
+
+7.4 Perlaksanaan AD.
+
++-------------------------+----------------+-------------------------+
+|  {#section-42}          |  {#section-43} | #####  {#section-44}    |
+|                         |                |                         |
+| Maklumkan               |                | #####  {#section-45}    |
+| kepada Auditee berhubun |                |                         |
+| g tarikh AD. Pastikan s |                | #####  {#section-46}    |
+| emua ahli PAD hadir mel |                |                         |
+| aksanakan audit dengan  |                | #                       |
+| ketepatan waktu. {#makl |                | #### **KPAD** {#kpad-4} |
+| umkan-kepada-auditee-be |                |                         |
+| rhubung-tarikh-ad.-past |                |                         |
+| ikan-semua-ahli-pad-had |                |                         |
+| ir-melaksanakan-audit-d |                |                         |
+| engan-ketepatan-waktu.} |                |                         |
+| ===                     |                |                         |
+| ======================= |                |                         |
+| ======================= |                |                         |
+| ======================= |                |                         |
+| ======================= |                |                         |
+| ======================= |                |                         |
+|                         |                |                         |
+| > Adakan mesyuarat      |                |                         |
+| > pembukaan AD dengan   |                |                         |
+| > Cawangan/Sel yang     |                |                         |
+| > akan diaudit.         |                |                         |
++=========================+================+=========================+
+|                         |  {#section-28} | #####  {#section-29}    |
++-------------------------+----------------+-------------------------+
+| > Laksanakan AD         |                | #####  {#section-31}    |
+| > berdasarkan Senarai   |                |                         |
+| > Semak yang            |                | #####  {#section-32}    |
+| > disediakan. Kumpul    |                |                         |
+| > bukti audit dan buat  |                | #####  {#section-33}    |
+| > catatan semasa.       |                |                         |
+| > Proses temuduga,      |                | #####  {#section-34}    |
+| > pemerhatian dan       |                |                         |
+| > pemeriksaan ke atas   |                | #####  {#section-35}    |
+| > rekod-rekod kualti    |                |                         |
+| > sebagai bukti         |                | ##### **PAD** {#pad-3}  |
+| > objektif. Catatkan    |                |                         |
+| > butiran               |                |                         |
+| > ketidakpatuhan yang   |                |                         |
+| > dikesan semasa proses |                |                         |
+| > AD dan tindakan       |                |                         |
+| > pembetulan (jika ada) |                |                         |
+| > di dalam Borang       |                |                         |
+| > Ketidakpatuhan.       |                |                         |
+| > Bincang tarikh untuk  |                |                         |
+| > membuat audit susulan |                |                         |
+| > dengan Auditee/PD     |                |                         |
+| > yang diaudit.         |                |                         |
+|                         |                |                         |
+|  {#section-30}          |                |                         |
++-------------------------+----------------+-------------------------+
+|  {#section-36}          |  {#section-37} |                         |
++-------------------------+----------------+-------------------------+
+| Adakan Mesyuarat        |                | #####  {#section-38}    |
+| Penutup AD dengan       |                |                         |
+| bahagian yang           |                | #####  {#section-39}    |
+| berkaitan. Maklum       |                |                         |
+| mengenai ketidakpatuhan |                | #####  {#section-40}    |
+| yang ditemui dan        |                |                         |
+| tindakan pembetulan     |                | #####  {#section-41}    |
+| yang akan diambil oleh  |                |                         |
+| Cawangan/Sel yang       |                | #                       |
+| berkaitan. Beri salinan |                | #### **KPAD** {#kpad-3} |
+| Laporan Ketidakpatuhan  |                |                         |
+| kepada PD/KS.           |                |                         |
+|                         |                |                         |
+| > Maklum tarikh Audit   |                |                         |
+| > Susulan (jika ada).   |                |                         |
+| >                       |                |                         |
+| > Sediakan Laporan AD   |                |                         |
+| > dan serahkan kepada   |                |                         |
+| > KSA.                  |                |                         |
++-------------------------+----------------+-------------------------+
+
+7.5 Melaksanakan Audit Susulan.
+
++-------------------------------+---+------------------------+
+| Minta PAD untuk membuat Audit |   | #####  {#section-48}   |
+| Susulan (jika ada).           |   |                        |
+|                               |   | ##### **KSA** {#ksa-5} |
++===============================+===+========================+
+|                               |   | #####  {#section-47}   |
++-------------------------------+---+------------------------+
+| Rujuk semula laporan AD dan   |   | **PAD**                |
+| ketidakpatuhan yang           |   |                        |
+| dikeluarkan. Buat audit       |   |                        |
+| susulan seperti mana yang     |   |                        |
+| diperlukan. Pastikan tindakan |   |                        |
+| pembetulan yang diperlukan    |   |                        |
+| dilaksanakan dengan berkesan. |   |                        |
++-------------------------------+---+------------------------+
+|                               |   |                        |
++-------------------------------+---+------------------------+
+| > Sediakan Laporan Audit      |   | **KPAD**               |
+| > Susulan dan serah kepada    |   |                        |
+| > KSA / WP.                   |   |                        |
++-------------------------------+---+------------------------+
+
+7.6 Penyediaan Laporan Keseluruhan AD dan Penyimpanan Rekod.
+
++-------------------------------+---+------------------------+
+| Kumpulkan semua Laporan AD    |   | #####  {#section-50}   |
+| yang telah dilaksanakan.      |   |                        |
+|                               |   | #####  {#section-51}   |
+| Kemaskini Log AD.             |   |                        |
+|                               |   | #####  {#section-52}   |
+| Sediakan dan kemukakan        |   |                        |
+| Laporan Keseluruhan AD kepada |   | #####  {#section-53}   |
+| WP.                           |   |                        |
+|                               |   | ##### **KSA** {#ksa-6} |
++===============================+===+========================+
+|                               |   |                        |
++-------------------------------+---+------------------------+
+| > Kemaskini rekod-rekod       |   | #####  {#section-49}   |
+| > berkaitan AD. Failkan semua |   |                        |
+| > laporan dan rekod           |   | ##### **WP** {#wp-5}   |
+| > pelaksanaan AD.             |   |                        |
+| >                             |   |                        |
+| > Semak Laporan Keseluruhan   |   |                        |
+| > AD.                         |   |                        |
+| >                             |   |                        |
+| > Bentangkan Laporan          |   |                        |
+| > Keseluruhan AD di dalam     |   |                        |
+| > MKSP.                       |   |                        |
++-------------------------------+---+------------------------+
+
+**8.0 REKOD KUALITI**
+
++----------+------------------------+--------------+------------------------+
+| **BIL.** | **NAMA REKOD**         | **LOKASI**   | **TEMPOH PENYIMPANAN** |
++==========+========================+==============+========================+
+| 1\.      | Perancangan AD Tahunan | Unit Kualiti | 7 Tahun                |
+|          |                        |              |                        |
+| 2\.      | Laporan AD             | Unit Kualiti | 7 Tahun                |
+|          |                        |              |                        |
+| 3\.      | Log AD                 | Unit Kualiti | 7 Tahun                |
+|          |                        |              |                        |
+| 4\.      | Laporan Ketidakpatuhan | Unit Kualiti | 7 Tahun                |
+|          |                        |              |                        |
+| 5\.      | Senarai Juruaudit      | Unit Kualiti | 7 Tahun                |
+|          |                        |              |                        |
+| 6\.      | Rekod Perlantikan JAD  | Unit Kualiti | 7 Tahun                |
++----------+------------------------+--------------+------------------------+
+
+**9.0 LAMPIRAN**
+
++--------------+------------------------+
+| **LAMPIRAN** | ##### **TAJUK**        |
++==============+========================+
+| 1            | Perancangan AD         |
++--------------+------------------------+
+| 2            | Laporan AD             |
++--------------+------------------------+
+| 3            | Laporan Ketidakpatuhan |
++--------------+------------------------+
+| 4            | Contoh Senarai Semak   |
++--------------+------------------------+
+| 5            | Log AD                 |
++--------------+------------------------+
+
+**LAMPIRAN 1**
+==============
+
+> **[BOR/PK(W).JRP.03/01]{.ul}**
+
+ {#section-54}
+
+**PERANCANGAN AUDIT DALAMAN TAHUN ........**
+============================================
+
+<table>
+<thead>
+<tr class="header">
+<th>BIL</th>
+<th>AKTIVITI/ PROSEDUR</th>
+<th><strong>BULAN</strong></th>
+<th><h5 id="catatan"><strong>CATATAN</strong></h5></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+TARIKH TANDATANGAN ............................
+
+WAKIL PENGURUSAN
+
+**LAMPIRAN 2**
+
+> **[BOR/PK(W).JRP.03/02]{.ul}**
+
+**LAPORAN AUDIT DALAM**
+
+  NO. AUDIT :                      
+  -------------------------------- --
+  Tarikh Audit :                   
+  Bahagian/Unit Diaudit:           
+  Ketua Auditor:                   
+  Auditor:                         
+  **Kepada**                       
+  **Ketua Sistem Audit Dalaman**   
+  **Ringkasan Audit**              
+                                   
+  (Tandatangan)                    
+  Ketua Auditor                    
+
+**LAMPIRAN 3**
+
+> **[BOR/PK(W).JRP.03/03]{.ul}**
+
+**LAPORAN KETAKAKURAN**
+
++-----------------------------+-----------------+--------------------+
+| ORGANISASI: **JABATAN ARAH  | **LAPORAN**     | No. Laporan Audit: |
+| REKOD DAN PENCEN**          |                 |                    |
+|                             | **KETAKAKURAN** |                    |
++=============================+=================+====================+
+|                             |                 | Bil: /             |
++-----------------------------+-----------------+--------------------+
+| Bahagian/ Unit Yang         |                 | No. Rujukan:       |
+| Diaudit:                    |                 |                    |
++-----------------------------+-----------------+--------------------+
+| Tajuk Prosedur/ Dokumen:    |                 | Tindakan Prosedur/ |
+|                             |                 |                    |
+|                             |                 | Dokumen:           |
++-----------------------------+-----------------+--------------------+
+| Auditee :                   |                 |                    |
++-----------------------------+-----------------+--------------------+
+| Auditor :                   |                 | Tarikh Audit:      |
++-----------------------------+-----------------+--------------------+
+| 1.  Ketakakuran.            |                 |                    |
+|                             |                 |                    |
+| Pemerhatian Huraian:        |                 |                    |
+|                             |                 |                    |
+| Minor                       |                 |                    |
+|                             |                 |                    |
+| Major                       |                 |                    |
+|                             |                 |                    |
+| 2.  Punca Ketakakuran.      |                 |                    |
+|                             |                 |                    |
+| a\. Manusia                 |                 |                    |
+|                             |                 |                    |
+| b\. Sistem                  |                 |                    |
+|                             |                 |                    |
+| c\. Peralatan               |                 |                    |
+|                             |                 |                    |
+| d\. Latihan                 |                 |                    |
+|                             |                 |                    |
+| 3.  Penemuan:               |                 |                    |
+|                             |                 |                    |
+| T/Tangan Auditor: T/Tangan  |                 |                    |
+| Auditee :                   |                 |                    |
++-----------------------------+-----------------+--------------------+
+| 4.  Nota penambahbaikan:    |                 |                    |
+|                             |                 |                    |
+| Tarikh untuk menyelesaikan  |                 |                    |
+| ketidakpatuhan:             |                 |                    |
+|                             |                 |                    |
+| T/Tangan Auditor: T/Tangan  |                 |                    |
+| Auditee:                    |                 |                    |
++-----------------------------+-----------------+--------------------+
+| 5.  Tindakan Pembetulan dan |                 |                    |
+|     > Tarikh untuk          |                 |                    |
+|     > menyelesaikan         |                 |                    |
+|     > ketakakuran:          |                 |                    |
+|                             |                 |                    |
+| T/Tangan Auditor : T/Tangan |                 |                    |
+| Auditee :                   |                 |                    |
++-----------------------------+-----------------+--------------------+
+| Verifikasi (Untuk diisi     |                 |                    |
+| oleh Auditor semasa audit   |                 |                    |
+| susulan)                    |                 |                    |
+|                             |                 |                    |
+| Tindakan Pembetulan         |                 |                    |
+| selesai? : (YA/BELUM)       |                 |                    |
+|                             |                 |                    |
+| Tandatangan Auditor :       |                 |                    |
+| Tarikh :                    |                 |                    |
++-----------------------------+-----------------+--------------------+
+
+**LAMPIRAN 4**
+
+**CONTOH SENARAI SEMAK**
+
+> **[BOR/PK(W).JRP.03/04]{.ul}**
+
+  **JABATAN ARAH REKOD DAN PENCEN**   **SENARAI SEMAK AUDIT**   Bil. Audit:                                                                
+  ----------------------------------- ------------------------- ------------------------------------- ------------- ---------------------- -----------
+                                                                No Helaian:                                                                
+  NAMA PROSEDUR/ PROSES:              AUDITOR:                                                                                             
+                                      Tarikh :                                                                                             
+  **Bil**                             **Rujukan**               **Perkara-perkara Untuk Diperiksa**   **Auditee**   **Respon/ Penemuan**   **Bukti**
+                                                                                                                                           
+
+**LAMPIRAN 5**
+
+> **[BOR/PK(W).JRP.03/05]{.ul}**
+
+**LOG AUDIT DALAMAN**
+
+  **JABATAN ARAH REKOD DAN PENCEN**   **LOG AUDIT DALAMAN**      **AUDIT NO : (Bil)....../........(Tahun)**                    
+  ----------------------------------- -------------------------- -------------------------------------------- ---------------- --------------------
+  NO. LAPORAN KETIDAKPATUHAN          TARIKH SIAP DIPERSETUJUI   TINDAKAN/ RESPON                             TARIKH SUSULAN   KEDUDUKAN/ CATATAN
+                                                                                                                               
+
+**LAMPIRAN 6**
+
+> **[BOR/PK(W).JRP.03/06]{.ul}**
+
+**[SENARAI SEMAK AUDIT DALAMAN (ISO Versi 2008) JRP]{.ul}**
+
++----------+----------+----------+----------+----------+----------+
+| **       | **BIL    |          |          |          |          |
+| JABATAN: | AUDIT:** |          |          |          |          |
+| UNIT**   |          |          |          |          |          |
++==========+==========+==========+==========+==========+==========+
+|          | **NO     |          |          |          |          |
+|          | HE       |          |          |          |          |
+|          | LAIAN:** |          |          |          |          |
++----------+----------+----------+----------+----------+----------+
+|          | **AU     |          |          |          |          |
+|          | DITOR:** |          |          |          |          |
++----------+----------+----------+----------+----------+----------+
+| **NAMA   | **T      |          |          |          |          |
+| P        | ARIKH:** |          |          |          |          |
+| ROSEDUR/ |          |          |          |          |          |
+| DOKUMEN: |          |          |          |          |          |
+| STANDARD |          |          |          |          |          |
+| MS ISO   |          |          |          |          |          |
+| 900      |          |          |          |          |          |
+| 1:2008** |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+
+| **BIL**  | *        | **PERKAR | **A      | **R      | *        |
+|          | *RUJUK** | A-PEKARA | UDITEE** | ESPON/** | *BUKTI** |
+|          |          | UNTUK    |          |          |          |
+|          |          | DIP      |          | **PE     |          |
+|          |          | ERIKSA** |          | NEMUAN** |          |
++----------+----------+----------+----------+----------+----------+
+| **(a)**  | **(b)**  | **(c)**  | **(d)**  | **(e)**  | **(f)**  |
++----------+----------+----------+----------+----------+----------+
+| **1.**   | **4.1**  | **i      |          |          |          |
+|          |          | .Periksa |          |          |          |
+|          | **K      | Dokumen  |          |          |          |
+|          | eperluan | prosedur |          |          |          |
+|          | Am**     | kerja    |          |          |          |
+|          |          | (PKO dan |          |          |          |
+|          |          | PKS) di  |          |          |          |
+|          |          | Cawa     |          |          |          |
+|          |          | ngan/Sel |          |          |          |
+|          |          | yang di  |          |          |          |
+|          |          | audit.** |          |          |          |
++----------+----------+----------+----------+----------+----------+
+|          |          | **ii.    |          |          |          |
+|          |          | Periksa  |          |          |          |
+|          |          | carta    |          |          |          |
+|          |          | aliran   |          |          |          |
+|          |          | kerja    |          |          |          |
+|          |          | yang     |          |          |          |
+|          |          | di       |          |          |          |
+|          |          | wujudkan |          |          |          |
+|          |          | dalam    |          |          |          |
+|          |          | proses   |          |          |          |
+|          |          | kerja.** |          |          |          |
++----------+----------+----------+----------+----------+----------+
+|          |          | **iii.   |          |          |          |
+|          |          | Periksa  |          |          |          |
+|          |          | samada   |          |          |          |
+|          |          | prosedur |          |          |          |
+|          |          | kerja    |          |          |          |
+|          |          | dip      |          |          |          |
+|          |          | atuhi.** |          |          |          |
++----------+----------+----------+----------+----------+----------+
+|          |          | **iv.    |          |          |          |
+|          |          | Periksa  |          |          |          |
+|          |          | rek      |          |          |          |
+|          |          | od-rekod |          |          |          |
+|          |          | samada   |          |          |          |
+|          |          | s        |          |          |          |
+|          |          | elaras** |          |          |          |
+|          |          |          |          |          |          |
+|          |          | **dengan |          |          |          |
+|          |          | prosedur |          |          |          |
+|          |          | kerja.   |          |          |          |
+|          |          | Rujuk    |          |          |          |
+|          |          | klausa   |          |          |          |
+|          |          | 7.5.1.** |          |          |          |
++----------+----------+----------+----------+----------+----------+
+|          |          | **v.     |          |          |          |
+|          |          | Semak    |          |          |          |
+|          |          | b        |          |          |          |
+|          |          | uku-buku |          |          |          |
+|          |          | dafta    |          |          |          |
+|          |          | r/sistem |          |          |          |
+|          |          | fail     |          |          |          |
+|          |          | yang     |          |          |          |
+|          |          | d        |          |          |          |
+|          |          | igunakan |          |          |          |
+|          |          | oleh     |          |          |          |
+|          |          | Cawa     |          |          |          |
+|          |          | ngan/Sel |          |          |          |
+|          |          | ter      |          |          |          |
+|          |          | sebut.** |          |          |          |
++----------+----------+----------+----------+----------+----------+
+|          |          | **vi     |          |          |          |
+|          |          | .Periksa |          |          |          |
+|          |          | samaada  |          |          |          |
+|          |          | anggota  |          |          |          |
+|          |          | memahami |          |          |          |
+|          |          | Dasar    |          |          |          |
+|          |          | Kualiti. |          |          |          |
+|          |          | Rujuk    |          |          |          |
+|          |          | klausa   |          |          |          |
+|          |          | 5.3.     |          |          |          |
+|          |          | Tanya    |          |          |          |
+|          |          | staf?**  |          |          |          |
++----------+----------+----------+----------+----------+----------+
+|          |          | **vii    |          |          |          |
+|          |          | .Periksa |          |          |          |
+|          |          | samada   |          |          |          |
+|          |          | Objektif |          |          |          |
+|          |          | kualiti  |          |          |          |
+|          |          | difahami |          |          |          |
+|          |          | dan      |          |          |          |
+|          |          | diikuti  |          |          |          |
+|          |          | selaras  |          |          |          |
+|          |          | dengan   |          |          |          |
+|          |          | proses   |          |          |          |
+|          |          | aliran   |          |          |          |
+|          |          | kerja    |          |          |          |
+|          |          | yang     |          |          |          |
+|          |          | diw      |          |          |          |
+|          |          | ujudkan. |          |          |          |
+|          |          | Rujuk    |          |          |          |
+|          |          | klausa   |          |          |          |
+|          |          | 5.4.1**  |          |          |          |
++----------+----------+----------+----------+----------+----------+
+
++--------+---------------------+---------------------+---+---+---+
+| **2.** | **4.2**             |                     |   |   |   |
+|        |                     |                     |   |   |   |
+|        | **Keperluan         |                     |   |   |   |
+|        | Dokumentasi**       |                     |   |   |   |
++========+=====================+=====================+===+===+===+
+|        | **4.2.1**           | **i.Periksa samada  |   |   |   |
+|        |                     | dasar               |   |   |   |
+|        | **Am**              | kualiti/objektif    |   |   |   |
+|        |                     | kualiti/misi/visi   |   |   |   |
+|        |                     | dipamerkan.**       |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+|        |                     | **ii.Tanya samaada  |   |   |   |
+|        |                     | anggota memahami    |   |   |   |
+|        |                     | dan menghayati      |   |   |   |
+|        |                     | Dasar               |   |   |   |
+|        |                     | Kualiti/objekitf    |   |   |   |
+|        |                     | kualiti/misi/visi   |   |   |   |
+|        |                     | yang diwujudkan.**  |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+|        |                     | **iii.Periksa       |   |   |   |
+|        |                     | samaada dokumen     |   |   |   |
+|        |                     | rujukan terkini (no |   |   |   |
+|        |                     | keluaran/no pindaan |   |   |   |
+|        |                     | dan tarikh          |   |   |   |
+|        |                     | kuatkuasa yang      |   |   |   |
+|        |                     | baru).**            |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+|        |                     | **iv. Periksa       |   |   |   |
+|        |                     | pengurusan          |   |   |   |
+|        |                     | rekod-rekod dan     |   |   |   |
+|        |                     | fail untuk          |   |   |   |
+|        |                     | kemudahan rujukan   |   |   |   |
+|        |                     | staf. (4.1.(v).**   |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+| **3.** | **4.2.2**           | **i.Tanya anggota   |   |   |   |
+|        |                     | samaada faham/tidak |   |   |   |
+|        | **Manual Kualiti**  | Manual Kualiti.**   |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+|        |                     | **ii.Periksa samada |   |   |   |
+|        |                     | Manual Kualiti      |   |   |   |
+|        |                     | telah               |   |   |   |
+|        |                     | dikemaskinikan.**   |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+|        |                     | **iii.Periksa       |   |   |   |
+|        |                     | samada Manual       |   |   |   |
+|        |                     | Kualiti di simpan   |   |   |   |
+|        |                     | secara terkawal.**  |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+|        |                     | **v.Periksa kaedah  |   |   |   |
+|        |                     | kawalan penyimpanan |   |   |   |
+|        |                     | MK dan              |   |   |   |
+|        |                     | senggaraan.**       |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+
++--------+---------------+---------------+---------------+---+---+
+| **4.** | **4.2.3**     | **i.Periksa   |               |   |   |
+|        |               | kaedah        |               |   |   |
+|        | **Kawalan     | penyimpanan   |               |   |   |
+|        | Dokumen**     | dokumen       |               |   |   |
+|        |               | dijalankan    |               |   |   |
+|        |               | (Kabinet      |               |   |   |
+|        |               | berkunci).**  |               |   |   |
++========+===============+===============+===============+===+===+
+|        |               | **ii.Periksa  |               |   |   |
+|        |               | pengurusan    |               |   |   |
+|        |               | penyimpanan   |               |   |   |
+|        |               | prosedur,     |               |   |   |
+|        |               | arahan kerja, |               |   |   |
+|        |               | fail meja dan |               |   |   |
+|        |               | dokumen       |               |   |   |
+|        |               | sokongan yang |               |   |   |
+|        |               | dirujuk.**    |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+|        |               | **iii.Periksa |               |   |   |
+|        |               | pengeluaran   |               |   |   |
+|        |               | dokumen       |               |   |   |
+|        |               | kualiti yang  |               |   |   |
+|        |               | telah dipinda |               |   |   |
+|        |               | (nombor       |               |   |   |
+|        |               | rujukan, no   |               |   |   |
+|        |               | keluaran, no  |               |   |   |
+|        |               | pindaan, muka |               |   |   |
+|        |               | surat dan     |               |   |   |
+|        |               | tarikh        |               |   |   |
+|        |               | kuatkuasa.**  |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+|        |               | **iv.Periksa  |               |   |   |
+|        |               | samada borang |               |   |   |
+|        |               | cadangan      |               |   |   |
+|        |               | pindaan       |               |   |   |
+|        |               | digunakan     |               |   |   |
+|        |               | sekiranya ada |               |   |   |
+|        |               | pindaan       |               |   |   |
+|        |               | dokumen.**    |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+|        |               | **v.Periksa   |               |   |   |
+|        |               | samada        |               |   |   |
+|        |               | penerimaan    |               |   |   |
+|        |               | borang        |               |   |   |
+|        |               | cadangan      |               |   |   |
+|        |               | direkodkan.** |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+|        |               | **vi. Periksa |               |   |   |
+|        |               | senarai induk |               |   |   |
+|        |               | dokumen       |               |   |   |
+|        |               | kualiti.**    |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+|        |               | **vii.        | ***ISO versi  |   |   |
+|        |               | Periksa sama  | 2008***       |   |   |
+|        |               | ada dokumen   |               |   |   |
+|        |               | luaran        |               |   |   |
+|        |               | dirujuk dalam |               |   |   |
+|        |               | proses kerja. |               |   |   |
+|        |               | (eg PMAT,     |               |   |   |
+|        |               | Pekeliling    |               |   |   |
+|        |               | dll).**       |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+| **5.** | **4.2.4**     | **i. Periksa  |               |   |   |
+|        |               | sistem        |               |   |   |
+|        | **Kawalan     | pengurusan    |               |   |   |
+|        | Rekod**       | fail dan      |               |   |   |
+|        |               | rekod         |               |   |   |
+|        |               | di            |               |   |   |
+|        |               | laksanakan.** |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+|        |               | **ii. Periksa |               |   |   |
+|        |               | tempat        |               |   |   |
+|        |               | penyimpanan   |               |   |   |
+|        |               | fail dan      |               |   |   |
+|        |               | rekod yang    |               |   |   |
+|        |               | berkaitan.**  |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+|        |               | **iii.        |               |   |   |
+|        |               | Periksa       |               |   |   |
+|        |               | samada fail-  |               |   |   |
+|        |               | fail yg       |               |   |   |
+|        |               | digunakan     |               |   |   |
+|        |               | mudah dikesan |               |   |   |
+|        |               | dan           |               |   |   |
+|        |               | diperolehi.** |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+
++--------+---------------------+---------------------+---+---+---+
+|        |                     | **iv.Periksa        |   |   |   |
+|        |                     | bagaimana rekod     |   |   |   |
+|        |                     | pelanggan disimpan. |   |   |   |
+|        |                     | Jika disimpan       |   |   |   |
+|        |                     | secara elektronik,  |   |   |   |
+|        |                     | adakah sistem       |   |   |   |
+|        |                     | 'backup'            |   |   |   |
+|        |                     | disediakan.**       |   |   |   |
++========+=====================+=====================+===+===+===+
+|        |                     | **v.Periksa         |   |   |   |
+|        |                     | buku-buku rekod     |   |   |   |
+|        |                     | yang digunapakai,   |   |   |   |
+|        |                     | adakah sentiasa     |   |   |   |
+|        |                     | dikemaskini.**      |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+| **6.** | **5.1**             | **i. Periksa        |   |   |   |
+|        |                     | penyediaan dan      |   |   |   |
+|        | **Komitmen          | publisiti berkaitan |   |   |   |
+|        | Pengurusan**        | komitmen Pengurusan |   |   |   |
+|        |                     | (Dasar kualiti,     |   |   |   |
+|        |                     | Objektif            |   |   |   |
+|        |                     | Kualiti).**         |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+|        |                     | **ii.Periksa samada |   |   |   |
+|        |                     | program kesedaran   |   |   |   |
+|        |                     | ISO 9001:2008       |   |   |   |
+|        |                     | disampaikan         |   |   |   |
+|        |                     | keperingkat         |   |   |   |
+|        |                     | bawahan.**          |   |   |   |
+|        |                     |                     |   |   |   |
+|        |                     | -   **Temubual      |   |   |   |
+|        |                     |     > anggota       |   |   |   |
+|        |                     |     > secara        |   |   |   |
+|        |                     |     > rawak.**      |   |   |   |
+|        |                     |                     |   |   |   |
+|        |                     | -   **Periksa       |   |   |   |
+|        |                     |     > senarai       |   |   |   |
+|        |                     |     > kehadiran     |   |   |   |
+|        |                     |     > kursus        |   |   |   |
+|        |                     |     > kesedaran     |   |   |   |
+|        |                     |     > ISO.**        |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+|        |                     | **iv.Periksa samada |   |   |   |
+|        |                     | pengurusan memantau |   |   |   |
+|        |                     | pelaksanaan audit   |   |   |   |
+|        |                     | dalaman dan         |   |   |   |
+|        |                     | tindakan pembetulan |   |   |   |
+|        |                     | yang diperlukan.**  |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+|        |                     | **v.Periksa rekod   |   |   |   |
+|        |                     | berkaitan kajian    |   |   |   |
+|        |                     | semula (jika        |   |   |   |
+|        |                     | berkaitan)          |   |   |   |
+|        |                     | pengurusan** **dan  |   |   |   |
+|        |                     | laporan-laporan     |   |   |   |
+|        |                     | berikut:**          |   |   |   |
+|        |                     |                     |   |   |   |
+|        |                     | a.  **Laporan Audit |   |   |   |
+|        |                     |     > Dalaman**     |   |   |   |
+|        |                     |                     |   |   |   |
+|        |                     | b.  **Laporan       |   |   |   |
+|        |                     |     > Maklum Balas  |   |   |   |
+|        |                     |     > Pelanggan**   |   |   |   |
+|        |                     |                     |   |   |   |
+|        |                     | c.  **Laporan       |   |   |   |
+|        |                     |     > Pelaksanaan   |   |   |   |
+|        |                     |     > Tindakan      |   |   |   |
+|        |                     |                     |   |   |   |
+|        |                     |  > Penambahbaikan** |   |   |   |
+|        |                     |                     |   |   |   |
+|        |                     | d.  **Laporan       |   |   |   |
+|        |                     |     > Tindakan      |   |   |   |
+|        |                     |     > Pembetulan    |   |   |   |
+|        |                     |     > yang telah    |   |   |   |
+|        |                     |                     |   |   |   |
+|        |                     |    > dilaksanakan** |   |   |   |
+|        |                     |                     |   |   |   |
+|        |                     | e.  **Rekod-rekod   |   |   |   |
+|        |                     |     > yang          |   |   |   |
+|        |                     |     > berkaitan     |   |   |   |
+|        |                     |     > perancangan   |   |   |   |
+|        |                     |     > Strategik**   |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+| **7.** | **5.2**             | **i. Periksa samada |   |   |   |
+|        |                     | piagam pelanggan    |   |   |   |
+|        | **Tumpuan kepada    | diwujudkan ,        |   |   |   |
+|        | pelanggan**         | dipantau dan dikaji |   |   |   |
+|        |                     | semula dari semasa  |   |   |   |
+|        |                     | ke semasa.**        |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+|        |                     | **ii. Bagaimana     |   |   |   |
+|        |                     | cara-cara           |   |   |   |
+|        |                     | pengurusan          |   |   |   |
+|        |                     | maklumbalas         |   |   |   |
+|        |                     | pelanggan           |   |   |   |
+|        |                     | dijalankan.**       |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+|        |                     | **iii.Periksa fail  |   |   |   |
+|        |                     | aduan / maklumbalas |   |   |   |
+|        |                     | pelanggan, (pilih   |   |   |   |
+|        |                     | sampel)**           |   |   |   |
+|        |                     |                     |   |   |   |
+|        |                     | **iv.Semak aduan    |   |   |   |
+|        |                     | dan tindakan        |   |   |   |
+|        |                     | susulan             |   |   |   |
+|        |                     | dilaksanakan.**     |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+| **8.** | **5.3**             | **i. Periksa buku   |   |   |   |
+|        |                     | rekod kehadiran     |   |   |   |
+|        | **Dasar Kualiti**   | semasa program      |   |   |   |
+|        |                     | Kesedaran temasuk   |   |   |   |
+|        |                     | penghayatan kepada  |   |   |   |
+|        |                     | pelaksanaan Dasar   |   |   |   |
+|        |                     | Kualiti.**          |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+|        |                     | **ii. Periksa       |   |   |   |
+|        |                     | samada objektif dan |   |   |   |
+|        |                     | dasar kualiti telah |   |   |   |
+|        |                     | disampaikan kepada  |   |   |   |
+|        |                     | anggota. ( Temubual |   |   |   |
+|        |                     | anggota secara      |   |   |   |
+|        |                     | rawak).**           |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+| **9.** | **5.4**             |                     |   |   |   |
+|        |                     |                     |   |   |   |
+|        | **Perancangan**     |                     |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+|        | **5.4.1**           | **i. Periksa        |   |   |   |
+|        |                     | objektif kualiti    |   |   |   |
+|        | **Objektif          | unit adakah         |   |   |   |
+|        | kualiti**           | objektif kualiti    |   |   |   |
+|        |                     | dipantau secara     |   |   |   |
+|        |                     | berterusan.**       |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+|        |                     | **ii. Periksa       |   |   |   |
+|        |                     | laporan berkaitan   |   |   |   |
+|        |                     | pencapaian objektif |   |   |   |
+|        |                     | kualiti.**          |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+
++---------+---------------------+---------------------+---+---+---+
+| **10.** | **5.4.2**           | **i. Periksa samada |   |   |   |
+|         |                     | perancangan sistem  |   |   |   |
+|         | **Perancangan       | pengurusan kualiti  |   |   |   |
+|         | sistem pengurusan   | diwujudkan dan      |   |   |   |
+|         | kualiti**           | adakah SPK dibuat   |   |   |   |
+|         |                     | penambahbaikan.**   |   |   |   |
++=========+=====================+=====================+===+===+===+
+| **11.** | **5.5**             |                     |   |   |   |
+|         |                     |                     |   |   |   |
+|         | **Tangungjawab,     |                     |   |   |   |
+|         | kuasa dan           |                     |   |   |   |
+|         | komunikasi**        |                     |   |   |   |
++---------+---------------------+---------------------+---+---+---+
+| **12.** | **5.5.1**           | **i. Periksa samada |   |   |   |
+|         |                     | carta organisasi/   |   |   |   |
+|         | **Tangungjawab dan  | fail meja dan       |   |   |   |
+|         | kuasa**             | senarai tugas       |   |   |   |
+|         |                     | dikemaskini.**      |   |   |   |
++---------+---------------------+---------------------+---+---+---+
+|         |                     | **ii. Adakah setiap |   |   |   |
+|         |                     | anggota mempunyai   |   |   |   |
+|         |                     | senarai tugas, fail |   |   |   |
+|         |                     | meja dan disenggara |   |   |   |
+|         |                     | dari semasa         |   |   |   |
+|         |                     | kesemasa.**         |   |   |   |
++---------+---------------------+---------------------+---+---+---+
+|         |                     | **iii. Adakah carta |   |   |   |
+|         |                     | organisasi          |   |   |   |
+|         |                     | dikemaskini.**      |   |   |   |
++---------+---------------------+---------------------+---+---+---+
+| **13.** | **5.5.2**           | **i.Periksa samada  |   |   |   |
+|         |                     | surat pelantikan    |   |   |   |
+|         | **Wakil             | telah diberi kepada |   |   |   |
+|         | pengurusan**        | wakil pengurusan.** |   |   |   |
++---------+---------------------+---------------------+---+---+---+
+| **14.** | **5.5.3**           | **i. Periksa fail   |   |   |   |
+|         |                     | mesyuarat           |   |   |   |
+|         | **Komunikasi dalam  | pengurusan dan      |   |   |   |
+|         | organisasi**        | unit, serta         |   |   |   |
+|         |                     | mesyuarat           |   |   |   |
+|         |                     | berkaitan.**        |   |   |   |
++---------+---------------------+---------------------+---+---+---+
+|         |                     | **ii. Periksa       |   |   |   |
+|         |                     | samada papan        |   |   |   |
+|         |                     | kenyataan           |   |   |   |
+|         |                     | dikemaskini dan     |   |   |   |
+|         |                     | peti cadangan       |   |   |   |
+|         |                     | disediakan.**       |   |   |   |
++---------+---------------------+---------------------+---+---+---+
+| **15.** | **5.6**             |                     |   |   |   |
+|         |                     |                     |   |   |   |
+|         | **Kajian semula     |                     |   |   |   |
+|         | pengurusan**        |                     |   |   |   |
++---------+---------------------+---------------------+---+---+---+
+
++---------+---------------------+---------------------+---+---+---+
+| **16.** | **5.6.1**           | **i. Periksa        |   |   |   |
+|         |                     | bilakah kali        |   |   |   |
+|         | **Am**              | terakhir MKSP       |   |   |   |
+|         |                     | diadakan.**         |   |   |   |
++=========+=====================+=====================+===+===+===+
+|         |                     | **ii. Semak minit   |   |   |   |
+|         |                     | mensyuarat          |   |   |   |
+|         |                     | jawatankuasa        |   |   |   |
+|         |                     | pengurusan**        |   |   |   |
++---------+---------------------+---------------------+---+---+---+
+| **17.** | **5.6.2**           | i.  **Periksa minit |   |   |   |
+|         |                     |     mesyuarat       |   |   |   |
+|         | **Input kajian      |     MKSP.Adakah     |   |   |   |
+|         | semula pengurusan** |     agenda seperti  |   |   |   |
+|         |                     |     berikut telah   |   |   |   |
+|         |                     |     dibincangkan:** |   |   |   |
+|         |                     |                     |   |   |   |
+|         |                     | **- Laporan         |   |   |   |
+|         |                     | keseluruhan audit** |   |   |   |
+|         |                     |                     |   |   |   |
+|         |                     | **dalaman**         |   |   |   |
+|         |                     |                     |   |   |   |
+|         |                     | **- Laporan         |   |   |   |
+|         |                     | maklumbalas**       |   |   |   |
+|         |                     |                     |   |   |   |
+|         |                     | **pelanggan**       |   |   |   |
+|         |                     |                     |   |   |   |
+|         |                     | **- Penilaian dan   |   |   |   |
+|         |                     | pencapaian**        |   |   |   |
+|         |                     |                     |   |   |   |
+|         |                     | **objektif          |   |   |   |
+|         |                     | kualiti**           |   |   |   |
+|         |                     |                     |   |   |   |
+|         |                     | **- Laporan status  |   |   |   |
+|         |                     | tindakan**          |   |   |   |
+|         |                     |                     |   |   |   |
+|         |                     | **pembetulan dan**  |   |   |   |
+|         |                     |                     |   |   |   |
+|         |                     | **pencegahan**      |   |   |   |
+|         |                     |                     |   |   |   |
+|         |                     | **- Laporan         |   |   |   |
+|         |                     | tindakan susulan**  |   |   |   |
+|         |                     |                     |   |   |   |
+|         |                     | **daripada kajian   |   |   |   |
+|         |                     | semula**            |   |   |   |
+|         |                     |                     |   |   |   |
+|         |                     | **pengurusan yang   |   |   |   |
+|         |                     | lepas**             |   |   |   |
+|         |                     |                     |   |   |   |
+|         |                     | **- Cadangan**      |   |   |   |
+|         |                     |                     |   |   |   |
+|         |                     | **penambahbaikan**  |   |   |   |
++---------+---------------------+---------------------+---+---+---+
+| **18.** | **5.6.3**           | **i. Periksa samada |   |   |   |
+|         |                     | semua cadangan      |   |   |   |
+|         | **Output kajian     | penambahbaikan yang |   |   |   |
+|         | semula pengurusan** | diputuskan dalam    |   |   |   |
+|         |                     | MKSP telah          |   |   |   |
+|         |                     | dilaksanakan.**     |   |   |   |
++---------+---------------------+---------------------+---+---+---+
+| **19.** | **6.1**             | **i. Kenalpasti     |   |   |   |
+|         |                     | sumber-sumber yang  |   |   |   |
+|         | **Bekalan Sumber**  | diperlukan untuk    |   |   |   |
+|         |                     | melaksanakan dan    |   |   |   |
+|         |                     | menyelenggara       |   |   |   |
+|         |                     | sistem kualiti.**   |   |   |   |
++---------+---------------------+---------------------+---+---+---+
+|         |                     | a.  **Sumber        |   |   |   |
+|         |                     |                     |   |   |   |
+|         |                     | > kewangan/Bajet.** |   |   |   |
+|         |                     |                     |   |   |   |
+|         |                     | b.  **Sumber        |   |   |   |
+|         |                     |     > manusia.**    |   |   |   |
+|         |                     |                     |   |   |   |
+|         |                     | c.  **Peralat       |   |   |   |
+|         |                     | an/Infrastruktur.** |   |   |   |
++---------+---------------------+---------------------+---+---+---+
+|         |                     | **ii. Periksa       |   |   |   |
+|         |                     | samada bajet        |   |   |   |
+|         |                     | mencukupi atau ada  |   |   |   |
+|         |                     | kekangan.**         |   |   |   |
++---------+---------------------+---------------------+---+---+---+
+|         |                     | **iii. Periksa      |   |   |   |
+|         |                     | keberadaan          |   |   |   |
+|         |                     | sumber-sumber       |   |   |   |
+|         |                     | manusia dari segi   |   |   |   |
+|         |                     | komputensi dan      |   |   |   |
+|         |                     | komitmen untuk      |   |   |   |
+|         |                     | melaksanakan tugas  |   |   |   |
+|         |                     | dengan sempurna.**  |   |   |   |
++---------+---------------------+---------------------+---+---+---+
+
++--------+---------------+---------------+---------------+---+---+
+| **20** | **6.2**       |               |               |   |   |
+|        |               |               |               |   |   |
+|        | **Sumber      |               |               |   |   |
+|        | manusia**     |               |               |   |   |
++========+===============+===============+===============+===+===+
+| **21** | **6.2.1**     | **i. Periksa  |               |   |   |
+|        |               | bukti-bukti   |               |   |   |
+|        | **Am**        | kemahiran     |               |   |   |
+|        |               | yang          |               |   |   |
+|        |               | diperlukan    |               |   |   |
+|        |               | oleh setiap   |               |   |   |
+|        |               | anggota.**    |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+|        |               | **ii.Periksa  |               |   |   |
+|        |               | bukti-bukti   |               |   |   |
+|        |               | yang diambil  |               |   |   |
+|        |               | dalam         |               |   |   |
+|        |               | memastikan    |               |   |   |
+|        |               | kemahiran     |               |   |   |
+|        |               | kerja di      |               |   |   |
+|        |               | per           |               |   |   |
+|        |               | tingkatkan/di |               |   |   |
+|        |               | tambahbaik.** |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+| **22** | **6.2.2**     | **i.Periksa   |               |   |   |
+|        |               | program       |               |   |   |
+|        | **Keupayaan   | kesedaran ISO |               |   |   |
+|        | Kesedaran dan | untuk anggota |               |   |   |
+|        | Latihan --**  | dalam         |               |   |   |
+|        |               | memastikan    |               |   |   |
+|        | **ISO versi   | komitmen      |               |   |   |
+|        | 2008**        | anggota yang  |               |   |   |
+|        |               | berdidikasi   |               |   |   |
+|        |               | terhadap      |               |   |   |
+|        |               | tugas dan     |               |   |   |
+|        |               | tan           |               |   |   |
+|        |               | ggungjawab.** |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+|        |               | **ii. Periksa |               |   |   |
+|        |               | program       |               |   |   |
+|        |               | latihan dan   |               |   |   |
+|        |               | keberkesanan  |               |   |   |
+|        |               | latihan yang  |               |   |   |
+|        |               | diikuti oleh  |               |   |   |
+|        |               | anggota.      |               |   |   |
+|        |               | Adakah        |               |   |   |
+|        |               | anggota telah |               |   |   |
+|        |               | mengikuti     |               |   |   |
+|        |               | program       |               |   |   |
+|        |               | latihan       |               |   |   |
+|        |               | kerjaya yang  |               |   |   |
+|        |               | sesuai dengan |               |   |   |
+|        |               | tugas yang    |               |   |   |
+|        |               | diberikan.**  |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+|        |               | **iii.Periksa |               |   |   |
+|        |               | samada ketua  |               |   |   |
+|        |               | unit telah    |               |   |   |
+|        |               | menilai       |               |   |   |
+|        |               | keberkesanan  |               |   |   |
+|        |               | latihan yang  |               |   |   |
+|        |               | diberikan     |               |   |   |
+|        |               | kepada        |               |   |   |
+|        |               | anggota.**    |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+| **23** | **6.3**       | **i.Periksa   |               |   |   |
+|        |               | samada ruang  |               |   |   |
+|        | **In          | ke            |               |   |   |
+|        | frastruktur** | rja,peralatan |               |   |   |
+|        |               | dan kemudahan |               |   |   |
+|        |               | yang          |               |   |   |
+|        |               | disediakan    |               |   |   |
+|        |               | memenuhi      |               |   |   |
+|        |               | keperluan     |               |   |   |
+|        |               | anggota dan   |               |   |   |
+|        |               | pelanggan.**  |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+| **24** | **6.4**       | i.  **Periksa | ***ISO versi  |   |   |
+|        |               |     > dan     | 2008***       |   |   |
+|        | *             |               |               |   |   |
+|        | *Persekitaran |    > semak:** |               |   |   |
+|        | kerja**       |               |               |   |   |
+|        |               |               |               |   |   |
+|        |               |   -   **Rekod |               |   |   |
+|        |               |         >     |               |   |   |
+|        |               |  selenggaraan |               |   |   |
+|        |               |               |               |   |   |
+|        |               |        > alat |               |   |   |
+|        |               |               |               |   |   |
+|        |               |     > pemadam |               |   |   |
+|        |               |               |               |   |   |
+|        |               |       > api** |               |   |   |
+|        |               |               |               |   |   |
+|        |               |               |               |   |   |
+|        |               |   -   **Pelan |               |   |   |
+|        |               |               |               |   |   |
+|        |               |    > tindakan |               |   |   |
+|        |               |               |               |   |   |
+|        |               |   > bencana** |               |   |   |
+|        |               |               |               |   |   |
+|        |               |               |               |   |   |
+|        |               |   -   **Pintu |               |   |   |
+|        |               |               |               |   |   |
+|        |               | > kecemasan** |               |   |   |
+|        |               |               |               |   |   |
+|        |               |               |               |   |   |
+|        |               | -   **Latihan |               |   |   |
+|        |               |               |               |   |   |
+|        |               | > kebakaran** |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+
++--------+---------------------+---------------------+---+---+---+
+| **25** | **7.1**             | **i. Periksa samada |   |   |   |
+|        |                     | perancangan dan     |   |   |   |
+|        | **Perancangan Bagi  | proses-proses       |   |   |   |
+|        | penyampaian         | penyampaian         |   |   |   |
+|        | perkhidmatan kepada | perkhidmatan telah  |   |   |   |
+|        | pelanggan**         | diadakan /dibuat    |   |   |   |
+|        |                     | kepada pelanggan.** |   |   |   |
++========+=====================+=====================+===+===+===+
+|        |                     | **ii Semak objektif |   |   |   |
+|        |                     | kualiti dan proses  |   |   |   |
+|        |                     | kerja/fail meja. (  |   |   |   |
+|        |                     | carta aliran)**     |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+|        |                     | **iii. Dalam        |   |   |   |
+|        |                     | membangunkan        |   |   |   |
+|        |                     | keperluan kualiti,  |   |   |   |
+|        |                     | apakah dokumen      |   |   |   |
+|        |                     | kualiti yang        |   |   |   |
+|        |                     | diperlukan.**       |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+|        |                     | **iv, Adakah        |   |   |   |
+|        |                     | laporan aduan       |   |   |   |
+|        |                     | maklumbalas         |   |   |   |
+|        |                     | pelanggan di        |   |   |   |
+|        |                     | kemaskini.**        |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+|        |                     | **V. Ada berapakah  |   |   |   |
+|        |                     | dokumen kualiti     |   |   |   |
+|        |                     | JRP**               |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+| **26** | **7.2**             |                     |   |   |   |
+|        |                     |                     |   |   |   |
+|        | **Proses-proses     |                     |   |   |   |
+|        | yang berkaitan      |                     |   |   |   |
+|        | dengan pelanggan**  |                     |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+| **27** | **7.2.1**           | **i. Periksa        |   |   |   |
+|        |                     | prosedur pengurusan |   |   |   |
+|        | **Menentukan        | dan maklum balas    |   |   |   |
+|        | keperluan-keperluan | pelanggan**         |   |   |   |
+|        | perkhidmatan yang   |                     |   |   |   |
+|        | hendak              |                     |   |   |   |
+|        | disampaikan**       |                     |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+|        |                     | ii. **Apakah        |   |   |   |
+|        |                     |     > tindakan      |   |   |   |
+|        |                     |     > susulan yang  |   |   |   |
+|        |                     |     > diambil ke    |   |   |   |
+|        |                     |     > atas          |   |   |   |
+|        |                     |     > maklumbalas   |   |   |   |
+|        |                     |     > pelanggan,**  |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+
++--------+---------------------+---------------------+---+---+---+
+|        |                     | iv. **Bagaimana     |   |   |   |
+|        |                     |     > cara          |   |   |   |
+|        |                     |     > komunikasi    |   |   |   |
+|        |                     |     > serta         |   |   |   |
+|        |                     |     > penyampaian   |   |   |   |
+|        |                     |     > diadakan      |   |   |   |
+|        |                     |     > dengan        |   |   |   |
+|        |                     |     > pelanggan.**  |   |   |   |
++========+=====================+=====================+===+===+===+
+|        |                     | iii. **Setakat mana |   |   |   |
+|        |                     |      > maklumbalas  |   |   |   |
+|        |                     |      > pelanggan**  |   |   |   |
+|        |                     |                     |   |   |   |
+|        |                     | **diambil           |   |   |   |
+|        |                     | tindakan.**         |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+| **28** | **7.2.2**           | **i. Pernahkan      |   |   |   |
+|        |                     | kajian kepuasan     |   |   |   |
+|        | **Kajian Semula     | pelanggan dibuat    |   |   |   |
+|        | Keperluan Berkaitan | dan bila?**         |   |   |   |
+|        | Dengan Perkhidmatan |                     |   |   |   |
+|        | kepada Pelanggan**  |                     |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+|        |                     | ii. **Apakah        |   |   |   |
+|        |                     |     > maklumbalas   |   |   |   |
+|        |                     |     > yang lazimnya |   |   |   |
+|        |                     |     > diutarakan.** |   |   |   |
+|        |                     |                     |   |   |   |
+|        |                     | > **iii. Periksa    |   |   |   |
+|        |                     | > rekod kajian      |   |   |   |
+|        |                     | > kepuasan          |   |   |   |
+|        |                     | > pelanggan.Adakah  |   |   |   |
+|        |                     | > analisa kajian    |   |   |   |
+|        |                     | > dilakukan.        |   |   |   |
+|        |                     | > Kenalpasti punca  |   |   |   |
+|        |                     | > masalah dan       |   |   |   |
+|        |                     | > tindakan          |   |   |   |
+|        |                     | > pembetulan yang   |   |   |   |
+|        |                     | > dibuat.**         |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+|        |                     | **iv. Periksa       |   |   |   |
+|        |                     | pekeliling yang     |   |   |   |
+|        |                     | dirujuk dan adakah  |   |   |   |
+|        |                     | pekeliling          |   |   |   |
+|        |                     | dipatuhi.**         |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+| **29** | **7.2.3**           | **i. Adakah kajian  |   |   |   |
+|        |                     | ke atas borang      |   |   |   |
+|        | **Komunikasi Dengan | maklumbalas dan     |   |   |   |
+|        | Pelanggan**         | kepuasan pelanggan  |   |   |   |
+|        |                     | dilakukan.**        |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+|        |                     | **ii.Bagaimana cara |   |   |   |
+|        |                     | komunikasi serta    |   |   |   |
+|        |                     | penyampaian         |   |   |   |
+|        |                     | diadakan dengan     |   |   |   |
+|        |                     | pelanggan.**        |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+
++--------+---------------------+---------------------+---+---+---+
+|        |                     | **iii.Adakah peti   |   |   |   |
+|        |                     | cadangan disediakan |   |   |   |
+|        |                     | dan dimanakah       |   |   |   |
+|        |                     | lokasinya.**        |   |   |   |
++========+=====================+=====================+===+===+===+
+|        |                     | **iv.Bagaimanakah   |   |   |   |
+|        |                     | pengendalian peti   |   |   |   |
+|        |                     | cadangan            |   |   |   |
+|        |                     | dilaksanakan.**     |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+|        |                     | **v.Adakah          |   |   |   |
+|        |                     | aduan/cadangan      |   |   |   |
+|        |                     | diambil tindakan    |   |   |   |
+|        |                     | sewajarnya.**       |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+|        |                     | **vi.Sila tunjukkan |   |   |   |
+|        |                     | buku daftar/rekod   |   |   |   |
+|        |                     | yang berkaitan.**   |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+| **30** | **7.4.1**           | **i. Semak senarai  |   |   |   |
+|        |                     | pembekal.**         |   |   |   |
+|        | **Proses            |                     |   |   |   |
+|        | Perolehan**         |                     |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+|        |                     | **ii.Bolehkah anda  |   |   |   |
+|        |                     | jelaskan tatacara   |   |   |   |
+|        |                     | pengendalian proses |   |   |   |
+|        |                     | perolehan JRP.**    |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+|        |                     | **iii. Jika         |   |   |   |
+|        |                     | perolehan secara    |   |   |   |
+|        |                     | *outsourcing* ,     |   |   |   |
+|        |                     | adakah proses       |   |   |   |
+|        |                     | tersebut dikawal**  |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+| **31** | **7.4.2**           | **i.Siapakah        |   |   |   |
+|        |                     | pegawai yang        |   |   |   |
+|        | **Maklumat          | bertanggungjawab    |   |   |   |
+|        | Perolehan**         | untuk melaksanakan  |   |   |   |
+|        |                     | proses perolehan.** |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+|        |                     | **ii. Terangkan     |   |   |   |
+|        |                     | tatacara pengurusan |   |   |   |
+|        |                     | tender              |   |   |   |
+|        |                     | dilaksanakan. (     |   |   |   |
+|        |                     | jika berkaitan )**  |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+|        |                     | **iii.Adakah proses |   |   |   |
+|        |                     | perolehan inventori |   |   |   |
+|        |                     | direkodkan dan      |   |   |   |
+|        |                     | dikemaskini.**      |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+|        |                     | **iv.Sila tunjukkan |   |   |   |
+|        |                     | buku daftar/rekod   |   |   |   |
+|        |                     | yang berkaitan.**   |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+
++--------+---------------------+---------------------+---+---+---+
+| **32** | **7.4.3**           | i.  **Adakah        |   |   |   |
+|        |                     |     > penilaian ke  |   |   |   |
+|        | **Verifikasi        |     > atas prestasi |   |   |   |
+|        | Pembekal dan        |     > pembekal      |   |   |   |
+|        | perkhidmatan**      |     > dibuat.**     |   |   |   |
++========+=====================+=====================+===+===+===+
+|        |                     | ii. **Adakah ianya  |   |   |   |
+|        |                     |     > direkodkan    |   |   |   |
+|        |                     |     > dan           |   |   |   |
+|        |                     |                     |   |   |   |
+|        |                     |    > dikemaskini.** |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+|        |                     | iii. **Adakah       |   |   |   |
+|        |                     |      > pemantauan   |   |   |   |
+|        |                     |      > ke atas      |   |   |   |
+|        |                     |      > kerja-kerja  |   |   |   |
+|        |                     |      > yang         |   |   |   |
+|        |                     |      > dilaksanakan |   |   |   |
+|        |                     |      > oleh         |   |   |   |
+|        |                     |      > pembekal     |   |   |   |
+|        |                     |                     |   |   |   |
+|        |                     |     > dilaksanakan. |   |   |   |
+|        |                     |                     |   |   |   |
+|        |                     | > (*outsourcing)*** |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+|        |                     | iv. **Sila          |   |   |   |
+|        |                     |     > tunjukkan     |   |   |   |
+|        |                     |     > buku          |   |   |   |
+|        |                     |     > daftar/rekod  |   |   |   |
+|        |                     |     > yang          |   |   |   |
+|        |                     |     > berkaitan.**  |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+| **33** | **7.5**             |                     |   |   |   |
+|        |                     |                     |   |   |   |
+|        | **Kawalan Ke atas   |                     |   |   |   |
+|        | Proses Penyediaan   |                     |   |   |   |
+|        | Perkhidmatan**      |                     |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+| **34** | **7.5.1**           | **i.Periksa senarai |   |   |   |
+|        |                     | prosedur kerja      |   |   |   |
+|        | **Kawalan proses**  | perkhidmatan unit   |   |   |   |
+|        |                     | persekitaran.**     |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+|        |                     | **ii.Periksa        |   |   |   |
+|        |                     | pelaksanan prosedur |   |   |   |
+|        |                     | kerja unit dan      |   |   |   |
+|        |                     | adakah ia           |   |   |   |
+|        |                     | dipatuhi.**         |   |   |   |
+|        |                     |                     |   |   |   |
+|        |                     | **Contoh:**         |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+|        |                     | **iii.Periksa       |   |   |   |
+|        |                     | rekod-rekod         |   |   |   |
+|        |                     | pelaksanaan dan     |   |   |   |
+|        |                     | pemantauan prosedur |   |   |   |
+|        |                     | kerja yang          |   |   |   |
+|        |                     | diwujudkan.**       |   |   |   |
+|        |                     |                     |   |   |   |
+|        |                     | -   **Borang-borang |   |   |   |
+|        |                     |     > yang          |   |   |   |
+|        |                     |     > berkaitan**   |   |   |   |
+|        |                     |                     |   |   |   |
+|        |                     | -   **Senarai semak |   |   |   |
+|        |                     |     > yang          |   |   |   |
+|        |                     |     > digunakan**   |   |   |   |
+|        |                     |                     |   |   |   |
+|        |                     | -   **Fail- fail    |   |   |   |
+|        |                     |     > yang          |   |   |   |
+|        |                     |     > berkaitan**   |   |   |   |
++--------+---------------------+---------------------+---+---+---+
+
++--------+---------------+---------------+---------------+---+---+
+|        |               | **iv.Periksa  |               |   |   |
+|        |               | peralatan dan |               |   |   |
+|        |               | pe            |               |   |   |
+|        |               | nyelenggaraan |               |   |   |
+|        |               | yang          |               |   |   |
+|        |               | digunakan di  |               |   |   |
+|        |               | dalam proses  |               |   |   |
+|        |               | kerja.**      |               |   |   |
++========+===============+===============+===============+===+===+
+|        |               | *             |               |   |   |
+|        |               | *v.Kenalpasti |               |   |   |
+|        |               | dan periksa   |               |   |   |
+|        |               | peralatan     |               |   |   |
+|        |               | yang perlu    |               |   |   |
+|        |               | d             |               |   |   |
+|        |               | ikalibrasi.** |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+|        |               | **vi.Periksa  |               |   |   |
+|        |               | pemahaman     |               |   |   |
+|        |               | staf mengenai |               |   |   |
+|        |               | pengunaan PPE |               |   |   |
+|        |               | dan cara      |               |   |   |
+|        |               | pembuangan.** |               |   |   |
+|        |               |               |               |   |   |
+|        |               | **- Periksa   |               |   |   |
+|        |               | pemahaman     |               |   |   |
+|        |               | staf          |               |   |   |
+|        |               | mengenai**    |               |   |   |
+|        |               |               |               |   |   |
+|        |               | **pengunaan   |               |   |   |
+|        |               | sharp bin.**  |               |   |   |
+|        |               |               |               |   |   |
+|        |               | **- Periksa   |               |   |   |
+|        |               | pemahaman     |               |   |   |
+|        |               | anggota       |               |   |   |
+|        |               | tentang       |               |   |   |
+|        |               | penggunaan    |               |   |   |
+|        |               | peralatan     |               |   |   |
+|        |               | yang          |               |   |   |
+|        |               | berkaitan**   |               |   |   |
+|        |               |               |               |   |   |
+|        |               | **- Periksa   |               |   |   |
+|        |               | pemahaman     |               |   |   |
+|        |               | anggota       |               |   |   |
+|        |               | mengenai cara |               |   |   |
+|        |               | pembancuhan   |               |   |   |
+|        |               | racun dan     |               |   |   |
+|        |               | pembuangan    |               |   |   |
+|        |               | sisi          |               |   |   |
+|        |               | toksik.**     |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+|        |               | **vii.Periksa | ***ISO versi  |   |   |
+|        |               | proses        | 2008***       |   |   |
+|        |               | berkaitan     |               |   |   |
+|        |               | dengan JRP    |               |   |   |
+|        |               | termasuk      |               |   |   |
+|        |               | pengeluaran   |               |   |   |
+|        |               | kad persara   |               |   |   |
+|        |               | tentera.**    |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+| **35** | **7.5.2**     | **i. Semak    |               |   |   |
+|        |               | rekod         |               |   |   |
+|        | **Validasi    | validasi ke   |               |   |   |
+|        | Bagi Proses   | atas prosedur |               |   |   |
+|        | Sistem        | kerja.**      |               |   |   |
+|        | Pengurusan    |               |               |   |   |
+|        | Kualiti**     | -   **Ambil   |               |   |   |
+|        |               |               |               |   |   |
+|        |               |    > sample** |               |   |   |
+|        |               |               |               |   |   |
+|        |               | **Kenalpasti  |               |   |   |
+|        |               | anggotakerja  |               |   |   |
+|        |               | yang          |               |   |   |
+|        |               | berkelayakan  |               |   |   |
+|        |               | untuk         |               |   |   |
+|        |               | mengendalikan |               |   |   |
+|        |               | peralatan     |               |   |   |
+|        |               | tertentu di   |               |   |   |
+|        |               | dalam proses  |               |   |   |
+|        |               | kerja**       |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+| **36** | **7.5.3**     | **i.Adakah    |               |   |   |
+|        |               | unit ini      |               |   |   |
+|        | *             | mengadakan    |               |   |   |
+|        | *Identifikasi | satu sistem   |               |   |   |
+|        | K             | bagi mengesan |               |   |   |
+|        | emudahkesanan | rekod/ fail** |               |   |   |
+|        | Produk**      |               |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+|        |               | **ii. Apakah  |               |   |   |
+|        |               | alternatif    |               |   |   |
+|        |               | lain          |               |   |   |
+|        |               | sekiranya     |               |   |   |
+|        |               | sistem yang   |               |   |   |
+|        |               | diamalkan     |               |   |   |
+|        |               | sekarang      |               |   |   |
+|        |               | gagal         |               |   |   |
+|        |               | berfungsi.**  |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+
++--------+---------------+---------------+---------------+---+---+
+| **37** | **7.5.4**     | **i. Periksa  |               |   |   |
+|        |               | rekod         |               |   |   |
+|        | **Harta       | pengurusan    |               |   |   |
+|        | Pelanggan**   | harta         |               |   |   |
+|        |               | pelanggan.**  |               |   |   |
+|        |               |               |               |   |   |
+|        |               | **ii. Rekod   |               |   |   |
+|        |               | penerimaan    |               |   |   |
+|        |               | bar           |               |   |   |
+|        |               | ang-barang,** |               |   |   |
+|        |               |               |               |   |   |
+|        |               | **penyimpanan |               |   |   |
+|        |               | dan           |               |   |   |
+|        |               | pemulangan    |               |   |   |
+|        |               | harta         |               |   |   |
+|        |               | pelanggan .** |               |   |   |
+|        |               |               |               |   |   |
+|        |               | **iii.        |               |   |   |
+|        |               | Periksa rekod |               |   |   |
+|        |               | laporan**     |               |   |   |
+|        |               |               |               |   |   |
+|        |               | **kehilan     |               |   |   |
+|        |               | gan/kerosakan |               |   |   |
+|        |               | harta         |               |   |   |
+|        |               | pelanggan.**  |               |   |   |
++========+===============+===============+===============+===+===+
+|        |               | **iv. Periksa | ***ISO versi  |   |   |
+|        |               | sama ada      | 2008***       |   |   |
+|        |               | maklumat /    |               |   |   |
+|        |               | data          |               |   |   |
+|        |               | berkaitan     |               |   |   |
+|        |               | pelanggan     |               |   |   |
+|        |               | disimpan      |               |   |   |
+|        |               | selamat**     |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+| **38** | **7.5.5**     | i.            |               |   |   |
+|        |               |   **i.Periksa |               |   |   |
+|        | **Pemul       |               |               |   |   |
+|        | iharaan Produ |   rekod-rekod |               |   |   |
+|        | k** {#pemulih |     /         |               |   |   |
+|        | araan-produk} |     fail-fail |               |   |   |
+|        | ==========    |     pelanggan |               |   |   |
+|        | ============= |     di JRP,   |               |   |   |
+|        |               |     adakah ia |               |   |   |
+|        |               |     disimpan  |               |   |   |
+|        |               |     selamat** |               |   |   |
+|        |               |               |               |   |   |
+|        |               | ii. **--      |               |   |   |
+|        |               |     Periksa   |               |   |   |
+|        |               |     lokasi    |               |   |   |
+|        |               |               |               |   |   |
+|        |               | penyimpanan** |               |   |   |
+|        |               |               |               |   |   |
+|        |               | iii. **--     |               |   |   |
+|        |               |      Periksa  |               |   |   |
+|        |               |      tarikh   |               |   |   |
+|        |               |      luput    |               |   |   |
+|        |               |      reagen** |               |   |   |
+|        |               |               |               |   |   |
+|        |               | iv. **--      |               |   |   |
+|        |               |     Periksa   |               |   |   |
+|        |               |     beg       |               |   |   |
+|        |               |     sample (  |               |   |   |
+|        |               |     Mengikut  |               |   |   |
+|        |               |     senarai   |               |   |   |
+|        |               |     Semak)**  |               |   |   |
+|        |               |               |               |   |   |
+|        |               | **- Suhu peti |               |   |   |
+|        |               | sejuk**       |               |   |   |
+|        |               |               |               |   |   |
+|        |               | v.  **-       |               |   |   |
+|        |               |     Peralatan |               |   |   |
+|        |               |     fogging/  |               |   |   |
+|        |               |               |               |   |   |
+|        |               |   persampelan |               |   |   |
+|        |               |     makanan** |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+|        |               | **ii. Semak   |               |   |   |
+|        |               | rekod dan     |               |   |   |
+|        |               | cara          |               |   |   |
+|        |               | penyimpanan,  |               |   |   |
+|        |               | kemungkinan   |               |   |   |
+|        |               | berlaku       |               |   |   |
+|        |               | kehilangan /  |               |   |   |
+|        |               | unsur khianat |               |   |   |
+|        |               | /             |               |   |   |
+|        |               | kerosakan.**  |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+| **39** | **7.6 Kawalan | **i. Periksa  |               |   |   |
+|        | ke atas       | proses        |               |   |   |
+|        | Peralatan     | pe            |               |   |   |
+|        | Pengukuran    | nyelenggaraan |               |   |   |
+|        | dan           | peralatan     |               |   |   |
+|        | Pemantauan    | diunit.**     |               |   |   |
+|        | (jika         |               |               |   |   |
+|        | berkaitan)**  | **-Pemahaman  |               |   |   |
+|        |               | anggota dan   |               |   |   |
+|        |               | kenal pasti   |               |   |   |
+|        |               | peralatan     |               |   |   |
+|        |               | yang perlu    |               |   |   |
+|        |               | d             |               |   |   |
+|        |               | ikalibrasi.** |               |   |   |
+|        |               |               |               |   |   |
+|        |               | **- Periksa   |               |   |   |
+|        |               | rekod         |               |   |   |
+|        |               | kalibrasi .** |               |   |   |
+|        |               |               |               |   |   |
+|        |               | **- Periksa   |               |   |   |
+|        |               | pemahaman     |               |   |   |
+|        |               | staf cara     |               |   |   |
+|        |               | membuat**     |               |   |   |
+|        |               |               |               |   |   |
+|        |               | **aduan       |               |   |   |
+|        |               | kerosakan .** |               |   |   |
+|        |               |               |               |   |   |
+|        |               | **- Periksa   |               |   |   |
+|        |               | jadual        |               |   |   |
+|        |               | pe            |               |   |   |
+|        |               | nyelenggaraan |               |   |   |
+|        |               | peralatan**   |               |   |   |
+|        |               |               |               |   |   |
+|        |               | **            |               |   |   |
+|        |               | -Perlaksanaan |               |   |   |
+|        |               | Prosedur      |               |   |   |
+|        |               | kalibrasi.**  |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+| **40** | **8.1**       | **i. Periksa  |               |   |   |
+|        |               | laporan audit |               |   |   |
+|        | **Am**        | dalaman**     |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+| **41** | **8.2**       |               |               |   |   |
+|        |               |               |               |   |   |
+|        | **Pemantauan  |               |               |   |   |
+|        | dan           |               |               |   |   |
+|        | pengukuran**  |               |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+| **42** | **8.2.1**     | **i. Periksa  |               |   |   |
+|        |               | rekod         |               |   |   |
+|        | **Kepuasan    | berkaitan     |               |   |   |
+|        | hati**        | kepuasan hati |               |   |   |
+|        |               | pelanggan.    |               |   |   |
+|        | **pelanggan** | Adakah hasil  |               |   |   |
+|        |               | kajian dibuat |               |   |   |
+|        |               | analisa.**    |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+|        |               | **ii.Periksa  |               |   |   |
+|        |               | rekod         |               |   |   |
+|        |               | berkaitan     |               |   |   |
+|        |               | analisa dari  |               |   |   |
+|        |               | kajian        |               |   |   |
+|        |               | kepuasan      |               |   |   |
+|        |               | pelanggan**   |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+|        |               | **iii. Adakah |               |   |   |
+|        |               | peti cadangan |               |   |   |
+|        |               | / borang      |               |   |   |
+|        |               | aduan         |               |   |   |
+|        |               | disediakan**  |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+| **43** | **8.2.2**     |               |               |   |   |
+|        |               |               |               |   |   |
+|        | **Audit       |               |               |   |   |
+|        | dalaman**     |               |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+| **44** | **8.2.3**     | **i. Periksa  |               |   |   |
+|        |               | laporan       |               |   |   |
+|        | **Pemantauan  | pencapaian    |               |   |   |
+|        | dan           | objektif      |               |   |   |
+|        | proses-proses | kualiti**     |               |   |   |
+|        | pengukuran**  |               |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+| **45** | **8.3**       | **i.Periksa   |               |   |   |
+|        |               | rekod produk  |               |   |   |
+|        | **Kawalan ke  | yang tidak    |               |   |   |
+|        | atas produk   | memenuhi      |               |   |   |
+|        | tidak         | spesifikasi** |               |   |   |
+|        | memenuhi      |               |               |   |   |
+|        | keperluan     |               |               |   |   |
+|        | yang          |               |               |   |   |
+|        | ditetapkan.** |               |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+
++--------+---------------+---------------+---------------+---+---+
+| **46** | **8.4**       | i.  **Periksa | ***ISO versi  |   |   |
+|        |               |     > adakah  | 2008***       |   |   |
+|        | **Analisa     |     > analisa |               |   |   |
+|        | data**        |     > dibuat  |               |   |   |
+|        |               |     > bagi    |               |   |   |
+|        |               |               |               |   |   |
+|        |               |    > mengukur |               |   |   |
+|        |               |     > tahap** |               |   |   |
+|        |               |               |               |   |   |
+|        |               |     -         |               |   |   |
+|        |               |    **kepuasan |               |   |   |
+|        |               |               |               |   |   |
+|        |               | > pelanggan** |               |   |   |
+|        |               |               |               |   |   |
+|        |               |     -         |               |   |   |
+|        |               |  **pencapaian |               |   |   |
+|        |               |               |               |   |   |
+|        |               |   > keperluan |               |   |   |
+|        |               |               |               |   |   |
+|        |               |    > produk** |               |   |   |
+|        |               |               |               |   |   |
+|        |               |     -         |               |   |   |
+|        |               |    **pembekal |               |   |   |
+|        |               |         > p   |               |   |   |
+|        |               | erkhidmatan** |               |   |   |
+|        |               |               |               |   |   |
+|        |               |     -         |               |   |   |
+|        |               |    **prestasi |               |   |   |
+|        |               |               |               |   |   |
+|        |               | > paralatan** |               |   |   |
+|        |               |               |               |   |   |
+|        |               |     -         |               |   |   |
+|        |               |    **prestasi |               |   |   |
+|        |               |         > p   |               |   |   |
+|        |               | erkhidmatan** |               |   |   |
+|        |               |               |               |   |   |
+|        |               |     -         |               |   |   |
+|        |               |  **kompetensi |               |   |   |
+|        |               |               |               |   |   |
+|        |               |  > personel** |               |   |   |
+|        |               |               |               |   |   |
+|        |               |     -   **k   |               |   |   |
+|        |               | etidakpatuhan |               |   |   |
+|        |               |         >     |               |   |   |
+|        |               | spesifikasi** |               |   |   |
+|        |               |               |               |   |   |
+|        |               | **ii. Apakah  |               |   |   |
+|        |               | tindakan      |               |   |   |
+|        |               | pe            |               |   |   |
+|        |               | nambahbaiakan |               |   |   |
+|        |               | yang telah    |               |   |   |
+|        |               | diambil       |               |   |   |
+|        |               | berdasarkan   |               |   |   |
+|        |               | kepada        |               |   |   |
+|        |               | analisa data  |               |   |   |
+|        |               | tersebut.**   |               |   |   |
++========+===============+===============+===============+===+===+
+| **47** | **8.5**       |               |               |   |   |
+|        |               |               |               |   |   |
+|        | **Pen         |               |               |   |   |
+|        | ambahbaikan** |               |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+| **48** | **8.5.1**     | **i. Periksa  |               |   |   |
+|        |               | rekod         |               |   |   |
+|        | **P           | pembetulan    |               |   |   |
+|        | enambahbaikan | dan           |               |   |   |
+|        | yang          | p             |               |   |   |
+|        | menyeluruh**  | enambahbaikan |               |   |   |
+|        |               | yang telah    |               |   |   |
+|        |               | d             |               |   |   |
+|        |               | ilaksanakan** |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+| **49** | **8.5.2**     | **i. Periksa  |               |   |   |
+|        |               | rekod laporan |               |   |   |
+|        | **Tindakan    | audit dalaman |               |   |   |
+|        | pembetulan**  | dan semua     |               |   |   |
+|        |               | tindakan      |               |   |   |
+|        |               | pembetulan    |               |   |   |
+|        |               | yang          |               |   |   |
+|        |               | diperlukan**  |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+|        |               | **ii. Periksa |               |   |   |
+|        |               | rekod         |               |   |   |
+|        |               | tindakan      |               |   |   |
+|        |               | susulan ke    |               |   |   |
+|        |               | atas semua    |               |   |   |
+|        |               | aduan yang    |               |   |   |
+|        |               | di            |               |   |   |
+|        |               | terima.Adakah |               |   |   |
+|        |               | tindakan      |               |   |   |
+|        |               | pembetulan    |               |   |   |
+|        |               | dilaksanakan  |               |   |   |
+|        |               | ke atas       |               |   |   |
+|        |               | setiap        |               |   |   |
+|        |               | aduan.**      |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+| **50** | **8.5.3       | **i. Periksa  |               |   |   |
+|        | Tindakan      | rekod         |               |   |   |
+|        | pencegahan**  | berkaitan     |               |   |   |
+|        |               | tindakan      |               |   |   |
+|        |               | pencegahan    |               |   |   |
+|        |               | dan pelan     |               |   |   |
+|        |               | pencegahan**  |               |   |   |
++--------+---------------+---------------+---------------+---+---+
+|        |               | **ii. Semak   |               |   |   |
+|        |               | pelan         |               |   |   |
+|        |               | pencegahan    |               |   |   |
+|        |               | dan           |               |   |   |
+|        |               | kenalpasti    |               |   |   |
+|        |               | hubungan      |               |   |   |
+|        |               | pelan         |               |   |   |
+|        |               | tersebut      |               |   |   |
+|        |               | dengan        |               |   |   |
+|        |               | tindakan      |               |   |   |
+|        |               | pembetulan.** |               |   |   |
++--------+---------------+---------------+---------------+---+---+

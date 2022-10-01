@@ -1,0 +1,152 @@
+---
+title: "Belanja Mengurus"
+author: "OA"
+output:
+  html_document:
+    toc: yes
+    toc_depth: 4
+  pdf_document:
+    toc: yes
+    toc_depth: '4'
+params:
+  
+  doc_id: PK(S).OA.05
+---
+\newpage
+
+|Prosedur Kualiti &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|`r params$doc_id`|
+|:------------------|-------:|
+
+![OA Logo](media/openapps-logo.png){width=30%}
+
+|                                   |
+|:---------------------------------:|
+|PROSEDUR PERUNTUKAN KEWANGAN|
+
+`r params$doc_id`
+
+# I    Penyedia dan Kelulusan
+
+|                               |                      |          |
+|-------------------------------|----------------------|----------|
+| Nama                          | Tandatangan          | Tarikh   |
+|                               |                      |          |
+| Disediakan Oleh:              |                      | Feb 2021 |
+|                               |                      |          |
+|                               |                      |          |
+| xxxxxxxxxxxxxxxxxxxxxxxxx     |                      |          |
+|                               |                      |          |
+|                               |                      |          |
+| Wakil Pengurusan              |                      |          |
+|                               |                      |          |
+| Diluluskan Oleh:              |                      | Feb 2021 |
+|                               |                      |          |
+|                               |                      |          |
+| xxxxxxxxxxxxxxxxxxxxxxxxx     |                      |          |
+|                               |                      |          |
+|                               |                      |          |
+| Pengurus Besar                      |                      |          |
+|                               |                      |          |
+| No Salinan Terkawal           | Pemegang Dokumen     |          |
+|                               |                      |          |
+| `r params$doc_id`( )          |                      |          |
+
+# II    Rekod Pindaan
+
+|Tarikh Pindaan|No Pindaan/No Keluaran|Rujukan Pindaan Mukasurat |Butir-butir Pindaan|Diluluskan Oleh|
+|-------------|-------------|-------------|-------------|-------------|
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+
+# III   Senarai Pemegang Dokumen
+
+| No. Salinan Terkawal   | Pemegang Dokumen          |
+|------------------------|---------------------------|
+| `r params$doc_id`(01)  | Pengurus Besar     |
+| `r params$doc_id`(02)  | Wakil Pengurusan   |
+| `r params$doc_id`(03)  | Pengurus Jualan    |
+| `r params$doc_id`(04)  | Pengurus Pentadbiran/Kewangan |
+| `r params$doc_id`(05)  | Pengurus Teknikal  |
+| `r params$doc_id`(06)  | Pengurus Sumber Manusia |
+| `r params$doc_id`(07)  | Eksekutif Jualan   |
+| `r params$doc_id`(08)  | Eksekutif Kewangan |
+| `r params$doc_id`(09)  | Eksekutif Sumber Manusia |
+| `r params$doc_id`(10)  | Ketua Kerani       |
+| `r params$doc_id`(11)  | Pengurus Dokumen   |
+| `r params$doc_id`(12)  | Urusetia           |
+
+# 1.0   Objektif
+
+ Prosedur ini menggariskan langkah-langkah bagi memastikan penyediaan
+ Program Anggaran Belanja Mengurus Tahunan dilaksanakan dengan berkesan.
+
+# 2.0   Skop
+
+ Prosedur ini digunapakai oleh Cawangan Tadbir Syarikat di dalam penyediaan
+ Program Anggaran Belanja Mengurus Tahunan Syarikat.
+
+# 3.0   Rujukan
+
+##   3.1   MK.OA.02
+
+ i)   Seksyen 5.1 - Komitmen Pengurusan.
+
+ i)   Seksyen 6.1 - Peruntukan Dan Penyediaan Sumber.
+
+##    3.2.  Pekeliling Perbendaharaan Bilangan 8 Tahun 1996  
+Penjenisan Kod bagi Hasil dan Perbelanjaan.
+
+##    3.3   Buku Panduan Sistem Belanjawan yang disediakan oleh Bahagian Kewangan Tahun 1994.
+
+##    3.4.  Sistem Buku Vot Manual.
+
+##    3.5.  Perlembagaan Persekutuan dan Akta ATM 1972.
+
+# 4.0   Definisi
+
+ Bajet adalah keperluan yang diperuntukan oleh JSM - Jabatan Sumber Manusia Bahagian
+ Kewangan kepada keperluan yang telah diputuskan oleh Pengurusan Syarikat.
+
+# 5.0   Singkatan
+
+ i)   JSM - Jabatan Sumber Manusia.
+
+
+# 6.0   Tanggungjawab dan Tindakan
+
+|Tanggungjawab  |Tindakan                                       |
+|---------------|-----------------------------------------------|
+|Eksekutif Kewangan/Pengurusan    |1. Terima surat daripada JSM - Jabatan Sumber Manusia surat Pekeliling|
+|               |Perbendaharaan Bil. 8.                          |
+|               |2. Sediakan anggaran perbelanjaan mengurus tahunan|
+|               |keperluan Syarikat mengikut format Pekeliling Perbendaharaan 8/1996.|
+|               |                                               |
+|Pengurus Kewangan/Pengurusan|3. Semak keperluan di perenggan 2 dan kemukakan kepada Pengurus Besar untuk kelulusan.|
+|               |                                               |
+|Pengurus Besar |4. Luluskan keperluan di perenggan 3.          | 
+|               |                                               |
+|Kerani Kewangan/Pengurusan|5. Majukan kepada JSM.              |
+|               |                                               |
+|Eksekutif Kewangan/Pengurusan|6. Selenggarakan Buku Vot dan kemaskinikan setiap masa|
+|               |Pastikan tandatangan ringkas setiap tanggungan di dalam Buku Vot.|
+
+# 7.0 Aliran Kerja
+
+# 8.0 Rekod Kualiti
+
+|Bil   |Rekod |Tempoh Penyimpanan|Lokasi|
+|------|----------------------------|---------------------|------|
+|1.    |Buku Vot                    |5 Tahun              |Pejabat Tadbir|
+|2.    |Buku Daftar Pembekal        |5 Tahun              |Pejabat Tadbir|
+|2.    |Buku Daftar Invois          |5 Tahun              |Pejabat Tadbir|
+
+# 9.0 Lampiran
+
+ Tidak berkenaan

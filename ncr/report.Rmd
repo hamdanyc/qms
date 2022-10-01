@@ -1,0 +1,47 @@
+---
+title: "Senarai Semak"
+output:
+  pdf_document:
+    extra_dependencies: ["graphicx","longtable","tabu"]
+  html_notebook: default
+  html_document:
+    df_print: paged
+params:
+  df:
+    value: NULL
+
+---
+
+```{r init, echo=FALSE, message=FALSE, warning=FALSE}
+knitr::opts_chunk$set(
+	echo = FALSE,
+	message = FALSE,
+	warning = FALSE
+)
+
+library(dplyr)
+library(kableExtra)
+ssr <- data_frame(params$df)
+```
+
+Bil. Audit: . . . .. No Helaian: . . . . . . Tarikh : . . . . . . . . . . .     
+Prosedur/proses: . . . . . . . . . . . . . . . . . . .. Auditor: . . . . . . . . . . . . . . . . . . . . . . . .    
+Jadual 4: Senarai Semak [PK(W).OA.03.B02]
+
+```{r select sample, echo=FALSE}
+# names(ssr$Keterangan) <- `Perkara-perkara untuk diperiksa dan klausa berkaitan`
+ssr %>%
+  mutate(Auditee="","Respon/Bukti"="") %>%
+  kbl(format = "latex",longtable = TRUE,row.names = TRUE) %>%
+  kable_styling(full_width = FALSE, font_size = 10) %>%
+  column_spec(1,width = "0.5cm") %>%
+  column_spec(2,width = "1.5cm") %>%
+  column_spec(3,width = "2.5cm") %>%
+  column_spec(4,width = "0.8cm") %>%
+  column_spec(5,width = "5cm") %>% 
+  column_spec(6:7,width = "2cm")
+```
+
+Disediakan oleh: . . . . . . . . . . . . . . .    
+Tandatangan: . . . . . . . . . . . . . . . . .     
+Tarikh: . . . . . . . . .    

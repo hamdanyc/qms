@@ -1,0 +1,251 @@
+---
+title: "MS ISO 9001:2015 Sistem Pengurusan Kualiti"
+author: "OpenApps Sdn Bhd (548151-W)"
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: '4'
+  html_document:
+    toc: yes
+    toc_depth: 4
+params:
+  doc_id: PK(W).OA.01
+  doc_title: "title"
+  
+---
+
+```{r init, include=FALSE}
+library(readr)
+a_list <- read_csv("~/R/qms/a_list.csv")
+```
+
+\newpage
+
+|Prosedur Kualiti &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|`r params$doc_id`|
+|:------------------|-------:|
+
+![](~/R/qms/media/openapps-logo.png){width=30%}
+
+| **Bridging the gap** between **PEOPLE**, **BUSINESS** and **TECHNOLOGY**
+
+|                                   |
+|:---------------------------------:|
+|`r toupper(params$doc_title)`|
+
+# I    Penyedia dan Kelulusan
+
+|Nama &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |Tarikh |
+|-------------------------------|--------------|
+|                               |              |
+| Disediakan Oleh:          | Feb 2021 |
+|                               |              |
+|                               |              |
+|_____________________          |              |
+| `r substr(a_list$pemilik_dok[14],1,40)`| |
+| `r substr(a_list$pemilik_dok[14],41,60)`   | |
+| Wakil Pengurusan          |              |
+|                               |              |
+| Diluluskan Oleh:          | Feb 2021 |
+|                               |              |
+|                               |              |
+|_____________________          |              |
+| `r a_list$pemilik_dok[15]`|              |
+| CEO                       |              |
+|                               |              |
+| No Salinan Terkawal:      |              |
+|                               |              |
+| `r params$doc_id`( )          |              |
+
+\newpage
+
+# II    Rekod Pindaan
+
+|Tarikh Pindaan|No Pindaan/No Keluaran|Rujukan Pindaan Mukasurat |Butir-butir Pindaan|Diluluskan Oleh|
+|-------------|-------------|-------------|-------------|-------------|
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+
+# III   Senarai Pemegang Dokumen
+
+| No. Salinan Terkawal   | Pemegang Dokumen              |
+|------------------------|-------------------------------|
+| `r params$doc_id`(01)  | `r a_list$pemilik_dok[1]`     |
+|                        |                               |
+| `r params$doc_id`(02)  | `r a_list$pemilik_dok[2]`     |
+|                        |                               |
+| `r params$doc_id`(03)  | `r a_list$pemilik_dok[3]`     |
+|                        |                               |
+| `r params$doc_id`(04)  | `r a_list$pemilik_dok[4]`     |
+|                        |                               |
+| `r params$doc_id`(05)  | `r a_list$pemilik_dok[5]`     |
+|                        |                               |
+| `r params$doc_id`(06)  | `r a_list$pemilik_dok[6]`     |
+|                        |                               |
+| `r params$doc_id`(07)  | `r a_list$pemilik_dok[7]`     |
+|                        |                               |
+| `r params$doc_id`(08)  | `r a_list$pemilik_dok[8]`     |
+|                        |                               |
+| `r params$doc_id`(09)  | `r a_list$pemilik_dok[9]`     |
+|                        |                               |
+| `r params$doc_id`(10)  | `r a_list$pemilik_dok[10]`    |
+|                        |                               |
+| `r params$doc_id`(11)  | `r a_list$pemilik_dok[11]`    |
+|                        |                               |
+| `r params$doc_id`(12)  | `r a_list$pemilik_dok[12]`    |
+|                        |                               |
+| `r params$doc_id`(13)  | `r a_list$pemilik_dok[13]`    |
+
+\newpage
+
+1.0 OBJEKTIF
+
+Prosedur ini bertujuan untuk menggariskan langkah-langkah yang perlu diambil bagi memastikan ketidakpatuhan disiasat serta tindakan pembetulan yang sewajarnya dilaksanakan untuk mengelakkan ia berlaku semula sebagai asas penambahbaikan Sistem Pengurusan Kualiti.
+
+2.0 SKOP
+
+Prosedur ini digunapakai oleh pihak pengurusan atasan JRP untuk menganalisa masalah dan mengenalpasti tindakan pembetulan yang sesuai dalam pelaksanaan Sistem Pengurusan Kualiti dan punca-punca ketidakpatuhan yang diterima adalah melalui:
+
+ i\) Maklumbalas Pelanggan;
+
+ ii\) Laporan Penemuan Audit;
+
+ iii\) Laporan Kajian Kepuasan Pelanggan;
+
+ iv\) Kawalan Produk yang Tidak Memenuhi Spesifikasi; dan
+
+ v\) Minit Mesyuarat.
+
+3.0 RUJUKAN
+
+3.1 MK.JRP.02
+
+ Seksyen 8.5.1 - Penambahbaikan Berterusan
+
+ Seksyen 8.5.2 - Tindakan Pembetulan
+
+ Seksyen 8.5.3 - Tindakan Pencegahan
+
+ Klausa 8.2 - Tindakan Pembetulan
+
+4.0 DEFINISI
+
+##    4.1   Ketidakpatuhan
+
+Ketidakpatuhan adalah pelanggaran ke atas mana-mana prosedur, pekeliling yang berkuatkuasa, piawaian MS ISO 9001:2008 serta perundangan yang berkuatkuasa.
+
+##    4.2  Laporan Penemuan Audit
+
+Laporan penemuan audit yang disediakan oleh juruaudit dalaman dan luaran ke atas ketidakpatuhan yang dikenalpasti semasa pengauditan yang dijalankan.
+
+##    4.3  Borang Maklumbalas Pelanggan
+
+Maklumbalas yang diisi oleh pelanggan atau borang yang mengandungi maklumat berhubung dengan perkhidmatan yang disediakan.
+
+##    4.4  Laporan Kajian Kepuasan Pelanggan
+
+Kajian yang dibuat oleh bahagian-bahagian untuk mengkaji tahap kepuasan pelanggan dalaman dan luaran terhadap perkhidmatan yang diberikan.
+
+5.0 SINGKATAN
+
+WP - Wakil Pengurusan
+
+TWP - Timbalan Wakil Pengurusan
+
+MK - Manual Kualiti
+
+PK - Prosedur Kualiti
+
+6.0 TANGGUNGJAWAB DAN TINDAKAN
+
+|Tanggungjawab  |Tindakan                                       |
+|---------------|-----------------------------------------------|
+|               |                                               |
+| TWP           |1\. Kenalpasti bidang-bidang untuk tindakan pembetulan melalui:|
+|               |i\) Maklumbalas Pelanggan.                     |
+|               |ii\) Laporan Penemuan Audit.                   |
+|               |iii\) Laporan Kajian Kepuasan Pelanggan.       |
+|               |iv\) Kawalan Produk yang Tidak Memenuhi Spesifikasi.|
+|               |vi\) Minit Mesyuarat.                          |
+|               |                                               |
+|               |2\. Arahkan TWP untuk mengumpul maklumat berkaitan tindakan|
+|               |pembetulan yang dicadangkan.                   |
+|               |                                               |
+|               |3\. Bincang dengan PRP (jika perlu).           |
+|               |                                               |
+| TWP           |4\. Adakan mesyuarat peringkat bahagian untuk  | 
+|               |membincangkan keperluan siasatan atau kes      |
+|               |tertentu mengikut keperluan.                   |
+|               |                                               |
+|               |5\. Kumpulkan maklumat dan buat analisa punca ketidakpatuhan.|
+|               |                                               |
+|               |6\. Hubungi pelanggan/pihak pengadu untuk mengenalpasti|
+|               |masalah sebenar dan punca-punca kepada sesuatu maklumbalas|
+|               |                                               |
+|               |7\. Bincang dengan anggota JRP di mana ketidakpatuhan berlaku.|
+|               |                                               |
+|               |8\. Kenalpasti cadangan tindakan pembetulan dan anggota|
+|               |yang melaksanakan tindakan pembetulan.         |
+|               |                                               |
+|               |9\. Analisa cadangan tindakan pembetulan sama ada ianya|
+|               |sesuai atau sebaliknya.                        |
+|               |                                               |
+|               |10\. Laksanakan tindakan pembetulan.           |
+|               |                                               |
+|               |11\. Lakukan pemantauan ke atas tindakan pembetulan yang|
+|               |dikenalpasti supaya ketidakpatuhan tidak berulang.|
+|               |                                               |
+|               |12\. Jika tidak dapat dilaksanakan, bincang kembali| 
+|               |dengan WP yang terlibat untuk mendapatkan cadang balas.|
+|               |                                               |
+|               |13\. Sediakan laporan tindakan pembetulan ke atas|
+|               |ketidakpatuhan yang diambil (Rujuk laporan format seperti di Lampiran 1).|
+|               |                                               |
+|               |14\. Sediakan laporan tindakan pembetulan yang mengandungi|
+|               |aspek-aspek berikut:                           |
+|               |                                               |
+|               |  i\) Punca berlakunya ketidakpuasan pelanggan.|
+|               |  ii\) Cadangan penyelesaian.                  |
+|               |  iii\) Pegawai yang bertanggungjawab.         |
+|               |  iv\) Masalah yang perlu diambil tindakan serta merta.|
+|               |                                               |
+|               |15\. Serahkan laporan tindakan pembetulan      |
+|               |kepada WP untukpertimbangan.                   |
+|               |                                               |
+| WP            |16\. Terima laporan dan sediakan ringkasan Cadangan Penambahbaikan|
+|               |(Rujuk Lampiran 2) kepada PRP.                 |
+|               |                                               |
+|               |17\. Failkan semua laporan tindakan pembetulan dan pemantauan|
+|               |ke dalam Fail Tindakan Pembetulan.             |
+|               |                                               |
+| Kerani        |18\. Failkan semua laporan tindakan pembetulan dan|
+|               |pemantauan ke dalam Fail Tindakan Pembetulan.  |
+
+7.  CARTA ALIRAN KERJA
+
+8.0 REKOD KUALITI
+
+|Bil   |Rekod                                    |Tempoh Penyimpanan|Lokasi|
+|------|-----------------------------------------|--------|-------------|
+| 1    |Fail Aduan Pelanggan                     | 5 Tahun|             |
+|      |                                         |        |             |
+| 2    |Laporan AD                               | 5 Tahun|KSA          |
+|      |                                         |        |             |
+| 3    |Kertas Minit Mesyuarat                   | 5 Tahun|Jabatan/Sel  |
+|      |                                         |        |             |
+| 4    |Fail Tindakan Pembetulan                 | 5 Tahun|WP           |
+
+
+9.0 LAMPIRAN
+
+i)    Format Laporan Tindakan Pembetulan.
+i)    Cadangan Penambahbaikan.            |
+
+
+                               

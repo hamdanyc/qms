@@ -1,0 +1,29 @@
+id,nama,tajuk
+mk,MK.OA Manual Kualiti,Pengurusan Integrasi Sistem dan Penyampaian Pasca Perkhidmatan (Post Service Delivery) OpenApps (M) Sdn. Bhd.
+pkw_1,PK(W).OA.01 Prosedur Kawalan Dokumen Kualiti,Prosedur Kawalan Dokumen Kualiti
+pkw_2,PK(W).OA.02 Prosedur Pengurusan Rekod Kualiti,Prosedur Pengurusan Rekod Kualiti
+pkw_3,PK(W).OA.03 Prosedur Audit Dalaman,Prosedur Audit Dalaman
+pkw_4,PK(W).OA.04 Prosedur Tindakan Pembetulan,Prosedur Tindakan Pembetulan
+pkw_5,PK(W).OA.05 Prosedur Tindakan Pencegahan,Prosedur Tindakan Pencegahan
+pkw_6,"PK(W).OA.06 Prosedur Kawalan Penghasilan Produk Perkhidmatan
+Yang Tidak Memenuhi Spesifikasi",Prosedur Kawalan Penghasilan Produk Perkhidmatan
+pks_1,"PK(S).OA.01 Prosedur Pengendalian Aduan, Maklumbalas Pelanggan
+dan Penghargaan Serta Peti Aduan/Cadangan","Prosedur Pengendalian Aduan, Maklumbalas Pelanggan"
+pks_2,PK(S).OA.02 Prosedur Mesyuarat Kajian Semula Pengurusan,Prosedur Mesyuarat Kajian Semula Pengurusan
+pks_3,PK(S).OA.03 Prosedur Perolehan,Prosedur Perolehan
+pks_4,PK(S).OA.04 Prosedur Pengendalian Latihan,Prosedur Pengendalian Latihan
+pks_5,PK(S).OA.05 Prosedur Penyediaan Bajet,Prosedur Penyediaan Bajet
+pks_6,PK(S).OA.06 Prosedur Penyenggaraan Teknologi Maklumat dan Komunikasi,Prosedur Penyenggaraan Teknologi Maklumat dan Komunikasi
+pks_7,PK(S).OA.07 Prosedur Pengurusan Aset,Prosedur Pengurusan Aset
+pks_8,PK(S).OA.08 Prosedur Pengurusan Keselamatan Sumber Manusia,Prosedur Pengurusan Keselamatan Sumber Manusia
+pks_9,PK(S).OA.09 Prosedur Keselamatan Fizikal dan Persekitaran,Prosedur Keselamatan Fizikal dan Persekitaran
+pks_10,PK(S).OA.10 Prosedur Pengurusan Komunikasi dan Operasi,Prosedur Pengurusan Komunikasi dan Operasi
+pks_11,PK(S).OA.11 Prosedur Kawalan Capaian,Prosedur Kawalan Capaian
+pks_12,"PK(S).OA.12 Prosedur Perolehan, Pembangunan dan Penyelenggaraan Sistem","Prosedur Perolehan, Pembangunan dan Penyelenggaraan Sistem"
+pks_13,PK(S).OA.13  Prosedur Pengurusan Pengendalian Insiden Keselamatan ICT,Prosedur Pengurusan Pengendalian Insiden Keselamatan ICT
+pko_1,PK(O).OA.01 Prosedur Pengurusan Pembangunan Perniagaan,Prosedur Pembangunan Perniagaan
+pko_2,PK(O).OA.02  Prosedur Pengurusan Penyediaan dan Kawalan Kontrak,Prosedur Pengurusan Penyediaan dan Kawalan Kontrak
+pko_3,PK(O).OA.03 Prosedur Pengurusan dan Kawalan Kewangan,Prosedur Pengurusan dan Kawalan Kewangan
+pko_4,PK(O).OA.04 Prosedur Pengurusan dan Kawalan Projek,Prosedur Pengurusan dan Kawalan Projek
+pko_5,PK(O).OA.05,Simpanan
+pko_6,PK(O).OA.06,Simpanan

@@ -1,0 +1,40 @@
+---
+title: 
+output:
+  pdf_document: default
+  html_notebook: default
+  html_document:
+    df_print: paged
+---
+
+```{r init, echo=FALSE, message=FALSE, warning=FALSE}
+knitr::opts_chunk$set(
+	echo = FALSE,
+	message = FALSE,
+	warning = FALSE
+)
+options(
+  knitr.kable.NA = '',
+  knitr.table.format = "latex"
+  ) 
+library(dplyr)
+library(kableExtra)
+ss <- read.csv("~/qms/audit/ss.csv")
+```
+
+```{r print table, echo=FALSE}
+ss %>% sample_n(15) %>% 
+  mutate(Auditee="",Pemerhatian="") %>% 
+  kbl(row.names = TRUE,caption = "Senarai Semak",longtable = TRUE,booktabs = TRUE,label = "Jadual") %>% 
+  kable_styling(position="left",font_size = 10,latex_options = c("repeat_header")) %>% 
+  # column_spec(1,width = "3em") %>%
+  column_spec(2,width = "7em") %>%
+  column_spec(3,width = "7em") %>%
+  column_spec(4,width = "17em") %>%
+  column_spec(5,width = "7em") %>%
+  column_spec(6,width = "7em")
+```
+Disediakan oleh:    
+Tandatangan:    
+Tarikh:    
+

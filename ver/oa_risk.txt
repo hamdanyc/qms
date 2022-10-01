@@ -1,0 +1,230 @@
+<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Title </th>
+   <th style="text-align:left;"> Risk </th>
+   <th style="text-align:left;"> Type </th>
+   <th style="text-align:right;"> Consequence </th>
+   <th style="text-align:right;"> Likelihood </th>
+   <th style="text-align:left;"> Mitigate </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Client default on payment </td>
+   <td style="text-align:left;"> Insignificant </td>
+   <td style="text-align:left;"> External </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Procedure </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Client default on payment </td>
+   <td style="text-align:left;"> Insignificant </td>
+   <td style="text-align:left;"> External </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Credit Arrangement </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Client refuses to approve deliverables/milestones or delays approval </td>
+   <td style="text-align:left;"> Minor </td>
+   <td style="text-align:left;"> External </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:left;"> Procedure </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> “Client's change request for item” </td>
+   <td style="text-align:left;"> Minor </td>
+   <td style="text-align:left;"> External </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:left;"> Procedure </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Currency exchange rate of the imported item </td>
+   <td style="text-align:left;"> Minor </td>
+   <td style="text-align:left;"> External </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:left;"> Credit Arrangement </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Delayed Delivery Order </td>
+   <td style="text-align:left;"> Minor </td>
+   <td style="text-align:left;"> Internal/External </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Procedure </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Delayed Invoice </td>
+   <td style="text-align:left;"> Minor </td>
+   <td style="text-align:left;"> Internal/External </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:left;"> Procedure </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Delayed Purchase Order </td>
+   <td style="text-align:left;"> Insignificant </td>
+   <td style="text-align:left;"> Internal/External </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:left;"> Procedure </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Delayed Quotation </td>
+   <td style="text-align:left;"> Minor </td>
+   <td style="text-align:left;"> Internal/External </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:left;"> Procedure </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Delivery of items/project stopped </td>
+   <td style="text-align:left;"> Minor </td>
+   <td style="text-align:left;"> Internal/External </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:left;"> Procedure </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Error/s in Delivery Order </td>
+   <td style="text-align:left;"> Insignificant </td>
+   <td style="text-align:left;"> Internal/External </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:left;"> Procedure </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Error/s in Invoice </td>
+   <td style="text-align:left;"> Minor </td>
+   <td style="text-align:left;"> Internal/External </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Procedure </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Error/s in Purchase Order </td>
+   <td style="text-align:left;"> Minor </td>
+   <td style="text-align:left;"> Internal/External </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> Procedure </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Error/s in Quotation </td>
+   <td style="text-align:left;"> Minor </td>
+   <td style="text-align:left;"> Internal/External </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Procedure </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Estimating and/or scheduling errors </td>
+   <td style="text-align:left;"> Insignificant </td>
+   <td style="text-align:left;"> Internal/External </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> 3 </td>
+   <td style="text-align:left;"> Procedure </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Inadequate client testing leads cause defect list </td>
+   <td style="text-align:left;"> Insignificant </td>
+   <td style="text-align:left;"> Internal/External </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:left;"> Client-Supplier Arrangement </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Item becomes obsolete or is undermined by external or internal changes </td>
+   <td style="text-align:left;"> Minor </td>
+   <td style="text-align:left;"> Internal/External </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:left;"> Procedure </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Item becomes obsolete or is undermined by external or internal changes </td>
+   <td style="text-align:left;"> Minor </td>
+   <td style="text-align:left;"> Internal/External </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:left;"> Client-Supplier Arrangement </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Item imported hold up by custom </td>
+   <td style="text-align:left;"> Minor </td>
+   <td style="text-align:left;"> Internal/External </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:left;"> Client-Supplier Arrangement </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Item mistakenly delivered </td>
+   <td style="text-align:left;"> Minor </td>
+   <td style="text-align:left;"> Internal/External </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:left;"> Procedure </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Item mistakenly purchase </td>
+   <td style="text-align:left;"> Minor </td>
+   <td style="text-align:left;"> Internal/External </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:left;"> Procedure </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Item received is faulty/broken </td>
+   <td style="text-align:left;"> Minor </td>
+   <td style="text-align:left;"> Internal/External </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:left;"> Procedure </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Item received not according to specification </td>
+   <td style="text-align:left;"> Minor </td>
+   <td style="text-align:left;"> Internal/External </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:left;"> Procedure </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Sudden departure of key personnel could delay the project delivery </td>
+   <td style="text-align:left;"> Minor </td>
+   <td style="text-align:left;"> Internal </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:left;"> Procedure </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Theft of materials, intellectual property or equipment </td>
+   <td style="text-align:left;"> Minor </td>
+   <td style="text-align:left;"> Internal/External </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> Procedure </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Unplanned work that must be accommodated </td>
+   <td style="text-align:left;"> Minor </td>
+   <td style="text-align:left;"> External </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> Procedure </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Item received not according to specification </td>
+   <td style="text-align:left;"> Minor </td>
+   <td style="text-align:left;"> Internal/External </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:left;"> Client-Supplier Arrangement </td>
+  </tr>
+</tbody>
+</table>

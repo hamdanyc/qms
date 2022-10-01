@@ -1,0 +1,13 @@
+name: oa-qms
+title: oa-qms
+username:
+account: hamdan-yaccob
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6361887
+bundleId: 6013257
+url: https://hamdan-yaccob.shinyapps.io/oa-qms/
+when: 1655370492.06997
+lastSyncTime: 1655370492.06998
+asMultiple: FALSE
+asStatic: FALSE

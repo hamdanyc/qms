@@ -1,0 +1,109 @@
+---
+title: |
+  ![](~/R/qms/media/openapps-logo.png){width=30%}  
+  **Bridging the gap between \textcolor{blue}{PEOPLE}, \textcolor{blue}{BUSINESS} and \textcolor{blue}{TECHNOLOGY}**
+  
+  **MS ISO 9001:2015 Sistem Pengurusan Kualiti**  
+  OpenApps Sdn Bhd (548151-W)
+author:
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: '4'
+  html_document:
+    toc: yes
+    toc_depth: 4
+params:
+  doc_id: PK(o).OA.02
+  doc_title: "Title"
+
+---
+\newpage
+\fancyhead[R]{\textbf{No: Keluaran: 01\\No Pindaan: 00\\Tarikh Kuatkuasa: `r params$doc_date`}}
+
+```{r init, include=FALSE}
+library(readr)
+a_list <- read_csv("~/R/qms/a_list.csv")
+```
+
+\newpage
+
+|Prosedur Kualiti &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|`r params$doc_id`|
+|:------------------|-------:|
+
+|                                   |
+|:---------------------------------:|
+|**`r toupper(params$doc_title)`**|
+
+# 1.0   Objektif
+
+Prosedur bagi proses perolehan perkhidmatan dan barangan oleh Jabatan Kewangan seterusnya melaksanakan bayaran kepada pembekal. 
+
+# 2.0   Skop
+
+Pelaksanaan oleh Jabatan Kewangan bagi perolehan perkhidmatan dan barangan dan melaksanakan bayaran kepada pembekal.
+
+# 3.0   Rujukan
+
+# 4.0   Definisi
+
+  i)    Sebut Harga (Quotation) 
+: pernyataan harga yg diberikan oleh pembekal kepada bakal pembeli utk sesuatu barangan yg dipesan.
+  
+  i)    Senarai Perolehan
+: Item-item keperluan yang disenaraikan oleh Syarikat kepada pembekal untuk pembelian.
+  
+  i)    Pesanan Belian (Purchase Order)
+: Borang pesanan yang dihantar kepada pembekal mengandungi item-item diperlukan beserta kuantiti.
+  
+  i)    Invois
+: Dokumen yang menyenaraikan barang-barang atau perkhidmatan yang dibekalkan kepad pelanggan dan menyatakan jumlah wang yang perlu dibayar oleh pelanggan.
+
+# 5.0   Singkatan
+
+PO - "Purchase Order".
+  
+
+# 6.0   Tanggungjawab dan Tindakan
+
+---------------------------------------------------------------------
+Tanggungjawab      Tindakan                                       
+------------------ --------------------------------------------------
+Eksekutif Kewangan  1.  Sedia sebut harga.
+                  
+                    2.  Sedia PO.
+                    
+                    3.  Sedia invois.
+                    
+                    4.  Serah invois.
+                    
+                    5.  Terima invois dari pembekal.
+                    
+Pengurus Projek     6.  Terima dan verifikasi senarai perolehan dan sahkan.            
+
+Pengurus Kewangan   7.  Terima dan verifikasi senarai perolehan dan luluskan.  
+                                                                                      
+Pengurus Kewangan   8.  Bayar pembekal.           
+                                                                                      
+Kerani              9.  Failkan:
+
+                        i)    Sebut harga pembekal;                                     
+                        ii)   PO; dan                                              
+                        iii)  Invois.  
+-----------------------------------------------------------------------------------------
+
+# 7.0 Aliran Kerja
+
+![](~/R/qms/media/O03.png){width=60%}
+
+# 8.0 Rekod Kualiti
+
+|Bil   |Rekod                       |Tempoh Penyimpanan|Lokasi  |
+|------|-----------------------------------------|--------|-------------|
+|1.    |Tawaran tender (Cetakan dari E-Perolehan)|5 tahun |Bilik Fail|
+|2.    |Senarai Sebut Harga Pembekal             |5 tahun |Bilik Fail|
+|3.    |Rundingan Kontrak (dimuktamadkan)        |5 tahun |Bilik Fail|
+|4.    |Letter of Intent                         |5 tahun |Bilik Fail|
+|5.    |Letter of Acceptance                     |5 tahun |Bilik Fail|
+
+# 9.0 Lampiran

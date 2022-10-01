@@ -1,0 +1,16 @@
+# iso_process.R
+
+# Init ----
+library(dplyr)
+library(xlsx)
+
+df <- xlsx::read.xlsx("proposal.xlsx", sheetName = "item")
+kos<- xlsx::read.xlsx("proposal.xlsx", sheetName = "Kos")
+
+df %>% 
+  group_by(Jenis) %>%
+  mutate("Jumlah" = Unit_Kos * Unit) %>% 
+  summarise("Bil" = sum(Unit),"Kos" = sum(Jumlah))
+
+kos %>% 
+  select(Item, Bil.Unit, Kos)

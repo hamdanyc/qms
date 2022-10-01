@@ -1,0 +1,109 @@
+---
+title: "Title"
+author: "OpenApps QMS"
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: '4'
+  html_document:
+    toc: yes
+    toc_depth: 4
+params:
+  doc_id: PK(S).OA.03
+  doc_title: "Title"
+  
+---
+\newpage
+
+|Prosedur Kualiti &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|`r params$doc_id`|
+|:------------------|-------:|
+
+![OA Logo](media/openapps-logo.png){width=30%}
+
+|                                   |
+|:---------------------------------:|
+|`r param$doc_title`|
+
+# I    Penyedia dan Kelulusan
+
+|                               |                      |          |
+|-------------------------------|----------------------|----------|
+| Nama                          | Tandatangan          | Tarikh   |
+|                               |                      |          |
+| Disediakan Oleh:              |                      | Feb 2021 |
+|                               |                      |          |
+|                               |                      |          |
+| xxxxxxxxxxxxxxxxxxxxxxxxx     |                      |          |
+|                               |                      |          |
+|                               |                      |          |
+| Wakil Pengurusan              |                      |          |
+|                               |                      |          |
+| Diluluskan Oleh:              |                      | Feb 2021 |
+|                               |                      |          |
+|                               |                      |          |
+| xxxxxxxxxxxxxxxxxxxxxxxxx     |                      |          |
+|                               |                      |          |
+|                               |                      |          |
+| Pengarah                      |                      |          |
+|                               |                      |          |
+| No Salinan Terkawal           | Pemegang Dokumen     |          |
+|                               |                      |          |
+| `r params$doc_id`( )          |                      |          |
+
+# II    Rekod Pindaan
+
+|Tarikh Pindaan|No Pindaan/No Keluaran|Rujukan Pindaan Mukasurat |Butir-butir Pindaan|Diluluskan Oleh|
+|-------------|-------------|-------------|-------------|-------------|
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+
+# III   Senarai Pemegang Dokumen
+
+| No. Salinan Terkawal   | Pemegang Dokumen              |
+|------------------------|-------------------------------|
+| `r params$doc_id`(01)  | Pengurus Besar                |
+| `r params$doc_id`(02)  | Wakil Pengurusan              |
+| `r params$doc_id`(03)  | Pengurus Jualan               |
+| `r params$doc_id`(04)  | Pengurus Pentadbiran/Kewangan |
+| `r params$doc_id`(05)  | Pengurus Teknikal             |
+| `r params$doc_id`(06)  | Pengurus Sumber Manusia       |
+| `r params$doc_id`(07)  | Eksekutif Jualan              |
+| `r params$doc_id`(08)  | Eksekutif Kewangan            |
+| `r params$doc_id`(09)  | Eksekutif Sumber Manusia      |
+| `r params$doc_id`(10)  | Ketua Kerani                  |
+| `r params$doc_id`(11)  | Pengurus Dokumen              |
+| `r params$doc_id`(12)  | Urusetia                      |
+
+# 1.0   Objektif
+
+|Dokumen Berkaitan:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|
+|-----------------------------------------|
+
+# 2.0   Skop
+
+# 3.0   Rujukan
+
+# 4.0   Definisi
+
+# 5.0   Singkatan
+
+# 6.0   Tanggungjawab dan Tindakan
+
+|Tanggungjawab  |Tindakan                                       |
+|---------------|-----------------------------------------------|
+
+# 7.0 Aliran Kerja
+
+# 8.0 Rekod Kualiti
+
+|Bil   |Rekod                       |Tempoh Penyimpanan|Lokasi  |
+|------|----------------------------|----------|----------------|
+
+# 9.0 Lampiran

@@ -1,0 +1,54 @@
+var_from,var_with
+9001:(2008| 2008),9001:2015
+(JRP|JRP |di JRP|Jabatan Arah Rekod dan Pencen),Syarikat   
+(Pengarah Rekod dan Pencen),Ketua Pegawai Eksekutif (CEO)
+(Pengurus Besar|Pengarah|PRP),CEO
+(PRP - Pengarah JRP),CEO - Ketua Pegawai Eksekutif
+\.Syarikat\.,.OA.
+(MK\.JRP\.02),MK.OA.01
+(MK\.JRP\.01),MK.OA.01
+(cawangan/sel),jabatan/sel
+Anggota,Kakitangan
+anggota,kakitangan
+stake holder,pemegang taruh (stake holder)
+(PS 1 - Pegawai Staf Satu),Pengurus Kewangan/Pentadbiran
+(PS 1 - Pegawai Staf 1 Sumber), PS - Pengurus Sumber Manusia
+(PS 1 Pentadbiran|PS 1 Pengurusan),Pengurus Kewangan/Pentadbiran
+(PS 2 ICT),PTM
+(PS 3 ICT),TM-Op
+(SSJN ICT|SJN ICT|SSJN STAT),TM-Tek
+(PS 2|PS 2 Tadbir),Pengurus Kewangan/Pentadbiran
+(PS 3 Tadbir|PS 3 TAD|/PS 3/),Eks. Kewangan/Pentadbiran
+PS 2 Perangkaan,Pengurus Teknikal
+(PS 2 Tadbir - Pegawai Staf 2 Sumber),PPS - Penolong Pengurus Sumber Manusia
+Semua PS 3,Semua Eksekutif Jabatan
+(KC - Ketua Cawangan),PJ - Pengurus Jabatan
+KC,PJ
+KC/PS 3,Pengurus Jabatan
+Ketua Kerani Awam,Kerani Kewangan/Pentadbiran
+PS 3 Tadbir,Eksekutif Kewangan/Pentadbiran
+(BPA-CSA \(Bahagian Kewangan\)),JKP
+(BPA-CSA - Bahagian Perkhidmatan Anggota Cawangan Staf Am),JSM - Jabatan Sumber Manusia
+BPA-CSA,JSM - Jabatan Sumber Manusia
+(pesanan kerajaan),DO
+(PT W17 - Pembantu Tadbir W17),Eksekutif Kewangan/Pentadbiran
+(PS 3 Latihan),Eksekutif SM
+(Cawangan Tadbir JRP),Jabatan Kewangan/Pentadbiran
+(Pekeliling Perbendaharaan Bilangan 8 Tahun 1996),Perakaunan Syarikat
+(Perlembagaan Persekutuan dan Akta ATM 1972),Akta Syarikat 1956
+(Pejabat Tadbir),Pejabat Rekod
+(Fleet Kenderaan),bengkel bertauliah
+(Pentadbiran rekod Perkhidmatan dan Faedah Persaraan|rekod perkhidmatan dan faedah persaraan),proses perolehan pemantauan dan penyampaian perkhidmatan projek integrasi sistem
+(1.  OBJEKTIF|1.0 OBJEKTIF),# 1.0  Objektif
+(2.  SKOP|2.0 SKOP),# 2.0  Skop
+(3.  RUJUKAN|3.0 RUJUKAN),# 3.0   Rujukan
+(4.  DEFINISI|4.0 DEFINISI),# 4.0  Definisi
+(5.  SINGKATAN|5.0 SINGKATAN),# 5.0   Singkatan
+(6.  TANGGUNGJAWAB DAN TINDAKAN|6.0 TANGGUNGJAWAB DAN TINDAKAN),# 6.0   Tanggungjawab dan Tindakan
+(7.  ALIRAN KERJA|7.0 ALIRAN KERJA),# 7.0  Aliran Kerja
+(8.  REKOD KUALITI|8.0 REKOD KUALITI),# 8.0  Rekod Kualiti
+(9.  LAMPIRAN|9.0 LAMPIRAN),# 9.0  Lampiran
+
+
+
+

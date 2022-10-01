@@ -1,0 +1,206 @@
+---
+title: |
+  ![](~/R/qms/media/openapps-logo.png){width=30%}  
+  **Bridging the gap between \textcolor{blue}{PEOPLE}, \textcolor{blue}{BUSINESS} and \textcolor{blue}{TECHNOLOGY}**
+  
+  **MS ISO 9001:2015 Sistem Pengurusan Kualiti**  
+  OpenApps Sdn Bhd (548151-W)
+author:
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: '4'
+  html_document:
+    toc: yes
+    toc_depth: 4
+params:
+  doc_id: PK(W).OA.01
+  doc_title: "title"
+  
+---
+
+```{r init, include=FALSE}
+library(readr)
+a_list <- read_csv("~/R/qms/a_list.csv")
+```
+
+\newpage
+
+|Prosedur Kualiti &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|`r params$doc_id`|
+|:------------------|-------:|
+
+
+|                                   |
+|:---------------------------------:|
+|**`r toupper(params$doc_title)`**|
+
+# I    Penyedia dan Kelulusan
+
+|Nama &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |Tarikh |
+|-------------------------------|--------------|
+|                               |              |
+| **Disediakan Oleh**:          | **Feb 2021** |
+|                               |              |
+|                               |              |
+|_____________________          |              |
+| **`r substr(a_list$pemilik_dok[14],1,40)`**| |
+| `r substr(a_list$pemilik_dok[14],41,60)`   | |
+| **Wakil Pengurusan**          |              |
+|                               |              |
+| **Diluluskan Oleh**:          | **Feb 2021** |
+|                               |              |
+|                               |              |
+|_____________________          |              |
+| **`r a_list$pemilik_dok[15]`**|              |
+| **CEO**                       |              |
+|                               |              |
+| **No Salinan Terkawal**:      |              |
+|                               |              |
+| `r params$doc_id`( )          |              |
+
+\newpage
+
+# II    Rekod Pindaan
+
+|Tarikh Pindaan|No Pindaan/No Keluaran|Rujukan Pindaan Mukasurat |Butir-butir Pindaan|Diluluskan Oleh|
+|-------------|-------------|-------------|-------------|-------------|
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+
+# III   Senarai Pemegang Dokumen
+
+| No. Salinan Terkawal   | Pemegang Dokumen              |
+|------------------------|-------------------------------|
+| `r params$doc_id`(01)  | `r a_list$pemilik_dok[1]`     |
+|                        |                               |
+| `r params$doc_id`(02)  | `r a_list$pemilik_dok[2]`     |
+|                        |                               |
+| `r params$doc_id`(03)  | `r a_list$pemilik_dok[3]`     |
+|                        |                               |
+| `r params$doc_id`(04)  | `r a_list$pemilik_dok[4]`     |
+|                        |                               |
+| `r params$doc_id`(05)  | `r a_list$pemilik_dok[5]`     |
+|                        |                               |
+| `r params$doc_id`(06)  | `r a_list$pemilik_dok[6]`     |
+|                        |                               |
+| `r params$doc_id`(07)  | `r a_list$pemilik_dok[7]`     |
+|                        |                               |
+| `r params$doc_id`(08)  | `r a_list$pemilik_dok[8]`     |
+|                        |                               |
+| `r params$doc_id`(09)  | `r a_list$pemilik_dok[9]`     |
+|                        |                               |
+| `r params$doc_id`(10)  | `r a_list$pemilik_dok[10]`    |
+|                        |                               |
+| `r params$doc_id`(11)  | `r a_list$pemilik_dok[11]`    |
+|                        |                               |
+| `r params$doc_id`(12)  | `r a_list$pemilik_dok[12]`    |
+|                        |                               |
+| `r params$doc_id`(13)  | `r a_list$pemilik_dok[13]`    |
+
+\newpage
+
+# 3.0  Rujukan
+
+    1.  `r params$doc_id`
+
+# 4.0 Definisi
+
+> 4.1 Mesyuarat Kajian Semula Pengurusan
+>
+> Mesyuarat diperingkat pengurusan tertinggi Syarikat untuk mengkaji semula
+> keberkesanan dan penambahbaikan Sistem Pengurusan Kualiti secara
+> berterusan. Kekakitanganan mesyuarat seperti berikut:
+
+i)    CEO - Pengerusi;
+
+ii)   WP - Timbalan Pengerusi;
+
+iii)  Pengurus Kewangan/Pengurusan;
+
+iv)   Pengurus Teknikal;
+
+iv)   Pengurus Jualan;
+
+vi)   TWP - Setiausaha;
+
+vii)  PD - Penolong Setiausaha; dan
+
+viii) Semua Eksekutif Jabatan.
+
+
+# 5.0 Singkatan
+
+> 5.1 WP - Wakil Pengurusan.
+>
+> 5.2 TWP - Timbalan Wakil Pengurusan.
+>
+> 5.3 PJ - Pengurus Jabatan.
+>
+> 5.4 PD - Pengurus Dokumen.
+>
+> 5.5 MKSP - Mesyuarat Kajian Semula Pengurusan.
+
+# 6.0 Tanggungjawab dan Tindakan
+
+|Tanggungjawab  |Tindakan                                       |
+|---------------|-----------------------------------------------|
+| WP/TWP        | 1\. Rancangkan tarikh, masa dantempat MKSP menurut persetujuan Ketua Pegawai Eksekutif (CEO).|                   
+|               | 2\. Arahkan PJ/PS 3 yang berkenaan menyediakan laporan-laporan berikut untuk dibincangkan di MKSP:|
+|               |     i)  Laporan Pencapaian Dasar  dan Objektif Kualiti. |
+|               |     ii) Laporan Audit.              |
+|               |     iii) Laporan MaklumbalasPelanggan.      |
+|               |    iv) Laporan Tindakan pembetulan  dan pencegahan.|
+|               |    v)  Cadangan-Cadangan Penambahbaikan yang berterusan. |
+|               |    vi) Tindakan susulan ke atas kajian semula pengurusan yang lalu (jika ada).|
+|               |    vii\) Perubahan dasar yang  boleh menjejaskan Sistem  Pengurusan Kualiti.  |
+|||
+| PJ/PS 3       |3\.   Terima arahan menyediakan laporan dan mengemukakan kepada  WP untuk semakan dan analisa. | 
+|||
+| WP/TWP        |4\.   Menganalisa Laporan yang diterima untuk dilaporkan kepada MKSP.         |
+|||
+| TWP/PD        |5\.   Membuat persediaan mesyuarat iaitu sediakan dan mengedarkan minit mesyuarat MKSP. Pengendalian mesyuarat, berhubung dengan agenda,tarikh, masa, tempat dan mengeluarkan notis mesyuarat 7 hari sebelum tarikh mesyuarat.|  
+|               | 6\.  Sediakan agenda mesyuarat dan panggil keahlian mesyuarat.     |
+|||
+| Ketua Pegawai Eksekutif (CEO)           | 7\.  Mempengerusikan mesyuarat.      |
+|||
+| WP            | 8\.  Bentangkan laporan-laporan kepada MKSP.       |
+|||
+| MKSP          | 9\.  Bincangkan dan putuskan tindakan pembetulan, pencegahan serta usaha penambahbaikkan  yang perlu dilaksanakan iaitu keberkesanan penambahbaikkan sistem pengurusan kualiti, penambahbaikkan produk menurut kehendak pelanggan dan keperluan sumber Seksyen 5.6.3. |
+|||
+| TWP/PD        | 10\. Catatkan minit mesyuarat dan sediakan draf tidak lewat 48 jam kepada WP. Minit mesyuarat hendaklah diedarkan kepada ahli-ahli mesyuarat tidak lewat 72 jam selepas mesyuarat.       |
+|||
+| WP            | 11\. Bincang dengan Ketua Pegawai Eksekutif (CEO) hasil keputusan MKSP mengenai tindakan pembetulan, pencegahan dan penambahbaikan.             |
+|||
+| PJ/PS 3       | 12\. Laksanakan keputusan MKSP kemudian sediakan laporan  kemajuan pelaksanaan tindakan pencegahan, pembetulan dan penambahbaikan dan mengemukakan kepada WP/TWP. |
+|||
+| WP            | 13 Laporkan kepada MKSP atau mesyuarat pengurusan Syarikat mengenai laporan keberkesanan tindakan pencegahan, pembetulan, penambahbaikkan, aduan pelanggan, laporan Audit Dalaman yang telah  dilaksanakan.                   |
+|||
+| PD            | 14  Rekodkan dalam fail MKSP.       |
+
+#   7.0  Aliran Kerja
+
+![](~/R/qms/media/s02-01.png){width=80%}\
+\newpage
+
+#   8.0 Rekod-rekod Kualiti
+
+|Bil   |Rekod                                                      |Tempoh Penyimpanan   |Lokasi|
+|------|-----------------------------------------------------------|---------------------|------|
+|1\.   | Surat Panggilan Mesyuarat                                       |5 hingga 7 tahun   |Pejabat WP|
+|2\.   | Minit Mesyuarat                                                 |5 hingga 7 tahun   |Pejabat WP|
+|3\.   | Laporan Pencapaian Dasar dan Objektif Kualiti                   |5 hingga 7 tahun   |Pejabat WP|
+|4\.   | Laporan Audit                                                   |5 hingga 7 tahun   |Pejabat WP|
+|5\.   | Laporan Maklumbalas Pelanggan                                   |5 hingga 7 tahun   |Pejabat WP|
+|6\.   | Laporan Tindakan Pembetulan dan Pencegahan dan penambahbaikan   |5 hingga 7 tahun   |Pejabat WP|
+|7\.   | Laporan Cadangan Penambahbaikan                                 |5 hingga 7 tahun   |Pejabat WP|
+|8\.   | Perancangan program Latihan Syarikat                                 |5 hingga 7 tahun   |Pejabat WP|
+
+#   9.0  LAMPIRAN
+

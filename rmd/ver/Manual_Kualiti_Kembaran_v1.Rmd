@@ -1,0 +1,29 @@
+**[SENARAI ASET JABATAN ARAH REKOD DAN PENCEN]{.ul}**
+
+  **KATEGORI ASET**   **JENIS**
+  ------------------- ---------------------------
+  **Aplikasi**        Dokumen
+                      Fgcr
+                      Pemalive
+                      Pension
+                      Web
+  **Data**            Dokumen data
+                      Dokumen digital
+                      Fail peribadi
+                      Faedah gantian cuti rehat
+                      Pemalive db
+                      Pension db
+                      Fail kata jodoh pengguna
+                      Web data
+  **Fizikal**         Distributed EMSS
+                      Faksimili
+                      Hub/switch
+                      Mass storage
+                      Nt server 1
+                      Nt server 2
+                      Nt server 3
+                      Pbx
+                      Telefon
+                      Unix server
+                      Web server
+                      Komputer Peribadi (PC)

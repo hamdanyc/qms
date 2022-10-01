@@ -1,0 +1,168 @@
+---
+title: "PENYEDIAAN SEBUT HARGA, PENGURUSAN TENDER PEROLEHAN DAN RUNDINGAN KONTRAK"
+author: "OpenApps QMS"
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: '4'
+  html_document:
+    toc: yes
+    toc_depth: 4
+params:
+  doc_id: PK(O).OA.01
+  
+---
+\newpage
+
+|Prosedur Kualiti &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|`r params$doc_id`|
+|:------------------|-------:|
+
+![OA Logo](media/openapps-logo.png){width=30%}
+
+|                                   |
+|:---------------------------------:|
+|PENYEDIAAN SEBUT HARGA, PENGURUSAN TENDER PEROLEHAN DAN RUNDINGAN KONTRAK|
+
+`r params$doc_id`
+
+# I    Penyedia dan Kelulusan
+
+|                               |                      |          |
+|-------------------------------|----------------------|----------|
+| Nama                          | Tandatangan          | Tarikh   |
+|                               |                      |          |
+| Disediakan Oleh:              |                      | Feb 2021 |
+|                               |                      |          |
+|                               |                      |          |
+| xxxxxxxxxxxxxxxxxxxxxxxxx     |                      |          |
+|                               |                      |          |
+|                               |                      |          |
+| Wakil Pengurusan              |                      |          |
+|                               |                      |          |
+| Diluluskan Oleh:              |                      | Feb 2021 |
+|                               |                      |          |
+|                               |                      |          |
+| xxxxxxxxxxxxxxxxxxxxxxxxx     |                      |          |
+|                               |                      |          |
+|                               |                      |          |
+| Pengurus Besar                      |                      |          |
+|                               |                      |          |
+| No Salinan Terkawal           | Pemegang Dokumen     |          |
+|                               |                      |          |
+| `r params$doc_id`( )          |                      |          |
+
+# II    Rekod Pindaan
+
+|Tarikh Pindaan|No Pindaan/No Keluaran|Rujukan Pindaan Mukasurat |Butir-butir Pindaan|Diluluskan Oleh|
+|-------------|-------------|-------------|-------------|-------------|
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+
+# III   Senarai Pemegang Dokumen
+
+| No. Salinan Terkawal   | Pemegang Dokumen          |
+|------------------------|---------------------------|
+| `r params$doc_id`(01)  | Pengurus Besar     |
+| `r params$doc_id`(02)  | Wakil Pengurusan   |
+| `r params$doc_id`(03)  | Pengurus Jualan    |
+| `r params$doc_id`(04)  | Pengurus Pentadbiran/Kewangan |
+| `r params$doc_id`(05)  | Pengurus Teknikal  |
+| `r params$doc_id`(06)  | Pengurus Sumber Manusia |
+| `r params$doc_id`(07)  | Eksekutif Jualan   |
+| `r params$doc_id`(08)  | Eksekutif Kewangan |
+| `r params$doc_id`(09)  | Eksekutif Sumber Manusia |
+| `r params$doc_id`(10)  | Ketua Kerani       |
+| `r params$doc_id`(11)  | Pengurus Dokumen   |
+| `r params$doc_id`(12)  | Urusetia           |
+
+# 1.0   Objektif
+
+Prosedur bagi proses mendapatkan dan memantau tender perolehan serta rundingan kontrak. 
+
+# 2.0   Skop
+
+Pelaksanaan oleh Jabatan Jualan bagi proses mendapatkan dan memantau tender perolehan serta rundingan kontrak.
+
+# 3.0   Rujukan
+
+# 4.0   Definisi
+
+  i)    E-Perolehan - Aplikasi perolehan dalam talian bagi kementerian/agensi kerajaan.
+  
+  i)    Keperluan Mandatori - Item-item atau keperluan yang mesti ditawarkan oleh penender sebagai syarat mandatori.
+  
+  i)    "Letter of Intent" - Surat hasrat yang dikeluarkan oleh kementerian/agensi sebagai setuju-terima 
+  tawaran oleh syarikat mengenai sesuatu perolehan oleh kementerian/agensi berkenaan.
+  
+  i)    "Letter of Acceptance" - Surat yang dikeluarkan oleh kementerian/agensi sebagai setuju-terima 
+  tawaran oleh syarikat mengenai sesuatu perolehan oleh kementerian/agensi berkenaan.
+
+# 5.0   Singkatan
+
+  i)    LOI - "Letter of Intent".
+  
+  i)    LOA - "Letter of Acceptance".
+  
+# 6.0   Tanggungjawab dan Tindakan
+
+|Tanggungjawab      |Tindakan                                       |
+|-------------------|-----------------------------------------------|
+|Eksekutif Jualan   | A.  PERMOHONAN TENDER PEROLEHAN, SEBUT HARGA DAN TAWARAN LOI/LOA  |
+|                   |                                                                   |
+|                   | 1.  Dapatkan maklumat iklan dari E-Perolehan. Maklumat penting:   |
+|                   |     i)    Kementerian/Agensi;                                     |
+|                   |     ii)   Keperluan mandatori dan spesifikasi;dan                 |
+|                   |     iii)  Tarikh tutup iklan.                                     |
+|                   |                                                                   |
+|                   | 2.  Dapatkan sebut harga dari pembekal perkara-perkara 1.ii)      |
+|                   |                                                                   |
+|                   | 3.  Terima sebut harga dari pembekal dan buat verifikasi.         |
+|                   |                                                                   |
+|                   | 4.  Sediakan cadangan tender untuk kelulusan Pengurus Jualan.     |
+|                   |                                                                   |
+|Pengurus Jualan    | 5.  Semak dan verifikasi cadangan tender dan luluskan.            |
+|                   |                                                                   |
+|Eksekutif Jualan   | 6.  Serah permohonan tender dalam tempoh kuatkuasa iklan.         |
+|                   |                                                                   |
+|                   | 7.  Pantau keputusan tender melalui E-Perolehan dari semasa ke semasa.|
+|                   |                                                                   |
+|                   | 8.  Terima LOI/LOA secara emel dari kementerian/agensi.           |
+|                   |                                                                   |
+|Pengurus Jualan /  | B. RUNDINGAN KONTRAK                                              |
+|                   |                                                                   |
+|Eksekutif Jualan   | 9.   Sediakan tawaran balas sebagai asas rundingan kontrak.       |
+|                   |     Butir-butir utama:                                            |
+|                   |     i)    Keperluan mandatori dan spesifikasi;dan                 |
+|                   |     ii)   Item-item tambah nilai.                                 |
+|                   |                                                                   |
+|                   | 10. Hadir mesyuarat rundingan kontrak bersama kementerian/agensi. |
+|                   |                                                                   |
+|                   | 11. Terima tawaran kontrak(dimuktamadkan) dari kementerian/agensi.|
+|                   |                                                                   |
+|                   | 12. Bentuk pasukan projek.                                        |
+|                   |                                                                   |
+|Kerani             | 13.  Failkan:                                                     |
+|                   |     i)    Sebut harga pembekal;                                   |
+|                   |     ii)   LOI/LOA; dan                                            |
+|                   |     iii)  kontrak(dimuktamadkan).
+
+# 7.0 Aliran Kerja
+
+# 8.0 Rekod Kualiti
+
+|Bil   |Rekod                       |Tempoh Penyimpanan|Lokasi  |
+|------|-----------------------------------------|--------|-------------|
+|1.    |Tawaran tender (Cetakan dari E-Perolehan)|5 tahun |Pejabat Rekod|
+|2.    |Senarai Sebut Harga Pembekal             |5 tahun |Pejabat Rekod|
+|3.    |Rundingan Kontrak (dimuktamadkan)        |5 tahun |Pejabat Rekod|
+|4.    |Letter of Intent                         |5 tahun |Pejabat Rekod|
+|5.    |Letter of Acceptance                     |5 tahun |Pejabat Rekod|
+
+# 9.0 Lampiran

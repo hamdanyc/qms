@@ -1,0 +1,43 @@
+\begin{table}[th]
+\begin{tabular}{l}{p{11cm}|}
+Bahagian/ Unit Yang Diaudit: `r ncr$dept[i]`                    \\
+Tajuk Prosedur/ Dokumen:  `r ncr$doc_proc[i]`                   \\
+Auditee : `r ncr$auditee[i]`                                    \\
+Auditor :  `r ncr$auditor[i]`                                   \\ \hline
+1.  Ketakakuran.  `r ncr$ncr[i]`                                \\
+                                                                \\
+Pemerhatian Huraian:                                            \\
+`r ncr$ncr_desc[i]`                                             \\
+                                                                \\
+                                                                \\ \hline
+2.  Punca Ketakakuran.  `r ncr$ncr_src[i]`                      \\ \hline
+3.  Penemuan:                                                   \\
+`r ncr$ncr_src_desc[i]`                                         \\
+                                                                \\
+                                                                \\
+T/Tangan Auditor:                                               \\
+                                                                \\
+T/Tangan Auditee:                                               \\ \hline
+4.  Nota penambahbaikan:                                        \\
+`r ncr$corr_note[i]`                                            \\
+                                                                \\
+                                                                \\
+T/Tangan Auditor:                                               \\
+                                                                \\
+T/Tangan Auditee:                                               \\ \hline
+5.  Tindakan Pembetulan                                         \\
+`r ncr$corr_note[i]`                                            \\
+                                                                \\
+                                                                \\
+Tarikh untuk menyelesaikan ketakakuran:                         \\
+T/Tangan Auditor:                                               \\
+                                                                \\
+T/Tangan Auditee:                                               \\ \hline
+6.  Verifikasi (Untuk diisi oleh Auditor  semasa audit susulan: \\
+`r ncr$corr_note[i]`                                            \\
+                                                                \\
+                                                                \\
+Tindakan Pembetulan:      Selesai/Tidak?                        \\
+T/Tangan Auditor:                                               \\ \hline
+\end{tabular}
+\end{table}

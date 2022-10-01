@@ -1,0 +1,299 @@
+---
+title: |
+  ![](~/R/qms/media/openapps-logo.png){width=30%}  
+  **Bridging the gap between \textcolor{blue}{PEOPLE}, \textcolor{blue}{BUSINESS} and \textcolor{blue}{TECHNOLOGY}**
+  
+  **MS ISO 9001:2015 Sistem Pengurusan Kualiti**  
+  OpenApps Sdn Bhd (548151-W)
+author:
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: '4'
+  html_document:
+    toc: yes
+    toc_depth: 4
+params:
+  doc_id: PK(W).OA.01
+  doc_title: "title"
+  
+---
+
+```{r init, include=FALSE}
+library(readr)
+a_list <- read_csv("~/R/qms/a_list.csv")
+```
+
+\newpage
+
+|Prosedur Kualiti &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|`r params$doc_id`|
+|:------------------|-------:|
+
+
+|                                   |
+|:---------------------------------:|
+|**`r toupper(params$doc_title)`**|
+
+# I    Penyedia dan Kelulusan
+
+|Nama &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |Tarikh |
+|-------------------------------|--------------|
+|                               |              |
+| **Disediakan Oleh**:          | **Feb 2021** |
+|                               |              |
+|                               |              |
+|_____________________          |              |
+| **`r substr(a_list$pemilik_dok[14],1,40)`**| |
+| `r substr(a_list$pemilik_dok[14],41,60)`   | |
+| **Wakil Pengurusan**          |              |
+|                               |              |
+| **Diluluskan Oleh**:          | **Feb 2021** |
+|                               |              |
+|                               |              |
+|_____________________          |              |
+| **`r a_list$pemilik_dok[15]`**|              |
+| **CEO**                       |              |
+|                               |              |
+| **No Salinan Terkawal**:      |              |
+|                               |              |
+| `r params$doc_id`( )          |              |
+
+\newpage
+
+# II    Rekod Pindaan
+
+|Tarikh Pindaan|No Pindaan/No Keluaran|Rujukan Pindaan Mukasurat |Butir-butir Pindaan|Diluluskan Oleh|
+|-------------|-------------|-------------|-------------|-------------|
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+|             |             |             |             |             |
+
+# III   Senarai Pemegang Dokumen
+
+| No. Salinan Terkawal   | Pemegang Dokumen              |
+|------------------------|-------------------------------|
+| `r params$doc_id`(01)  | `r a_list$pemilik_dok[1]`     |
+|                        |                               |
+| `r params$doc_id`(02)  | `r a_list$pemilik_dok[2]`     |
+|                        |                               |
+| `r params$doc_id`(03)  | `r a_list$pemilik_dok[3]`     |
+|                        |                               |
+| `r params$doc_id`(04)  | `r a_list$pemilik_dok[4]`     |
+|                        |                               |
+| `r params$doc_id`(05)  | `r a_list$pemilik_dok[5]`     |
+|                        |                               |
+| `r params$doc_id`(06)  | `r a_list$pemilik_dok[6]`     |
+|                        |                               |
+| `r params$doc_id`(07)  | `r a_list$pemilik_dok[7]`     |
+|                        |                               |
+| `r params$doc_id`(08)  | `r a_list$pemilik_dok[8]`     |
+|                        |                               |
+| `r params$doc_id`(09)  | `r a_list$pemilik_dok[9]`     |
+|                        |                               |
+| `r params$doc_id`(10)  | `r a_list$pemilik_dok[10]`    |
+|                        |                               |
+| `r params$doc_id`(11)  | `r a_list$pemilik_dok[11]`    |
+|                        |                               |
+| `r params$doc_id`(12)  | `r a_list$pemilik_dok[12]`    |
+|                        |                               |
+| `r params$doc_id`(13)  | `r a_list$pemilik_dok[13]`    |
+
+\newpage
+
+
+# 1.0   Objektif
+
+ Prosedur ini menyediakan garis panduan bagi memastikan urusan
+ penyenggaraan bangunan, kemudahan-kemudahan dan peralatan termasuk
+ kenderaan dapat dijalankan dengan cekap serta memberi dan menyokong
+ perlindungan yang bersesuaian ke atas semua aset ICT Syarikat mematuhi
+ peraturan yang telah ditetapkan oleh pengurusan Syarikat.
+
+# 2.0   Skop
+
+ Prosedur ini digunapakai oleh kakitangan bahagian pentadbiran Syarikat ketika
+ merancang, melaksana dan memantau kerja-kerja berikut:-
+
+  2.1 Kerja-kerja pembaikan, penyenggaraan dan pengubahsuaian bangunan.
+
+  2.2 Penyenggaraan kemudahan-kemudahan peralatan pejabat.
+
+  2.3 Penyenggaraan Alat Telekomunikasi.
+
+  2.4 Penyelenggaraan pengangkutan (Tidak melibatkan pembaikan
+ kerosakan).
+
+ Mengawal dan melindungi setiap aset Syarikat berdasarkan peraturan yang
+ telah ditetapkan, serta memberi kesedaran kepada semua kepentingan
+ aset yang membantu dalam organisasi.
+
+# 3.0   Rujukan
+
+ 3.1 MK.OA.01
+
+ i)   Seksyen 6.3 Infrastruktur
+
+ i)   Seksyen 6.4 Persekitaran Kerja
+
+ 3.2 Pekeliling Perbendaharaan/Surat Perbendaharaan semasa.
+
+# 4.0   Definisi
+
+Tiada
+
+# 5.0   Singkatan
+
+
+# 6.0   Tanggungjawab dan Tindakan
+
+|Tanggungjawab  |Tindakan                                         |
+|---------------|-------------------------------------------------|
+| Eksekutif Kewangan/Pentadbiran      | A. PENYENGGARAAN BANGUNAN                       |
+|               |                                                 |
+|               | 1\. Terima aduan kerosakan atau permohonan      |
+|               | daripada Cawangan (Aktiviti penyelenggaraan     |
+|               | Lampiran 1).                                    |
+|               |                                                 |
+|               | 2\. Rekod aduan atau permohonan kerosakan.      |
+|               |                                                 |
+|               | 3\. Buat tinjauan di lokasi berkenaan.          |
+|               |                                                 |
+|               | 4\. Hubungi kontraktor penyelenggaraan bangunan |
+|               | bagi meninjau kerosakan.                        |
+|               |                                                 |
+| Eksekutif Kewangan/Pentadbiran      | B. PENYELIAAN KERJA-KERJA KONTRAKTOR            |
+|               |                                                 |
+|               | 1\. Selia kerja-kerja yang dilaksanakan         |
+|               | oleh pihak kontraktor dari semasa  ke semasa.   |
+|               |                                                 |
+|               | 2\. Rekodkan penilaian prestasi pembekal yang   |
+|               | menjalankan kerja-kerja senggaraan.             |
+|               |                                                 |
+|Kerani Kewangan/Pentadbiran | C. PENYENGGARAAN PERALATAN PEJABAT           |
+|               | 1\. Terima aduan kerosakan atau                 |
+|               |  permohonan penyenggaraan dari                  |
+|               |  Cawangan (Aktiviti Penyelenggaraan             |
+|               |  LAMPIRAN 2).                                   |
+|               |                                                 |
+|               | 2\. Rekod aduan atau permohonan                 |
+|               |  penyenggaraan.                                 |
+|               |                                                 |
+|               | 3\. Maklum kepada Pembekal untuk                |
+|               |  kenalpasti kerosakan dan menjalankan           |
+|               |  senggaraan.                                    |
+|               |                                                 |
+|               | 4\. Dapatkan Sebutharga dari 3 Pembekal.        |
+|               |                                                 |
+|               | 5\. Jalankan proses perolehan rujuk             |
+|               | Prosedur Kualiti PK(S).OA.03 bagi              |
+|               | Tindakan Pembelian Secara Terus.                |
+|               |                                                 |
+|               | 6\. Pantau kerja-kerja pembaikan                |
+|               | yang dibuat.                                    |
+|               |                                                 |
+|               | 7\. Rekodkan penilaian prestasi                 |
+|               | pembekal yang menjalankan kerja-kerja           |
+|               | senggaraan.                                     |
+|               |                                                 |
+|Eksekutif Kewangan/Pentadbiran       |D. PENYENGGARAAN ALAT TELEKOMUNIKASI             |
+|               |                                                 |
+|               |  1\. Terima aduan kerosakan daripada            |
+|               |  Cawangan (Aktiviti penyelenggaraan             |
+|               |  LAMPIRAN 3).                                   |
+|               |                                                 |
+|               |  2\. Rekodkan aduan kerosakan.                  |
+|               |                                                 |
+|               |  3\. Hubungi pembekal telekomunikasi            |
+|               |  bagi menilai kerosakan untuk dibuat            |
+|               |  senggaraan.                                    |
+|               |                                                 |
+|               |  4\. Memantau kerja-kerja pembaikan             |
+|               |  yang dibuat oleh pihak pembekal.               |
+|               |                                                 |
+|               |  5\. Rekodkan penilaian prestasi                |
+|               | pembekal.                                       |
+|               |                                                 |
+|               |                                                 |
+| Pemandu       | E. PENYELENGGARAAN KERETA UTILITI               |
+|               |                                                 |
+|               |  1\. Pastikan kenderaan berada                  |
+|               |  didalam keadaan baik dan                       |
+|               |  sempurna.                                      |
+|               |                                                 |
+|               |  2\. Hantar ke bengkel bertauliah                  |
+|               |  untuk penyelenggaraan semasa                   |
+|               |  mengikut rekod servis                          |
+|               |  (aktiviti penyelenggaraan                      |
+|               |  LAMPIRAN 4).                                   |
+|               |                                                 |
+|               |  3\. Bagi kes-kes kerosakan                     |
+|               |  kecil hendaklah memaklumkan                    |
+|               |  jenis kerosakan ke bengkel bertauliah.            |       
+|               |                                                 |
+|               |                                                 |
+|               |  4\. Bagi kes-kes kerosakan                     |
+|               |  besar melebihi 50%, maklumkan                  |
+|               |  jenis-jenis kerosakan dan                      |
+|               |  terima arahan selanjutnya dari                 |
+|               |  bengkel bertauliah.                               |
+|               |                                                 |
+|               |  5\. Terima kenderaan yang                      |
+|               |  dibaikpulih daripada bengkel bertauliah.          |
+|               |                                                 |
+|               |  6\. Periksa kenderaan yang                     |
+|               |  telah di baikpulih berada                      |
+|               |  didalam keadaan baik.                          |
+|               |                                                 |
+|               |  7\. Teliti tarikh                              |
+|               |  penyelenggaraan susulan dalam                  |
+|               |  buku rekod penyelenggaraan.                    |
+|               |                                                 |
+| Eksekutif Kewangan/Pentadbiran      | F. TANGGUNGJAWAB KE ATAS INVENTORI ASET         |
+|               |                                                 |
+|               | 1\. Kenalpasti semua aset dan                   |
+|               | rekodkan dalam Daftar Harta                     |
+|               | Modal/Inventori (BAT L 71).                     |
+|               |                                                 |
+|               | 2\. Senaraikan aset di perkara 1                |
+|               | kepada pengguna yang dibenarkan.                |
+|               |                                                 |
+|               | 3\. Kemaskini rekod daftar harta                |
+|               | modal/inventori (BAT L 71) dalam                |
+|               | keadaan berikut:                                |
+|               |                                                 |
+|               | a\) Penerimaan aset baru.                       |
+|               |                                                 |
+|               | b\) Pelupusan aset yang usang.                  |
+|               |                                                 |
+|               | 4\. Rujuk Perkeliling                           |
+|               | Perbendaharaan Bil 5 Tahun 2007                 |
+|               | untuk perkara 3.                                |
+
+# 7.0 Aliran Kerja
+
+
+# 8.0 Rekod Kualiti
+
+|Bil   |Rekod                       |Tempoh Penyimpanan|Lokasi  |
+|------|----------------------------|----------|----------------|
+| 1    | Buku Rekod Aduan           | 7 Tahun  | Pejabat Rekod |
+| 2    | Fail Sebutharga            | 7 Tahun  | Pejabat Rekod |
+| 3    | Fail Penyelenggaraan Aset  | 7 Tahun  | Pejabat Rekod |
+
+
+# 9.0 Lampiran
+
+i)    Aktiviti Penyelenggaraan Bangunan.
+
+i)    Aktiviti Penyelenggaraan Peralatan Pejabat.
+
+i)    Aktiviti Penyenggaraan Alat Telekomunikasi.
+
+i)    Aktiviti Penyelenggaraan Kenderaan Utiliti
+

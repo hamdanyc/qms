@@ -1,0 +1,2111 @@
+MALAYSIAN MS ISO 9001:2015 (BM)
+
+STANDARD
+
+Sistem pengurusan kualiti - Keperluan
+
+(Semakan kedua)
+
+(ISO 9001:2015, IDT)
+
+(Diterbitkan oleh Jabatan Standard Malaysia pada tahun 2017)
+
+ICS: 03.120.
+
+JABATAN STANDARD MALAYSIA
+
+
+PEMBANGUNAN MALAYSIAN STANDARD
+
+Jabatan Standard Malaysia (STANDARDS MALAYSIA) ialah badan standard dan
+akreditasi kebangsaan.
+
+Fungsi utama Jabatan Standard Malaysia adalah untuk merangsang dan menggalakkan
+standard, penstandardan dan akreditasi sebagai cara bagi memajukan ekonomi negara,
+menggalakkan kecekapan dan pembangunan industri yang bermanfaat kepada kesihatan
+dan keselamatan awam, melindungi pengguna, memudahkan perdagangan dalam negeri
+dan antarabangsa serta melanjutkan kerjasama antarabangsa berhubung dengan standard
+dan penstandardan.
+
+Malaysian Standard (MS) dibangunkan melalui sepersetujuan jawatankuasa-jawatankuasa
+yang dianggotai oleh perwakilan yang seimbang daripada pengeluar, pengguna dan pihak
+lain yang kepentingannya relevan, sebagaimana yang sesuai dengan perkara yang sedang
+diusahakan. Malaysian Standard adalah sejajar atau diterima guna daripada standard
+antarabangsa, seboleh mungkin. Kelulusan sesuatu standard sebagai Malaysian Standard
+ditentukan oleh Akta Standard Malaysia 1996 [Akta 549]. Malaysian Standard dikaji semula
+secara berkala. Penggunaan Malaysian Standard adalah secara sukarela, melainkan
+diwajibkan oleh pihak berkuasa yang mengawal selia melalui peraturan, undang-undang kecil
+tempatan atau apa-apa cara lain yang serupa.
+
+Untuk tujuan Malaysian Standard, definisi-definisi berikut diguna pakai:
+
+Semakan: Proses di mana Malaysian Standard yang sedia ada dikaji semula dan dikemaskini
+yang menjurus kepada penerbitan edisi baharu Malaysian Standard.
+
+MS yang disahkan: Malaysian Standard yang telah dikaji semula oleh jawatankuasa yang
+bertanggungjawab dan mengesahkan bahawa kandungannya adalah terkini.
+
+Pindaan: Proses di mana peruntukan-peruntukan dalam Malaysian Standard sedia ada
+diubah. Perubahan-perubahan dinyatakan dalam halaman pindaan yang dimasukkan ke dalam
+Malaysian Standard sedia ada. Pindaan-pindaan boleh dalam bentuk teknikal atau editorial.
+
+Corrigendum teknikal: Cetakan semula yang telah dibetulkan bagi edisi terkini yang
+dikeluarkan untuk membuat pembetulan kepada kesilapan teknikal atau kekeliruan dalam
+Malaysian Standard yang diwujudkan dengan tidak sengaja semasa mendraf atau percetakan
+yang menyebabkan penggunaan Malaysian Standard yang tidak betul atau tidak selamat.
+
+NOTA: Corrigendum teknikal bukan untuk membetulkan kesilapan yang boleh dianggap mendatangkan akibat semasa
+penggunaan Malaysian Standard, sebagai contoh kesilapan kecil percetakan.
+
+Jabatan Standard Malaysia melantik SIRIM Berhad sebagai ejen bagi membangunkan
+Malaysian Standard. Jabatan itu juga melantik SIRIM Berhad sebagai ejen pengedaran dan
+penjualan Malaysian Standard.
+
+Untuk maklumat lanjut berkaitan dengan Malaysian Standard, sila hubungi:
+
+Jabatan Standard Malaysia ATAU SIRIM Berhad
+Kementerian Sains, Teknologi dan Inovasi (No. Syarikat 367474-V)
+Aras 1 & 2, Blok 2300, Century Square 1, Persiaran Dato' Menteri
+Jalan Usahawan Seksyen 2, Peti Surat 7035,
+63000 Cyberjaya 40700 Shah Alam
+Selangor Darul Ehsan Selangor Darul Ehsan
+MALAYSIA MALAYSIA
+
+Tel.: 60 3 8318 0002 Tel.: 60 3 5544 6000
+Faks: 60 3 8319 3131 Faks: 60 3 5510 8095
+[http://www.jsm.gov.my](http://www.jsm.gov.my) [http://www.sirim.my](http://www.sirim.my)
+E-mel: central@jsm.gov.my E-mel: msonline@sirim.my
+
+Perwakilan jawatankuasa
+
+Jawatankuasa Standard Perindustrian mengenai Pengurusan Kualiti dan Penentuan Kualiti (ISC Y) yang di bawah
+kuasanya Malaysian Standard ini diterima guna dianggotai oleh wakil daripada organisasi yang berikut:
+
+Biro Pengawalan Farmaseutikal Kebangsaan
+Dewan Perdagangan dan Industri Antarabangsa Malaysia
+Institut Jurutera Malaysia
+Institut Kimia Malaysia
+Institut Penyelidikan Sains dan Teknologi Pertahanan
+Institute of Quality Malaysia
+Jabatan Standard Malaysia
+Lembaga Pembangunan Industri Pembinaan Malaysia
+Perbadanan Produktiviti Malaysia
+Persatuan Elektrik dan Elektronik Malaysia
+Persatuan Pengguna-Pengguna Standard Malaysia
+Persekutuan Pekilang-Pekilang Malaysia
+Pihak Berkuasa Peranti Perubatan, Kementerian Kesihatan Malaysia
+SIRIM Berhad
+SIRIM Berhad (National Metrology Institute of Malaysia)
+SIRIM Berhad (Sekretariat)
+SIRIM QAS International Sdn Bhd
+Universiti Utara Malaysia
+
+Jawatankuasa Teknikal mengenai Pengurusan Kualiti dan Penentuan Kualiti (TC2) mengenai Sistem Kualiti yang
+mengesyorkan penerimagunaan Standard ISO dianggotai oleh wakil daripada organisasi yang berikut:
+
+Dewan Perdagangan dan Industri Antarabangsa Malaysia
+Gabungan Pembekal-pembekal Perkhidmatan Malaysia
+Institut Penyelidikan Sains dan Teknologi Pertahanan
+Institute of Quality Malaysia
+Jabatan Standard Malaysia
+Lembaga Pembangunan Industri Pembinaan Malaysia
+SIRIM Berhad (Sekretariat)
+SIRIM QAS International Sdn Bhd
+Unit Pemodenan Tadbiran dan Perancangan Pengurusan Malaysia
+Universiti Malaya
+Universiti Utara Malaysia
+
+Kumpulan Kerja mengenai Terjemahan MS ISO 9001:2015 dianggotai oleh wakil daripada organisasi yang berikut:
+
+Dewan Bahasa dan Pustaka Malaysia
+Institut Terjemahan & Buku Malaysia
+Institute of Quality Malaysia
+Jabatan Standard Malaysia
+Perbadanan Produktiviti Malaysia
+SIRIM Berhad (Sekretariat)
+SIRIM QAS International Sdn Bhd
+Unit Pemodenan Tadbiran dan Perancangan Pengurusan Malaysia
+Universiti Utara Malaysia
+
+
+Prakata kebangsaan
+
+Penerimagunaan Standard ISO sebagai Malaysian Standard telah disyorkan oleh
+Jawatankuasa Teknikal mengenai Pengurusan Kualiti dan Penentuan Kualiti (TC2) mengenai
+Sistem Kualiti di bawah kuasa Jawatankuasa Standard Perindustrian mengenai Pengurusan
+Kualiti dan Penentuan Kualiti.
+
+Malaysian Standard ini serupa dengan ISO 9001:20 15 , Quality Management Systems -
+Requirements, diterbitkan oleh International Organization for Standardization (ISO). Walau
+bagaimanapun, bagi maksud Malaysian Standard ini, perkara-perkara yang berikut diguna
+pakai:
+
+a) dalam teks sumber, “Standard Antarabangsa ini” hendaklah dibaca “Malaysian Standard
+ini”;
+
+b) tanda koma yang digunakan sebagai tanda perpuluhan (jika ada), hendaklah dibaca
+sebagai tanda noktah; dan
+
+c) rujukan Standard Antarabangsa hendaklah digantikan dengan Malaysian Standard
+sepadan seperti yang berikut:
+
+Rujukan Standard Antarabangsa
+Malaysian Standard sepadan
+
+ISO 9000:2015, Quality management
+
+systems - Fundamentals and vocabulary
+
+MS ISO 9000:2015, Quality management
+
+systems - Fundamentals and vocabulary
+
+Malaysian Standard ini membatalkan dan menggantikan MS ISO 9001:2008, Quality
+management systems - Requirements (First revision).
+
+Versi bahasa Malaysia ini ialah terjemahan daripada versi asal dalam bahasa Inggeris, iaitu
+MS ISO 9001:20 15 , Quality management systems - Requirements. Jika terdapat apa-apa
+pertikaian semasa penggunaan standard ini, versi bahasa Inggeris mengatasi versi ini.
+
+Pematuhan Malaysian Standard tidak dengan sendirinya memberikan kekebalan daripada
+obligasi undang-undang.
+
+NOTA. IDT pada kulit depan menunjukkan standard yang serupa, iaitu satu standard yang kandungan
+
+teknikal, struktur, perkataan (atau terjemahan yang serupa) Malaysian Standard adalah benar-benar
+
+sama seperti dalam Standard Antarabangsa atau serupa dari segi kandungan teknikal dan struktur
+walaupun ia mungkin mengandungi perubahan editorial yang minimum seperti yang dinyatakan dalam
+4.2 ISO/IEC Guide 21-1.
+
+
+iv 
+
+Prakata
+
+International Organization for Standardization (ISO) atau Pertubuhan Penstandardan
+Antarabangsa ialah persekutuan badan standard kebangsaan (badan anggota ISO) di
+seluruh dunia. Kerja menyediakan Standard Antarabangsa lazimnya dilakukan melalui
+jawatankuasa teknikal ISO. Setiap badan anggota yang berminat mengenai sesuatu perkara,
+yang untuk maksud itu suatu jawatankuasa teknikal telah diwujudkan, berhak diwakili dalam
+jawatankuasa itu. Pertubuhan antarabangsa kerajaan dan bukan kerajaan, melalui hubungan
+dengan ISO, juga mengambil bahagian dalam kerja ini. ISO bekerjasama rapat dengan
+International Electrotechnical Commission (IEC) atau Suruhanjaya Elektroteknikal
+Antarabangsa dalam segala perkara mengenai perstandardan elektroteknikal.
+
+Prosedur yang digunakan dalam pembangunan dokumen ini dan yang dimaksudkan untuk
+penyelenggaraan seterusnya diperihalkan dalam ISO/IEC Directives, Part 1. Khususnya,
+kriteria kelulusan berbeza diperlukan untuk jenis dokumen ISO berbeza sepatutnya diambil
+maklum. Standard Antarabangsa disediakan selaras dengan peraturan yang diberikan dalam
+ISO/IEC Directives, Part 2 (lihat [http://www.iso.org/directives).](http://www.iso.org/directives).)
+
+Perhatian perlu diberikan terhadap kemungkinan terdapat beberapa unsur dalam dokumen ini
+boleh menjadi hal perkara hak paten. ISO tidak boleh dipertanggungjawabkan untuk
+mengenal pasti apa-apa atau semua hak paten itu. Perincian mana-mana hak paten yang
+dikenal pasti semasa pembangunan dokumen akan dimasukkan ke dalam Pengenalan
+dan/atau senarai perisytiharan paten ISO yang diterima (lihat [http://www.iso.org/patents).](http://www.iso.org/patents).)
+
+Apa-apa nama dagang yang digunakan dalam dokumen ini ialah maklumat yang diberikan
+untuk kemudahan pengguna dan tidak menjadi sebahagian daripada pengendorsan.
+
+Bagi penjelasan makna istilah khusus ISO dan ungkapan berkaitan dengan penilaian
+keakuran, serta maklumat tentang pematuhan ISO kepada prinsip Pertubuhan Perdagangan
+Antarabangsa (WTO) dalam Technical Barriers to Trade (TBT), lihat URL:
+[http://www.iso.org/iso/foreword.html.](http://www.iso.org/iso/foreword.html.)
+
+Jawatankuasa yang bertanggungjawab tentang dokumen ini ialah Technical Committee
+ISO/TC 176, Quality management and quality assurance, Subcommittee SC 2, Quality
+systems.
+
+Edisi kelima ini membatalkan dan menggantikan edisi keempat (ISO 9001:2008), yang telah
+disemak semula dari segi teknikal, melalui penerimagunaan kajian semula urutan klausa dan
+penyesuaian kajian semula prinsip pengurusan kualiti dan konsep baharu. Edisi ini juga
+membatalkan dan menggantikan Technical Corrigendum ISO 9001:2008/Cor.1:2009.
+
+### Pengenalan
+
+### 0.1 Am
+
+Penerimagunaan sistem pengurusan kualiti ialah suatu keputusan strategik untuk sesebuah
+organisasi yang boleh membantu untuk meningkatkan prestasi secara menyeluruh dan
+menyediakan asas yang kukuh bagi inisiatif pembangunan mampan.
+
+Faedah yang mungkin kepada organisasi dalam melaksanakan sistem pengurusan kualiti
+berdasarkan Standard Antarabangsa ini adalah:
+
+a) keupayaan untuk menyediakan secara tekal produk dan perkhidmatan yang memenuhi
+keperluan pelanggan, serta keperluan berkanun dan peraturan yang diguna pakai;
+
+b) memudahkan peluang untuk meningkatkan kepuasan pelanggan;
+
+c) menyatakan risiko dan peluang yang berkaitan dengan konteks dan matlamatnya;
+
+d) keupayaan untuk menunjukkan keakuran terhadap keperluan sistem pengurusan kualiti
+yang ditetapkan.
+
+Standard Antarabangsa ini boleh digunakan oleh pihak dalaman dan luaran.
+
+Standard Antarabangsa ini tidak bertujuan untuk menggambarkan keperluan bagi:
+
+- keseragaman dalam struktur sistem pengurusan kualiti yang berbeza;
+- keselarasan pendokumenan dengan struktur klausa Standard Antarabangsa ini;
+- penggunaan istilah khusus Standard Antarabangsa ini dalam organisasi.
+
+Keperluan sistem pengurusan kualiti yang dinyatakan dalam Standard Antarabangsa ini
+merupakan pelengkap kepada keperluan untuk produk dan perkhidmatan.
+
+Standard Antarabangsa ini menggunakan pendekatan proses, yang menggabungkan kitaran
+PDCA (Plan-Do-Check-Act - Rancang-Lakukan-Semak-Bertindak) dan pemikiran berasaskan
+risiko.
+
+Pendekatan proses membolehkan sesuatu organisasi merancang proses dan saling
+tindaknya.
+
+Kitaran PDCA membolehkan sesuatu organisasi memastikan yang prosesnya disumberkan
+dan diuruskan secukupnya, dan peluang untuk penambahbaikan ditentukan dan diambil
+tindakan.
+
+Pemikiran berasaskan risiko membolehkan sesuatu organisasi menentukan faktor yang boleh
+menyebabkan proses dan sistem pengurusan kualitinya menyimpang daripada hasil yang
+dirancang, menyediakan kawalan pencegahan untuk meminimumkan kesan negatif dan
+untuk menggunakan secara maksimum peluang yang wujud (lihat Klausa A.4).
+
+
+vi 
+
+Memenuhi kehendak serta menangani keperluan dan jangkaan masa depan secara tekal
+menjadi cabaran kepada organisasi dalam persekitaran yang semakin dinamik dan kompleks.
+Bagi mencapai matlamat ini, organisasi mungkin perlu mengguna terima pelbagai bentuk
+penambahbaikan sebagai tambahan kepada pembetulan dan penambahbaikan berterusan,
+seperti perubahan besar, inovasi dan penyusunan semula organisasi.
+
+Dalam Standard Antarabangsa ini, bentuk kata kerja yang berikut digunakan:
+
+- "hendaklah" menandakan keperluan;
+- "harus" menandakan cadangan;
+- "bolehlah" menandakan kebenaran;
+- "boleh" menandakan suatu kemungkinan atau keupayaan.
+
+Maklumat yang bertandakan "NOTA" adalah sebagai panduan bagi memahami atau
+memperjelaskan keperluan yang berkaitan.
+
+### 0.2 Prinsip pengurusan kualiti
+
+Standard Antarabangsa ini berdasarkan prinsip pengurusan kualiti yang diperihalkan dalam
+ISO 9000. Pemerihalan termasuk pernyataan tentang setiap prinsip, rasional tentang sebab
+prinsip itu penting bagi organisasi, beberapa contoh manfaat yang berkaitan dengan prinsip
+itu dan contoh tindakan biasa untuk menambah baik prestasi organisasi apabila
+menggunakan prinsip itu.
+
+Prinsip pengurusan kualiti adalah seperti yang berikut:
+
+- fokus pelanggan;
+- kepimpinan;
+
+− pelibatan orang;
+
+− pendekatan proses;
+
+− penambahbaikan;
+
+− pembuatan keputusan berasaskan bukti;
+
+− pengurusan perhubungan.
+
+### 0.3 Pendekatan proses
+
+0.3.1 Am
+
+Standard Antarabangsa ini menggalakkan penerimagunaan pendekatan proses apabila
+membangunkan, melaksanakan dan menambah baik keberkesanan sistem pengurusan
+kualiti, bagi meningkatkan kepuasan pelanggan dengan cara memenuhi keperluan
+pelanggan. Keperluan khusus yang dianggap penting dalam penerimagunaan pendekatan
+proses dimasukkan dalam 4 .4.
+
+
+ vii
+
+Memahami dan mengurus proses saling berkait sebagai suatu sistem adalah menyumbang
+kepada keberkesanan dan kecekapan organisasi dalam mencapai hasil yang dimaksudkan.
+Pendekatan ini membolehkan organisasi mengawal saling hubungan dan saling
+kebergantungan antara proses sistem itu, supaya prestasi keseluruhan organisasi boleh
+dipertingkatkan.
+
+Pendekatan proses melibatkan pentakrifan dan pengurusan proses yang sistematik, dan
+saling tindaknya, untuk mencapai hasil yang dimaksudkan selaras dengan dasar kualiti dan
+hala tuju strategik organisasi. Pengurusan proses dan sistem secara keseluruhan boleh
+dicapai dengan menggunakan kitaran PDCA (lihat 0.3.2) dengan tumpuan keseluruhan
+terhadap pemikiran berasaskan risiko (lihat 0.3.3) yang bertujuan untuk memanfaatkan
+peluang dan mencegah keputusan yang tidak diingini.
+
+Pemakaian pendekatan proses dalam sistem pengurusan kualiti membolehkan:
+
+a) pemahaman dan ketekalan dalam memenuhi keperluan;
+
+b) pertimbangan proses dari segi nilai ditambah;
+
+c) pencapaian prestasi proses yang berkesan;
+
+d) penambahbaikan proses berdasarkan penilaian data dan maklumat.
+
+Rajah 1 memberi gambaran skematik proses dan menunjukkan saling tindak unsurnya.
+Pemantauan dan pengukuran titik semak, yang diperlukan untuk kawalan, adalah khusus
+untuk setiap proses dan berubah, bergantung pada risiko yang berkaitan.
+
+
+0.3. 3 Pemikiran berasaskan risiko
+
+Pemikiran berasaskan risiko (lihat Klausa A.4) adalah penting bagi mencapai sistem
+pengurusan kualiti yang berkesan. Konsep pemikiran berasaskan risiko yang tersirat dalam
+edisi terdahulu Standard Antarabangsa ini termasuk, sebagai contoh, menjalankan tindakan
+pencegahan untuk menghapuskan ketakakuran yang mungkin berlaku, menganalisis apa-apa
+ketakakuran yang berlaku, dan mengambil tindakan untuk mencegah berulangnya
+ketakakuran, sesuai dengan kesan daripada ketakakuran itu.
+
+Sesuatu organisasi perlu merancang dan melaksanakan tindakan untuk menangani risiko dan
+peluang supaya akur dengan keperluan Standard Antarabangsa ini. Penanganan kedua-dua
+risiko dan peluang dapat menetapkan asas bagi meningkatkan keberkesanan sistem
+pengurusan kualiti, mencapai hasil yang lebih baik dan mencegah kesan negatif.
+
+Peluang boleh muncul sebagai hasil daripada keadaan yang sesuai untuk mencapai hasil
+yang dimaksudkan, sebagai contoh, suatu keadaan yang membolehkan organisasi menarik
+pelanggan, membangunkan produk dan perkhidmatan baharu, mengurangkan pembaziran
+atau menambah baik produktiviti. Tindakan untuk menangani peluang boleh juga termasuk
+pertimbangan terhadap risiko yang berkaitan. Risiko ialah kesan ketakpastian, dan apa-apa
+ketakpastian itu boleh mempunyai kesan positif atau negatif. Sisihan positif yang timbul
+daripada risiko boleh memberi peluang, tetapi bukan semua kesan positif risiko menghasilkan
+peluang.
+
+### 0.4 Hubungan dengan standard sistem pengurusan yang lain
+
+Standard Antarabangsa ini menggunakan rangka kerja yang dibangunkan oleh ISO untuk
+menambah baik keselarasan antara Standard Antarabangsa bagi sistem pengurusannya
+(lihat Klausa A.1).
+
+Standard Antarabangsa ini membolehkan sesuatu organisasi menggunakan pendekatan
+proses, ditambah pula dengan kitaran PDCA dan pemikiran berasaskan risiko, untuk
+menyelaraskan atau mengintegrasikan sistem pengurusan kualitinya dengan keperluan
+standard sistem pengurusan yang lain.
+
+Standard Antarabangsa ini berkait dengan ISO 9000 dan ISO 9004 seperti yang berikut:
+
+- ISO 9000 Quality management systems - Fundamentals and vocabulary menyediakan
+    latar belakang penting untuk pemahaman dan pelaksanaan yang lebih sesuai bagi
+    Standard Antarabangsa ini;
+- ISO 9004 Managing for the sustained success of an organization - A quality management
+    approach menyediakan panduan bagi organisasi yang memilih untuk maju melangkaui
+    keperluan Standard Antarabangsa ini.
+
+Lampiran B menyediakan perincian tentang Standard Antarabangsa pengurusan kualiti dan
+sistem pengurusan kualiti lain yang telah dibangunkan oleh ISO/TC 176.
+
+
+x 
+
+Standard Antarabangsa ini tidak termasuk keperluan khusus untuk sistem pengurusan lain,
+seperti pengurusan alam sekitar, pengurusan keselamatan dan kesihatan pekerjaan, atau
+pengurusan kewangan.
+
+Standard sistem pengurusan kualiti sektor khusus yang berdasarkan keperluan Standard
+Antarabangsa ini telah dibangunkan untuk beberapa sektor. Sesetengah Standard ini
+menetapkan keperluan sistem pengurusan kualiti tambahan, manakala yang lainnya terhad
+kepada menyediakan panduan terhadap pemakaian Standard Antarabangsa ini dalam sektor
+tertentu.
+
+Matriks yang menunjukkan hubung kait antara klausa dalam edisi Standard Antarabangsa ini
+dengan edisi sebelumnya (ISO 9001:2008) boleh didapati dalam tapak sesawang akses
+terbuka ISO/TC 176/SC 2 di: [http://www.iso.org/tc176/sc02/public.](http://www.iso.org/tc176/sc02/public.)
+
+
+### Sistem pengurusan kualiti - Keperluan
+
+### 1 Skop
+
+Standard Antarabangsa ini menetapkan keperluan bagi satu sistem pengurusan kualiti
+apabila sesuatu organisasi:
+
+a) perlu menunjukkan keupayaannya menyediakan secara tekal produk dan perkhidmatan
+yang memenuhi keperluan pelanggan serta keperluan berkanun dan peraturan yang
+diguna pakai, dan
+
+b) mempunyai tujuan untuk meningkatkan kepuasan pelanggan melalui pemakaian sistem
+yang berkesan, termasuk proses penambahbaikan untuk sistem itu dan jaminan
+keakuran terhadap keperluan pelanggan serta keperluan berkanun dan peraturan yang
+diguna pakai.
+
+Semua keperluan Standard Antarabangsa ini adalah generik dan bermaksud untuk diguna
+pakai oleh mana-mana organisasi, tanpa mengambil kira jenis atau saiz, atau produk dan
+perkhidmatan yang disediakan.
+
+NOTA 1. Dalam Standard Antarabangsa ini, istilah "produk" atau "perkhidmatan" hanya diguna pakai
+kepada produk dan perkhidmatan yang dimaksudkan untuk, atau diperlukan oleh, pelanggan.
+
+NOTA 2. Keperluan berkanun dan peraturan boleh diungkapkan sebagai keperluan undang-undang.
+
+### 2 Rujukan normatif
+
+Keseluruhan atau sebahagian daripada dokumen yang berikut, dirujuk secara normatif dalam
+dokumen ini dan sangat diperlukan untuk penggunaannya. Bagi rujukan bertarikh, hanya
+edisi yang disebut diguna pakai. Bagi rujukan tidak bertarikh, edisi terkini dokumen yang
+dirujuk (termasuk sebarang pindaan) diguna pakai.
+
+MS ISO 9000 (BM), Sistem pengurusan kualiti - Asas dan kosa kata
+
+### 3 Istilah dan takrifan
+
+Bagi tujuan dokumen ini, istilah dan takrifan yang diberikan dalam ISO 9000:2015 adalah
+diguna pakai.
+
+### 4 Konteks organisasi
+
+#### 4.1 Memahami organisasi dan konteksnya
+
+Organisasi hendaklah menentukan isu luaran dan dalaman yang relevan dengan tujuan dan
+haluan strategiknya serta yang memberi kesan kepada kebolehannya untuk mencapai hasil
+yang dimaksudkan daripada sistem pengurusan kualitinya.
+
+Organisasi hendaklah memantau dan mengkaji semula maklumat tentang isu luaran dan
+dalaman ini.
+
+NOTA 1. Isu boleh termasuk faktor atau keadaan positif dan negatif untuk dipertimbangkan.
+
+NOTA 2. Memahami konteks luaran boleh dipermudahkan dengan mempertimbangkan isu yang timbul
+daripada persekitaran undang-undang, teknologi, daya saing, pasaran, budaya, sosial dan ekonomi,
+sama ada yang berupa antarabangsa, dalam negara, serantau atau tempatan.
+
+NOTA 3. Memahami konteks dalaman boleh dipermudahkan dengan mempertimbangkan isu yang
+berkaitan dengan nilai, budaya, pengetahuan dan prestasi organisasi.
+
+#### 4.2 Memahami keperluan dan jangkaan pihak yang berkepentingan
+
+Disebabkan oleh kesan atau kesan yang mungkin wujud terhadap keupayaan organisasi
+untuk menyediakan secara tekal produk dan perkhidmatan yang memenuhi keperluan
+pelanggan, serta keperluan berkanun dan peraturan yang diguna pakai, organisasi hendaklah
+menentukan:
+
+a) pihak yang berkepentingan yang relevan dengan sistem pengurusan kualiti;
+
+b) keperluan pihak yang berkepentingan ini yang relevan dengan sistem pengurusan kualiti.
+
+Organisasi hendaklah memantau dan mengkaji semula maklumat tentang pihak yang
+berkepentingan ini dan keperluan mereka yang relevan.
+
+#### 4.3 Menentukan skop sistem pengurusan kualiti
+
+Organisasi hendaklah menentukan sempadan dan kesesuaian sistem pengurusan kualiti
+untuk mewujudkan skopnya.
+
+Apabila menentukan skop ini, organisasi hendaklah mempertimbangkan:
+
+a) isu luaran dan dalaman yang dirujuk dalam 4.1;
+
+b) keperluan pihak yang berkepentingan yang relevan dan dirujuk dalam 4.2;
+
+c) produk dan perkhidmatan organisasi.
+
+Organisasi hendaklah mengguna pakai semua keperluan Standard Antarabangsa ini jika ia
+terpakai dalam skop yang ditetapkan dalam sistem pengurusan kualitinya.
+
+Skop sistem pengurusan kualiti organisasi hendaklah tersedia dan diselenggarakan sebagai
+maklumat didokumentasikan. Skop ini hendaklah menyatakan jenis produk dan perkhidmatan
+yang diliputinya, dan memberikan justifikasi bagi apa-apa keperluan Standard Antarabangsa
+ini yang ditentukan oleh organisasi sebagai tidak terpakai untuk skop sistem pengurusan
+kualitinya.
+
+Keakuran terhadap Standard Antarabangsa ini hanya boleh diakui, jika keperluan ditentukan
+sebagai tidak terpakai, tidak menjejaskan keupayaan atau tanggungjawab organisasi bagi
+memastikan keakuran produk dan perkhidmatannya dan peningkatan kepuasan pelanggan.
+
+#### 4.4 Sistem pengurusan kualiti dan prosesnya
+
+##### 4.4.1 Organisasi hendaklah mewujudkan, melaksanakan, menyelenggarakan dan 
+menambah baik secara berterusan sistem pengurusan kualiti, termasuk proses yang
+diperlukan dan saling tindaknya, selaras dengan keperluan Standard Antarabangsa ini.
+
+Organisasi hendaklah menentukan proses yang diperlukan untuk sistem pengurusan kualiti
+dan pemakaiannya dalam seluruh organisasi, dan hendaklah:
+
+a) menentukan input yang diperlukan dan output yang dijangkakan daripada proses ini;
+
+b) menentukan urutan dan saling tindak proses ini;
+
+c) menentukan dan mengguna pakai kriteria dan kaedah (termasuk pemantauan,
+pengukuran dan petunjuk prestasi yang berkaitan) yang diperlukan bagi memastikan
+keberkesanan operasi dan kawalan proses ini;
+
+d) menentukan sumber yang diperlukan untuk proses ini dan memastikan ketersediaannya;
+
+e) menetapkan tanggungjawab dan bidang kuasa untuk proses ini;
+
+f) menyatakan risiko dan peluang sebagaimana yang ditentukan selaras dengan keperluan
+dalam 6.1;
+
+g) menilai proses ini dan melaksanakan apa-apa perubahan yang diperlukan bagi
+memastikan bahawa proses ini mencapai hasil yang dimaksudkan;
+
+h) menambah baik proses dan sistem pengurusan kualiti.
+
+##### 4.4.2 menyelenggarakan maklumat didokumentasikan
+
+4.4.2 Setakat yang perlu, organisasi hendaklah:
+
+a) menyelenggarakan maklumat didokumentasikan bagi menyokong operasi prosesnya;
+
+b) menyimpan maklumat didokumentasikan supaya mempunyai keyakinan bahawa proses
+dijalankan seperti yang dirancang.
+
+### 5 Kepimpinan
+
+#### 5.1 Kepimpinan dan komitmen
+
+##### 5.1.1 Am
+
+Pengurusan atasan hendaklah menunjukkan kepimpinan dan komitmen tentang sistem
+pengurusan kualiti dengan:
+
+a) mengambil kebertanggungjawaban terhadap keberkesanan sistem pengurusan kualiti;
+
+b) memastikan dasar kualiti dan objektif kualiti diwujudkan untuk sistem pengurusan kualiti
+dan adalah bersesuaian dengan konteks dan hala tuju strategik organisasi;
+
+c) memastikan integrasi keperluan sistem pengurusan kualiti ke dalam proses perniagaan
+organisasi;
+
+d) menggalakkan penggunaan pendekatan proses dan pemikiran berasaskan risiko;
+
+e) memastikan sumber yang diperlukan untuk sistem pengurusan kualiti adalah tersedia;
+
+f) mengkomunikasikan pentingnya pengurusan kualiti yang berkesan dan keakuran
+terhadap keperluan sistem pengurusan kualiti;
+
+g) memastikan bahawa sistem pengurusan kualiti mencapai hasil yang dimaksudkan;
+
+h) melibatkan, mengarah dan menyokong pekerja supaya menyumbang kepada
+keberkesanan sistem pengurusan kualiti;
+
+i) menggalakkan penambahbaikan;
+
+j) menyokong peranan pengurusan lain yang relevan untuk menunjukkan kepimpinannya,
+seperti yang terpakai dalam bidang tanggungjawabnya.
+
+NOTA. Kata "perniagaan" dalam Standard Antarabangsa ini boleh ditafsirkan secara meluas yang
+bermakna aktiviti teras kepada tujuan kewujudan organisasi, sama ada organisasi itu berupa organisasi
+kerajaan, swasta, untuk keuntungan atau bukan untuk keuntungan.
+
+##### 5.1.2 Fokus kepada pelanggan
+
+Pengurusan atasan hendaklah menunjukkan kepimpinan dan komitmen berkaitan fokus
+kepada pelanggan dengan memastikan bahawa:
+
+a) keperluan pelanggan, serta keperluan berkanun dan peraturan yang terpakai ditentukan,
+difahami serta dipenuhi secara tekal;
+
+b) risiko dan peluang yang boleh memberi kesan kepada keakuran produk dan
+perkhidmatan dan keupayaan untuk meningkatkan kepuasan pelanggan ditentukan dan
+dinyatakan;
+
+c) fokus untuk meningkatkan kepuasan pelanggan dikekalkan.
+
+#### 5.2 Dasar
+
+##### 5.2.1 Membangunkan dasar kualiti
+
+Pengurusan atasan hendaklah mewujudkan, melaksanakan dan menyelenggarakan dasar
+kualiti yang:
+
+a) sesuai dengan tujuan dan konteks organisasi serta menyokong hala tuju strategiknya;
+
+b) menyediakan rangka kerja untuk menetapkan objektif kualiti;
+
+c) mengandungi komitmen untuk memenuhi keperluan berkenaan;
+
+d) mengandungi komitmen untuk menambah baik secara berterusan sistem pengurusan
+kualiti.
+
+##### 5.2.2 Mengkomunikasikan dasar kualiti
+
+Dasar kualiti hendaklah:
+
+a) tersedia dan diselenggarakan sebagai maklumat didokumentasikan;
+
+b) dikomunikasikan, difahami dan diguna pakai dalam organisasi;
+
+c) tersedia untuk pihak yang berkepentingan yang relevan, mengikut kesesuaian.
+
+#### 5.3 Peranan, tanggungjawab dan bidang kuasa organisasi
+
+Pengurusan atasan hendaklah memastikan bahawa tanggungjawab dan bidang kuasa bagi
+peranan yang relevan ditetapkan, dikomunikasikan dan difahami dalam organisasi itu.
+
+Pengurusan atasan hendaklah menetapkan tanggungjawab dan bidang kuasa bagi:
+
+a) memastikan sistem pengurusan kualiti akur terhadap keperluan Standard Antarabangsa
+ini;
+
+b) memastikan proses memberikan output yang dimaksudkan;
+
+c) melaporkan prestasi sistem pengurusan kualiti dan peluang untuk penambahbaikan (lihat
+10.1), khususnya kepada pengurusan atasan;
+
+d) memastikan penggalakan bagi fokus terhadap pelanggan dalam seluruh organisasi;
+
+e) memastikan integriti sistem pengurusan kualiti dikekalkan apabila perubahan sistem
+pengurusan kualiti dirancang dan dilaksanakan.
+
+### 6 Perancangan
+
+#### 6.1 Tindakan menyatakan risiko dan peluang
+
+##### 6.1.1 Apabila merancang untuk sistem pengurusan kualiti, organisasi hendaklah
+mempertimbangkan isu yang disebutkan dalam 4.1 dan keperluan yang disebutkan dalam 4.
+dan menentukan risiko dan peluang yang perlu dinyatakan untuk:
+
+a) memberi jaminan bahawa sistem pengurusan kualiti boleh mencapai hasil yang
+dimaksudkan;
+
+b) meningkatkan kesan yang diingini;
+
+c) mencegah, atau mengurangkan kesan yang tidak diingini;
+
+d) mencapai penambahbaikan.
+
+##### 6.1.2 Organisasi hendaklah merancang:
+
+a) tindakan menyatakan risiko dan peluang;
+
+b) cara untuk:
+
+1) mengintegrasikan, dan melaksanakan tindakan itu ke dalam proses sistem
+pengurusan kualiti (lihat 4.4);
+
+2) menilai keberkesanan tindakan ini.
+
+Tindakan yang diambil untuk menyatakan risiko dan peluang hendaklah setimpal dengan
+kesan yang mungkin wujud terhadap keakuran produk dan perkhidmatan.
+
+NOTA 1. Pilihan untuk menyatakan risiko boleh termasuk mengelakkan risiko, mengambil risiko untuk
+mengejar peluang, menghapuskan punca risiko, mengubah kemungkinan atau akibat, berkongsi risiko,
+atau mengekalkan risiko berdasarkan keputusan bermaklumat.
+
+NOTA 2. Peluang boleh membawa kepada penerimagunaan amalan baharu, pelancaran produk
+baharu, pembukaan pasaran baharu, menangani pelanggan baharu, membina perkongsian,
+menggunakan teknologi baharu, dan kemungkinan lain yang diingini dan berdaya maju bagi menangani
+keperluan organisasi atau pelanggannya.
+
+#### 6.2 Objektif kualiti dan perancangan untuk mencapainya
+
+##### 6.2.1 Organisasi hendaklah mewujudkan objektif kualiti pada fungsi, aras dan proses yang relevan yang diperlukan untuk sistem pengurusan kualiti
+
+Objektif kualiti hendaklah:
+
+a) tekal dengan dasar kualiti;
+
+b) boleh diukur;
+
+c) mengambil kira keperluan yang diterima pakai;
+
+d) relevan dengan keakuran produk dan perkhidmatan, dan peningkatan kepuasan
+pelanggan;
+
+e) dipantau;
+
+f) dikomunikasikan;
+
+g) dikemas kini mengikut kesesuaian.
+
+Organisasi hendaklah menyelenggara maklumat didokumentasikan tentang objektif kualiti.
+
+##### 6.2.2 Apabila merancang cara untuk mencapai objektif kualiti, organisasi hendaklah menentukan:
+
+a) apa yang akan dilakukan;
+
+b) sumber yang diperlukan;
+
+c) siapa yang bertanggungjawab;
+
+d) bila ia akan disiapkan;
+
+e) cara hasil akan dinilai.
+
+#### 6.3 Merancang perubahan
+
+Apabila organisasi menentukan keperluan untuk mengubah sistem pengurusan kualiti,
+perubahan itu hendaklah dilaksanakan dengan cara yang terancang (lihat 4.4).
+
+Organisasi hendaklah memberi pertimbangan terhadap:
+
+a) tujuan perubahan dan kesan yang mungkin timbul;
+
+b) integriti sistem pengurusan kualiti;
+
+c) ketersediaan sumber;
+
+d) pengagihan atau pengagihan semula tanggungjawab dan bidang kuasa.
+
+### 7 Sokongan
+
+#### 7.1 Sumber
+
+##### 7.1.1 Am
+
+Organisasi hendaklah menentukan dan menyediakan sumber yang diperlukan bagi
+mewujudkan, melaksanakan, menyelenggarakan, dan menambah baik secara berterusan
+sistem pengurusan kualiti.
+
+Organisasi hendaklah memberi pertimbangan terhadap:
+
+a) keupayaan dan kekangan sumber dalaman sedia ada;
+
+b) apa yang perlu diperoleh daripada penyedia luar.
+
+##### 7.1.2 Modal insan
+
+Organisasi hendaklah menentukan dan menyediakan modal insan yang diperlukan untuk
+pelaksanaan sistem pengurusan kualiti yang berkesan dan untuk operasi dan kawalan
+prosesnya.
+
+##### 7.1.3 Prasarana
+
+Organisasi hendaklah menentukan, menyediakan dan menyelenggarakan prasarana yang
+diperlukan untuk operasi prosesnya dan untuk mencapai keakuran produk dan perkhidmatan.
+
+NOTA. Prasarana boleh termasuk:
+
+a) bangunan dan utiliti yang berkaitan;
+
+b) peralatan, termasuk perkakasan dan perisian;
+
+c) sumber pengangkutan;
+
+d) teknologi maklumat dan komunikasi.
+
+##### 7.1.4 Persekitaran untuk operasi proses
+
+Organisasi hendaklah menentukan, menyediakan dan menyelenggarakan persekitaran yang
+diperlukan untuk operasi prosesnya dan untuk mencapai keakuran produk dan perkhidmatan.
+
+NOTA. Persekitaran yang sesuai boleh merupakan gabungan faktor manusia dan fizikal, seperti:
+
+a) sosial (contohnya tanpa diskriminasi, tenang, bukan konfrontasi);
+
+b) psikologi (contohnya mengurangkan tekanan, mencegah keletihan diri, bersifat melindungi dari segi
+emosi);
+
+c) fizikal (contohnya suhu, haba, kelembapan, cahaya, aliran udara, kebersihan, bunyi bising).
+
+Faktor ini boleh berbeza dengan ketara bergantung pada produk dan perkhidmatan yang
+disediakan.
+
+##### 7.1.5 Sumber pemantauan dan pengukuran
+
+###### 7.1.5.1 Am
+
+Organisasi hendaklah menentukan dan menyediakan sumber yang diperlukan untuk
+memastikan keputusan yang sah dan boleh dipercayai, apabila pemantauan atau pengukuran
+digunakan untuk menentu sah keakuran produk dan perkhidmatan terhadap keperluan.
+
+Organisasi hendaklah memastikan sumber yang disediakan:
+
+a) adalah sesuai untuk jenis aktiviti pemantauan dan pengukuran tertentu yang
+dilaksanakan;
+
+b) diselenggara bagi memastikan kesesuaian untuk maksudnya yang berterusan.
+
+Organisasi hendaklah menyimpan maklumat didokumentasikan yang sesuai sebagai bukti
+kesesuaian untuk maksud tentang sumber pemantauan dan pengukuran.
+
+###### 7.1.5.2 Kebolehkesanan pengukuran
+
+Apabila kebolehkesanan pengukuran ialah suatu keperluan, atau dianggap suatu perkara
+yang penting oleh organisasi untuk memberikan keyakinan dalam kesahan hasil pengukuran,
+peralatan mengukur hendaklah:
+
+a) ditentukur atau ditentusahkan, atau kedua-duanya, pada sela waktu yang ditetapkan,
+atau sebelum digunakan, dengan standard pengukuran yang boleh dikesan daripada
+standard pengukuran antarabangsa atau kebangsaan; apabila standard sedemikian tidak
+wujud, asas yang digunakan bagi tentukuran atau penentusahan hendaklah disimpan
+sebagai maklumat didokumentasikan;
+
+b) dikenal pasti untuk menentukan statusnya;
+
+c) dilindungi daripada pelarasan, kerosakan atau kemerosotan yang akan mentaksahkan
+status tentukuran dan hasil pengukuran seterusnya.
+
+Organisasi hendaklah menentukan sama ada kesahan hasil pengukuran terdahulu terjejas
+teruk apabila peralatan mengukur didapati tidak sesuai untuk maksudnya yang ditetapkan,
+dan hendaklah mengambil tindakan sewajarnya seperti yang diperlukan.
+
+##### 7.1.6 Pengetahuan organisasi
+
+Organisasi hendaklah menentukan pengetahuan yang diperlukan untuk operasi prosesnya
+dan bagi mencapai keakuran produk dan perkhidmatan.
+
+Pengetahuan ini hendaklah diselenggarakan dan tersedia setakat yang perlu.
+
+Apabila menangani perubahan keperluan dan trend, organisasi hendaklah mengambil kira
+pengetahuan semasanya dan menentukan cara memperoleh atau mengakses apa-apa
+pengetahuan tambahan dan pengetahuan dikemas kini yang perlu ada.
+
+NOTA 1. Pengetahuan organisasi ialah pengetahuan khusus bagi organisasi itu; ia diperoleh melalui
+pengalaman. Ia merupakan maklumat yang digunakan dan dikongsi bagi mencapai objektif organisasi.
+
+NOTA 2. Pengetahuan organisasi boleh berdasarkan:
+
+a) sumber dalaman (contoh, harta intelek; pengetahuan yang diperoleh melalui pengalaman;
+pengajaran daripada kegagalan dan projek yang berjaya; perakaman dan perkongsian
+pengetahuan dan pengalaman yang tidak didokumentasikan; hasil penambahbaikan dalam proses,
+produk dan perkhidmatan);
+
+b) sumber luaran (contoh, standard; akademia; persidangan; pengumpulan pengetahuan daripada
+pelanggan atau penyedia luar).
+
+#### 7.2 Kekompetenan
+
+Organisasi hendaklah:
+
+a) menentukan kekompetenan yang diperlukan oleh orang yang melakukan kerja di bawah
+kawalannya memberi kesan kepada prestasi dan keberkesanan sistem pengurusan
+kualiti;
+
+b) memastikan bahawa orang tersebut kompeten berdasarkan pendidikan, latihan, atau
+pengalaman yang sesuai;
+
+c) mengambil tindakan, jika berkenaan, untuk memperoleh kekompetenan yang diperlukan,
+dan menilai keberkesanan tindakan yang diambil;
+
+d) menyimpan maklumat didokumentasikan yang sesuai sebagai bukti kekompetenan.
+
+NOTA. Tindakan yang terpakai boleh termasuk, sebagai contoh, penyediaan latihan, pementoran, atau
+penugasan semula pekerja sedia ada; atau pengambilan atau pengkontrakan orang yang kompeten.
+
+#### 7.3 Kesedaran
+
+Organisasi hendaklah memastikan bahawa orang yang melakukan kerja di bawah
+kawalannya mengetahui tentang:
+
+a) dasar kualiti;
+
+b) objektif kualiti yang relevan;
+
+c) sumbangan mereka kepada keberkesanan sistem pengurusan kualiti, termasuk manfaat
+prestasi yang ditambah baik;
+
+d) implikasi jika tidak mengakuri keperluan sistem pengurusan kualiti.
+
+#### 7.4 Komunikasi
+
+Organisasi hendaklah menentukan komunikasi dalaman dan luaran yang relevan dengan
+sistem pengurusan kualiti, termasuk:
+
+a) perkara yang akan dikomunikasikan;
+
+b) bila perlu berkomunikasi;
+
+c) dengan siapa untuk berkomunikasi;
+
+d) cara untuk berkomunikasi;
+
+e) siapa yang berkomunikasi.
+
+#### 7.5 Maklumat didokumentasikan
+
+##### 7.5.1 Am
+
+Sistem pengurusan kualiti organisasi hendaklah termasuk:
+
+a) maklumat didokumentasikan yang diperlukan oleh Standard Antarabangsa ini;
+
+b) maklumat didokumentasikan yang ditentukan perlu oleh organisasi bagi keberkesanan
+sistem pengurusan kualiti.
+
+NOTA. Tahap maklumat didokumentasikan untuk sistem pengurusan kualiti boleh berbeza antara satu
+organisasi dengan yang lain disebabkan oleh:
+
+- saiz organisasi dan jenis aktiviti, proses, produk dan perkhidmatannya;
+- kerumitan proses dan saling tindaknya;
+- kekompetenan orang.
+
+##### 7.5.2 Mewujudkan dan mengemas kini
+
+Apabila mewujudkan dan mengemas kini maklumat didokumentasikan, organisasi hendaklah
+memastikan kesesuaian:
+
+a) pengenalpastian dan perihalan (contoh, tajuk, tarikh, pengarang, atau nombor rujukan);
+
+b) format (contoh, bahasa, versi perisian, grafik) dan media (contoh, kertas, elektronik);
+
+c) kajian semula dan kelulusan bagi kesesuaian dan kecukupan.
+
+##### 7.5.3 Kawalan maklumat didokumentasikan
+
+###### 7.5.3.1 Maklumat didokumentasikan yang diperlukan oleh sistem pengurusan kualiti dan
+Standard Antarabangsa ini hendaklah dikawal bagi memastikan:
+
+a) ia tersedia dan sesuai untuk digunakan, jika dan apabila diperlukan;
+
+b) ia dilindungi secukupnya (contoh, daripada kehilangan kerahsiaan, penggunaan yang
+tidak betul, atau kehilangan integriti).
+
+###### 7.5.3.2 Bagi mengawal maklumat didokumentasikan, organisasi hendaklah menyatakan
+aktiviti berikut, jika terpakai:
+
+a) pengedaran, akses, dapatan semula dan penggunaan;
+
+b) penyimpanan dan pemeliharaan, termasuk pemeliharaan kemudahbacaan;
+
+c) kawalan perubahan (contoh, kawalan versi);
+
+d) penyimpanan dan pelupusan.
+
+Maklumat didokumentasikan yang berasal dari luar yang ditentukan penting oleh organisasi
+bagi perancangan dan operasi sistem pengurusan kualiti hendaklah dikenal pasti sewajarnya,
+dan dikawal.
+
+Maklumat didokumentasikan yang disimpan sebagai bukti keakuran hendaklah dilindungi
+daripada pengubahan tidak disengajakan.
+
+NOTA. Akses boleh bermaksud suatu keputusan mengenai kebenaran untuk melihat maklumat
+didokumentasikan sahaja, atau kebenaran dan kuasa untuk melihat dan menukar maklumat
+didokumentasikan.
+
+### 8 Operasi
+
+#### 8.1 Perancangan dan kawalan operasi
+
+Organisasi hendaklah merancang, melaksanakan dan mengawal proses (lihat 4.4) yang
+diperlukan bagi memenuhi keperluan untuk penyediaan produk dan perkhidmatan, dan bagi
+melaksanakan tindakan yang ditentukan dalam Klausa 6 , dengan cara:
+
+a) menentukan keperluan untuk produk dan perkhidmatan;
+
+b) mewujudkan kriteria untuk:
+
+1) proses;
+
+2) penerimaan produk dan perkhidmatan;
+
+c) menentukan sumber yang diperlukan untuk mencapai keakuran terhadap keperluan
+produk dan perkhidmatan;
+
+d) melaksanakan kawalan proses selaras dengan kriteria;
+
+e) menentukan, menyelenggarakan dan mengekalkan maklumat didokumentasikan setakat
+yang perlu:
+
+1) untuk memberi keyakinan bahawa proses telah dilaksanakan seperti yang dirancang;
+
+2) untuk menunjukkan keakuran produk dan perkhidmatan terhadap keperluannya.
+
+Output perancangan ini hendaklah sesuai untuk operasi organisasi.
+
+Organisasi hendaklah mengawal perubahan terancang dan mengkaji semula kesan
+perubahan yang tidak diingini, dengan mengambil tindakan untuk mengurangkan apa-apa
+kesan buruk, seperti yang diperlukan.
+
+Organisasi hendaklah memastikan proses disumber luar dikawal (lihat 8.4).
+
+#### 8.2 Keperluan untuk produk dan perkhidmatan
+
+##### 8.2.1 Komunikasi dengan pelanggan
+
+Komunikasi dengan pelanggan hendaklah termasuk:
+
+a) menyediakan maklumat yang berkaitan dengan produk dan perkhidmatan;
+
+b) mengendalikan pertanyaan, kontrak atau pesanan, termasuk perubahan;
+
+c) mendapatkan maklum balas pelanggan berkaitan dengan produk dan perkhidmatan,
+termasuk aduan pelanggan;
+
+d) mengendalikan atau mengawal harta pelanggan;
+
+e) mewujudkan keperluan khusus untuk tindakan luar jangka, jika relevan.
+
+##### 8.2.2 Menentukan keperluan untuk produk dan perkhidmatan
+
+Apabila menentukan keperluan untuk produk dan perkhidmatan yang akan ditawarkan
+kepada pelanggan, organisasi hendaklah memastikan bahawa:
+
+a) keperluan untuk produk dan perkhidmatan ditetapkan, termasuk:
+
+1) apa-apa keperluan berkanun dan peraturan yang diguna pakai;
+
+2) apa-apa yang difikirkan perlu oleh organisasi;
+
+b) organisasi boleh memenuhi akuan untuk produk dan perkhidmatan yang ditawarkan.
+
+##### 8.2.3 Kajian semula keperluan untuk produk dan perkhidmatan
+
+###### 8.2.3.1 Organisasi hendaklah memastikan bahawa ia mempunyai keupayaan untuk
+memenuhi keperluan produk dan perkhidmatan yang ditawarkan kepada pelanggan.
+Organisasi hendaklah menjalankan kajian semula sebelum memberikan komitmen untuk
+membekalkan produk dan perkhidmatan kepada pelanggan, termasuk:
+
+a) keperluan yang ditetapkan oleh pelanggan, termasuk keperluan hantar serah dan aktiviti
+selepas hantar serah;
+
+b) keperluan yang tidak dinyatakan oleh pelanggan, tetapi adalah perlu bagi kegunaan yang
+ditetapkan atau yang dimaksudkan, jika hal itu diketahui;
+
+c) keperluan yang ditetapkan oleh organisasi;
+
+d) keperluan berkanun dan peraturan yang diguna pakai bagi produk dan perkhidmatan itu;
+
+e) keperluan kontrak atau pesanan yang berbeza daripada yang dinyatakan terdahulu.
+
+Organisasi hendaklah memastikan bahawa keperluan kontrak atau pesanan yang berbeza
+daripada yang ditetapkan terdahulu diselesaikan.
+
+Keperluan pelanggan hendaklah disahkan oleh organisasi sebelum penerimaan, apabila
+pelanggan tidak menyediakan pernyataan didokumentasikan tentang keperluan mereka.
+
+NOTA. Dalam sesetengah keadaan, seperti jualan melalui internet, kajian semula secara formal adalah
+tidak praktikal bagi setiap pesanan. Sebaliknya, kajian semula boleh meliputi maklumat produk yang
+relevan, seperti katalog atau bahan pengiklanan.
+
+###### 8.2.3.2 Organisasi hendaklah menyimpan maklumat didokumentasikan, seperti yang
+berkenaan:
+
+a) tentang hasil kajian semula;
+
+b) tentang apa-apa keperluan baharu untuk produk dan perkhidmatan.
+
+##### 8.2.4 Perubahan keperluan untuk produk dan perkhidmatan
+
+Organisasi hendaklah memastikan bahawa maklumat didokumentasikan yang relevan
+dipinda, dan bahawa orang yang berkaitan dimaklumkan tentang keperluan yang berubah,
+apabila keperluan untuk produk dan perkhidmatan diubah.
+
+#### 8.3 Reka bentuk dan pembangunan produk dan perkhidmatan
+
+##### 8.3.1 Am
+
+Organisasi hendaklah mewujudkan, melaksanakan dan menyelenggarakan proses reka
+bentuk dan pembangunan yang sesuai bagi memastikan produk dan perkhidmatan
+seterusnya disediakan.
+
+##### 8.3.2 Perancangan reka bentuk dan pembangunan
+
+Dalam menentukan tahap dan kawalan untuk reka bentuk dan pembangunan, organisasi
+hendaklah mengambil kira:
+
+a) keadaan, tempoh dan kerumitan aktiviti reka bentuk dan pembangunan;
+
+b) tahap proses yang diperlukan, termasuk kajian semula reka bentuk dan pembangunan
+yang berkenaan;
+
+c) aktiviti penentusahan dan pengesahan reka bentuk dan pembangunan yang diperlukan;
+
+d) tanggungjawab dan kuasa yang terlibat dalam proses reka bentuk dan pembangunan;
+
+e) keperluan sumber dalaman dan luaran bagi reka bentuk dan pembangunan produk dan
+perkhidmatan;
+
+f) keperluan untuk mengawal antara muka dalam kalangan orang yang terlibat dalam
+proses reka bentuk dan pembangunan;
+
+g) keperluan untuk pelibatan pelanggan dan pengguna dalam proses reka bentuk dan
+pembangunan;
+
+h) keperluan untuk produk dan perkhidmatan seterusnya disediakan;
+
+i) tahap kawalan yang dijangkakan untuk proses reka bentuk dan pembangunan oleh
+pelanggan dan pihak berkepentingan lain yang relevan;
+
+j) maklumat didokumentasikan yang diperlukan untuk menunjukkan bahawa keperluan reka
+bentuk dan pembangunan telah dipenuhi.
+
+##### 8.3.3 Input reka bentuk dan pembangunan
+
+Organisasi hendaklah menentukan keperluan yang penting untuk jenis produk dan
+perkhidmatan tertentu yang akan direka bentuk dan dibangunkan. Organisasi hendaklah
+mengambil kira:
+
+a) keperluan fungsian dan prestasi;
+
+b) maklumat yang diperoleh daripada aktiviti reka bentuk dan pembangunan terdahulu yang
+serupa;
+
+c) keperluan berkanun dan peraturan;
+
+d) standard atau kod amalan yang organisasi telah memberikan komitmen untuk
+dilaksanakan;
+
+e) akibat kegagalan yang mungkin timbul disebabkan sifat produk dan perkhidmatan.
+
+Input hendaklah, mencukupi bagi tujuan reka bentuk dan pembangunan, lengkap dan jelas.
+
+Reka bentuk dan pembangunan input yang bercanggah hendaklah diselesaikan.
+
+Organisasi hendaklah mengekalkan maklumat didokumentasikan tentang input reka bentuk
+dan pembangunan.
+
+##### 8.3.4 Kawalan reka bentuk dan pembangunan
+
+Organisasi hendaklah mengenakan kawalan untuk proses reka bentuk dan pembangunan
+bagi memastikan bahawa:
+
+a) hasil yang hendak dicapai ditetapkan;
+
+b) kajian semula dijalankan bagi menilai keupayaan hasil reka bentuk dan pembangunan
+untuk memenuhi keperluan;
+
+c) aktiviti penentusahan dijalankan bagi memastikan bahawa output reka bentuk dan
+pembangunan memenuhi keperluan input;
+
+d) aktiviti pengesahan dijalankan bagi memastikan produk dan perkhidmatan yang
+dihasilkan memenuhi keperluan untuk pemakaian yang tertentu atau kegunaan yang
+dimaksudkan;
+
+e) apa-apa tindakan yang perlu, diambil terhadap masalah yang dikenal pasti semasa kajian
+semula, atau aktiviti penentusahan dan pengesahan;
+
+f) maklumat didokumentasikan tentang aktiviti ini dikekalkan.
+
+NOTA. Kajian semula reka bentuk dan pembangunan, penentusahan serta pengesahan mempunyai
+tujuan yang berbeza. Perkara ini boleh dijalankan secara berasingan atau dalam apa-apa gabungan
+yang sesuai bagi produk dan perkhidmatan organisasi.
+
+##### 8.3.5 Output reka bentuk dan pembangunan
+
+Organisasi hendaklah memastikan bahawa output reka bentuk dan pembangunan:
+
+a) memenuhi keperluan input;
+
+b) mencukupi untuk proses seterusnya bagi penyediaan produk dan perkhidmatan;
+
+c) merangkumi atau merujuk keperluan pemantauan dan pengukuran, sebagaimana yang
+sesuai, dan kriteria penerimaan;
+
+d) menetapkan ciri-ciri penting produk dan perkhidmatan untuk tujuan yang dimaksudkan
+dan penyediaannya yang selamat dan sesuai.
+
+Organisasi hendaklah mengekalkan maklumat didokumentasikan tentang output reka bentuk
+dan pembangunan.
+
+##### 8.3.6 Perubahan reka bentuk dan pembangunan
+
+Organisasi hendaklah mengenal pasti, menyemak semula dan mengawal perubahan yang
+dibuat semasa, atau selepas, reka bentuk dan pembangunan produk dan perkhidmatan,
+setakat yang perlu bagi memastikan tidak ada impak yang bertentangan dengan keakuran
+terhadap keperluan.
+
+Organisasi hendaklah mengekalkan maklumat didokumentasikan tentang:
+
+a) perubahan reka bentuk dan pembangunan;
+
+b) hasil kajian semula;
+
+c) kebenaran atas perubahan;
+
+d) tindakan yang diambil untuk mencegah impak yang bertentangan.
+
+#### 8.4 Kawalan terhadap proses, produk dan perkhidmatan sediaan luar
+
+##### 8.4.1 Am
+
+Organisasi hendaklah memastikan bahawa proses, produk dan perkhidmatan sediaan luar
+akur terhadap keperluan.
+
+Organisasi hendaklah menentukan kawalan yang akan diguna pakai bagi proses, produk dan
+perkhidmatan sediaan luar apabila:
+
+a) produk dan perkhidmatan daripada penyedia luar bermaksud untuk dijadikan sebahagian
+daripada produk dan perkhidmatan organisasi itu sendiri;
+
+b) produk dan perkhidmatan disediakan secara terus kepada pelanggan oleh penyedia luar
+bagi pihak organisasi;
+
+c) proses, atau sebahagian daripada proses, disediakan oleh penyedia luar berdasarkan
+keputusan yang dibuat oleh organisasi.
+
+Organisasi hendaklah menentukan dan mengguna pakai kriteria penilaian, pemilihan,
+pemantauan prestasi, dan penilaian semula penyedia luar, berdasarkan keupayaan mereka
+untuk menyediakan proses atau produk dan perkhidmatan selaras dengan keperluan.
+Organisasi hendaklah mengekalkan maklumat didokumentasikan berkaitan aktiviti ini dan
+apa-apa tindakan perlu yang berpunca daripada penilaian.
+
+##### 8.4.2 Jenis dan takat kawalan
+
+Organisasi hendaklah memastikan bahawa proses, produk dan perkhidmatan sediaan luar
+tidak memberi kesan bertentangan terhadap keupayaan organisasi untuk membekalkan
+secara tekal produk dan perkhidmatan yang akur dengan keperluan kepada pelanggannya.
+
+Organisasi hendaklah:
+
+a) memastikan bahawa proses sediaan luar kekal dalam kawalan sistem pengurusan
+kualitinya;
+
+b) menetapkan kawalan yang dimaksudkan untuk diguna pakai terhadap kedua-dua
+penyedia luar dan output yang terhasil;
+
+c) mengambil kira:
+
+1) impak yang mungkin terhasil daripada proses, produk dan perkhidmatan sediaan luar
+terhadap keupayaan organisasi untuk memenuhi secara tekal keperluan pelanggan,
+serta keperluan berkanun dan peraturan yang terpakai;
+
+2) keberkesanan kawalan yang diguna pakai oleh penyedia luar;
+
+d) menentukan aktiviti penentusahan, atau aktiviti lain, yang perlu bagi memastikan bahawa
+proses, produk dan perkhidmatan sediaan luar memenuhi keperluan.
+
+##### 8.4.3 Maklumat untuk penyedia luar
+
+Organisasi hendaklah memastikan kecukupan keperluan sebelum dikomunikasikan kepada
+penyedia luar.
+
+Organisasi hendaklah mengkomunikasikan kepada penyedia luar keperluannya tentang:
+
+a) proses, produk dan perkhidmatan yang akan disediakan;
+
+b) kelulusan untuk:
+
+1) produk dan perkhidmatan;
+
+2) kaedah, proses dan peralatan;
+
+3) pelepasan produk dan perkhidmatan;
+
+c) kekompetenan, termasuk apa-apa kelayakan yang diperlukan oleh seseorang;
+
+d) saling tindak penyedia luar dengan organisasi;
+
+e) kawalan dan pemantauan prestasi penyedia luar yang akan diguna pakai oleh organisasi;
+
+f) aktiviti penentusahan atau pengesahan yang organisasi, atau pelanggannya, bermaksud
+untuk melaksanakan di premis penyedia luar.
+
+#### 8.5 Penyediaan pengeluaran dan perkhidmatan
+
+##### 8.5.1 Kawalan penyediaan pengeluaran dan perkhidmatan
+
+Organisasi hendaklah melaksanakan penyediaan pengeluaran dan perkhidmatan dalam
+keadaan terkawal.
+
+Keadaan terkawal hendaklah termasuk, jika berkenaan:
+
+a) ketersediaan maklumat didokumentasikan yang menetapkan:
+
+1) ciri-ciri produk yang akan dihasilkan, perkhidmatan yang akan disediakan, atau
+aktiviti yang akan dilaksanakan;
+
+2) hasil yang hendak dicapai;
+
+b) ketersediaan dan penggunaan sumber pemantauan dan pengukuran yang sesuai;
+
+c) pelaksanaan aktiviti pemantauan dan pengukuran pada tahap yang sesuai untuk
+menentusahkan bahawa kriteria kawalan proses atau output, dan kriteria penerimaan
+produk dan perkhidmatan telah dipenuhi;
+
+d) penggunaan prasarana dan persekitaran yang sesuai untuk operasi proses;
+
+e) pelantikan orang yang kompeten, termasuk apa-apa kelayakan yang diperlukan;
+
+f) pengesahan dan pengesahan semula secara berkala, terhadap keupayaan untuk
+mencapai hasil yang dirancang daripada proses bagi penyediaan pengeluaran dan
+perkhidmatan, jika output yang dihasilkan tidak boleh ditentusahkan melalui pemantauan
+atau pengukuran berikutnya;
+
+g) pelaksanaan tindakan bagi mencegah kesilapan manusia;
+
+h) pelaksanaan aktiviti pelepasan, hantar serah dan selepas hantar serah.
+
+##### 8.5.2 Pengenalpastian dan kebolehkesanan
+
+Organisasi hendaklah menggunakan cara yang sesuai untuk mengenal pasti output apabila
+perlu bagi memastikan keakuran produk dan perkhidmatan.
+
+Organisasi hendaklah mengenal pasti status output berkenaan dengan keperluan
+pemantauan dan pengukuran sepanjang penyediaan pengeluaran dan perkhidmatan.
+
+Organisasi hendaklah mengawal pengenalpastian unik output apabila kebolehkesanan
+merupakan satu keperluan, dan hendaklah menyimpan maklumat didokumentasikan yang
+perlu untuk membolehkan kebolehkesanan.
+
+##### 8.5.3 Harta kepunyaan pelanggan atau penyedia luar
+
+Organisasi hendaklah memelihara harta kepunyaan pelanggan atau penyedia luar semasa
+harta itu di bawah kawalan organisasi atau digunakan oleh organisasi itu.
+
+Organisasi hendaklah mengenal pasti, menentusahkan, menjaga serta melindungi harta
+pelanggan atau penyedia luar yang disediakan untuk kegunaan atau untuk dijadikan
+sebahagian daripada produk dan perkhidmatan.
+
+Apabila harta pelanggan atau penyedia luar hilang, rosak atau selainnya didapati tidak sesuai
+untuk digunakan, organisasi hendaklah melaporkan hal itu kepada pelanggan atau penyedia
+luar, dan menyimpan maklumat didokumentasikan tentang hal yang telah berlaku.
+
+NOTA. Harta pelanggan atau penyedia luar boleh termasuk bahan, komponen, alat dan peralatan,
+premis, harta intelek dan data peribadi.
+
+##### 8.5.4 Pemeliharaan
+
+Organisasi hendaklah memelihara output semasa penyediaan pengeluaran dan
+perkhidmatan, setakat yang perlu bagi memastikan keakuran terhadap keperluan.
+
+NOTA. Pemeliharaan boleh termasuk pengenalpastian, pengendalian, kawalan pencemaran,
+pembungkusan, penyimpanan, penghantaran atau pengangkutan, dan penjagaan.
+
+##### 8.5.5 Aktiviti selepas hantar serah
+
+Organisasi hendaklah memenuhi keperluan bagi aktiviti selepas hantar serah yang berkaitan
+dengan produk dan perkhidmatan.
+
+Dalam menentukan tahap aktiviti yang diperlukan selepas hantar serah, organisasi hendaklah
+mengambil kira:
+
+a) keperluan berkanun dan peraturan;
+
+b) akibat tidak diingini yang mungkin timbul berkaitan produk dan perkhidmatannya;
+
+c) keadaan, kegunaan serta hayat produk dan perkhidmatan yang dimaksudkan;
+
+d) keperluan pelanggan;
+
+e) maklum balas pelanggan.
+
+NOTA. Aktiviti selepas hantar serah boleh termasuk tindakan di bawah peruntukan waranti, obligasi
+kontraktual seperti perkhidmatan penyelenggaraan, dan perkhidmatan tambahan seperti kitar semula
+atau pelupusan akhir.
+
+##### 8.5.6 Kawalan perubahan
+
+Organisasi hendaklah menyemak semula dan mengawal perubahan terhadap pengeluaran
+atau penyediaan perkhidmatan, setakat yang perlu bagi memastikan keakuran berterusan
+terhadap keperluan.
+
+Organisasi hendaklah mengekalkan maklumat didokumentasikan yang memerihalkan hasil
+kajian semula perubahan, orang yang membenarkan perubahan, dan apa-apa tindakan yang
+perlu hasil daripada kajian semula itu.
+
+#### 8.6 Pelepasan produk dan perkhidmatan
+
+Organisasi hendaklah melaksanakan perkiraan terancang, pada tahap yang sesuai, untuk
+menentusahkan bahawa keperluan produk dan perkhidmatan telah dipenuhi.
+
+Pelepasan produk dan perkhidmatan kepada pelanggan tidak perlu diteruskan sehingga
+perkiraan terancang disiapkan dengan memuaskan, melainkan jika diluluskan sebaliknya oleh
+pihak berkuasa yang relevan dan, jika berkenaan, oleh pelanggan.
+
+Organisasi hendaklah mengekalkan maklumat didokumentasikan tentang pelepasan produk
+dan perkhidmatan. Maklumat didokumentasikan ini hendaklah termasuk:
+
+a) bukti keakuran terhadap kriteria penerimaan;
+
+b) kebolehkesanan orang yang membenarkan pelepasan.
+
+#### 8.7 Kawalan output tak akur
+
+##### 8.7.1 Organisasi hendaklah memastikan bahawa output tak akur terhadap keperluannya
+dikenal pasti dan dikawal bagi mencegah penggunaan atau hantar serah yang tidak
+dimaksudkan.
+
+Organisasi hendaklah mengambil tindakan yang sesuai berdasarkan keadaan ketakakuran
+dan kesannya terhadap keakuran produk dan perkhidmatan. Perkara ini hendaklah juga
+terpakai bagi produk dan perkhidmatan tak akur yang dikesan selepas hantar serah produk,
+semasa atau selepas penyediaan perkhidmatan.
+
+Organisasi hendaklah mengurus output tak akur dengan satu atau lebih daripada cara yang
+berikut:
+
+a) membuat pembetulan;
+
+b) membuat pengasingan, pembendungan, pemulangan atau penggantungan penyediaan
+produk dan perkhidmatan;
+
+c) memaklumkan pelanggan;
+
+d) mendapatkan kebenaran untuk penerimaan di bawah konsesi.
+
+Keakuran terhadap keperluan hendaklah ditentusahkan apabila output tak akur diperbetulkan.
+
+##### 8.7.2 Organisasi hendaklah mengekalkan maklumat didokumentasikan yang:
+
+a) memerihalkan ketakakuran;
+
+b) memerihalkan tindakan yang diambil;
+
+c) memerihalkan apa-apa konsesi yang diperoleh;
+
+d) mengenal pasti kuasa yang memutuskan tindakan berkenaan dengan ketakakuran.
+
+### 9 Penilaian prestasi
+
+#### 9.1 Pemantauan, pengukuran, analisis dan penilaian
+
+##### 9.1.1 Am
+
+Organisasi hendaklah menentukan:
+
+a) apa yang perlu dipantau dan diukur;
+
+b) kaedah pemantauan, pengukuran, analisis dan penilaian yang diperlukan bagi
+memastikan hasil yang sah;
+
+c) bila pemantauan dan pengukuran hendak dilaksanakan;
+
+d) bila hasil pemantauan dan pengukuran hendak dianalisis dan dinilai.
+
+Organisasi hendaklah menilai prestasi dan keberkesanan sistem pengurusan kualiti.
+
+Organisasi hendaklah mengekalkan maklumat didokumentasikan yang sesuai sebagai bukti
+hasil.
+
+##### 9.1.2 Kepuasan pelanggan
+
+Organisasi hendaklah memantau tanggapan pelanggan tentang tahap keperluan dan
+jangkaan mereka yang telah dipenuhi. Organisasi hendaklah menentukan kaedah untuk
+memperoleh, memantau dan menyemak semula maklumat ini.
+
+NOTA. Contoh pemantauan tanggapan pelanggan boleh termasuk kaji selidik pelanggan, maklum
+balas pelanggan mengenai produk dan perkhidmatan yang dihantar serah, mesyuarat dengan
+pelanggan, analisis bahagian pasaran, pujian, tuntutan waranti dan laporan wakil penjual.
+
+##### 9.1.3 Analisis dan penilaian
+
+Organisasi hendaklah menganalisis dan menilai data dan maklumat yang sesuai hasil
+daripada pemantauan dan pengukuran.
+
+Hasil analisis hendaklah digunakan untuk menilai:
+
+a) keakuran produk dan perkhidmatan;
+
+b) tahap kepuasan pelanggan;
+
+c) prestasi dan keberkesanan sistem pengurusan kualiti;
+
+d) sama ada perancangan telah dilaksanakan dengan berkesan;
+
+e) keberkesanan tindakan yang diambil bagi menangani risiko dan peluang;
+
+f) prestasi penyedia luar;
+
+g) keperluan untuk menambah baik sistem pengurusan kualiti.
+
+NOTA. Kaedah untuk menganalisis data boleh termasuk teknik statistik.
+
+#### 9.2 Audit dalaman
+
+##### 9.2.1 Organisasi hendaklah menjalankan audit dalaman secara berkala bagi menyediakan
+maklumat bahawa sistem pengurusan kualiti sama ada atau tidak:
+
+a) akur terhadap:
+
+1) keperluan sistem pengurusan kualiti organisasi itu sendiri;
+
+2) keperluan Standard Antarabangsa ini;
+
+b) dilaksanakan dan diselenggarakan secara berkesan.
+
+##### 9.2.2 Organisasi hendaklah merancang, mewujudkan, melaksanakan dan menyelenggarakan program audit
+
+a) merancang, mewujudkan, melaksanakan dan menyelenggarakan program audit,
+termasuk kekerapan, kaedah, tanggungjawab, keperluan perancangan dan pelaporan,
+yang hendaklah mengambil kira kepentingan proses berkenaan, perubahan yang
+memberi kesan kepada organisasi, dan keputusan audit terdahulu;
+
+b) menentukan kriteria audit dan skop bagi setiap audit;
+
+c) memilih juruaudit dan menjalankan audit bagi memastikan keobjektifan dan
+kesaksamaan proses audit;
+
+d) memastikan bahawa keputusan audit dilaporkan kepada pihak pengurusan yang relevan;
+
+e) membuat pembetulan dan mengambil tindakan pembetulan yang sesuai, tanpa
+kelengahan tidak wajar;
+
+f) mengekalkan maklumat didokumentasikan sebagai bukti pelaksanaan program audit dan
+keputusan audit.
+
+NOTA. Lihat ISO 19011 untuk panduan.
+
+#### 9.3 Kajian semula pengurusan
+
+##### 9.3.1 Am
+
+Pengurusan atasan hendaklah mengkaji semula sistem pengurusan kualiti organisasi, secara
+berkala, bagi memastikan kesesuaian, kecukupan, keberkesanan dan keselarasan yang
+berterusan dengan hala tuju strategik organisasi.
+
+##### 9.3.2 Input kajian semula pengurusan
+
+Kajian semula pengurusan hendaklah dirancang dan dijalankan dengan mengambil kira:
+
+a) status tindakan daripada kajian semula pengurusan yang terdahulu;
+
+b) perubahan dalam isu-isu luaran dan dalaman yang relevan dengan sistem pengurusan
+kualiti;
+
+c) maklumat tentang prestasi dan keberkesanan sistem pengurusan kualiti, termasuk trend
+dalam:
+
+1) kepuasan pelanggan dan maklum balas daripada pihak berkepentingan yang
+relevan;
+
+2) takat pencapaian objektif kualiti;
+
+3) prestasi proses dan keakuran produk dan perkhidmatan;
+
+4) ketakakuran dan tindakan pembetulan;
+
+5) hasil pemantauan dan pengukuran;
+
+6) keputusan audit;
+
+7) prestasi penyedia luar;
+
+d) kecukupan sumber;
+
+e) keberkesanan tindakan yang diambil bagi menangani risiko dan peluang (lihat 6.1);
+
+f) peluang untuk penambahbaikan.
+
+##### 9.3.3 Output kajian semula pengurusan
+
+Output kajian semula pengurusan hendaklah termasuk keputusan dan tindakan yang
+berkaitan dengan:
+
+a) peluang untuk penambahbaikan;
+
+b) apa-apa keperluan untuk perubahan kepada sistem pengurusan kualiti;
+
+c) keperluan sumber.
+
+Organisasi hendaklah mengekalkan maklumat didokumentasikan sebagai bukti hasil kajian
+semula pengurusan.
+
+### 10 Penambahbaikan
+
+#### 10.1 Am
+
+Organisasi hendaklah menentukan dan memilih peluang untuk penambahbaikan, dan
+melaksanakan apa-apa tindakan yang perlu, bagi memenuhi keperluan pelanggan dan
+meningkatkan kepuasan pelanggan.
+
+Perkara ini hendaklah termasuk:
+
+a) menambah baik produk dan perkhidmatan bagi memenuhi keperluan serta bagi
+menangani keperluan dan jangkaan masa depan;
+
+b) membetulkan, mencegah atau mengurangkan kesan yang tidak diingini;
+
+c) menambah baik prestasi dan keberkesanan sistem pengurusan kualiti.
+
+NOTA. Contoh penambahbaikan boleh termasuk pembetulan, tindakan pembetulan, penambahbaikan
+berterusan, perubahan kejayaan besar, inovasi dan penyusunan semula.
+
+#### 10.2 Ketakakuran dan tindakan pembetulan
+
+##### 10.2.1 Apabila ketakakuran berlaku, termasuk apa-apa yang timbul daripada aduan,
+organisasi hendaklah:
+
+a) bertindak balas terhadap ketakakuran itu dan, jika berkenaan:
+
+1) mengambil tindakan untuk mengawal dan membetulkannya;
+
+2) menguruskan akibatnya;
+
+b) menilai keperluan untuk mengambil tindakan menghapuskan penyebab ketakakuran,
+supaya tidak berulang atau berlaku di tempat lain, dengan cara:
+
+1) menyemak semula dan menganalisis ketakakuran;
+
+2) menentukan penyebab ketakakuran;
+
+3) menentukan jika ketakakuran serupa wujud, atau mungkin boleh berlaku;
+
+c) melaksanakan apa-apa tindakan yang diperlukan;
+
+d) menyemak semula keberkesanan apa-apa tindakan pembetulan yang diambil;
+
+e) mengemas kini risiko dan peluang yang ditentukan semasa perancangan, jika perlu;
+
+f) membuat perubahan dalam sistem pengurusan kualiti, jika perlu.
+
+Tindakan pembetulan hendaklah bersesuaian dengan kesan ketakakuran yang dihadapi.
+
+##### 10.2.2 Organisasi hendaklah mengekalkan maklumat didokumentasikan sebagai bukti:
+
+a) keadaan ketakakuran dan apa-apa tindakan susulan yang diambil;
+
+b) hasil apa-apa tindakan pembetulan.
+
+#### 10.3 Penambahbaikan berterusan
+
+Organisasi hendaklah secara berterusan menambah baik kesesuaian, kecukupan dan
+keberkesanan sistem pengurusan kualiti.
+
+Organisasi hendaklah mengambil kira keputusan analisis dan penilaian, dan output daripada
+kajian semula pengurusan, bagi menentukan jika terdapat keperluan atau peluang yang
+sepatutnya ditangani sebagai sebahagian daripada penambahbaikan berterusan.
+
+### Lampiran A 
+
+#### A.1 Struktur dan istilah
+
+Struktur klausa (iaitu urutan klausa) dan beberapa istilah edisi Standard Antarabangsa ini,
+berbanding dengan edisi terdahulu (ISO 9001:2008), telah diubah untuk menambah baik
+sejajar dengan standard sistem pengurusan yang lain.
+
+Dalam Standard Antarabangsa ini, tidak ada keperluan supaya struktur dan istilahnya diguna
+pakai terhadap maklumat didokumentasikan dalam sistem pengurusan kualiti organisasi.
+
+Struktur klausa bermaksud menyediakan pembentangan keperluan yang koheren, bukannya
+model untuk mendokumentasikan dasar, matlamat dan proses sesuatu organisasi. Struktur
+dan kandungan maklumat didokumentasikan yang berkaitan dengan sistem pengurusan
+kualiti sering boleh menjadi lebih relevan kepada penggunanya jika ia berkaitan dengan
+proses yang dikendalikan oleh organisasi dan maklumat yang diselenggarakan untuk maksud
+lain.
+
+Istilah yang digunakan oleh organisasi tidak perlu digantikan dengan istilah yang digunakan
+dalam Standard Antarabangsa ini bagi menetapkan keperluan sistem pengurusan kualiti.
+Organisasi boleh memilih untuk menggunakan istilah yang sesuai dengan operasinya
+(contohnya, menggunakan "rekod", "pendokumenan" atau "protokol" dan bukannya
+"maklumat didokumentasikan"; atau "pembekal", "rakan kongsi" atau "penjual" dan bukannya
+"penyedia luar"). Jadual A.1 menunjukkan perbezaan utama dalam istilah antara edisi
+Standard Antarabangsa ini dengan edisi terdahulu.
+
+#### A.2 Produk dan perkhidmatan
+
+ISO 9001:2008 menggunakan istilah "produk" bagi merangkumi semua kategori output. Edisi
+Standard Antarabangsa ini menggunakan "produk dan perkhidmatan". Istilah "produk dan
+perkhidmatan" termasuk semua kategori output (perkakasan, perkhidmatan, perisian dan
+bahan diproses).
+
+Kemasukan khusus istilah "perkhidmatan" bermaksud untuk menunjukkan ada perbezaan
+antara produk dengan perkhidmatan dalam pemakaian sesetengah keperluan. Ciri-ciri
+perkhidmatan ialah sekurang-kurangnya sebahagian daripada output dihasilkan pada antara
+muka dengan pelanggan. Ini bermakna, sebagai contoh, bahawa keakuran terhadap
+keperluan tidak semestinya disahkan sebelum hantar serah perkhidmatan.
+
+Dalam kebanyakan hal, produk dan perkhidmatan digunakan bersama-sama. Kebanyakan
+output yang disediakan organisasi kepada pelanggan, atau dibekalkan kepada mereka oleh
+pembekal luar, termasuk kedua-dua produk dan perkhidmatan. Sebagai contoh, produk
+ketara atau tak ketara boleh mempunyai beberapa perkhidmatan yang berkaitan atau sesuatu
+perkhidmatan boleh mempunyai beberapa produk ketara atau tak ketara yang berkaitan.
+
+#### A.3 Memahami keperluan dan jangkaan pihak berkepentingan
+
+Subklausa 4.2 menetapkan keperluan untuk organisasi menentukan pihak berkepentingan
+yang relevan dengan sistem pengurusan kualiti dan keperluan pihak berkepentingan tersebut.
+Walau bagaimanapun, 4.2 tidak membayangkan tambahan keperluan sistem pengurusan
+kualiti di luar skop Standard Antarabangsa ini. Seperti yang dinyatakan dalam skop, Standard
+Antarabangsa ini diguna pakai jika organisasi perlu menunjukkan keupayaannya
+menyediakan secara tekal produk dan perkhidmatan yang memenuhi keperluan pelanggan
+serta keperluan berkanun dan peraturan yang diguna pakai, dan bertujuan untuk
+meningkatkan kepuasan pelanggan.
+
+Dalam Standard Antarabangsa ini, tidak ada keperluan supaya organisasi mengambil kira
+pihak berkepentingan jika telah diputuskan bahawa pihak berkepentingan tersebut tidak
+relevan dengan sistem pengurusan kualitinya. Terpulang kepada organisasi untuk
+memutuskan jika keperluan tertentu pihak berkepentingan yang relevan adalah berkaitan
+dengan sistem pengurusan kualitinya.
+
+#### A.4 Pemikiran berasaskan risiko
+
+Konsep pemikiran berasaskan risiko tersirat dalam edisi terdahulu Standard Antarabangsa
+ini, contohnya melalui keperluan untuk merancang, menyemak semula dan menambah baik.
+Standard Antarabangsa ini menetapkan keperluan bagi organisasi memahami konteksnya
+(lihat 4.1) dan menentukan risiko sebagai asas perancangan (lihat 6.1). Hal ini
+menggambarkan penggunaan pemikiran berasaskan risiko untuk merancang dan
+melaksanakan proses sistem pengurusan kualiti (lihat 4.4) dan membantu dalam menentukan
+tahap maklumat didokumentasikan.
+
+Satu daripada matlamat utama sistem pengurusan kualiti adalah untuk berfungsi sebagai alat
+pencegahan. Oleh itu, Standard Antarabangsa ini tidak mempunyai suatu klausa atau
+subklausa berasingan tentang tindakan pencegahan. Konsep tindakan pencegahan
+dinyatakan melalui penggunaan pemikiran berasaskan risiko dalam merangka keperluan
+sistem pengurusan kualiti.
+
+Pemikiran berasaskan risiko yang diguna pakai dalam Standard Antarabangsa ini
+membolehkan sedikit pengurangan dalam keperluan preskriptif dan penggantiannya dengan
+keperluan berasaskan prestasi. Terdapat keluwesan lebih besar berbanding yang terkandung
+dalam ISO 9001:2008 dalam keperluan untuk proses, maklumat didokumentasikan dan
+tanggungjawab organisasi.
+
+Walaupun 6.1 menetapkan bahawa organisasi hendaklah merancang tindakan bagi
+menyatakan risiko, tidak ada keperluan terhadap kaedah formal untuk pengurusan risiko atau
+proses pengurusan risiko yang didokumentasikan. Organisasi boleh memutuskan sama ada
+atau tidak untuk membangunkan metodologi pengurusan risiko yang lebih luas daripada yang
+diperlukan oleh Standard Antarabangsa ini, contohnya melalui penggunaan panduan atau
+standard lain.
+
+Tidak semua proses sistem pengurusan kualiti mewakili tahap risiko yang sama dari segi
+keupayaan organisasi mencapai matlamatnya, dan kesan ketaktentuan adalah tidak sama
+bagi semua organisasi. Di bawah keperluan 6.1, organisasi bertanggungjawab atas
+penggunaan pemikiran berasaskan risiko dan tindakan yang diambil oleh organisasi untuk
+menyatakan risiko, termasuk sama ada atau tidak untuk mengekalkan maklumat
+didokumentasikan sebagai bukti penentuan risikonya.
+
+#### A.5 Kebolehgunaan
+
+Standard Antarabangsa ini tidak menyebut "tidak dimasukkan" berhubung dengan
+kebolehgunaan keperluannya kepada sistem pengurusan kualiti organisasi. Walau
+bagaimanapun, sesuatu organisasi boleh menyemak semula kebolehgunaan keperluan
+disebabkan oleh saiz atau kerumitan organisasi, model pengurusan yang diterima guna,
+pelbagai aktiviti organisasi dan jenis risiko dan peluang yang dihadapi.
+
+Keperluan untuk kebolehgunaan dinyatakan dalam 4.3, yang menetapkan keadaan yang
+sesuatu organisasi boleh memutuskan bahawa sesuatu keperluan tidak boleh diguna pakai
+untuk mana-mana proses dalam skop sistem pengurusan kualitinya. Organisasi hanya boleh
+memutuskan bahawa sesuatu keperluan itu tidak terpakai jika keputusannya tidak akan
+mengakibatkan kegagalan untuk mencapai keakuran produk dan perkhidmatan.
+
+#### A.6 Maklumat didokumentasikan
+
+Sebagai sebahagian daripada kesejajaran dengan standard sistem pengurusan yang lain,
+klausa umum tentang "maklumat didokumentasikan" telah diterima guna tanpa perubahan
+atau tambahan ketara (lihat 7.5). Jika sesuai, teks lain dalam Standard Antarabangsa ini telah
+disejajarkan dengan keperluannya. Oleh itu, "maklumat didokumentasikan" digunakan untuk
+semua keperluan dokumen.
+
+Jika ISO 9001:2008 menggunakan istilah khusus seperti "dokumen" atau "prosedur
+didokumentasikan", "manual kualiti" atau "rancangan kualiti", edisi Standard Antarabangsa ini
+menetapkan keperluan untuk "menyelenggara maklumat didokumentasikan".
+
+Jika ISO 9001:2008 menggunakan istilah "rekod" bagi menandakan dokumen yang
+diperlukan untuk menyediakan bukti keakuran terhadap keperluan, hal ini kini dinyatakan
+sebagai keperluan untuk "mengekalkan maklumat didokumentasikan". Organisasi
+bertanggungjawab menentukan maklumat didokumentasikan yang perlu dikekalkan, tempoh
+pengekalannya dan media yang akan digunakan untuk mengekalkannya.
+
+Keperluan untuk "menyelenggara" maklumat didokumentasikan tidak menolak kemungkinan
+bahawa organisasi juga mungkin perlu untuk "mengekalkan" maklumat didokumentasikan
+yang sama untuk tujuan tertentu, contohnya menyimpan versinya yang terdahulu.
+
+Jika Standard Antarabangsa ini menyebut "maklumat" dan bukannya "maklumat
+didokumentasikan" (contohnya dalam 4.1: "Organisasi hendaklah memantau dan menyemak
+semula maklumat tentang isu luaran dan dalaman ini"), tidak ada keperluan supaya maklumat
+ini didokumentasikan. Dalam keadaan ini, organisasi boleh memutuskan sama ada atau tidak
+perlu atau wajar menyelenggarakan maklumat didokumentasikan.
+
+#### A.7 Pengetahuan organisasi
+
+Dalam 7.1.6, Standard Antarabangsa ini menyatakan keperluan untuk menentukan dan
+mengurus pengetahuan yang diselenggarakan oleh organisasi, bagi memastikan bahawa
+keakuran produk dan perkhidmatan boleh dicapai.
+
+Keperluan tentang pengetahuan organisasi diperkenalkan bagi maksud:
+
+a) melindungi organisasi daripada kehilangan pengetahuan, contohnya
+
+- melalui pusing ganti kakitangan;
+- kegagalan untuk mendapatkan dan berkongsi maklumat;
+
+b) menggalakkan organisasi memperoleh pengetahuan, contohnya
+
+- belajar daripada pengalaman;
+- pementoran;
+- penandaarasan.
+
+#### A.8 Kawalan proses, produk dan perkhidmatan sediaan luar
+
+Semua bentuk proses, produk dan perkhidmatan sediaan luar dinyatakan dalam 8.4,
+contohnya melalui:
+
+a) pembelian daripada pembekal;
+
+b) perkiraan dengan syarikat bersekutu;
+
+c) penyumberan luar proses kepada penyedia luar.
+
+Penyumberan luar lazimnya mempunyai ciri-ciri penting perkhidmatan, kerana ia mempunyai
+sekurang-kurangnya satu aktiviti yang semestinya dilakukan pada antara muka antara
+penyedia dengan organisasi.
+
+Kawalan yang diperlukan untuk penyediaan luar boleh sangat berbeza bergantung kepada
+keadaan proses, produk dan perkhidmatan. Organisasi boleh mengguna pakai pemikiran
+berasaskan risiko bagi menentukan jenis dan takat kawalan yang sesuai untuk penyedia luar
+dan proses, produk dan perkhidmatan sediaan luar yang tertentu.
+
+### Lampiran B
+
+Standard Antarabangsa lain tentang pengurusan kualiti dan sistem
+
+pengurusan kualiti yang dibangunkan oleh ISO/TC 176
+
+Standard Antarabangsa yang diperihalkan dalam lampiran ini telah dibangunkan oleh
+ISO/TC 176 untuk menyediakan maklumat sokongan kepada organisasi yang menggunakan
+Standard Antarabangsa ini, dan untuk memberi panduan kepada organisasi yang memilih
+untuk maju melampaui keperluannya. Panduan atau keperluan yang terkandung dalam
+dokumen yang tersenarai dalam lampiran ini tidak menambah, atau mengubah suai,
+keperluan Standard Antarabangsa ini.
+
+Jadual B.1 menunjukkan hubungan antara standard berkenaan dengan klausa yang relevan
+dalam Standard Antarabangsa ini.
+
+Lampiran ini tidak termasuk rujukan standard sistem pengurusan kualiti sektor khusus yang
+dibangunkan oleh ISO/TC 176.
+
+Standard Antarabangsa ini adalah satu daripada tiga standard teras yang dibangunkan oleh
+ISO/TC 176.
+
+- ISO 9000 Quality management systems - Fundamentals and vocabulary menyediakan
+    latar belakang yang penting untuk pemahaman dan pelaksanaan yang sesuai bagi
+    Standard Antarabangsa ini. Prinsip pengurusan kualiti diperihalkan secara terperinci
+    dalam ISO 9000 dan telah diambil kira semasa pembangunan Standard Antarabangsa
+    ini. Prinsip ini bukanlah keperluan sebenar, tetapi merupakan asas bagi keperluan yang
+    ditetapkan oleh Standard Antarabangsa ini. ISO 9000 juga menetapkan terma, takrifan
+    dan konsep yang digunakan dalam Standard Antarabangsa ini.
+- ISO 9001 (Standard Antarabangsa ini) menetapkan keperluan yang tujuan utamanya
+    adalah untuk memberi keyakinan terhadap produk dan perkhidmatan yang disediakan
+    oleh sesuatu organisasi dan dengan itu meningkatkan kepuasan pelanggan.
+    Pelaksanaannya yang sesuai juga boleh dijangka akan membawa manfaat lain kepada
+    organisasi, seperti komunikasi dalaman yang bertambah baik, pemahaman dan kawalan
+    proses organisasi yang lebih baik.
+- ISO 9004 Managing for the sustained success of an organization - A quality
+    management approach menyediakan panduan kepada organisasi yang memilih untuk
+    maju melampaui keperluan Standard Antarabangsa ini, bagi menangani topik yang lebih
+    meluas yang boleh membawa kepada penambahbaikan prestasi keseluruhan organisasi.
+    ISO 9004 termasuk panduan tentang metodologi swapenilaian yang membolehkan
+    sesebuah organisasi menilai tahap kematangan sistem pengurusan kualitinya.
+
+Standard Antarabangsa yang digariskan di bawah boleh membantu organisasi apabila
+organisasi mewujudkan atau ingin menambah baik sistem kualiti pengurusan, proses atau
+aktivitinya.
+
+- ISO 10001 Quality management - Customer satisfaction - Guidelines for codes of
+    conduct for organizations menyediakan panduan untuk sesuatu organisasi dalam
+    menentukan bahawa peruntukan kepuasan pelanggannya memenuhi keperluan dan
+    jangkaan pelanggan. Penggunaannya dapat meningkatkan keyakinan pelanggan
+    terhadap sesuatu organisasi dan menambah baik pemahaman pelanggan tentang apa
+    yang diharapkan daripada sesuatu organisasi, dan dengan itu mengurangkan
+    kemungkinan salah faham dan aduan.
+- ISO 10002 Quality management - Customer satisfaction - Guidelines for complaints
+    handling in organizations menyediakan panduan tentang proses pengendalian aduan
+    dengan mengambil kira dan menangani keperluan dan jangkaan pengadu serta
+    menyelesaikan apa-apa aduan yang diterima. ISO 10002 menyediakan proses aduan
+    terbuka, berkesan dan mudah untuk digunakan, termasuk latihan modal insan. Ia juga
+    menyediakan panduan untuk perniagaan kecil.
+- ISO 10003 Quality management - Customer satisfaction - Guidelines for dispute
+    resolution external to organizations menyediakan panduan bagi penyelesaian pertikaian
+    luar yang cekap dan berkesan untuk aduan berkaitan produk. Penyelesaian pertikaian
+    memberikan ruang bagi tebus rugi apabila organisasi tidak membetulkan aduan secara
+    dalaman. Kebanyakan aduan boleh diselesaikan dengan jayanya dalam organisasi,
+    tanpa prosedur bertentangan.
+- ISO 10004 Quality management - Customer satisfaction - Guidelines for monitoring and
+    measuring menyediakan garis panduan bagi tindakan untuk meningkatkan kepuasan
+    pelanggan dan untuk menentukan peluang bagi penambahbaikan produk, proses dan
+    sifat khusus yang dihargai oleh pelanggan. Tindakan sedemikian boleh mengukuhkan
+    kesetiaan pelanggan dan membantu mengekalkan pelanggan.
+- ISO 10005 Quality management systems - Guidelines for quality plans menyediakan
+    panduan bagi mewujudkan dan menggunakan rancangan kualiti sebagai suatu cara
+    untuk menghubungkan keperluan proses, produk, projek atau kontrak, dengan kaedah
+    dan amalan kerja yang menyokong penghasilan produk. Manfaat mewujudkan rancangan
+    kualiti ialah peningkatan keyakinan bahawa keperluan akan dipenuhi, proses berada
+    dalam kawalan dan motivasi yang dapat diberikan kepada mereka yang terlibat.
+- ISO 10006 Quality management systems - Guidelines for quality management in projects
+    terpakai untuk projek kecil mahupun yang besar, mudah mahupun rumit, projek individu
+    mahupun sebahagian daripada portfolio projek. ISO 10006 adalah untuk digunakan oleh
+    kakitangan yang mengurus projek dan sesiapa yang perlu bagi memastikan bahawa
+    organisasi mereka mengguna pakai amalan yang terkandung dalam standard sistem
+    pengurusan kualiti ISO.
+- ISO 10007 Quality management systems - Guidelines for configuration management
+    adalah untuk membantu organisasi yang mengguna pakai pengurusan konfigurasi bagi
+    hala tuju teknikal dan pentadbiran sepanjang kitaran hayat produk. Pengurusan
+    konfigurasi boleh digunakan untuk memenuhi keperluan pengenalpastian dan
+    kebolehkesanan produk yang dinyatakan dalam Standard Antarabangsa ini.
+
+- ISO 10008 Quality management - Customer satisfaction - Guidelines for business-to-
+    consumer electronic commerce transactions memberikan panduan tentang cara
+    organisasi boleh melaksanakan sistem urus niaga perdagangan elektronik perniagaan-
+    ke-pengguna yang berkesan dan cekap (B2C ECT), dan dengan itu menyediakan asas
+    supaya pengguna mempunyai keyakinan yang meningkat terhadap B2C ECT,
+    meningkatkan keupayaan organisasi untuk memuaskan hati pengguna dan membantu
+    mengurangkan aduan dan pertikaian.
+- ISO 10012 Measurement management systems - Requirements for measurement
+    processes and measuring menyediakan panduan bagi pengurusan proses pengukuran
+    dan pengesahan metrologi peralatan pengukuran yang digunakan untuk menyokong dan
+    menunjukkan pematuhan terhadap keperluan metrologi. ISO 10012 menyediakan kriteria
+    pengurusan kualiti untuk sistem pengurusan pengukuran bagi memastikan keperluan
+    metrologi dipenuhi.
+- ISO/TR 10013 Guidelines for quality management system documentation menyediakan
+    garis panduan untuk pembangunan dan penyelenggaraan pendokumenan yang
+    diperlukan untuk sistem pengurusan kualiti. ISO/TR 10013 boleh digunakan untuk
+    mendokumenkan sistem pengurusan selain standard sistem pengurusan kualiti
+    ISO, contohnya sistem pengurusan alam sekitar dan sistem pengurusan keselamatan.
+- ISO 10014 Quality management - Guidelines for realizing financial and economic
+    benefits ditujukan kepada pengurusan atasan. Ia menyediakan garis panduan untuk
+    merealisasikan faedah kewangan dan ekonomi melalui penggunaan prinsip pengurusan
+    kualiti. Ia memudahkan penggunaan prinsip pengurusan dan pemilihan kaedah dan alat
+    yang membolehkan kejayaan mampan sesuatu organisasi.
+- ISO 10015 Quality management - Guidelines for training menyediakan garis panduan
+    untuk membantu organisasi dalam menangani isu yang berkaitan dengan latihan. ISO
+    10015 boleh diguna pakai pada bila-bila masa bimbingan diperlukan untuk mentafsir
+    perkataan "pendidikan" dan "latihan" dalam standard sistem pengurusan kualiti ISO. Apa-
+    apa perkataan "latihan" termasuk semua jenis pendidikan dan latihan.
+- ISO/TR 10017 Guidance on statistical techniques for ISO 9001:2000 memperjelaskan
+    teknik statistik yang bermula seawal perubahan yang dapat dilihat dalam tingkah laku dan
+    hasil proses, walaupun di bawah keadaan kestabilan nyata. Teknik statistik
+    membolehkan penggunaan yang lebih baik terhadap data yang ada untuk membantu
+    dalam membuat keputusan, dan dengan itu membantu untuk terus menambah baik kualiti
+    produk dan proses bagi mencapai kepuasan pelanggan.
+- ISO 10018 Quality management - Guidelines on people involvement and competence
+    menyediakan garis panduan yang mempengaruhi pelibatan modal insan dan
+    kekompetenan. Sistem pengurusan kualiti bergantung kepada pelibatan orang yang
+    kompeten dan cara mereka diperkenalkan dan disepadukan dalam organisasi. Penting
+    untuk menentukan, membangun dan menilai pengetahuan, kemahiran, tingkah laku dan
+    persekitaran kerja yang diperlukan.
+- ISO 10019 Guidelines for the selection of quality management system consultants and
+    use of their services menyediakan panduan tentang pemilihan perunding sistem
+    pengurusan kualiti dan penggunaan perkhidmatan mereka. Ia memberikan panduan
+    tentang proses penilaian kekompetenan perunding sistem pengurusan kualiti dan
+    memberi keyakinan bahawa keperluan dan jangkaan organisasi bagi perkhidmatan
+    perunding akan dipenuhi.
+
+- ISO 19011 Guidelines for auditing management systems menyediakan panduan tentang
+    pengurusan program audit, perancangan dan pengendalian audit sistem pengurusan,
+    serta tentang kekompetenan dan penilaian juruaudit dan pasukan audit. ISO 19011
+    bertujuan untuk diguna pakai oleh juruaudit, organisasi yang melaksanakan sistem
+    pengurusan dan organisasi yang perlu menjalankan audit sistem pengurusan.
+
+### Bibliografi
+
+[1] ISO 9004, Managing for the sustained success of an organization - A quality
+management approach
+
+[2] ISO 10001, Quality management - Customer satisfaction - Guidelines for codes of
+conduct for organizations
+
+[3] ISO 10002, Quality management - Customer satisfaction - Guidelines for complaints
+handling in organizations
+
+[4] ISO 10003, Quality management - Customer satisfaction - Guidelines for dispute
+resolution external to organizations
+
+[5] ISO 10004, Quality management - Customer satisfaction - Guidelines for monitoring
+and measuring
+
+[6] ISO 10005, Quality management systems - Guidelines for quality plans
+
+[7] ISO 10006, Quality management systems - Guidelines for quality management in
+projects
+
+[8] ISO 10007, Quality management systems - Guidelines for configuration management
+
+[9] ISO 10008, Quality management - Customer satisfaction - Guidelines for business-to-
+consumer electronic commerce transactions
+
+[10] ISO 10012, Measurement management systems - Requirements for measurement
+processes and measuring equipment
+
+[11] ISO/TR 10013, Guidelines for quality management system documentation
+
+[12] ISO 10014, Quality management - Guidelines for realizing financial and economic
+benefits
+
+[13] ISO 10015, Quality management - Guidelines for training
+
+[14] ISO/TR 10017, Guidance on statistical techniques for ISO 9001:2000
+
+[15] ISO 10018, Quality management - Guidelines on people involvement and competence
+
+[16] ISO 10019, Guidelines for the selection of quality management system consultants and
+use of their services
+
+[17] ISO 14001, Environmental management systems - Requirements with guidance for use
+
+[18] ISO 19011, Guidelines for auditing management systems
+
+[19] ISO 31000, Risk management - Principles and guidelines
+
+[20] ISO 37500, Guidance on outsourcing
+
+[21] ISO/IEC 90003, Software engineering - Guidelines for the application of ISO 9001:2008
+to computer software
+
+[22] IEC 60300-1, Dependability management - Part 1: Guidance for management and
+application
+
+[23] IEC 61160, Design review
+
+[24] Quality management principles, ISO1)^1
+
+[25] Selection and use of the ISO 9000 family of standards, ISO1)^
+
+[26] ISO 9001 for Small Businesses - What to do, ISO1)^
+
+[27] Integrated use of management system standards, ISO1)^
+
+[28] [http://www.iso.org/tc176/sc02/public](http://www.iso.org/tc176/sc02/public)
+
+[29] [http://www.iso.org/tc176/ISO9001AuditingPracticesGroup](http://www.iso.org/tc176/ISO9001AuditingPracticesGroup)
+
+(^1) Tersedia dalam tapak sesawang: [http://www.iso.org.](http://www.iso.org.)
+
+### Penghargaan
+
+Ahli Jawatankuasa Teknikal Pengurusan Kualiti dan Penentuan Kualiti (TC2) mengenai
+Sistem Kualiti
+Name Organisation
+
+Encik Parama Iswara (Pengerusi) SIRIM QAS International Sdn Bhd
+
+Puan Nageswary S Iyampillai (Setiausaha) SIRIM Berhad
+
+Dr Loi Kheng Min Dewan Perdagangan dan Industri
+Antarabangsa Malaysia
+
+Datuk Parmjit Singh Gabungan Pembekal-pembekal
+Perkhidmatan Malaysia
+
+Encik Wong Siew Kwan Institut Penyelidikan Sains dan Teknologi
+Pertahanan
+
+Encik Kamarul Ariffin A Karim Institute of Quality Malaysia
+
+Encik Benardos Bingkang Jabatan Standard Malaysia
+
+Encik Chuang Kuang Hong Lembaga Pembangunan Industri
+Pembinaan Malaysia
+
+Encik Mohd Azani Jabar Unit Pemodenan Tadbiran dan
+Perancangan Pengurusan Malaysia
+
+Dr Ahmad Zabidi Abd Razak Universiti Malaya
+
+Prof Dr Rushami Zien Yusoff Universiti Utara Malaysia
+
+Ahli Kumpulan Kerja mengenai Terjemahan MS ISO 9001:20 15
+
+Name Organisation
+
+Prof Dr Rushami Zien Yusoff (Pengerusi) Universiti Utara Malaysia
+
+Puan Farida Rizal Mohamad Farid (Setiausaha) SIRIM Berhad
+
+Encik Md Fadzli Tajuid
+Puan Hendun Ibrahim
+Puan Ana Mohamad Bess
+
+Dewan Bahasa dan Pustaka Malaysia
+
+Cik Che Norhasimah Abd Hamid
+Puan Nik Nadiah Ramiz Yaaziz
+Encik Yusof Cha
+
+Institut Terjemahan & Buku Malaysia
+
+Encik Kamarul Ariffin A Karim Institute of Quality Malaysia
+
+Encik Nik Mohd Syazwan Nik Mohd Zambi Jabatan Standard Malaysia
+
+Encik Mokhzani Aris Mohd Yusof Perbadanan Produktiviti Malaysia
+
+Puan Rohana Saub
+Puan Hanida Ghazali
+
+
+SIRIM QAS International Sdn Bhd
+
+Encik Mohd Azani Jabar
+Encik Magintharan Rengiah
+
+Unit Pemodenan Tadbiran dan
+Perancangan Pengurusan Malaysia
+
+Prof Madya Dr Sany Sanuri Mohd Mokhtar Universiti Utara Malaysia
+
+
+
